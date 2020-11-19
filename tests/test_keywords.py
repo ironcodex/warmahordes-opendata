@@ -1,6 +1,6 @@
-import oslo_i18n
 from tests import base
 
+from warmahordes_opendata import i18n
 from warmahordes_opendata import keywords
 
 
@@ -14,7 +14,12 @@ class TestKeywords(base.TestCase):
         self.assertEqual("Immunity: Fire", self.keyword)
 
     def test_translate_pt_BR(self):
+        self.assertNotEqual(str, type(self.keyword))
         self.assertEqual(
             "Imunidade: Fogo",
-            oslo_i18n.translate(self.keyword, "pt_BR"),
+            i18n.translate(self.keyword, "pt_BR"),
+        )
+        self.assertEqual(
+            "Imunidade: Fogo",
+            i18n.translate("Immunity: Fire", "pt_BR"),
         )
