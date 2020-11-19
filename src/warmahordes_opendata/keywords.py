@@ -109,39 +109,57 @@ class WeaponQuality(_BaseKeyword):
 
 ModelStatistic.SPEED.update(
     keyword=_("SPD, Speed"),
-    description=_("A model's movement rate. A model moves up to its SPD in inches when making a full advance."),
+    description=_(
+        "A model's movement rate. A model moves up to its SPD in inches when making a full advance."
+    ),
 )
 ModelStatistic.STRENGTH.update(
     keyword=_("STR, Strengh"),
-    description=_("A model's physical strength. STR is used to calculate melee damage."),
+    description=_(
+        "A model's physical strength. STR is used to calculate melee damage."
+    ),
 )
 ModelStatistic.MELEE_ATTACK.update(
     keyword=_("MAT, Melee Attack"),
-    description=_("A model's skill with melee weapons such as swords and hammers or with natural weapons like fists and teeth. A model uses its MAT when making melee attack rolls."),
+    description=_(
+        "A model's skill with melee weapons such as swords and hammers or with natural weapons like fists and teeth. A model uses its MAT when making melee attack rolls."
+    ),
 )
 ModelStatistic.RANGED_ATTACK.update(
     keyword=_("RAT, Ranged Attack"),
-    description=_("A model's accuracy with ranged weapons such as guns and crossbows or wiith thrown weapons like spears and knives. A model uses its RAT when making ranged attack rolls."),
+    description=_(
+        "A model's accuracy with ranged weapons such as guns and crossbows or wiith thrown weapons like spears and knives. A model uses its RAT when making ranged attack rolls."
+    ),
 )
 ModelStatistic.DEFENSE.update(
     keyword=_("DEF, Defense"),
-    description=_("A model's ability to avoid being hit by an attack. A model's size, quickness, skill, and even magical protection all contribute to its DEF. An attack roll must be equal to or greater than the target model's DEF to score a hit against it."),
+    description=_(
+        "A model's ability to avoid being hit by an attack. A model's size, quickness, skill, and even magical protection all contribute to its DEF. An attack roll must be equal to or greater than the target model's DEF to score a hit against it."
+    ),
 )
 ModelStatistic.ARMOR.update(
     keyword=_("ARM, Armor"),
-    description=_("A model's ability to resist being damaged. This resistance can come from natural resilience, worn armor, or even magical benefits. A model takes 1 damage point for every point by which a damage roll exceeds its ARM."),
+    description=_(
+        "A model's ability to resist being damaged. This resistance can come from natural resilience, worn armor, or even magical benefits. A model takes 1 damage point for every point by which a damage roll exceeds its ARM."
+    ),
 )
 ModelStatistic.COMMAND.update(
     keyword=_("CMD, Command"),
-    description=_("Every model with a CMD stat has a command range equal to its CMD in inches. A model is always completely within its own command range. Models in a unit that are in their unit commander's command range are considered to be in formation."),
+    description=_(
+        "Every model with a CMD stat has a command range equal to its CMD in inches. A model is always completely within its own command range. Models in a unit that are in their unit commander's command range are considered to be in formation."
+    ),
 )
 ModelStatistic.FOCUS.update(
     keyword=_("Focus"),
-    description=_("A measure of a model's arcane power. Only models with the Focus Manipulation special rule, such as warcasters, have a FOCUS stat. Focus determines a model's control range and beginning focus points. A model uses its FOCUS when making magic attack rolls."),
+    description=_(
+        "A measure of a model's arcane power. Only models with the Focus Manipulation special rule, such as warcasters, have a FOCUS stat. Focus determines a model's control range and beginning focus points. A model uses its FOCUS when making magic attack rolls."
+    ),
 )
 ModelStatistic.FURY.update(
     keyword=_("Fury"),
-    description=_("Like FOCUS, FURY is a measure of model's primal arcane power. For warbeasts, FURY indicates how much the beast can be forced. When warbeasts are forced to perform certain actions, they generate fury. Models with the Fury Manipulation ability, such as warlocks, draw on tha tfury to enhance their own abilities. FURY determines a model's control range and beginning fury points, and the model uses its FURY when making magic attack rolls."),
+    description=_(
+        "Like FOCUS, FURY is a measure of model's primal arcane power. For warbeasts, FURY indicates how much the beast can be forced. When warbeasts are forced to perform certain actions, they generate fury. Models with the Fury Manipulation ability, such as warlocks, draw on tha tfury to enhance their own abilities. FURY determines a model's control range and beginning fury points, and the model uses its FURY when making magic attack rolls."
+    ),
 )
 ModelStatistic.THRESHOLD.update(
     keyword=_("THR, Threshold"),
@@ -152,17 +170,23 @@ ModelStatistic.THRESHOLD.update(
 
 Advantage.ADVANCED_DEPLOYMENT.update(
     keyword=_("Advance Deployment"),
-    description=_("This model can be placed after normal deployment, up to 6\" beyond the established deployment zone."),
+    description=_(
+        'This model can be placed after normal deployment, up to 6" beyond the established deployment zone.'
+    ),
 )
 
 Advantage.AMPHIBIOUS.update(
     keyword=_("Amphibious"),
-    description=_("This model treats shallow water as open terrain while advancing. While completely in shallow water, this model gains concealment and does not block line of sight."),
+    description=_(
+        "This model treats shallow water as open terrain while advancing. While completely in shallow water, this model gains concealment and does not block line of sight."
+    ),
 )
 
 Advantage.ARC_NODE.update(
     keyword=_("Arc Node"),
-    description=_("This warjack is a channeler equipped with an arc node and can act as a conduit for spells cast by its warcaster."),
+    description=_(
+        "This warjack is a channeler equipped with an arc node and can act as a conduit for spells cast by its warcaster."
+    ),
 )
 
 Advantage.ASSAULT.update(
@@ -177,12 +201,16 @@ Advantage.CAVALRY.update(
 
 Advantage.COMBINED_MELEE_ATTACK.update(
     keyword=_("Combined Melee Attack"),
-    description=_("This model can participate in combined melee attacks with other models in its unit."),
+    description=_(
+        "This model can participate in combined melee attacks with other models in its unit."
+    ),
 )
 
 Advantage.COMBINED_RANGED_ATTACK.update(
     keyword=_("Combined Ranged Attack"),
-    description=_("This model can participate in combined ranged attacks with other models in its unit."),
+    description=_(
+        "This model can participate in combined ranged attacks with other models in its unit."
+    ),
 )
 
 Advantage.CONSTRUCT.update(
@@ -192,12 +220,16 @@ Advantage.CONSTRUCT.update(
 
 Advantage.EYELESS_SIGHT.update(
     keyword=_("Eyeless Sight"),
-    description=_("This model ignores cloud effects when determining line of sight. This model ignores concealment and Stealth and never suffers Blind."),
+    description=_(
+        "This model ignores cloud effects when determining line of sight. This model ignores concealment and Stealth and never suffers Blind."
+    ),
 )
 
 Advantage.FLIGHT.update(
     keyword=_("Flight"),
-    description=_("This model treats all non-impassable terrain as open terrain while advancing. It can advance through obstructions and other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. This model ignores intervening models when declaring its charge target. While knocked down or stationary, this model loses Flight."),
+    description=_(
+        "This model treats all non-impassable terrain as open terrain while advancing. It can advance through obstructions and other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. This model ignores intervening models when declaring its charge target. While knocked down or stationary, this model loses Flight."
+    ),
 )
 
 Advantage.GUNFIGHTER.update(
@@ -207,7 +239,9 @@ Advantage.GUNFIGHTER.update(
 
 Advantage.INCORPOREAL.update(
     keyword=_("Incorporeal"),
-    description=_("This model treats all non-impassable terrain as open terrain while advancing. It can move through obstructions and through other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. Other models, including slammed, pushed, or thrown models, can move through this model without effect if they have enough movement to move completely past it. This model does not count as an intervening model. This model is immune to continuous effects and non-magical damage. This model cannot be moved by a push, slam, or throw. When this model makes a melee or ranged attack, before the attack roll is made it loses Incorporeal until the start of its next activation. This model cannot make free strikes while Incorporeal."),
+    description=_(
+        "This model treats all non-impassable terrain as open terrain while advancing. It can move through obstructions and through other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. Other models, including slammed, pushed, or thrown models, can move through this model without effect if they have enough movement to move completely past it. This model does not count as an intervening model. This model is immune to continuous effects and non-magical damage. This model cannot be moved by a push, slam, or throw. When this model makes a melee or ranged attack, before the attack roll is made it loses Incorporeal until the start of its next activation. This model cannot make free strikes while Incorporeal."
+    ),
 )
 
 Advantage.JACK_MARSHAL.update(
@@ -227,22 +261,30 @@ Advantage.PARRY.update(
 
 Advantage.PATHFINDER.update(
     keyword=_("Pathfinder"),
-    description=_("This model treats rough terrain as open terrain while advancing. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle."),
+    description=_(
+        "This model treats rough terrain as open terrain while advancing. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle."
+    ),
 )
 
 Advantage.SOULLESS.update(
     keyword=_("Soulless"),
-    description=_("This living model does not generate a soul token when it is destroyed."),
+    description=_(
+        "This living model does not generate a soul token when it is destroyed."
+    ),
 )
 
 Advantage.STEALTH.update(
     keyword=_("Stealth"),
-    description=_("Ranged and magic attacks targeting this model from a point of origin greater than 5\" away automatically miss. This model is not an intervening model when determining line of sight from a model more than 5\" away."),
+    description=_(
+        'Ranged and magic attacks targeting this model from a point of origin greater than 5" away automatically miss. This model is not an intervening model when determining line of sight from a model more than 5" away.'
+    ),
 )
 
 Advantage.TOUGH.update(
     keyword=_("Tough"),
-    description=_("When this model is disabled, roll a d6. On a 5 or 6, remove 1 damage point from this model; it is no longer disabled and becomes knocked down. While knocked down, this model loses Tough."),
+    description=_(
+        "When this model is disabled, roll a d6. On a 5 or 6, remove 1 damage point from this model; it is no longer disabled and becomes knocked down. While knocked down, this model loses Tough."
+    ),
 )
 
 Advantage.UNDEAD.update(
@@ -292,32 +334,44 @@ Immunity.FIRE.update(
 
 WeaponStatistic.RANGE.update(
     keyword=_("RNG, Range"),
-    description=_("The maximum distance in inches between the attack's point of origin and the target before the attack will automatically miss. Measure range from the edge of the point of origin's base nearest to the target, up to the maximum range of the attack. Spray attacks use special range descriptors beginning with \"SP\". A RNG of \"CTRL\" indicates the weapon can target any model in the attacking model's control range. Remember, the attacking model needs line of sight to a model to target it. A RNG of \"*\" indicates the model's special rules contain information about determining the RNG. Some special rules can affect a weapon's range. If a weapon's RNG is reduced to 0 or less by some effect, the weapon cannot be used to make attacks."),
+    description=_(
+        "The maximum distance in inches between the attack's point of origin and the target before the attack will automatically miss. Measure range from the edge of the point of origin's base nearest to the target, up to the maximum range of the attack. Spray attacks use special range descriptors beginning with \"SP\". A RNG of \"CTRL\" indicates the weapon can target any model in the attacking model's control range. Remember, the attacking model needs line of sight to a model to target it. A RNG of \"*\" indicates the model's special rules contain information about determining the RNG. Some special rules can affect a weapon's range. If a weapon's RNG is reduced to 0 or less by some effect, the weapon cannot be used to make attacks."
+    ),
 )
 
 WeaponStatistic.RATE_OF_FIRE.update(
     keyword=_("ROF, Rate of Fire"),
-    description=_("The number of initial attacks a model can make with this ranged weapon during its activation."),
+    description=_(
+        "The number of initial attacks a model can make with this ranged weapon during its activation."
+    ),
 )
 
 WeaponStatistic.AREA_OF_EFFECT.update(
     keyword=_("AOE, Area of Effect"),
-    description=_("The diameter in inches of the template an area-of-effect (AOE) weapon uses for determining which models are hit by the attack. When using an AOE weapon, center the template on the determined point of impact. All models within the template are affected and potentially suffer the attack's damage and effects. (See p. 51 for detailed rules on AOE attacks."),
+    description=_(
+        "The diameter in inches of the template an area-of-effect (AOE) weapon uses for determining which models are hit by the attack. When using an AOE weapon, center the template on the determined point of impact. All models within the template are affected and potentially suffer the attack's damage and effects. (See p. 51 for detailed rules on AOE attacks."
+    ),
 )
 
 WeaponStatistic.POWER.update(
     keyword=_("POW, Power"),
-    description=_("The value used when making damage rolls. A weapon or attack marked with a POW of \"—\" does not cause damage. Some special rules can affect a weapon's POW. A weapon's POW can never be reduced to less than 0."),
+    description=_(
+        "The value used when making damage rolls. A weapon or attack marked with a POW of \"—\" does not cause damage. Some special rules can affect a weapon's POW. A weapon's POW can never be reduced to less than 0."
+    ),
 )
 
 WeaponStatistic.POWER_PLUS_STRENGTH.update(
     keyword=_("P+S, Power plus Strength"),
-    description=_("The P+S value provides the sum of the model's base STR and the melee weapon's POW for quick reference."),
+    description=_(
+        "The P+S value provides the sum of the model's base STR and the melee weapon's POW for quick reference."
+    ),
 )
 
 WeaponStatistic.LOCATION.update(
     keyword=_("L/R/H/S, Location"),
-    description=_("The weapon stat bars of warjacks and huge-based models indicate where their weapons are located: left arm (L), right arm (R), head (H), or superstructure (S). When all of a warjack's system boxes for a location have been damaged, that system is crippled. A weapon that is not in one of these locations is marked with \"—.\""),
+    description=_(
+        'The weapon stat bars of warjacks and huge-based models indicate where their weapons are located: left arm (L), right arm (R), head (H), or superstructure (S). When all of a warjack\'s system boxes for a location have been damaged, that system is crippled. A weapon that is not in one of these locations is marked with "—."'
+    ),
 )
 
 # Weapon Qualities
