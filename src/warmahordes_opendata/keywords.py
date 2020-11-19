@@ -2,7 +2,7 @@
 import enum
 import string
 
-from warmahordes_opendata._i18n import _
+from warmahordes_opendata.i18n import _
 
 
 class _BaseKeyword(enum.Flag):
