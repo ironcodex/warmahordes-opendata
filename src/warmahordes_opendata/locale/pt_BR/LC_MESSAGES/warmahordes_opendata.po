@@ -1,507 +1,465 @@
-# Portuguese (Brazil) translations for PROJECT.
-# Copyright (C) 2020 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-19 11:43+0100\n"
-"PO-Revision-Date: 2020-11-18 20:59+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: pt_BR\n"
-"Language-Team: pt_BR <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: WarmaHordes Opendata\n"
+"Language: pt-br\n"
 
+#: 
 msgid "SPD, Speed"
-msgstr ""
+msgstr "SPD, Velocidade"
 
-msgid ""
-"A model's movement rate. A model moves up to its SPD in inches when "
-"making a full advance."
-msgstr ""
+#: 
+msgid "A model's movement rate. A model moves up to its SPD in inches when making a full advance."
+msgstr "Taxa de movimento de um modelo. Um modelo se move até sua SPD em polegadas ao fazer um avanço completo."
 
+#: 
 msgid "STR, Strengh"
-msgstr ""
+msgstr "STR, Força"
 
+#: 
 msgid "A model's physical strength. STR is used to calculate melee damage."
-msgstr ""
+msgstr "A força física de um modelo. STR é usada para calcular o dano corpo a corpo."
 
+#: 
 msgid "MAT, Melee Attack"
-msgstr ""
+msgstr "MAT, Ataque Corpo a Corpo"
 
-msgid ""
-"A model's skill with melee weapons such as swords and hammers or with "
-"natural weapons like fists and teeth. A model uses its MAT when making "
-"melee attack rolls."
-msgstr ""
+#: 
+msgid "A model's skill with melee weapons such as swords and hammers or with natural weapons like fists and teeth. A model uses its MAT when making melee attack rolls."
+msgstr "Habilidade de um modelo com armas brancas como espadas e martelos ou com armas naturais como punhos e dentes. Um modelo usa seu MAT ao fazer jogadas de ataque corpo a corpo."
 
+#: 
 msgid "RAT, Ranged Attack"
-msgstr ""
+msgstr "RAT, Ataque à Distância"
 
-msgid ""
-"A model's accuracy with ranged weapons such as guns and crossbows or "
-"wiith thrown weapons like spears and knives. A model uses its RAT when "
-"making ranged attack rolls."
-msgstr ""
+#: 
+msgid "A model's accuracy with ranged weapons such as guns and crossbows or wiith thrown weapons like spears and knives. A model uses its RAT when making ranged attack rolls."
+msgstr "A precisão de um modelo com armas de longo alcance, como revólveres e bestas, ou com armas de arremesso, como lanças e facas. Um modelo usa seu RAT ao fazer jogadas de ataque à distância."
 
+#: 
 msgid "DEF, Defense"
-msgstr ""
+msgstr "DEF, Defesa"
 
-msgid ""
-"A model's ability to avoid being hit by an attack. A model's size, "
-"quickness, skill, and even magical protection all contribute to its DEF. "
-"An attack roll must be equal to or greater than the target model's DEF to"
-" score a hit against it."
-msgstr ""
+#: 
+msgid "A model's ability to avoid being hit by an attack. A model's size, quickness, skill, and even magical protection all contribute to its DEF. An attack roll must be equal to or greater than the target model's DEF to score a hit against it."
+msgstr "A capacidade de um modelo de evitar ser atingido por um ataque. O tamanho, rapidez, habilidade e até mesmo proteção mágica de um modelo contribuem para sua DEF. Uma jogada de ataque deve ser igual ou maior que a DEF do modelo alvo para atingi-lo."
 
+#: 
 msgid "ARM, Armor"
-msgstr ""
+msgstr "ARM, Armadura"
 
-msgid ""
-"A model's ability to resist being damaged. This resistance can come from "
-"natural resilience, worn armor, or even magical benefits. A model takes 1"
-" damage point for every point by which a damage roll exceeds its ARM."
-msgstr ""
+#: 
+msgid "A model's ability to resist being damaged. This resistance can come from natural resilience, worn armor, or even magical benefits. A model takes 1 damage point for every point by which a damage roll exceeds its ARM."
+msgstr "A capacidade de um modelo de resistir a danos. Essa resistência pode vir de resiliência natural, armadura usada ou até mesmo de benefícios mágicos. Um modelo sofre 1 ponto de dano para cada ponto em que uma jogada de dano excede sua ARM."
 
+#: 
 msgid "CMD, Command"
-msgstr ""
+msgstr "CMD, Comando"
 
-msgid ""
-"Every model with a CMD stat has a command range equal to its CMD in "
-"inches. A model is always completely within its own command range. Models"
-" in a unit that are in their unit commander's command range are "
-"considered to be in formation."
-msgstr ""
+#: 
+msgid "Every model with a CMD stat has a command range equal to its CMD in inches. A model is always completely within its own command range. Models in a unit that are in their unit commander's command range are considered to be in formation."
+msgstr "Cada modelo com um atributo de CMD tem um alcance de comando igual ao seu CMD em polegadas. Um modelo está sempre completamente dentro de sua própria área de comando. Os modelos em uma unidade que estão na área de comando do comandante da unidade são considerados em formação."
 
+#: 
 msgid "Focus"
-msgstr ""
+msgstr "FOCUS, Foco"
 
-msgid ""
-"A measure of a model's arcane power. Only models with the Focus "
-"Manipulation special rule, such as warcasters, have a FOCUS stat. Focus "
-"determines a model's control range and beginning focus points. A model "
-"uses its FOCUS when making magic attack rolls."
-msgstr ""
+#: 
+msgid "A measure of a model's arcane power. Only models with the Focus Manipulation special rule, such as warcasters, have a FOCUS stat. Focus determines a model's control range and beginning focus points. A model uses its FOCUS when making magic attack rolls."
+msgstr "Uma medida do poder arcano de um modelo. Somente os modelos com a regra especial Manipulação de Foco, como warcasters, têm um atributo  de FOCUS. O foco determina a área de controle de um modelo e os pontos de foco iniciais. Um modelo usa seu FOCUS ao fazer jogadas de ataque mágico."
 
+#: 
 msgid "Fury"
-msgstr ""
+msgstr "FURY, Fúria"
 
-msgid ""
-"Like FOCUS, FURY is a measure of model's primal arcane power. For "
-"warbeasts, FURY indicates how much the beast can be forced. When "
-"warbeasts are forced to perform certain actions, they generate fury. "
-"Models with the Fury Manipulation ability, such as warlocks, draw on tha "
-"tfury to enhance their own abilities. FURY determines a model's control "
-"range and beginning fury points, and the model uses its FURY when making "
-"magic attack rolls."
-msgstr ""
+#: 
+msgid "Like FOCUS, FURY is a measure of model's primal arcane power. For warbeasts, FURY indicates how much the beast can be forced. When warbeasts are forced to perform certain actions, they generate fury. Models with the Fury Manipulation ability, such as warlocks, draw on tha tfury to enhance their own abilities. FURY determines a model's control range and beginning fury points, and the model uses its FURY when making magic attack rolls."
+msgstr "Como o FOCUS, o FURY é uma medida do poder arcano primordial do modelo. Para feras, FURY indica o quanto a fera pode ser forçada. Quando bestas de guerra são forçadas a realizar certas ações, elas geram fúria. Modelos com a habilidade de Manipulação de Fúria, como feiticeiros, usam a fúria para aprimorar suas próprias habilidades. FURY determina o alcance de controle de um modelo e os pontos de fúria iniciais, e o modelo usa seu FURY ao fazer jogadas de ataque mágico."
 
+#: 
 msgid "THR, Threshold"
-msgstr ""
+msgstr "THR, Limiar"
 
+#: 
 msgid "A measure of a warbeast's ability to resist frenzy."
-msgstr ""
+msgstr "Uma medida da capacidade de uma besta de guerra de resistir ao frenesi."
 
+#: 
 msgid "Advance Deployment"
-msgstr ""
+msgstr "Implantação Avançada"
 
-msgid ""
-"This model can be placed after normal deployment, up to 6\" beyond the "
-"established deployment zone."
-msgstr ""
+#: 
+msgid "This model can be placed after normal deployment, up to 6\" beyond the established deployment zone."
+msgstr "Este modelo pode ser colocado após a implantação normal, até 6 \"além da zona de implantação estabelecida."
 
+#: 
 msgid "Amphibious"
-msgstr ""
+msgstr "Anfíbio"
 
-msgid ""
-"This model treats shallow water as open terrain while advancing. While "
-"completely in shallow water, this model gains concealment and does not "
-"block line of sight."
-msgstr ""
+#: 
+msgid "This model treats shallow water as open terrain while advancing. While completely in shallow water, this model gains concealment and does not block line of sight."
+msgstr "Este modelo trata águas rasas como terreno aberto enquanto avança. Embora totalmente em águas rasas, este modelo ganha ocultação e não bloqueia a linha de visão."
 
+#: 
 msgid "Arc Node"
-msgstr ""
+msgstr "Nodo Arco"
 
-msgid ""
-"This warjack is a channeler equipped with an arc node and can act as a "
-"conduit for spells cast by its warcaster."
-msgstr ""
+#: 
+msgid "This warjack is a channeler equipped with an arc node and can act as a conduit for spells cast by its warcaster."
+msgstr "Este warjack é um canalizador equipado com um nó de arco e pode atuar como um conduíte para os feitiços lançados por seu conjurador."
 
+#: 
 msgid "Assault"
-msgstr ""
+msgstr "Assalto"
 
+#: 
 msgid "This model can make an Assault ranged attack."
-msgstr ""
+msgstr "Este modelo pode fazer um ataque de assalto à distância."
 
+#: 
 msgid "Cavalry"
-msgstr ""
+msgstr "Cavalaria"
 
+#: 
 msgid "This model is a cavalry model."
-msgstr ""
+msgstr "Este modelo é um modelo de cavalaria."
 
+#: 
 msgid "Combined Melee Attack"
-msgstr ""
+msgstr "Ataque corpo a corpo combinado"
 
-msgid ""
-"This model can participate in combined melee attacks with other models in"
-" its unit."
-msgstr ""
+#: 
+msgid "This model can participate in combined melee attacks with other models in its unit."
+msgstr "Este modelo pode participar de ataques corpo a corpo combinados com outros modelos em sua unidade."
 
+#: 
 msgid "Combined Ranged Attack"
-msgstr ""
+msgstr "Ataque Combinado à Distância"
 
-msgid ""
-"This model can participate in combined ranged attacks with other models "
-"in its unit."
-msgstr ""
+#: 
+msgid "This model can participate in combined ranged attacks with other models in its unit."
+msgstr "Este modelo pode participar de ataques à distância combinados com outros modelos em sua unidade."
 
+#: 
 msgid "Construct"
-msgstr ""
+msgstr "Construir"
 
+#: 
 msgid "This model is a construct and is not a living model."
-msgstr ""
+msgstr "Este modelo é uma construção e não um modelo vivo."
 
+#: 
 msgid "Eyeless Sight"
-msgstr ""
+msgstr "Visão sem olhos"
 
-msgid ""
-"This model ignores cloud effects when determining line of sight. This "
-"model ignores concealment and Stealth and never suffers Blind."
-msgstr ""
+#: 
+msgid "This model ignores cloud effects when determining line of sight. This model ignores concealment and Stealth and never suffers Blind."
+msgstr "Este modelo ignora os efeitos da nuvem ao determinar a linha de visão. Este modelo ignora ocultação e Furtividade e nunca sofre Cegueira."
 
+#: 
 msgid "Flight"
-msgstr ""
+msgstr "Voar"
 
-msgid ""
-"This model treats all non-impassable terrain as open terrain while "
-"advancing. It can advance through obstructions and other models if it has"
-" enough movement to move completely past them. While charging, slam power"
-" attacking, or trample power attacking, this model does not stop its "
-"movement when it contacts an obstacle, an obstruction, or another model. "
-"This model ignores intervening models when declaring its charge target. "
-"While knocked down or stationary, this model loses Flight."
-msgstr ""
+#: 
+msgid "This model treats all non-impassable terrain as open terrain while advancing. It can advance through obstructions and other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. This model ignores intervening models when declaring its charge target. While knocked down or stationary, this model loses Flight."
+msgstr "Este modelo trata todos os terrenos intransponíveis como terreno aberto enquanto avança. Ele pode avançar através de obstruções e outros modelos se tiver movimento suficiente para passar completamente por eles. Ao carregar, atacar com força ou atropelar o ataque com força, este modelo não para seu movimento quando entra em contato com um obstáculo, uma obstrução ou outro modelo. Este modelo ignora modelos intervenientes ao declarar seu destino de carga. Enquanto derrubado ou estacionário, este modelo perde vôo."
 
+#: 
 msgid "Gunfighter"
-msgstr ""
+msgstr "Pistoleiro"
 
+#: 
 msgid "This model is a gunfighter."
-msgstr ""
+msgstr "Este modelo é um pistoleiro."
 
+#: 
 msgid "Incorporeal"
-msgstr ""
+msgstr "Incorpóreo"
 
-msgid ""
-"This model treats all non-impassable terrain as open terrain while "
-"advancing. It can move through obstructions and through other models if "
-"it has enough movement to move completely past them. While charging, slam"
-" power attacking, or trample power attacking, this model does not stop "
-"its movement when it contacts an obstacle, an obstruction, or another "
-"model. Other models, including slammed, pushed, or thrown models, can "
-"move through this model without effect if they have enough movement to "
-"move completely past it. This model does not count as an intervening "
-"model. This model is immune to continuous effects and non-magical damage."
-" This model cannot be moved by a push, slam, or throw. When this model "
-"makes a melee or ranged attack, before the attack roll is made it loses "
-"Incorporeal until the start of its next activation. This model cannot "
-"make free strikes while Incorporeal."
-msgstr ""
+#: 
+msgid "This model treats all non-impassable terrain as open terrain while advancing. It can move through obstructions and through other models if it has enough movement to move completely past them. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle, an obstruction, or another model. Other models, including slammed, pushed, or thrown models, can move through this model without effect if they have enough movement to move completely past it. This model does not count as an intervening model. This model is immune to continuous effects and non-magical damage. This model cannot be moved by a push, slam, or throw. When this model makes a melee or ranged attack, before the attack roll is made it loses Incorporeal until the start of its next activation. This model cannot make free strikes while Incorporeal."
+msgstr "Este modelo trata todos os terrenos intransponíveis como terreno aberto enquanto avança. Ele pode passar por obstáculos e outros modelos se tiver movimento suficiente para passar completamente por eles. Ao carregar, atacar com força ou atropelar o ataque com força, este modelo não para seu movimento quando entra em contato com um obstáculo, uma obstrução ou outro modelo. Outros modelos, incluindo modelos batidos, empurrados ou lançados, podem se mover por este modelo sem efeito se tiverem movimento suficiente para passar completamente por ele. Este modelo não conta como um modelo intermediário. Este modelo é imune a efeitos contínuos e danos não mágicos. Este modelo não pode ser movido por push, slam ou lançamento. Quando este modelo faz um ataque corpo a corpo ou à distância, antes que a jogada de ataque seja feita, ele perde Incorpóreo até o início de sua próxima ativação. Este modelo não pode dar golpes livres enquanto Incorpóreo."
 
+#: 
 msgid "'Jack Marshal"
-msgstr ""
+msgstr "'Jack Marshal"
 
+#: 
 msgid "This model is a 'jack marshal and can command warjacks."
-msgstr ""
+msgstr "Este modelo é um 'jack marshal e pode comandar macacos de guerra."
 
+#: 
 msgid "Officer"
-msgstr ""
+msgstr "Policial"
 
+#: 
 msgid "This model is an Officer."
-msgstr ""
+msgstr "Este modelo é um oficial."
 
+#: 
 msgid "Parry"
-msgstr ""
+msgstr "desviar-se"
 
+#: 
 msgid "This model cannot be targeted by free strikes."
-msgstr ""
+msgstr "Este modelo não pode ser alvo de ataques grátis."
 
+#: 
 msgid "Pathfinder"
-msgstr ""
+msgstr "Pathfinder"
 
-msgid ""
-"This model treats rough terrain as open terrain while advancing. While "
-"charging, slam power attacking, or trample power attacking, this model "
-"does not stop its movement when it contacts an obstacle."
-msgstr ""
+#: 
+msgid "This model treats rough terrain as open terrain while advancing. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle."
+msgstr "Este modelo trata terrenos acidentados como terrenos abertos enquanto avança. Ao carregar, atacar com força ou atropelar, este modelo não para seu movimento quando entra em contato com um obstáculo."
 
+#: 
 msgid "Soulless"
-msgstr ""
+msgstr "Desumano"
 
+#: 
 msgid "This living model does not generate a soul token when it is destroyed."
-msgstr ""
+msgstr "Este modelo vivo não gera um token de alma quando é destruído."
 
+#: 
 msgid "Stealth"
-msgstr ""
+msgstr "Furtividade"
 
-msgid ""
-"Ranged and magic attacks targeting this model from a point of origin "
-"greater than 5\" away automatically miss. This model is not an "
-"intervening model when determining line of sight from a model more than "
-"5\" away."
-msgstr ""
+#: 
+msgid "Ranged and magic attacks targeting this model from a point of origin greater than 5\" away automatically miss. This model is not an intervening model when determining line of sight from a model more than 5\" away."
+msgstr "Ataques à distância e mágicos direcionados a este modelo de um ponto de origem maior que 5 \"de distância falham automaticamente. Este modelo não é um modelo intermediário ao determinar a linha de visão de um modelo a mais de 5\" de distância."
 
+#: 
 msgid "Tough"
-msgstr ""
+msgstr "Difícil"
 
-msgid ""
-"When this model is disabled, roll a d6. On a 5 or 6, remove 1 damage "
-"point from this model; it is no longer disabled and becomes knocked down."
-" While knocked down, this model loses Tough."
-msgstr ""
+#: 
+msgid "When this model is disabled, roll a d6. On a 5 or 6, remove 1 damage point from this model; it is no longer disabled and becomes knocked down. While knocked down, this model loses Tough."
+msgstr "Quando este modelo estiver desabilitado, role um d6. Em um 5 ou 6, remova 1 ponto de dano deste modelo; ele não é mais desativado e é derrubado. Enquanto derrubado, este modelo perde Resistente."
 
+#: 
 msgid "Undead"
-msgstr ""
+msgstr "Morto-vivo"
 
+#: 
 msgid "This model is an undead model and not a living model."
-msgstr ""
+msgstr "Este modelo é um modelo morto-vivo e não um modelo vivo."
 
+#: 
 msgid "Immunity: Cold"
 msgstr "Imunidade: Gelo"
 
+#: 
 msgid "This model does not suffer cold damage."
 msgstr "Este modelo não sofre dano de gelo."
 
+#: 
 msgid "Immunity: Corrosion"
 msgstr "Imunidade: Corrosão"
 
-msgid ""
-"This model does not suffer corrosion damage and is immune to the "
-"Corrosion continuous effect."
-msgstr ""
-"Este modelo não sofre dano de corrosão e é imune ao efeito contínuo de "
-"corrosão."
+#: 
+msgid "This model does not suffer corrosion damage and is immune to the Corrosion continuous effect."
+msgstr "Este modelo não sofre dano de corrosão e é imune ao efeito contínuo de corrosão."
 
+#: 
 msgid "Immunity: Electricity"
 msgstr "Imunidade: Eletricidade"
 
-msgid ""
-"This model does not suffer electrical damage. Additionally, when "
-"lightning arcs as a result of a special rule, ignore models with "
-"Immunity: Electricity when determining which model the lightning arcs to."
-" Lightning cannot arc from a model with Immunity: Electricity."
-msgstr ""
-"Este modelo não sofre dano de eletricidade. Adicionalmente, quando "
-"resolvendo saltos de um arco elétrico como resultado de uma regra "
-"especial, ignore modelos com Imunidade: Eletricidade ao determinar para "
-"qual modelo o arco saltará. Arcos elétricos não podem saltar de um modelo"
-" com Imunidade: Eletricidade"
+#: 
+msgid "This model does not suffer electrical damage. Additionally, when lightning arcs as a result of a special rule, ignore models with Immunity: Electricity when determining which model the lightning arcs to. Lightning cannot arc from a model with Immunity: Electricity."
+msgstr "Este modelo não sofre dano de eletricidade. Adicionalmente, quando resolvendo saltos de um arco elétrico como resultado de uma regra especial, ignore modelos com Imunidade: Eletricidade ao determinar para qual modelo o arco saltará. Arcos elétricos não podem saltar de um modelo com Imunidade: Eletricidade"
 
+#: 
 msgid "Immunity: Fire"
 msgstr "Imunidade: Fogo"
 
-msgid ""
-"This model does not suffer fire damage and is immune to the Fire "
-"continuous effect."
+#: 
+msgid "This model does not suffer fire damage and is immune to the Fire continuous effect."
 msgstr "Este modelo não sofre dano de fogo e é imune ao efeito contínuo de fogo."
 
+#: 
 msgid "RNG, Range"
-msgstr ""
+msgstr "RNG, Alcance"
 
-msgid ""
-"The maximum distance in inches between the attack's point of origin and "
-"the target before the attack will automatically miss. Measure range from "
-"the edge of the point of origin's base nearest to the target, up to the "
-"maximum range of the attack. Spray attacks use special range descriptors "
-"beginning with \"SP\". A RNG of \"CTRL\" indicates the weapon can target "
-"any model in the attacking model's control range. Remember, the attacking"
-" model needs line of sight to a model to target it. A RNG of \"*\" "
-"indicates the model's special rules contain information about determining"
-" the RNG. Some special rules can affect a weapon's range. If a weapon's "
-"RNG is reduced to 0 or less by some effect, the weapon cannot be used to "
-"make attacks."
-msgstr ""
+#: 
+msgid "The maximum distance in inches between the attack's point of origin and the target before the attack will automatically miss. Measure range from the edge of the point of origin's base nearest to the target, up to the maximum range of the attack. Spray attacks use special range descriptors beginning with \"SP\". A RNG of \"CTRL\" indicates the weapon can target any model in the attacking model's control range. Remember, the attacking model needs line of sight to a model to target it. A RNG of \"*\" indicates the model's special rules contain information about determining the RNG. Some special rules can affect a weapon's range. If a weapon's RNG is reduced to 0 or less by some effect, the weapon cannot be used to make attacks."
+msgstr "A distância máxima em polegadas entre o ponto de origem do ataque e o alvo antes do ataque irá falhar automaticamente. Mede o alcance da borda da base do ponto de origem mais próxima do alvo, até o alcance máximo do ataque. Ataques de spray usam descritores de alcance especiais começando com \"SP\". Um RNG de \"CTRL\" indica que a arma pode ter como alvo qualquer modelo na faixa de controle do modelo de ataque. Lembre-se de que o modelo de ataque precisa de uma linha de visão para que um modelo o tenha como alvo. Um RNG de \"*\" indica que as regras especiais do modelo contêm informações sobre a determinação do RNG. Algumas regras especiais podem afetar o alcance de uma arma. Se o RNG de uma arma for reduzido a 0 ou menos por algum efeito, a arma não pode ser usada para fazer ataques."
 
+#: 
 msgid "ROF, Rate of Fire"
-msgstr ""
+msgstr "ROF, cadência de tiro"
 
-msgid ""
-"The number of initial attacks a model can make with this ranged weapon "
-"during its activation."
-msgstr ""
+#: 
+msgid "The number of initial attacks a model can make with this ranged weapon during its activation."
+msgstr "O número de ataques iniciais que um modelo pode fazer com esta arma de longo alcance durante sua ativação."
 
+#: 
 msgid "AOE, Area of Effect"
-msgstr ""
+msgstr "AOE, área de efeito"
 
-msgid ""
-"The diameter in inches of the template an area-of-effect (AOE) weapon "
-"uses for determining which models are hit by the attack. When using an "
-"AOE weapon, center the template on the determined point of impact. All "
-"models within the template are affected and potentially suffer the "
-"attack's damage and effects. (See p. 51 for detailed rules on AOE "
-"attacks."
-msgstr ""
+#: 
+msgid "The diameter in inches of the template an area-of-effect (AOE) weapon uses for determining which models are hit by the attack. When using an AOE weapon, center the template on the determined point of impact. All models within the template are affected and potentially suffer the attack's damage and effects. (See p. 51 for detailed rules on AOE attacks."
+msgstr "O diâmetro em polegadas do modelo que uma arma de área de efeito (AOE) usa para determinar quais modelos são atingidos pelo ataque. Ao usar uma arma AOE, centralize o modelo no ponto de impacto determinado. Todos os modelos dentro do modelo são afetados e potencialmente sofrem os danos e efeitos do ataque. (Consulte a página 51 para obter regras detalhadas sobre ataques AOE."
 
+#: 
 msgid "POW, Power"
-msgstr ""
+msgstr "POW, Power"
 
-msgid ""
-"The value used when making damage rolls. A weapon or attack marked with a"
-" POW of \"—\" does not cause damage. Some special rules can affect a "
-"weapon's POW. A weapon's POW can never be reduced to less than 0."
-msgstr ""
+#: 
+msgid "The value used when making damage rolls. A weapon or attack marked with a POW of \"—\" does not cause damage. Some special rules can affect a weapon's POW. A weapon's POW can never be reduced to less than 0."
+msgstr "O valor usado ao fazer jogadas de dano. Uma arma ou ataque marcado com um POW \"-\" não causa danos. Algumas regras especiais podem afetar o POW de uma arma. O POW de uma arma nunca pode ser reduzido a menos de 0."
 
+#: 
 msgid "P+S, Power plus Strength"
-msgstr ""
+msgstr "P + S, potência mais força"
 
-msgid ""
-"The P+S value provides the sum of the model's base STR and the melee "
-"weapon's POW for quick reference."
-msgstr ""
+#: 
+msgid "The P+S value provides the sum of the model's base STR and the melee weapon's POW for quick reference."
+msgstr "O valor P + S fornece a soma da FOR base do modelo e o POW da arma corpo a corpo para referência rápida."
 
+#: 
 msgid "L/R/H/S, Location"
-msgstr ""
+msgstr "L / R / H / S, Localização"
 
-msgid ""
-"The weapon stat bars of warjacks and huge-based models indicate where "
-"their weapons are located: left arm (L), right arm (R), head (H), or "
-"superstructure (S). When all of a warjack's system boxes for a location "
-"have been damaged, that system is crippled. A weapon that is not in one "
-"of these locations is marked with \"—.\""
-msgstr ""
+#: 
+msgid "The weapon stat bars of warjacks and huge-based models indicate where their weapons are located: left arm (L), right arm (R), head (H), or superstructure (S). When all of a warjack's system boxes for a location have been damaged, that system is crippled. A weapon that is not in one of these locations is marked with \"—.\""
+msgstr "As barras de estatísticas de armas de macacos de guerra e modelos baseados em enormes indicam onde suas armas estão localizadas: braço esquerdo (L), braço direito (R), cabeça (H) ou superestrutura (S). Quando todas as caixas do sistema de um warjack para um local foram danificadas, o sistema fica paralisado. Uma arma que não está em um desses locais é marcada com \"-\"."
 
+#: 
 msgid "Blessed"
-msgstr ""
+msgstr "Abençoado"
 
-msgid ""
-"Attacks with this weapon ignore bonuses from spells, including animi, "
-"that add to a model's ARM or DEF."
-msgstr ""
+#: 
+msgid "Attacks with this weapon ignore bonuses from spells, including animi, that add to a model's ARM or DEF."
+msgstr "Ataques com esta arma ignoram bônus de feitiços, incluindo animi, que são adicionados ao ARM ou DEF de um modelo."
 
+#: 
 msgid "Buckler"
-msgstr ""
+msgstr "Buckler"
 
-msgid ""
-"This weapon has an integral buckler that gives the model a cumulative +1 "
-"ARM bonus; for example, a model with two of them gains a bonus of +2 ARM."
-" A model does not gain this bonus while the weapon system with the "
-"buckler is crippled or when resolving damage that originates in its back "
-"arc."
-msgstr ""
+#: 
+msgid "This weapon has an integral buckler that gives the model a cumulative +1 ARM bonus; for example, a model with two of them gains a bonus of +2 ARM. A model does not gain this bonus while the weapon system with the buckler is crippled or when resolving damage that originates in its back arc."
+msgstr "Esta arma tem um broquel integral que dá ao modelo um bônus cumulativo de +1 ARM; por exemplo, um modelo com dois deles ganha um bônus de +2 ARM. Um modelo não ganha este bônus enquanto o sistema de armas com o broquel estiver danificado ou ao resolver o dano que se origina em seu arco traseiro."
 
+#: 
 msgid "Chain Weapon"
-msgstr ""
+msgstr "Arma de Corrente"
 
-msgid ""
-"Attacks with this weapon ignore the Buckler and Shield weapon qualities "
-"and Shield Wall."
-msgstr ""
+#: 
+msgid "Attacks with this weapon ignore the Buckler and Shield weapon qualities and Shield Wall."
+msgstr "Ataques com esta arma ignoram as qualidades das armas Buckler e Shield e a Parede de Escudos."
 
+#: 
 msgid "Continuous Effect: Corrosion"
-msgstr ""
+msgstr "Efeito contínuo: corrosão"
 
+#: 
 msgid "A model hit by this attack suffers the Corrosion continuous effect."
-msgstr ""
+msgstr "Um modelo atingido por este ataque sofre o efeito contínuo de Corrosão."
 
+#: 
 msgid "Continuous Effect: Fire"
-msgstr ""
+msgstr "Efeito contínuo: fogo"
 
+#: 
 msgid "A model hit by this attack suffers the Fire continuous effect."
-msgstr ""
+msgstr "Um modelo atingido por este ataque sofre o efeito contínuo de Fogo."
 
+#: 
 msgid "Critical Corrosion"
-msgstr ""
+msgstr "Corrosão Crítica"
 
-msgid ""
-"On a critical hit, the model hit by this attack suffers the Corrosion "
-"continuous effect."
-msgstr ""
+#: 
+msgid "On a critical hit, the model hit by this attack suffers the Corrosion continuous effect."
+msgstr "Em um acerto crítico, o modelo atingido por este ataque sofre o efeito contínuo de corrosão."
 
+#: 
 msgid "Critical Disruption"
-msgstr ""
+msgstr "Perturbação Crítica"
 
-msgid ""
-"On a critical hit on a warjack, the warjack suffers Disruption. A warjack"
-" suffering Disruption loses its focus points and cannot channel spells or"
-" gain focus by any means, including by being allocated focus, for one "
-"round."
-msgstr ""
+#: 
+msgid "On a critical hit on a warjack, the warjack suffers Disruption. A warjack suffering Disruption loses its focus points and cannot channel spells or gain focus by any means, including by being allocated focus, for one round."
+msgstr "Em um acerto crítico em um warjack, o warjack sofre Disrupção. Um warjack que sofra Interrupção perde seus pontos de foco e não pode canalizar magias ou ganhar foco por qualquer meio, incluindo por ter o foco alocado, por uma rodada."
 
+#: 
 msgid "Critical Fire"
-msgstr ""
+msgstr "Fogo Crítico"
 
-msgid ""
-"On a critical hit, the model hit by this attack suffers the Fire "
-"continuous effect."
-msgstr ""
+#: 
+msgid "On a critical hit, the model hit by this attack suffers the Fire continuous effect."
+msgstr "Em um acerto crítico, o modelo atingido por este ataque sofre o efeito contínuo de Fogo."
 
+#: 
 msgid "Damage Type: Cold"
-msgstr ""
+msgstr "Tipo de dano: frio"
 
+#: 
 msgid "This weapon causes cold damage."
-msgstr ""
+msgstr "Esta arma causa dano de frio."
 
+#: 
 msgid "Damage Type: Corrosion"
-msgstr ""
+msgstr "Tipo de dano: corrosão"
 
+#: 
 msgid "This weapon causes corrosion damage."
-msgstr ""
+msgstr "Esta arma causa danos de corrosão."
 
+#: 
 msgid "Damage Type: Electricity"
-msgstr ""
+msgstr "Tipo de dano: eletricidade"
 
+#: 
 msgid "This weapon causes electrical damage."
-msgstr ""
+msgstr "Esta arma causa danos elétricos."
 
+#: 
 msgid "Damage Type: Fire"
-msgstr ""
+msgstr "Tipo de dano: fogo"
 
+#: 
 msgid "This weapon causes fire damage."
-msgstr ""
+msgstr "Esta arma causa dano de fogo."
 
+#: 
 msgid "Damage Type: Magical"
-msgstr ""
+msgstr "Tipo de dano: mágico"
 
+#: 
 msgid "This weapon causes magical damage."
-msgstr ""
+msgstr "Esta arma causa danos mágicos."
 
+#: 
 msgid "Disruption"
-msgstr ""
+msgstr "Perturbação"
 
-msgid ""
-"A warjack hit by this attack loses its focus points and cannot channel "
-"spells or gain focus by any means, including by being allocated focus, "
-"for one round."
-msgstr ""
+#: 
+msgid "A warjack hit by this attack loses its focus points and cannot channel spells or gain focus by any means, including by being allocated focus, for one round."
+msgstr "Um jaca de guerra atingido por este ataque perde seus pontos de foco e não pode canalizar feitiços ou ganhar foco por nenhum meio, incluindo por ter o foco alocado, por uma rodada."
 
+#: 
 msgid "Open Fist"
-msgstr ""
+msgstr "Punho Aberto"
 
-msgid ""
-"This weapon is an Open Fist. A warjack can use a weapon with an Open Fist"
-" to make some power attacks."
-msgstr ""
+#: 
+msgid "This weapon is an Open Fist. A warjack can use a weapon with an Open Fist to make some power attacks."
+msgstr "Esta arma é um punho aberto. Um warjack pode usar uma arma com o punho aberto para fazer alguns ataques de poder."
 
+#: 
 msgid "Shield"
-msgstr ""
+msgstr "Escudo"
 
-msgid ""
-"This weapon is a shield that gives the model a cumulative +2 ARM bonus; "
-"for example, a model with two of them gains a bonus of +4 ARM. A model "
-"does not gain this bonus while the weapon system with the shield is "
-"crippled or when resolving damage that originates in its back arc."
-msgstr ""
+#: 
+msgid "This weapon is a shield that gives the model a cumulative +2 ARM bonus; for example, a model with two of them gains a bonus of +4 ARM. A model does not gain this bonus while the weapon system with the shield is crippled or when resolving damage that originates in its back arc."
+msgstr "Esta arma é um escudo que dá ao modelo um bônus cumulativo de +2 ARM; por exemplo, um modelo com dois deles ganha um bônus de +4 ARM. Um modelo não ganha esse bônus enquanto o sistema de armas com o escudo estiver danificado ou ao resolver o dano que se origina em seu arco traseiro."
 
+#: 
 msgid "Weapon Master"
-msgstr ""
+msgstr "Mestre das Armas"
 
-msgid ""
-"When attacking with this weapon, add an additional die to its damage "
-"rolls."
-msgstr ""
+#: 
+msgid "When attacking with this weapon, add an additional die to its damage rolls."
+msgstr "Ao atacar com esta arma, adicione um dado adicional às suas jogadas de dano."
 
