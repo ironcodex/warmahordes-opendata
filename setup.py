@@ -18,6 +18,9 @@ setuptools.setup(
     setup_requires=[
         "Babel>=2.9.0",
     ],
+    install_requires=[
+        "oslo.i18n>=5.0.1"
+    ],
     cmdclass={"install": InstallWithCompile},
     package_dir={"": "src"},
     package_data={"": ["locale/*/*/*.mo", "locale/*/*/*.po"]},
