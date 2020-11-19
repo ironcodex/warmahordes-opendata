@@ -150,7 +150,7 @@ ModelStatistic.THRESHOLD.update(
 
 # Advantages
 
-Advantage.ADVANCE_DEPLOYMENT.update(
+Advantage.ADVANCED_DEPLOYMENT.update(
     keyword=_("Advance Deployment"),
     description=_("This model can be placed after normal deployment, up to 6\" beyond the established deployment zone."),
 )
