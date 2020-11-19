@@ -150,13 +150,13 @@ ModelStatistic.COMMAND.update(
     ),
 )
 ModelStatistic.FOCUS.update(
-    keyword=_("Focus"),
+    keyword=_("FOCUS, Focus"),
     description=_(
         "A measure of a model's arcane power. Only models with the Focus Manipulation special rule, such as warcasters, have a FOCUS stat. Focus determines a model's control range and beginning focus points. A model uses its FOCUS when making magic attack rolls."
     ),
 )
 ModelStatistic.FURY.update(
-    keyword=_("Fury"),
+    keyword=_("FURY, Fury"),
     description=_(
         "Like FOCUS, FURY is a measure of model's primal arcane power. For warbeasts, FURY indicates how much the beast can be forced. When warbeasts are forced to perform certain actions, they generate fury. Models with the Fury Manipulation ability, such as warlocks, draw on tha tfury to enhance their own abilities. FURY determines a model's control range and beginning fury points, and the model uses its FURY when making magic attack rolls."
     ),
