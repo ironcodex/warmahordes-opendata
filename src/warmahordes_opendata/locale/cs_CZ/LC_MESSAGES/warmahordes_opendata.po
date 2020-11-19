@@ -1,4 +1,4 @@
-# Portuguese (Brazil) translations for PROJECT.
+# Czech (Czechia) translations for PROJECT.
 # Copyright (C) 2020 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
@@ -8,11 +8,11 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-11-19 10:24+0100\n"
-"PO-Revision-Date: 2020-11-18 20:59+0100\n"
+"PO-Revision-Date: 2020-11-19 10:25+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: pt_BR\n"
-"Language-Team: pt_BR <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language: cs_CZ\n"
+"Language-Team: cs_CZ <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -199,28 +199,28 @@ msgid "This model is an undead model and not a living model."
 msgstr ""
 
 msgid "Immunity: Cold"
-msgstr "Imunidade: Gelo"
+msgstr ""
 
 msgid "This model does not suffer cold damage."
-msgstr "Este modelo não sofre dano de gelo."
+msgstr ""
 
 msgid "Immunity: Corrosion"
-msgstr "Imunidade: Corrosão"
+msgstr ""
 
 msgid "This model does not suffer corrosion damage and is immune to the Corrosion continuous effect."
-msgstr "Este modelo não sofre dano de corrosão e é imune ao efeito contínuo de corrosão."
+msgstr ""
 
 msgid "Immunity: Electricity"
-msgstr "Imunidade: Eletricidade"
+msgstr ""
 
 msgid "This model does not suffer electrical damage. Additionally, when lightning arcs as a result of a special rule, ignore models with Immunity: Electricity when determining which model the lightning arcs to. Lightning cannot arc from a model with Immunity: Electricity."
-msgstr "Este modelo não sofre dano de eletricidade. Adicionalmente, quando resolvendo saltos de um arco elétrico como resultado de uma regra especial, ignore modelos com Imunidade: Eletricidade ao determinar para qual modelo o arco saltará. Arcos elétricos não podem saltar de um modelo com Imunidade: Eletricidade"
+msgstr ""
 
 msgid "Immunity: Fire"
-msgstr "Imunidade: Fogo"
+msgstr ""
 
 msgid "This model does not suffer fire damage and is immune to the Fire continuous effect."
-msgstr "Este modelo não sofre dano de fogo e é imune ao efeito contínuo de fogo."
+msgstr ""
 
 msgid "RNG, Range"
 msgstr ""
