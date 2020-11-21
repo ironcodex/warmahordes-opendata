@@ -5,7 +5,11 @@ WarmaHordes Opendata
     :target: https://travis-ci.com/ironcodex/warmahordes-opendata
     :alt: Build Status
 
-All rules texts are extracted from `WARMACHINE & HORDES: New Rules Digest`__.
+License: Apache License, Version 2.0
+Source: https://github.com/ironcodex/warmahordes-opendata
+Bugs: https://github.com/ironcodex/warmahordes-opendata/issues
+
+All rules texts are extracted or adapted from `WARMACHINE & HORDES: New Rules Digest`__.
 
     Game Rules ©2001–2020 Privateer Press, Inc. All Rights Reserved.
 
