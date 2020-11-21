@@ -15,23 +15,26 @@
 from tests import base
 
 from warmahordes_opendata import i18n
-from warmahordes_opendata import keywords
+from warmahordes_opendata import rules
 
 
-class TestKeywords(base.TestCase):
+class TestTranslation(base.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.keyword = keywords.Immunity.FIRE.keyword
+        self.rule = rules.Immunity.FIRE
 
     def test_keyword(self):
-        self.assertEqual("Immunity: Fire", self.keyword)
+        self.assertEqual("Immunity: Fire", self.rule.keyword)
+
+    def test_pt_BR_is_available(self):
+        self.assertIn("pt_BR", i18n.get_available_languages())
 
     def test_translate_pt_BR(self):
-        self.assertNotEqual(str, type(self.keyword))
+        self.assertNotEqual(str, type(self.rule.keyword))
         self.assertEqual(
             "Imunidade: Fogo",
-            i18n.translate(self.keyword, "pt_BR"),
+            i18n.translate(self.rule.keyword, "pt_BR"),
         )
         self.assertEqual(
             "Imunidade: Fogo",
