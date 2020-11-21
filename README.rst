@@ -6,7 +6,9 @@ WarmaHordes Opendata
     :alt: Build Status
 
 License: Apache License, Version 2.0
+
 Source: https://github.com/ironcodex/warmahordes-opendata
+
 Bugs: https://github.com/ironcodex/warmahordes-opendata/issues
 
 All rules texts are extracted or adapted from `WARMACHINE & HORDES: New Rules Digest`__.
