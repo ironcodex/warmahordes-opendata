@@ -11,6 +11,8 @@ Source: https://github.com/ironcodex/warmahordes-opendata
 
 Bugs: https://github.com/ironcodex/warmahordes-opendata/issues
 
+Translations: https://poeditor.com/join/project?hash=z5j7Tr0xER
+
 All rules texts are extracted or adapted from `WARMACHINE & HORDES: New Rules Digest`__.
 
     Game Rules ©2001–2020 Privateer Press, Inc. All Rights Reserved.
