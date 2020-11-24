@@ -411,7 +411,7 @@ WeaponStat.RATE_OF_FIRE.update(
 WeaponStat.AREA_OF_EFFECT.update(
     keyword=_("AOE, Area of Effect"),
     description=_(
-        "The diameter in inches of the template an area-of-effect (AOE) weapon uses for determining which models are hit by the attack. When using an AOE weapon, center the template on the determined point of impact. All models within the template are affected and potentially suffer the attack's damage and effects. (See p. 51 for detailed rules on AOE attacks."
+        "The diameter in inches of the template an area-of-effect (AOE) weapon uses for determining which models are hit by the attack. When using an AOE weapon, center the template on the determined point of impact. All models within the template are affected and potentially suffer the attack's damage and effects."
     ),
 )
 
