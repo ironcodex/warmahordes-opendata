@@ -1,0 +1,6 @@
+---
+ppid: 4340
+name: Steelhead Mortar Crew
+type: unit
+factions:
+  - mercenaries

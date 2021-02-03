@@ -1,0 +1,6 @@
+---
+ppid: 4151
+name: Combat Alchemists
+type: unit
+factions:
+  - crucible-guard

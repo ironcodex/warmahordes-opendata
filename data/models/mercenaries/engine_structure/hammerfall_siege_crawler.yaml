@@ -1,0 +1,6 @@
+---
+ppid: 2549
+name: Hammerfall Siege Crawler
+type: engine_structure
+factions:
+  - mercenaries

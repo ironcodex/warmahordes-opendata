@@ -1,0 +1,6 @@
+---
+ppid: 4423
+name: Infernal Gate
+type: engine_structure
+factions:
+  - infernals

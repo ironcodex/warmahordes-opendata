@@ -1,0 +1,6 @@
+---
+ppid: 2096
+name: Wraith Engine
+type: engine_structure
+factions:
+  - cryx

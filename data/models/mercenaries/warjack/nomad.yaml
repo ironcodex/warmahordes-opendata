@@ -1,0 +1,6 @@
+---
+ppid: 502
+name: Nomad
+type: warjack
+factions:
+  - mercenaries

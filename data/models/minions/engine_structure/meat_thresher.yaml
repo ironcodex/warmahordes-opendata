@@ -1,0 +1,6 @@
+---
+ppid: 3520
+name: Meat Thresher
+type: engine_structure
+factions:
+  - minions
