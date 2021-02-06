@@ -52,3 +52,58 @@ class MeleeWeaponStats(BaseWeaponStats):
         self.range = rng
         self.power = pow
         self.plus_strength = p_s
+
+
+class Model:
+    def __init__(
+        self,
+        ppid=0,
+        name=None,
+        job=None,
+        keywords=None,
+        factions=None,
+        works_for=None,
+        battlegroup_points=None,
+        point_costs=None,
+        field_allowance=None,
+        attachments=None,
+        scans=0,
+    ):
+        self.ppid = ppid
+        self.name = name
+        self.job = job
+        self.keywords = keywords
+        self.factions = factions
+        self.works_for = works_for
+        self.battlegroup_points = battlegroup_points
+        self.point_costs = point_costs
+        self.field_allowance = field_allowance
+        self.attachments = attachments
+        self.scans = scans
+
+    @classmethod
+    def from_dict(cls, data):
+        return cls(**data)
+
+    def to_dict(self):
+        def strlist(lst):
+            if lst is None:
+                return None
+
+            return [str(i) for i in lst]
+
+        model = dict(
+            ppid=self.ppid,
+            name=self.name,
+            job=self.job,
+            keywords=strlist(self.keywords),
+            factions=strlist(self.factions),
+            works_for=strlist(self.works_for),
+            battlegroup_points=self.point_costs,
+            point_costs=self.point_costs,
+            field_allowance=self.field_allowance,
+            attachments=self.attachments,
+            scans=self.scans,
+        )
+
+        return {k: v for k, v in model.items() if v is not None}
