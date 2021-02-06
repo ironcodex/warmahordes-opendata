@@ -1,6 +1,7 @@
 ---
 ppid: 4142
 name: Aurum Adeptus Syvestro
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1321
 name: Black Dragon Officer & Standard
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

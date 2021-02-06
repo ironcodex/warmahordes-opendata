@@ -1,6 +1,7 @@
 ---
 ppid: 728
 name: Captain Arlan Strangewayes
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

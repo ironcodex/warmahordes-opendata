@@ -1,6 +1,7 @@
 ---
 ppid: 1155
 name: Initiate Tristan Durant
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

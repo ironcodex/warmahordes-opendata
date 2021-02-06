@@ -1,6 +1,7 @@
 ---
 ppid: 1483
 name: Rager
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

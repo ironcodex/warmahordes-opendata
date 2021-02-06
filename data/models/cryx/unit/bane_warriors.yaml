@@ -1,6 +1,7 @@
 ---
 ppid: 1832
 name: Bane Warriors
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

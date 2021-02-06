@@ -1,6 +1,7 @@
 ---
 ppid: 2811
 name: Optifex Directive
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

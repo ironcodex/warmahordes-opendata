@@ -1,6 +1,7 @@
 ---
 ppid: 2868
 name: Blackclad Wayfarer
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

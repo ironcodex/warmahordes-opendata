@@ -1,6 +1,7 @@
 ---
 ppid: 2619
 name: Press Gangers
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 719
 name: Journeyman Warcaster
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

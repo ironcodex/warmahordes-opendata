@@ -1,6 +1,7 @@
 ---
 ppid: 3726
 name: The Wanderer
-type: warlock
+job: warlock
 factions:
-  - grymkin
+- grymkin
+scans: 6

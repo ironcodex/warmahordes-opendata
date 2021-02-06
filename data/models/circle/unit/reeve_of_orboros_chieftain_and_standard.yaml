@@ -1,6 +1,7 @@
 ---
 ppid: 2987
 name: Reeve of Orboros Chieftain & Standard
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

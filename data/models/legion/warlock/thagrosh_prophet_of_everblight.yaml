@@ -1,6 +1,7 @@
 ---
 ppid: 3345
 name: Thagrosh, Prophet of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

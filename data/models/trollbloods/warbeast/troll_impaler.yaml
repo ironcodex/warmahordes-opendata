@@ -1,6 +1,7 @@
 ---
 ppid: 1762
 name: Troll Impaler
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4148
 name: Retaliator
-type: warjack
+job: warjack
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

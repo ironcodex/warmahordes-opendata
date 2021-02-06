@@ -1,6 +1,7 @@
 ---
 ppid: 859
 name: Paingiver Bloodrunners
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

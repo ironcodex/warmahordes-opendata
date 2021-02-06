@@ -1,6 +1,7 @@
 ---
 ppid: 2037
 name: Seether
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

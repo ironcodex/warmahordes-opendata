@@ -1,6 +1,7 @@
 ---
 ppid: 2558
 name: Horgenhold Artillery Corps
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4769
 name: Flubbin
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

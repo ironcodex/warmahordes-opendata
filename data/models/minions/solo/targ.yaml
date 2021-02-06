@@ -1,6 +1,7 @@
 ---
 ppid: 3561
 name: Targ
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

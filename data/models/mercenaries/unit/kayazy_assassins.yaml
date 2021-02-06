@@ -1,6 +1,7 @@
 ---
 ppid: 2567
 name: Kayazy Assassins
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

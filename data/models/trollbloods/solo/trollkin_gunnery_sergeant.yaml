@@ -1,6 +1,7 @@
 ---
 ppid: 5036
 name: Trollkin Gunnery Sergeant
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

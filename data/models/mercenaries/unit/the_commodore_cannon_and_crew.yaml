@@ -1,6 +1,7 @@
 ---
 ppid: 2685
 name: The Commodore Cannon & Crew
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

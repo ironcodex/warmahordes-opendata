@@ -1,6 +1,7 @@
 ---
 ppid: 2818
 name: Prime Axiom
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 4

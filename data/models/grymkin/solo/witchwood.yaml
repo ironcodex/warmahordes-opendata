@@ -1,6 +1,7 @@
 ---
 ppid: 3739
 name: Witchwood
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

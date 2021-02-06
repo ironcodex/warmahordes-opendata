@@ -1,6 +1,7 @@
 ---
 ppid: 2225
 name: Helios
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 4

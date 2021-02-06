@@ -1,6 +1,7 @@
 ---
 ppid: 2158
 name: Arcantrik Force Generator
-type: engine_structure
+job: engine_structure
 factions:
-  - retribution
+- retribution
+scans: 2

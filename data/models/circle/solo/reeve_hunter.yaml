@@ -1,6 +1,7 @@
 ---
 ppid: 2984
 name: Reeve Hunter
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

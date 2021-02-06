@@ -1,6 +1,7 @@
 ---
 ppid: 1995
 name: Pistol Wraith
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

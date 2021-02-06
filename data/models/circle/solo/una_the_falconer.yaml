@@ -1,6 +1,7 @@
 ---
 ppid: 3048
 name: Una the Falconer
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

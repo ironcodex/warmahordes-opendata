@@ -1,6 +1,7 @@
 ---
 ppid: 2424
 name: Cephalyx Agitator
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2738
 name: Assimilator
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

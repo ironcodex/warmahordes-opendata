@@ -1,6 +1,7 @@
 ---
 ppid: 4772
 name: Four Horseymans
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

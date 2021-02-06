@@ -1,6 +1,7 @@
 ---
 ppid: 2729
 name: Wrecker
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

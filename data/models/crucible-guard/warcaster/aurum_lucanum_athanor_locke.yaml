@@ -1,6 +1,7 @@
 ---
 ppid: 4144
 name: Aurum Lucanum Athanor Locke
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

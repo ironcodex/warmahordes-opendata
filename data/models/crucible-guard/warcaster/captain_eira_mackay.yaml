@@ -1,6 +1,7 @@
 ---
 ppid: 4145
 name: Captain Eira Mackay
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

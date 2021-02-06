@@ -1,6 +1,7 @@
 ---
 ppid: 814
 name: Cyclops Brute
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

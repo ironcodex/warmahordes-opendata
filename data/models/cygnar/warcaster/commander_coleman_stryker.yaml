@@ -1,6 +1,7 @@
 ---
 ppid: 343
 name: Commander Coleman Stryker
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 2993
 name: Rip Horn Satyr
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

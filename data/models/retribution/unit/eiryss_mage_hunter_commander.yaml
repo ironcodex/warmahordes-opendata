@@ -1,6 +1,7 @@
 ---
 ppid: 2196
 name: Eiryss, Mage Hunter Commander
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

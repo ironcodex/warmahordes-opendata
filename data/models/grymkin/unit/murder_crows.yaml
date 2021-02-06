@@ -1,6 +1,7 @@
 ---
 ppid: 3681
 name: Murder Crows
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

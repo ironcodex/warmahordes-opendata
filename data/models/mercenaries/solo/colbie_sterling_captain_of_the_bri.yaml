@@ -1,6 +1,7 @@
 ---
 ppid: 2444
 name: Colbie Sterling, Captain of the BRI
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

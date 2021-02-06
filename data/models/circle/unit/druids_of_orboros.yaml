@@ -1,6 +1,7 @@
 ---
 ppid: 2892
 name: Druids of Orboros
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

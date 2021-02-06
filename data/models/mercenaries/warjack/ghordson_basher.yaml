@@ -1,6 +1,7 @@
 ---
 ppid: 2518
 name: Ghordson Basher
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

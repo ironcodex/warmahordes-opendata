@@ -1,6 +1,7 @@
 ---
 ppid: 1324
 name: Black Dragons
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

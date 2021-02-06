@@ -1,6 +1,7 @@
 ---
 ppid: 1070
 name: Exemplar Errant Officer & Standard
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

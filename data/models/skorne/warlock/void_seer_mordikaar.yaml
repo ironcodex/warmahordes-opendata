@@ -1,6 +1,7 @@
 ---
 ppid: 803
 name: Void Seer Mordikaar
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

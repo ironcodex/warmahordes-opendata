@@ -1,6 +1,7 @@
 ---
 ppid: 1911
 name: Goreshade, Lord of Ruin
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 4

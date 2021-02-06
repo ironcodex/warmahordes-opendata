@@ -1,6 +1,7 @@
 ---
 ppid: 2001
 name: Revenant Cannon Crew
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

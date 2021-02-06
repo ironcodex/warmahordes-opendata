@@ -1,6 +1,7 @@
 ---
 ppid: 1436
 name: Kovnik Andrei Malakov
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

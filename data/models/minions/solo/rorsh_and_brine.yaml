@@ -1,6 +1,7 @@
 ---
 ppid: 3539
 name: Rorsh & Brine
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 4

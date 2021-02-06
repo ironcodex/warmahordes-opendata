@@ -1,6 +1,7 @@
 ---
 ppid: 2031
 name: Scavenger
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

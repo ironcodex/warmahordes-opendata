@@ -1,6 +1,7 @@
 ---
 ppid: 3150
 name: Bethayne, Voice of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 6

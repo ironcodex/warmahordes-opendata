@@ -1,6 +1,7 @@
 ---
 ppid: 1666
 name: Janissa Stonetide
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

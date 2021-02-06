@@ -1,6 +1,7 @@
 ---
 ppid: 3890
 name: Kapitan Sofya Skirova
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

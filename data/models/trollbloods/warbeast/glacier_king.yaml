@@ -1,6 +1,7 @@
 ---
 ppid: 1613
 name: Glacier King
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

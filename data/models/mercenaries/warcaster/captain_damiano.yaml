@@ -1,6 +1,7 @@
 ---
 ppid: 2409
 name: Captain Damiano
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

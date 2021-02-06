@@ -1,6 +1,7 @@
 ---
 ppid: 1079
 name: Exemplar Vengers
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

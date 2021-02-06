@@ -1,6 +1,7 @@
 ---
 ppid: 3055
 name: War Wolf
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

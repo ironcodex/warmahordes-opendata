@@ -1,6 +1,7 @@
 ---
 ppid: 2792
 name: Iron Mother Directrix & Exponent Servitors
-type: warcaster
+job: warcaster
 factions:
-  - convergence
+- convergence
+scans: 6

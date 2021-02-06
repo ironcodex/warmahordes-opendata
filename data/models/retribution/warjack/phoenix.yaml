@@ -1,6 +1,7 @@
 ---
 ppid: 2336
 name: Phoenix
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

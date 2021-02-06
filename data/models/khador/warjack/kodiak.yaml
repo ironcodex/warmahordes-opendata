@@ -1,6 +1,7 @@
 ---
 ppid: 517
 name: Kodiak
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

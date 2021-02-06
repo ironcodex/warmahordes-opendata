@@ -1,6 +1,7 @@
 ---
 ppid: 3011
 name: Storm Raptor
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 4

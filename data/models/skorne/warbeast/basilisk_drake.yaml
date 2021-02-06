@@ -1,6 +1,7 @@
 ---
 ppid: 808
 name: Basilisk Drake
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

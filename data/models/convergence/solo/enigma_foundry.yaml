@@ -1,6 +1,7 @@
 ---
 ppid: 2770
 name: Enigma Foundry
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

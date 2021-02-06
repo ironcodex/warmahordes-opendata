@@ -1,6 +1,7 @@
 ---
 ppid: 3412
 name: Boneswarm
-type: warbeast
+job: warbeast
 factions:
-  - minions
+- minions
+scans: 2

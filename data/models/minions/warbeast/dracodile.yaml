@@ -1,6 +1,7 @@
 ---
 ppid: 3819
 name: Dracodile
-type: warbeast
+job: warbeast
 factions:
-  - minions
+- minions
+scans: 4

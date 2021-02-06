@@ -1,6 +1,7 @@
 ---
 ppid: 2467
 name: Drake MacBain
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

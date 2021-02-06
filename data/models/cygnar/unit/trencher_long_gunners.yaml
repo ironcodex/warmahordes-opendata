@@ -1,6 +1,7 @@
 ---
 ppid: 3801
 name: Trencher Long Gunners
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3672
 name: Lantern Man
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

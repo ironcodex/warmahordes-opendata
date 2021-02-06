@@ -1,6 +1,7 @@
 ---
 ppid: 829
 name: Titan Cannoneer
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

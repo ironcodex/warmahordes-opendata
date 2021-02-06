@@ -1,6 +1,7 @@
 ---
 ppid: 2342
 name: Ravyn, the Eternal Light
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

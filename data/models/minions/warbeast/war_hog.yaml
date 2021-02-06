@@ -1,6 +1,7 @@
 ---
 ppid: 3573
 name: War Hog
-type: warbeast
+job: warbeast
 factions:
-  - minions
+- minions
+scans: 2

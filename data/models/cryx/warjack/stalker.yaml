@@ -1,6 +1,7 @@
 ---
 ppid: 2068
 name: Stalker
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

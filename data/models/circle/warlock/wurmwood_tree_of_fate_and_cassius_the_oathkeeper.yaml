@@ -1,6 +1,7 @@
 ---
 ppid: 3096
 name: Wurmwood, Tree of Fate & Cassius the Oathkeeper
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 6

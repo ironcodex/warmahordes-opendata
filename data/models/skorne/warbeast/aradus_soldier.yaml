@@ -1,6 +1,7 @@
 ---
 ppid: 992
 name: Aradus Soldier
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

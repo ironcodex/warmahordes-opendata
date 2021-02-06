@@ -1,6 +1,7 @@
 ---
 ppid: 548
 name: Tyrant Rhadeim
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 4

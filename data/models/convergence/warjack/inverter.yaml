@@ -1,6 +1,7 @@
 ---
 ppid: 2789
 name: Inverter
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

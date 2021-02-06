@@ -1,6 +1,7 @@
 ---
 ppid: 3462
 name: Farrow Slaughterhousers
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

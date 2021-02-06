@@ -1,6 +1,7 @@
 ---
 ppid: 4509
 name: Wolf With No Name
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

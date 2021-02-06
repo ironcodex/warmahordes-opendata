@@ -1,6 +1,7 @@
 ---
 ppid: 1624
 name: Grissel Bloodsong, Fell Caller
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

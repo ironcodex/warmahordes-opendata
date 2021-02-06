@@ -1,6 +1,7 @@
 ---
 ppid: 1885
 name: Deneghra, the Soul Weaver
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 4514
 name: Boss Machorn
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

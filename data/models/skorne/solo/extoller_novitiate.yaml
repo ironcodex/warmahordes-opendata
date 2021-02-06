@@ -1,6 +1,7 @@
 ---
 ppid: 4252
 name: Extoller Novitiate
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1852
 name: Bloat Thrall
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

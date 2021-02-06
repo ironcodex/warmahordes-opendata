@@ -1,6 +1,7 @@
 ---
 ppid: 4480
 name: Hermit of Henge Hold
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

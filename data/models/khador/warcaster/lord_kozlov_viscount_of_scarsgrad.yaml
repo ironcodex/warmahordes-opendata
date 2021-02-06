@@ -1,6 +1,7 @@
 ---
 ppid: 1442
 name: Lord Kozlov, Viscount of Scarsgrad
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

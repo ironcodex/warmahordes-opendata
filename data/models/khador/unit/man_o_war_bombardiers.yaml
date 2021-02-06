@@ -1,6 +1,7 @@
 ---
 ppid: 1453
 name: Man-O-War Bombardiers
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

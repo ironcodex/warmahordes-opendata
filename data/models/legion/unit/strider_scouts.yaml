@@ -1,6 +1,7 @@
 ---
 ppid: 3336
 name: Strider Scouts
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

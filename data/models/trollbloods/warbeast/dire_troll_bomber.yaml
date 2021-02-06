@@ -1,6 +1,7 @@
 ---
 ppid: 1595
 name: Dire Troll Bomber
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

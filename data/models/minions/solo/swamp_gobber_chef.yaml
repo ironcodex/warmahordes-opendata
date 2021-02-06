@@ -1,6 +1,7 @@
 ---
 ppid: 3558
 name: Swamp Gobber Chef
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

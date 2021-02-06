@@ -1,6 +1,7 @@
 ---
 ppid: 1421
 name: Kommander Sorscha
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

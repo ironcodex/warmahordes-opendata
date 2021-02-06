@@ -1,6 +1,7 @@
 ---
 ppid: 2799
 name: Mitigator
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

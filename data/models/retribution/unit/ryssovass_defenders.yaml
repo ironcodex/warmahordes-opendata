@@ -1,6 +1,7 @@
 ---
 ppid: 2347
 name: Ryssovass Defenders
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

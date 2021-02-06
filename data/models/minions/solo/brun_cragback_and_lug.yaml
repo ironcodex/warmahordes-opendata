@@ -1,6 +1,7 @@
 ---
 ppid: 3415
 name: Brun Cragback & Lug
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 4

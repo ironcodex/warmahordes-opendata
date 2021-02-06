@@ -1,6 +1,7 @@
 ---
 ppid: 3206
 name: Blighted Ogrun Warspears
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4476
 name: Eiryss, Fortune Hunter of Ios
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1893
 name: Erebus
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

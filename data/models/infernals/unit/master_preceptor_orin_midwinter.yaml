@@ -1,6 +1,7 @@
 ---
 ppid: 4413
 name: Master Preceptor Orin Midwinter
-type: unit
+job: unit
 factions:
-  - infernals
+- infernals
+scans: 2

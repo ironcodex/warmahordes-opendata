@@ -1,6 +1,7 @@
 ---
 ppid: 4763
 name: Feora the Forsaken
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

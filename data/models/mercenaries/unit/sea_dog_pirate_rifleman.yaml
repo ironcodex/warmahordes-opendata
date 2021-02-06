@@ -1,6 +1,7 @@
 ---
 ppid: 2649
 name: Sea Dog Pirate Rifleman
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

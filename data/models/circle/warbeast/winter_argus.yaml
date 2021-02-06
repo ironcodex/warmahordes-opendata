@@ -1,6 +1,7 @@
 ---
 ppid: 3070
 name: Winter Argus
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

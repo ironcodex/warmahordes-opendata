@@ -1,6 +1,7 @@
 ---
 ppid: 2963
 name: Mohsar the Desertwalker
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 3456
 name: Farrow Commandos
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

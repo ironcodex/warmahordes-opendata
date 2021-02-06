@@ -1,6 +1,7 @@
 ---
 ppid: 3950
 name: Misery Cage
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

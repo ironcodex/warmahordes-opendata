@@ -1,6 +1,7 @@
 ---
 ppid: 635
 name: Lancer
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

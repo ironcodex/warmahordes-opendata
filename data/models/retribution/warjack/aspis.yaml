@@ -1,6 +1,7 @@
 ---
 ppid: 2161
 name: Aspis
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

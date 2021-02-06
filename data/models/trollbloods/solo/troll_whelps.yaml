@@ -1,6 +1,7 @@
 ---
 ppid: 1765
 name: Troll Whelps
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

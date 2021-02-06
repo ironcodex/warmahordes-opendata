@@ -1,6 +1,7 @@
 ---
 ppid: 1249
 name: The High Reclaimer
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

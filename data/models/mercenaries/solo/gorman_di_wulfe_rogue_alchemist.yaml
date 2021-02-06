@@ -1,6 +1,7 @@
 ---
 ppid: 2708
 name: Gorman di Wulfe, Rogue Alchemist
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

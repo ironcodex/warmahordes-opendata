@@ -1,6 +1,7 @@
 ---
 ppid: 5032
 name: Yuri the Hunter
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

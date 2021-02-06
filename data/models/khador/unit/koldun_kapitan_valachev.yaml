@@ -1,6 +1,7 @@
 ---
 ppid: 1390
 name: Koldun Kapitan Valachev
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

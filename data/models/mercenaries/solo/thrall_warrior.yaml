@@ -1,6 +1,7 @@
 ---
 ppid: 2699
 name: Thrall Warrior
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

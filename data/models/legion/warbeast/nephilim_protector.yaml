@@ -1,6 +1,7 @@
 ---
 ppid: 3274
 name: Nephilim Protector
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2439
 name: Cognifex Cyphon
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

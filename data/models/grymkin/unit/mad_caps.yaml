@@ -1,6 +1,7 @@
 ---
 ppid: 3678
 name: Mad Caps
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

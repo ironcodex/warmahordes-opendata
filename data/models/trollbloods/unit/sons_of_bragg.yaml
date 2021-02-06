@@ -1,6 +1,7 @@
 ---
 ppid: 2121
 name: Sons of Bragg
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

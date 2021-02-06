@@ -1,6 +1,7 @@
 ---
 ppid: 1090
 name: Feora, Protector of the Flame
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

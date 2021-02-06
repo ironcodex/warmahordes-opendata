@@ -1,6 +1,7 @@
 ---
 ppid: 1361
 name: Greylord Escort
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

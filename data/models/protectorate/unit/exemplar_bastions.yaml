@@ -1,6 +1,7 @@
 ---
 ppid: 1286
 name: Exemplar Bastions
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

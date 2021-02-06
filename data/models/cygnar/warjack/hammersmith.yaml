@@ -1,6 +1,7 @@
 ---
 ppid: 650
 name: Hammersmith
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

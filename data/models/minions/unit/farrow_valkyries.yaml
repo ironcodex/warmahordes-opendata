@@ -1,6 +1,7 @@
 ---
 ppid: 3896
 name: Farrow Valkyries
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

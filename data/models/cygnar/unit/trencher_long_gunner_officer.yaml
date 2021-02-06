@@ -1,6 +1,7 @@
 ---
 ppid: 3804
 name: Trencher Long Gunner Officer
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

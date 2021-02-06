@@ -1,6 +1,7 @@
 ---
 ppid: 1492
 name: Supreme Kommandant Irusk
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

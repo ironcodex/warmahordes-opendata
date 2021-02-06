@@ -1,6 +1,7 @@
 ---
 ppid: 3657
 name: Frightmare
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

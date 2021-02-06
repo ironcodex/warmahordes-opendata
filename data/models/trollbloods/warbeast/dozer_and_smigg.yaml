@@ -1,6 +1,7 @@
 ---
 ppid: 1601
 name: Dozer & Smigg
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

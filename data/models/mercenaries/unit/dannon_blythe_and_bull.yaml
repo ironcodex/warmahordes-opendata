@@ -1,6 +1,7 @@
 ---
 ppid: 2458
 name: Dannon Blythe & Bull
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

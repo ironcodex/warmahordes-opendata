@@ -1,6 +1,7 @@
 ---
 ppid: 1610
 name: Fennblade Kithkar
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

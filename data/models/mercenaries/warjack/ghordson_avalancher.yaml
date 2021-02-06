@@ -1,6 +1,7 @@
 ---
 ppid: 2515
 name: Ghordson Avalancher
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

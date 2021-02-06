@@ -1,6 +1,7 @@
 ---
 ppid: 1696
 name: Madrak, Great Chieftain
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

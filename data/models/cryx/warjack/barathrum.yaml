@@ -1,6 +1,7 @@
 ---
 ppid: 1840
 name: Barathrum
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

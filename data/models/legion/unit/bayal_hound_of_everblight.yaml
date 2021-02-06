@@ -1,6 +1,7 @@
 ---
 ppid: 3146
 name: Bayal, Hound of Everblight
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

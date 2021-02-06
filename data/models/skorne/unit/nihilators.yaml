@@ -1,6 +1,7 @@
 ---
 ppid: 908
 name: Nihilators
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

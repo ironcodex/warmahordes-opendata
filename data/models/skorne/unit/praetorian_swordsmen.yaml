@@ -1,6 +1,7 @@
 ---
 ppid: 871
 name: Praetorian Swordsmen
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

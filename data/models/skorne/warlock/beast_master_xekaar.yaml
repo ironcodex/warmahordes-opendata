@@ -1,6 +1,7 @@
 ---
 ppid: 1021
 name: Beast Master Xekaar
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

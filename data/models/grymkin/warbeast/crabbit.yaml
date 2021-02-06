@@ -1,6 +1,7 @@
 ---
 ppid: 3648
 name: Crabbit
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 520
 name: High Exemplar Gravus
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 4

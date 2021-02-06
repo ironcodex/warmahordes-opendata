@@ -1,6 +1,7 @@
 ---
 ppid: 1756
 name: Thumper Crew
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2307
 name: Mage Hunter Assassin
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

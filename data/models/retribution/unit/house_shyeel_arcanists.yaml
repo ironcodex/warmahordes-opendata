@@ -1,6 +1,7 @@
 ---
 ppid: 2239
 name: House Shyeel Arcanists
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

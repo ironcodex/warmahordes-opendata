@@ -1,6 +1,7 @@
 ---
 ppid: 1525
 name: Vladimir Tzepesci, the Dark Prince
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

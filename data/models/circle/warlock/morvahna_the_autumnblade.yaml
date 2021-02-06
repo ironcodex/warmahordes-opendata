@@ -1,6 +1,7 @@
 ---
 ppid: 2968
 name: Morvahna the Autumnblade
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 369
 name: Long Gunner Infantry
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

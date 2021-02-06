@@ -1,6 +1,7 @@
 ---
 ppid: 2289
 name: Kaelyssa, the Night's Whisper
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

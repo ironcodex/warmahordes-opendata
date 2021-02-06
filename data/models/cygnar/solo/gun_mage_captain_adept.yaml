@@ -1,6 +1,7 @@
 ---
 ppid: 713
 name: Gun Mage Captain Adept
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

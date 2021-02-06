@@ -1,6 +1,7 @@
 ---
 ppid: 2362
 name: Thyron, Sword of Truth
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

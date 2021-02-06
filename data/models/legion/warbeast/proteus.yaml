@@ -1,6 +1,7 @@
 ---
 ppid: 3283
 name: Proteus
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

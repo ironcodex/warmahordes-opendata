@@ -1,6 +1,7 @@
 ---
 ppid: 4419
 name: The Wretch
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

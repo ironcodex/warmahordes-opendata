@@ -1,6 +1,7 @@
 ---
 ppid: 4028
 name: Man-O-War Siege Chariot
-type: engine_structure
+job: engine_structure
 factions:
-  - khador
+- khador
+scans: 2

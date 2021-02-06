@@ -1,6 +1,7 @@
 ---
 ppid: 3042
 name: Tharn Wolf Rider Champion
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

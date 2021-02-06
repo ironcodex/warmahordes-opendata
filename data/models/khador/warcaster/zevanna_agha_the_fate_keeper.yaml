@@ -1,6 +1,7 @@
 ---
 ppid: 3747
 name: Zevanna Agha, the Fate Keeper
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

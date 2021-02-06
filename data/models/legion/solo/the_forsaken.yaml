@@ -1,6 +1,7 @@
 ---
 ppid: 3355
 name: The Forsaken
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

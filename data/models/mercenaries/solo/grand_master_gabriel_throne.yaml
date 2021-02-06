@@ -1,6 +1,7 @@
 ---
 ppid: 4548
 name: Grand Master Gabriel Throne
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

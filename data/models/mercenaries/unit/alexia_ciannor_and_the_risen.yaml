@@ -1,6 +1,7 @@
 ---
 ppid: 2374
 name: Alexia Ciannor & the Risen
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

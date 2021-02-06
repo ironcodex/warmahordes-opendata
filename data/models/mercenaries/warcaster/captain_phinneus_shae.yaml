@@ -1,6 +1,7 @@
 ---
 ppid: 2414
 name: Captain Phinneus Shae
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

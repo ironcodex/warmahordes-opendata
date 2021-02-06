@@ -1,6 +1,7 @@
 ---
 ppid: 2658
 name: Stannis Brocker
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

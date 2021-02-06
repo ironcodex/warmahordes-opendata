@@ -1,6 +1,7 @@
 ---
 ppid: 3147
 name: Beast Mistress
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

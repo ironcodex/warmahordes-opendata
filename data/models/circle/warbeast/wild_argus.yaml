@@ -1,6 +1,7 @@
 ---
 ppid: 3067
 name: Wild Argus
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

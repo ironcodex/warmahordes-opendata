@@ -1,6 +1,7 @@
 ---
 ppid: 303
 name: Captain Allison Jakes
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

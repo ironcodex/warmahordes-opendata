@@ -1,6 +1,7 @@
 ---
 ppid: 320
 name: Captain Jeremiah Kraye
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 3315
 name: Shredder
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

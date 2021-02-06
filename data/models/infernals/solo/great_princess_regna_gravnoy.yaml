@@ -1,6 +1,7 @@
 ---
 ppid: 4417
 name: Great Princess Regna Gravnoy
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

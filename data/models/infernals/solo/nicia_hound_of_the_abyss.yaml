@@ -1,6 +1,7 @@
 ---
 ppid: 4422
 name: Nicia, Hound of the Abyss
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1200
 name: Redeemer
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

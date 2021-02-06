@@ -1,6 +1,7 @@
 ---
 ppid: 770
 name: Lord Assassin Morghoul
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

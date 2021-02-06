@@ -1,6 +1,7 @@
 ---
 ppid: 2397
 name: Caine's Hellslingers
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 6

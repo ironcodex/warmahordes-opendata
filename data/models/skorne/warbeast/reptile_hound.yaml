@@ -1,6 +1,7 @@
 ---
 ppid: 974
 name: Reptile Hound
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

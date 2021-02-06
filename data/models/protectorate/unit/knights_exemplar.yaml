@@ -1,6 +1,7 @@
 ---
 ppid: 1168
 name: Knights Exemplar
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

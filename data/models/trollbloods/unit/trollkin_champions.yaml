@@ -1,6 +1,7 @@
 ---
 ppid: 1771
 name: Trollkin Champions
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

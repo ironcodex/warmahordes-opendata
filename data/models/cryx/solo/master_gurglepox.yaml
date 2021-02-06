@@ -1,6 +1,7 @@
 ---
 ppid: 4626
 name: Master Gurglepox
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

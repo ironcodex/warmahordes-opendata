@@ -1,6 +1,7 @@
 ---
 ppid: 1835
 name: Bane Witch Agathia
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 4

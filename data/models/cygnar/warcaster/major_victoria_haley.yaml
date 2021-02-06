@@ -1,6 +1,7 @@
 ---
 ppid: 409
 name: Major Victoria Haley
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

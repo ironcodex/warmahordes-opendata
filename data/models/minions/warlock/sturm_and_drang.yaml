@@ -1,6 +1,7 @@
 ---
 ppid: 3550
 name: Sturm & Drang
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

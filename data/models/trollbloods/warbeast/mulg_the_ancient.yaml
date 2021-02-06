@@ -1,6 +1,7 @@
 ---
 ppid: 1706
 name: Mulg the Ancient
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1338
 name: Demolisher
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

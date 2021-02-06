@@ -1,6 +1,7 @@
 ---
 ppid: 1163
 name: Judicator
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 4

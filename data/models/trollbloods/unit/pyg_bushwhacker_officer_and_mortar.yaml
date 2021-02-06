@@ -1,6 +1,7 @@
 ---
 ppid: 1721
 name: Pyg Bushwhacker Officer & Mortar
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

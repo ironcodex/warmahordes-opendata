@@ -1,6 +1,7 @@
 ---
 ppid: 3494
 name: Hutchuk, Ogrun Bounty Hunter
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 966
 name: Mammoth
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 4

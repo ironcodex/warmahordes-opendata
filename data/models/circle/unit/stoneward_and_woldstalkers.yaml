@@ -1,6 +1,7 @@
 ---
 ppid: 3008
 name: Stoneward & Woldstalkers
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

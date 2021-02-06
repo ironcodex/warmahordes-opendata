@@ -1,6 +1,7 @@
 ---
 ppid: 3935
 name: Black Ogrun Ironmongers
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

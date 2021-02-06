@@ -1,6 +1,7 @@
 ---
 ppid: 2625
 name: Raluk Moorclaw, the Ironmonger
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

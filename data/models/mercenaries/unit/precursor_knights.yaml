@@ -1,6 +1,7 @@
 ---
 ppid: 2616
 name: Precursor Knights
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

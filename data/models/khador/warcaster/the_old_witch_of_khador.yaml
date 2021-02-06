@@ -1,6 +1,7 @@
 ---
 ppid: 1497
 name: The Old Witch of Khador
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 6

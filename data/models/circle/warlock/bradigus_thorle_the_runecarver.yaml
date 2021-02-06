@@ -1,6 +1,7 @@
 ---
 ppid: 2872
 name: Bradigus Thorle the Runecarver
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 2333
 name: Nayl
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

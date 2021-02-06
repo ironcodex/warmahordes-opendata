@@ -1,6 +1,7 @@
 ---
 ppid: 641
 name: Thorn
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

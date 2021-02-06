@@ -1,6 +1,7 @@
 ---
 ppid: 2112
 name: Northkin Fire Eaters
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

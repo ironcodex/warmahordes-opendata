@@ -1,6 +1,7 @@
 ---
 ppid: 4288
 name: Clockatrice
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

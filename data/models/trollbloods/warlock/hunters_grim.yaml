@@ -1,6 +1,7 @@
 ---
 ppid: 1659
 name: Hunters Grim
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 6

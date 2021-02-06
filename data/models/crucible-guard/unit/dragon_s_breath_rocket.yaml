@@ -1,6 +1,7 @@
 ---
 ppid: 4159
 name: Dragon's Breath Rocket
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

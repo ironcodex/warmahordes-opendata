@@ -1,6 +1,7 @@
 ---
 ppid: 1439
 name: Kovnik Jozef Grigorovich
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1341
 name: Destroyer
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

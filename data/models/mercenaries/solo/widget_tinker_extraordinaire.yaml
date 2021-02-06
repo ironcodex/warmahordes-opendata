@@ -1,6 +1,7 @@
 ---
 ppid: 4487
 name: Widget, Tinker Extraordinaire
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

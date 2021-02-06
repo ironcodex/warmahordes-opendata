@@ -1,6 +1,7 @@
 ---
 ppid: 3693
 name: Skin & Moans
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

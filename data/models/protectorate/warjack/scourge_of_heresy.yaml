@@ -1,6 +1,7 @@
 ---
 ppid: 1217
 name: Scourge of Heresy
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

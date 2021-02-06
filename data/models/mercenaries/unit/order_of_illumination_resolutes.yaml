@@ -1,6 +1,7 @@
 ---
 ppid: 4657
 name: Order of Illumination Resolutes
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

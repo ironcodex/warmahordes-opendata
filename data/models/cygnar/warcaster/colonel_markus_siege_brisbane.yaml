@@ -1,6 +1,7 @@
 ---
 ppid: 3768
 name: Colonel Markus "Siege" Brisbane
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 6

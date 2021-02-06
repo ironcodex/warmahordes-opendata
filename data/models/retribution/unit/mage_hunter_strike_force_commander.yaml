@@ -1,6 +1,7 @@
 ---
 ppid: 2316
 name: Mage Hunter Strike Force Commander
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

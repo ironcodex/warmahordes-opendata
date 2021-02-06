@@ -1,6 +1,7 @@
 ---
 ppid: 3439
 name: Dr. Arkadius
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

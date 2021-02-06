@@ -1,6 +1,7 @@
 ---
 ppid: 4317
 name: Neigh Slayer War Horse (Command Attachment)
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

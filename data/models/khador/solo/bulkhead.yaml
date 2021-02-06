@@ -1,6 +1,7 @@
 ---
 ppid: 4985
 name: Bulkhead
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

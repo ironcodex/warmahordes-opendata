@@ -1,6 +1,7 @@
 ---
 ppid: 2767
 name: Elimination Servitors
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

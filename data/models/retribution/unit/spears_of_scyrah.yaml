@@ -1,6 +1,7 @@
 ---
 ppid: 2356
 name: Spears of Scyrah
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4150
 name: Vindicator
-type: warjack
+job: warjack
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

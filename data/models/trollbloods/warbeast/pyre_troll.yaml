@@ -1,6 +1,7 @@
 ---
 ppid: 1727
 name: Pyre Troll
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

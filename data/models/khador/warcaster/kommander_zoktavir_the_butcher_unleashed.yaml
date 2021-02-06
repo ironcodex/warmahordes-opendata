@@ -1,6 +1,7 @@
 ---
 ppid: 1426
 name: Kommander Zoktavir, the Butcher Unleashed
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 6

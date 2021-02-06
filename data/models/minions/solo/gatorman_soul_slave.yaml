@@ -1,6 +1,7 @@
 ---
 ppid: 3835
 name: Gatorman Soul Slave
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1548
 name: Winter Guard Infantry
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

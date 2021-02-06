@@ -1,6 +1,7 @@
 ---
 ppid: 3342
 name: Teraph
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

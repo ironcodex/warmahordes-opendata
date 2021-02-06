@@ -1,6 +1,7 @@
 ---
 ppid: 1931
 name: Iron Lich Overseer
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

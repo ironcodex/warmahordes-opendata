@@ -1,6 +1,7 @@
 ---
 ppid: 2377
 name: Alexia, Mistress of the Witchfire
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

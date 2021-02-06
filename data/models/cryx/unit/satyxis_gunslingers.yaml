@@ -1,6 +1,7 @@
 ---
 ppid: 2019
 name: Satyxis Gunslingers
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

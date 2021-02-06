@@ -1,6 +1,7 @@
 ---
 ppid: 629
 name: Grenadier
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2546
 name: Hammerfall High Shield Officer & Standard
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1376
 name: Iron Fang Pikemen Officer & Standard
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

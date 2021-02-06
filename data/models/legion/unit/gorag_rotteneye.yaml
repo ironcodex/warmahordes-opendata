@@ -1,6 +1,7 @@
 ---
 ppid: 3988
 name: Gorag Rotteneye
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

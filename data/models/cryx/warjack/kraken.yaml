@@ -1,6 +1,7 @@
 ---
 ppid: 1934
 name: Kraken
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 4

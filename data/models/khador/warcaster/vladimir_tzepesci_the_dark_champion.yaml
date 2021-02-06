@@ -1,6 +1,7 @@
 ---
 ppid: 1520
 name: Vladimir Tzepesci, the Dark Champion
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

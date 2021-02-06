@@ -1,6 +1,7 @@
 ---
 ppid: 433
 name: Dervish
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

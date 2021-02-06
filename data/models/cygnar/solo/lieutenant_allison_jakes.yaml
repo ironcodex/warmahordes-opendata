@@ -1,6 +1,7 @@
 ---
 ppid: 756
 name: Lieutenant Allison Jakes
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

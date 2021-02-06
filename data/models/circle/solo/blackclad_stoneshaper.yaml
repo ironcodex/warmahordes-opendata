@@ -1,6 +1,7 @@
 ---
 ppid: 2865
 name: Blackclad Stoneshaper
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

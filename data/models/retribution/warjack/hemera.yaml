@@ -1,6 +1,7 @@
 ---
 ppid: 2230
 name: Hemera
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

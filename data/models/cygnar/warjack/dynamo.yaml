@@ -1,6 +1,7 @@
 ---
 ppid: 752
 name: Dynamo
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

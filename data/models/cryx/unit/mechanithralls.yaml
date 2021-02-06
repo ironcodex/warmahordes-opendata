@@ -1,6 +1,7 @@
 ---
 ppid: 1975
 name: Mechanithralls
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

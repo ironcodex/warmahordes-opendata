@@ -1,6 +1,7 @@
 ---
 ppid: 2281
 name: Imperatus
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

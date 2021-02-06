@@ -1,6 +1,7 @@
 ---
 ppid: 1777
 name: Trollkin Fennblades
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

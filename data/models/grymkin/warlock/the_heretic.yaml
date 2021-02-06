@@ -1,6 +1,7 @@
 ---
 ppid: 3712
 name: The Heretic
-type: warlock
+job: warlock
 factions:
-  - grymkin
+- grymkin
+scans: 6

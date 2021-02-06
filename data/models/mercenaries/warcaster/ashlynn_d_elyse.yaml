@@ -1,6 +1,7 @@
 ---
 ppid: 2383
 name: Ashlynn d'Elyse
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1651
 name: Horgle Ironstrike
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

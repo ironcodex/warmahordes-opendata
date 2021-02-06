@@ -1,6 +1,7 @@
 ---
 ppid: 701
 name: Stormblade Infantry Storm Gunner
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

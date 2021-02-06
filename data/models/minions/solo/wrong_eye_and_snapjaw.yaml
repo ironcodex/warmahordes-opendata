@@ -1,6 +1,7 @@
 ---
 ppid: 3576
 name: Wrong Eye & Snapjaw
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 4

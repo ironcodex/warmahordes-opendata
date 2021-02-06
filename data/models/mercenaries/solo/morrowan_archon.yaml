@@ -1,6 +1,7 @@
 ---
 ppid: 4482
 name: Morrowan Archon
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

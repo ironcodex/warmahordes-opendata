@@ -1,6 +1,7 @@
 ---
 ppid: 1592
 name: Dire Troll Blitzer
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

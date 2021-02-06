@@ -1,6 +1,7 @@
 ---
 ppid: 1411
 name: Kommander Oleg Strakhov
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

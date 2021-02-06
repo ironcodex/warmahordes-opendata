@@ -1,6 +1,7 @@
 ---
 ppid: 3791
 name: Patrol Dog
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

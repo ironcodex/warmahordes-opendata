@@ -1,6 +1,7 @@
 ---
 ppid: 2197
 name: Elara, Death's Shadow
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

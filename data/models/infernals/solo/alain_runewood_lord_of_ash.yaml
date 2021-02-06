@@ -1,6 +1,7 @@
 ---
 ppid: 4421
 name: Alain Runewood, Lord of Ash
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

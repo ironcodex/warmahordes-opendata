@@ -1,6 +1,7 @@
 ---
 ppid: 2802
 name: Modulator
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

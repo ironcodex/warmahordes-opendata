@@ -1,6 +1,7 @@
 ---
 ppid: 3811
 name: Exemplar Warder Elias Gade
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

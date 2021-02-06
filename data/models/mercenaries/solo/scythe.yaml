@@ -1,6 +1,7 @@
 ---
 ppid: 4644
 name: Scythe
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

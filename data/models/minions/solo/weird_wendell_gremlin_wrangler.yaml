@@ -1,6 +1,7 @@
 ---
 ppid: 4635
 name: Weird Wendell, Gremlin Wrangler
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

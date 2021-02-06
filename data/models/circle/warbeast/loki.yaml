@@ -1,6 +1,7 @@
 ---
 ppid: 2954
 name: Loki
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

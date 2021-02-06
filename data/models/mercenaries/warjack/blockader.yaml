@@ -1,6 +1,7 @@
 ---
 ppid: 4437
 name: Blockader
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

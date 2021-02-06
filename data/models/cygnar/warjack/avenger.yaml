@@ -1,6 +1,7 @@
 ---
 ppid: 737
 name: Avenger
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

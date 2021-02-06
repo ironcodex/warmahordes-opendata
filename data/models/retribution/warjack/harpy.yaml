@@ -1,6 +1,7 @@
 ---
 ppid: 3874
 name: Harpy
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

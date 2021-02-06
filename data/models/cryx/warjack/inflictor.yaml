@@ -1,6 +1,7 @@
 ---
 ppid: 1922
 name: Inflictor
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

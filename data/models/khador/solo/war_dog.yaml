@@ -1,6 +1,7 @@
 ---
 ppid: 1530
 name: War Dog
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

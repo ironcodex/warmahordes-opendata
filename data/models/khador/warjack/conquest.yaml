@@ -1,6 +1,7 @@
 ---
 ppid: 1330
 name: Conquest
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 4

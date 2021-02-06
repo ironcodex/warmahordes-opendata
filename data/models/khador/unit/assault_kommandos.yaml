@@ -1,6 +1,7 @@
 ---
 ppid: 1303
 name: Assault Kommandos
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

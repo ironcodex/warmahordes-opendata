@@ -1,6 +1,7 @@
 ---
 ppid: 3999
 name: Blighted Rotwings
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

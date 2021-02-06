@@ -1,6 +1,7 @@
 ---
 ppid: 4534
 name: Thamarite Archon
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

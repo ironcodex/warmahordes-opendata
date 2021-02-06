@@ -1,6 +1,7 @@
 ---
 ppid: 2735
 name: Algorithmic Dispersion Optifex
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

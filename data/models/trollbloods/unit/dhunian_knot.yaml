@@ -1,6 +1,7 @@
 ---
 ppid: 1589
 name: Dhunian Knot
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

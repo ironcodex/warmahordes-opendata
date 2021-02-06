@@ -1,6 +1,7 @@
 ---
 ppid: 4399
 name: Agathon, The Voice in the Darkness
-type: infernal_masters
+job: infernal_master
 factions:
-  - infernals
+- infernals
+scans: 4

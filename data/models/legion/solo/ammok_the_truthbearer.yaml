@@ -1,6 +1,7 @@
 ---
 ppid: 4002
 name: Ammok the Truthbearer
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1987
 name: Nightwretch
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

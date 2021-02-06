@@ -1,6 +1,7 @@
 ---
 ppid: 2419
 name: Captain Sam MacHorne & the Devil Dogs
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

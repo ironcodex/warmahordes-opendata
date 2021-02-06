@@ -1,6 +1,7 @@
 ---
 ppid: 4411
 name: Griever Swarm
-type: unit
+job: unit
 factions:
-  - infernals
+- infernals
+scans: 2

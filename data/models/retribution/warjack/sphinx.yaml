@@ -1,6 +1,7 @@
 ---
 ppid: 511
 name: Sphinx
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

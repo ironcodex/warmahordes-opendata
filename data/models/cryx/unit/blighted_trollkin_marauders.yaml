@@ -1,6 +1,7 @@
 ---
 ppid: 4015
 name: Blighted Trollkin Marauders
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

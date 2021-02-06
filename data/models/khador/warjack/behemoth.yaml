@@ -1,6 +1,7 @@
 ---
 ppid: 1315
 name: Behemoth
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

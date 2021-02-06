@@ -1,6 +1,7 @@
 ---
 ppid: 2673
 name: Sylys Wyshnalyrr, the Seeker
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

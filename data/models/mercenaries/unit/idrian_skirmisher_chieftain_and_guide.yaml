@@ -1,6 +1,7 @@
 ---
 ppid: 2711
 name: Idrian Skirmisher Chieftain & Guide
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

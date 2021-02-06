@@ -1,6 +1,7 @@
 ---
 ppid: 4475
 name: Dez
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

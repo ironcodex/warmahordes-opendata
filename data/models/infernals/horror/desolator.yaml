@@ -1,6 +1,7 @@
 ---
 ppid: 4406
 name: Desolator
-type: horrors
+job: horror
 factions:
-  - infernals
+- infernals
+scans: 2

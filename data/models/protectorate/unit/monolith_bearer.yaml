@@ -1,6 +1,7 @@
 ---
 ppid: 1182
 name: Monolith Bearer
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

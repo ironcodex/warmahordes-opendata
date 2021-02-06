@@ -1,6 +1,7 @@
 ---
 ppid: 1459
 name: Man-O-War Kovnik
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

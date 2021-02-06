@@ -1,6 +1,7 @@
 ---
 ppid: 995
 name: Aradus Sentinel
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

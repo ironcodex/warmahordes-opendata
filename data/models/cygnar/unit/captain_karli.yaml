@@ -1,6 +1,7 @@
 ---
 ppid: 4991
 name: Captain Karli
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

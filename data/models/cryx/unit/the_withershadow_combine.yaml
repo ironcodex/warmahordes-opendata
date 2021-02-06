@@ -1,6 +1,7 @@
 ---
 ppid: 2083
 name: The Withershadow Combine
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 4

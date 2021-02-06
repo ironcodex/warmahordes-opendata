@@ -1,6 +1,7 @@
 ---
 ppid: 3423
 name: Calaban, the Grave Walker
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

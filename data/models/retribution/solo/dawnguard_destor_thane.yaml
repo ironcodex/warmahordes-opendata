@@ -1,6 +1,7 @@
 ---
 ppid: 2167
 name: Dawnguard Destor Thane
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

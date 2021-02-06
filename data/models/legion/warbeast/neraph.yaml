@@ -1,6 +1,7 @@
 ---
 ppid: 3280
 name: Neraph
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

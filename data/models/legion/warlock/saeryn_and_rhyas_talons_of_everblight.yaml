@@ -1,6 +1,7 @@
 ---
 ppid: 3297
 name: Saeryn & Rhyas, Talons of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 6

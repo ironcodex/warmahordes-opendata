@@ -1,6 +1,7 @@
 ---
 ppid: 4155
 name: Crucible Guard Rocketman Captain
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

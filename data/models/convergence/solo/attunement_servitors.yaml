@@ -1,6 +1,7 @@
 ---
 ppid: 2741
 name: Attunement Servitors
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

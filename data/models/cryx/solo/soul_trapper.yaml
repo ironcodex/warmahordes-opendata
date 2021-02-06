@@ -1,6 +1,7 @@
 ---
 ppid: 2062
 name: Soul Trapper
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

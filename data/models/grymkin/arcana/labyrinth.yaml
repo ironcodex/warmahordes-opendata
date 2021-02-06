@@ -1,6 +1,7 @@
 ---
 ppid: 3630
 name: Labyrinth
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3016
 name: Tanith the Feral Song
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

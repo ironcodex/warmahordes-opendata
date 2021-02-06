@@ -1,6 +1,7 @@
 ---
 ppid: 2922
 name: Kaya the Wildborne
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

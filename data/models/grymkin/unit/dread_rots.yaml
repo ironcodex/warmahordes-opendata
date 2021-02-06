@@ -1,6 +1,7 @@
 ---
 ppid: 3654
 name: Dread Rots
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

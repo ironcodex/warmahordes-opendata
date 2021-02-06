@@ -1,6 +1,7 @@
 ---
 ppid: 2773
 name: Eradicators
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

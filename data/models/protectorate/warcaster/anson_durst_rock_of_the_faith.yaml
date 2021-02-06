@@ -1,6 +1,7 @@
 ---
 ppid: 1029
 name: Anson Durst, Rock of the Faith
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

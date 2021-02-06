@@ -1,6 +1,7 @@
 ---
 ppid: 838
 name: Ironclad
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

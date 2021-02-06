@@ -1,6 +1,7 @@
 ---
 ppid: 662
 name: Arcane Tempest Gun Mages
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

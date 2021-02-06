@@ -1,6 +1,7 @@
 ---
 ppid: 313
 name: Captain E. Dominic Darius & Halfjacks
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 6

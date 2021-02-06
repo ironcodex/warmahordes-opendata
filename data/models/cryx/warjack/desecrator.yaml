@@ -1,6 +1,7 @@
 ---
 ppid: 1890
 name: Desecrator
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

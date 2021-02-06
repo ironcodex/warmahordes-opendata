@@ -1,6 +1,7 @@
 ---
 ppid: 4164
 name: Rocketman Ace
-type: solo
+job: solo
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

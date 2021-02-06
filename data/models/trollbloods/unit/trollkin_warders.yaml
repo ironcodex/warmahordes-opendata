@@ -1,6 +1,7 @@
 ---
 ppid: 2129
 name: Trollkin Warders
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

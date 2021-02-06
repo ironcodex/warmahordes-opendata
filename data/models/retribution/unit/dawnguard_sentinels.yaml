@@ -1,6 +1,7 @@
 ---
 ppid: 2185
 name: Dawnguard Sentinels
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

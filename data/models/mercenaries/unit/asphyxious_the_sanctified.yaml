@@ -1,6 +1,7 @@
 ---
 ppid: 4724
 name: Asphyxious the Sanctified
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 6

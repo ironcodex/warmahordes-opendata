@@ -1,6 +1,7 @@
 ---
 ppid: 2477
 name: Eiryss, Angel of Retribution
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

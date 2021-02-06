@@ -1,6 +1,7 @@
 ---
 ppid: 3899
 name: Eminent Configurator Orion
-type: warcaster
+job: warcaster
 factions:
-  - convergence
+- convergence
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1846
 name: Black Ogrun Boarding Party
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

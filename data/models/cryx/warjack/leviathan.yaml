@@ -1,6 +1,7 @@
 ---
 ppid: 1939
 name: Leviathan
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

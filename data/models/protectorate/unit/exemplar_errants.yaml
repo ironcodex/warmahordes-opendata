@@ -1,6 +1,7 @@
 ---
 ppid: 1076
 name: Exemplar Errants
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

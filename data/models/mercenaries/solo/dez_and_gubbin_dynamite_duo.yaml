@@ -1,6 +1,7 @@
 ---
 ppid: 4994
 name: Dez & Gubbin, Dynamite Duo
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

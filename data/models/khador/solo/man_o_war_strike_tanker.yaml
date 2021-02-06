@@ -1,6 +1,7 @@
 ---
 ppid: 4049
 name: Man-O-War Strike Tanker
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1236
 name: Temple Flameguard Officer & Standard
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

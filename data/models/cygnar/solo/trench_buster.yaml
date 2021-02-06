@@ -1,6 +1,7 @@
 ---
 ppid: 427
 name: Trench Buster
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

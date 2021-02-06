@@ -1,6 +1,7 @@
 ---
 ppid: 1244
 name: The Harbinger of Menoth
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

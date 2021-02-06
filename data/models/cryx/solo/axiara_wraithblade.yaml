@@ -1,6 +1,7 @@
 ---
 ppid: 4018
 name: Axiara Wraithblade
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

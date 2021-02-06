@@ -1,6 +1,7 @@
 ---
 ppid: 1780
 name: Trollkin Highwaymen
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3882
 name: Lieutenant Crosse, Resistance Fighter
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

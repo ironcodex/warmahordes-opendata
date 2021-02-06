@@ -1,6 +1,7 @@
 ---
 ppid: 1382
 name: Juggernaut
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

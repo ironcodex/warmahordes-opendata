@@ -1,6 +1,7 @@
 ---
 ppid: 4517
 name: Ledfoot & Tredz
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

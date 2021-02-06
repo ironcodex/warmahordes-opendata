@@ -1,6 +1,7 @@
 ---
 ppid: 1598
 name: Dire Troll Mauler
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

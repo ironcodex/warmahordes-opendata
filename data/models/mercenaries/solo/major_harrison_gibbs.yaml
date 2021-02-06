@@ -1,6 +1,7 @@
 ---
 ppid: 2595
 name: Major Harrison Gibbs
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

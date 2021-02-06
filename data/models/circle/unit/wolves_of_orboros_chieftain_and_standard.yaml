@@ -1,6 +1,7 @@
 ---
 ppid: 3093
 name: Wolves of Orboros Chieftain & Standard
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1085
 name: Feora, Priestess of the Flame
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

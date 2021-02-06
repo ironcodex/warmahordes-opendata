@@ -1,6 +1,7 @@
 ---
 ppid: 2676
 name: Tactical Arcanist Corps
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

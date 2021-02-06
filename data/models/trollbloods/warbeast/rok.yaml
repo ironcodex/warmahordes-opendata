@@ -1,6 +1,7 @@
 ---
 ppid: 1735
-name: Rök
-type: warbeast
+name: "R\xF6k"
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

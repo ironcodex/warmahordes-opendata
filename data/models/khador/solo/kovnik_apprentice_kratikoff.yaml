@@ -1,6 +1,7 @@
 ---
 ppid: 4324
 name: Kovnik Apprentice Kratikoff
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

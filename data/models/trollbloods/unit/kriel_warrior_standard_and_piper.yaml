@@ -1,6 +1,7 @@
 ---
 ppid: 1677
 name: Kriel Warrior Standard & Piper
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

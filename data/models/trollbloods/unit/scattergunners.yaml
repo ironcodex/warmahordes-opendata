@@ -1,6 +1,7 @@
 ---
 ppid: 1738
 name: Scattergunners
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

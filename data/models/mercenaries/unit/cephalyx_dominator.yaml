@@ -1,6 +1,7 @@
 ---
 ppid: 2427
 name: Cephalyx Dominator
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

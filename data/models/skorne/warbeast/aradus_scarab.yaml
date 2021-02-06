@@ -1,6 +1,7 @@
 ---
 ppid: 989
 name: Aradus Scarab
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2904
 name: Gnarlhorn Satyr
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

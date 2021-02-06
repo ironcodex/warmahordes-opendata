@@ -1,6 +1,7 @@
 ---
 ppid: 3640
 name: The Shadow
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3232
 name: Incubus
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 502
 name: Nomad
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

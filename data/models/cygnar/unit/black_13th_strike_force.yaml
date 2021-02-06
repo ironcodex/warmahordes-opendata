@@ -1,6 +1,7 @@
 ---
 ppid: 300
 name: Black 13th Strike Force
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

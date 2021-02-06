@@ -1,6 +1,7 @@
 ---
 ppid: 2284
 name: Issyria, Sibyl of Dawn
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

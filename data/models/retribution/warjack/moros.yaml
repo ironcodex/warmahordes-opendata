@@ -1,6 +1,7 @@
 ---
 ppid: 2327
 name: Moros
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

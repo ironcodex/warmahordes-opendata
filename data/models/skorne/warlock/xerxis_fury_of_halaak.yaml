@@ -1,6 +1,7 @@
 ---
 ppid: 984
 name: Xerxis, Fury of Halaak
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

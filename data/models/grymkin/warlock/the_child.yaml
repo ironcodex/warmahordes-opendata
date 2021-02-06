@@ -1,6 +1,7 @@
 ---
 ppid: 3696
 name: The Child
-type: warlock
+job: warlock
 factions:
-  - grymkin
+- grymkin
+scans: 6

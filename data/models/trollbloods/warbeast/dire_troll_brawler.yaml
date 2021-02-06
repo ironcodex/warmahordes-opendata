@@ -1,6 +1,7 @@
 ---
 ppid: 3865
 name: Dire Troll Brawler
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

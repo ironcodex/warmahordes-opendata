@@ -1,6 +1,7 @@
 ---
 ppid: 3871
 name: Siren
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

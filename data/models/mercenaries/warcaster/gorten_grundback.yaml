@@ -1,6 +1,7 @@
 ---
 ppid: 2529
 name: Gorten Grundback
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

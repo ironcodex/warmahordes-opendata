@@ -1,6 +1,7 @@
 ---
 ppid: 3050
 name: Una the Skyhunter
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

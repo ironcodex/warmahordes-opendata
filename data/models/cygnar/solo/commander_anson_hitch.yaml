@@ -1,6 +1,7 @@
 ---
 ppid: 3784
 name: Commander Anson Hitch
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

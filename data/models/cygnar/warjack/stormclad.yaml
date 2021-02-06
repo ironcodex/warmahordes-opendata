@@ -1,6 +1,7 @@
 ---
 ppid: 653
 name: Stormclad
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

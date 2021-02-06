@@ -1,6 +1,7 @@
 ---
 ppid: 2367
 name: Vyros, Incissar of the Dawnguard
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

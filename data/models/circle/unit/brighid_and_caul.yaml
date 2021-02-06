@@ -1,6 +1,7 @@
 ---
 ppid: 4246
-name: Bríghid and Caul
-type: unit
+name: "Br\xEDghid and Caul"
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

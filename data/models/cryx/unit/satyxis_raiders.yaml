@@ -1,6 +1,7 @@
 ---
 ppid: 2028
 name: Satyxis Raiders
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

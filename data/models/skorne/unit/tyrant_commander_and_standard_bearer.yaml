@@ -1,6 +1,7 @@
 ---
 ppid: 877
 name: Tyrant Commander & Standard Bearer
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

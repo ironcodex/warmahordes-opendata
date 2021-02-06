@@ -1,6 +1,7 @@
 ---
 ppid: 862
 name: Paingiver Beast Handlers
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

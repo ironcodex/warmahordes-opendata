@@ -1,6 +1,7 @@
 ---
 ppid: 5039
 name: Farrow Sapper
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4191
 name: Hand of Silence
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

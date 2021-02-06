@@ -1,6 +1,7 @@
 ---
 ppid: 956
 name: Siege Animantarax
-type: engine_structure
+job: engine_structure
 factions:
-  - skorne
+- skorne
+scans: 2

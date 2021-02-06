@@ -1,6 +1,7 @@
 ---
 ppid: 1896
 name: General Gerlak Slaughterborn
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

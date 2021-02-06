@@ -1,6 +1,7 @@
 ---
 ppid: 4167
 name: Vulcan
-type: warjack
+job: warjack
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 725
 name: Captain Maxwell Finn
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2076
 name: The Witch Coven of Garlghast
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 6

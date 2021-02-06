@@ -1,6 +1,7 @@
 ---
 ppid: 3058
 name: Warpborn Skinwalker Alpha
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

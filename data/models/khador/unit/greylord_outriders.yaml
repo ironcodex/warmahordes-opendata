@@ -1,6 +1,7 @@
 ---
 ppid: 1364
 name: Greylord Outriders
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

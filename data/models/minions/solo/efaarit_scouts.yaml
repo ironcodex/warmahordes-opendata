@@ -1,6 +1,7 @@
 ---
 ppid: 3444
 name: Efaarit Scouts
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

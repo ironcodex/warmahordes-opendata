@@ -1,6 +1,7 @@
 ---
 ppid: 4156
 name: Crucible Guard Rocketmen
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

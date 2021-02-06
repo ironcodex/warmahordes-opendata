@@ -1,6 +1,7 @@
 ---
 ppid: 4435
 name: Captain Rahera, Terror of the Wailing Sea
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

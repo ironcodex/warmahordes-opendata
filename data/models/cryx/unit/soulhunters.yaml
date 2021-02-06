@@ -1,6 +1,7 @@
 ---
 ppid: 2065
 name: Soulhunters
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

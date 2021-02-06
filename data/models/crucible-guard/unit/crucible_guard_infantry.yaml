@@ -1,6 +1,7 @@
 ---
 ppid: 4153
 name: Crucible Guard Infantry
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

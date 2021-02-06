@@ -1,6 +1,7 @@
 ---
 ppid: 2359
 name: Stormfall Archers
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

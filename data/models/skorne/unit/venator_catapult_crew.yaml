@@ -1,6 +1,7 @@
 ---
 ppid: 883
 name: Venator Catapult Crew
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

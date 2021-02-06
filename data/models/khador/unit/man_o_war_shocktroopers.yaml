@@ -1,6 +1,7 @@
 ---
 ppid: 1465
 name: Man-O-War Shocktroopers
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

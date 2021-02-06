@@ -1,6 +1,7 @@
 ---
 ppid: 4284
 name: Initiates of the Order of the Wall
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

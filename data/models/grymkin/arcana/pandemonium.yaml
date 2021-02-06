@@ -1,6 +1,7 @@
 ---
 ppid: 3632
 name: Pandemonium
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

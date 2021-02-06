@@ -1,6 +1,7 @@
 ---
 ppid: 3385
 name: Warspear Chieftain
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

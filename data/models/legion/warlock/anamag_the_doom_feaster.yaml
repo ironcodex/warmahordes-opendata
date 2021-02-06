@@ -1,6 +1,7 @@
 ---
 ppid: 3991
 name: Anamag the Doom Feaster
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

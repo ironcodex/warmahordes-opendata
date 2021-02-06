@@ -1,6 +1,7 @@
 ---
 ppid: 4408
 name: Shrieker
-type: horrors
+job: horror
 factions:
-  - infernals
+- infernals
+scans: 2

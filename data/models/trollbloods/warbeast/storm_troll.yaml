@@ -1,6 +1,7 @@
 ---
 ppid: 1750
 name: Storm Troll
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

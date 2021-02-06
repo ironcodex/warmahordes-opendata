@@ -1,6 +1,7 @@
 ---
 ppid: 4201
 name: Supreme Guardian
-type: engine_structure
+job: engine_structure
 factions:
-  - skorne
+- skorne
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3082
 name: Woldwrath
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 4

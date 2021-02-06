@@ -1,6 +1,7 @@
 ---
 ppid: 2696
 name: Thor Steinhammer
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

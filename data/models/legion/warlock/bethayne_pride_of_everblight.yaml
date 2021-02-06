@@ -1,6 +1,7 @@
 ---
 ppid: 4792
 name: Bethayne, Pride of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

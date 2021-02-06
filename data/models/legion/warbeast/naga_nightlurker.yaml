@@ -1,6 +1,7 @@
 ---
 ppid: 3265
 name: Naga Nightlurker
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4474
 name: Boomhowler Solo Artist
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

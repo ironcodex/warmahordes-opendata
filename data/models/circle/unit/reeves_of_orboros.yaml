@@ -1,6 +1,7 @@
 ---
 ppid: 2990
 name: Reeves of Orboros
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

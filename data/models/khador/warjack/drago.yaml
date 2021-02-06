@@ -1,6 +1,7 @@
 ---
 ppid: 1350
 name: Drago
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

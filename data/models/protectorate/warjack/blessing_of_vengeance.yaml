@@ -1,6 +1,7 @@
 ---
 ppid: 1040
 name: Blessing of Vengeance
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

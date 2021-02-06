@@ -1,6 +1,7 @@
 ---
 ppid: 3512
 name: Maelok the Dreadbound
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

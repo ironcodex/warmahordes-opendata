@@ -1,6 +1,7 @@
 ---
 ppid: 3887
 name: Lieutenant Bastian Falk
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2267
 name: House Vyre Electromancers
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

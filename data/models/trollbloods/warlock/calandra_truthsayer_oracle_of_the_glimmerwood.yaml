@@ -1,6 +1,7 @@
 ---
 ppid: 1579
 name: Calandra Truthsayer, Oracle of the Glimmerwood
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

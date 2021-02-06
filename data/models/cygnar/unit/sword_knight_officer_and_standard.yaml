@@ -1,6 +1,7 @@
 ---
 ppid: 671
 name: Sword Knight Officer & Standard
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

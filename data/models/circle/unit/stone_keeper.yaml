@@ -1,6 +1,7 @@
 ---
 ppid: 3111
 name: Stone Keeper
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

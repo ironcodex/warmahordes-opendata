@@ -1,6 +1,7 @@
 ---
 ppid: 2667
 name: Steelhead Riflemen
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

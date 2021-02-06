@@ -1,6 +1,7 @@
 ---
 ppid: 4701
 name: Artificer Prime Nemo and Arcane Mechaniks
-type: engine_structure
+job: engine_structure
 factions:
-  - mercenaries
+- mercenaries
+scans: 6

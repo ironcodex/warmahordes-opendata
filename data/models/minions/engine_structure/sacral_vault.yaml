@@ -1,6 +1,7 @@
 ---
 ppid: 3544
 name: Sacral Vault
-type: engine_structure
+job: engine_structure
 factions:
-  - minions
+- minions
+scans: 2

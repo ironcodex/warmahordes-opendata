@@ -1,6 +1,7 @@
 ---
 ppid: 3947
 name: Scharde Pirate Officer
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

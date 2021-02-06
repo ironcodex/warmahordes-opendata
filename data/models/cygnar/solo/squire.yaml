@@ -1,6 +1,7 @@
 ---
 ppid: 414
 name: Squire
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

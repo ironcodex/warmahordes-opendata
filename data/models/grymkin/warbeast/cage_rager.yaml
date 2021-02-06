@@ -1,6 +1,7 @@
 ---
 ppid: 3642
 name: Cage Rager
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

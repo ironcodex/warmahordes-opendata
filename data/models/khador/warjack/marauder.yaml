@@ -1,6 +1,7 @@
 ---
 ppid: 1468
 name: Marauder
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

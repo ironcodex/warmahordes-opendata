@@ -1,6 +1,7 @@
 ---
 ppid: 3434
 name: Dahlia Hallyr & Skarath
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 4

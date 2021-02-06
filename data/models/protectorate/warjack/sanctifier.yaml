@@ -1,6 +1,7 @@
 ---
 ppid: 1214
 name: Sanctifier
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

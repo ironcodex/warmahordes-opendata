@@ -1,6 +1,7 @@
 ---
 ppid: 1607
 name: Fell Caller Hero
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

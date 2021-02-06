@@ -1,6 +1,7 @@
 ---
 ppid: 2004
 name: Revenant Crew of the Atramentous
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

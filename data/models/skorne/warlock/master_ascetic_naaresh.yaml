@@ -1,6 +1,7 @@
 ---
 ppid: 934
 name: Master Ascetic Naaresh
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

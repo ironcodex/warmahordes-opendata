@@ -1,6 +1,7 @@
 ---
 ppid: 2598
 name: Mangler
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

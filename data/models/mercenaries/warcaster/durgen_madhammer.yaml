@@ -1,6 +1,7 @@
 ---
 ppid: 2472
 name: Durgen Madhammer
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

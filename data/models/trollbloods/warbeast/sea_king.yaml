@@ -1,6 +1,7 @@
 ---
 ppid: 448
 name: Sea King
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

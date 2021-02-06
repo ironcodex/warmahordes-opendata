@@ -1,6 +1,7 @@
 ---
 ppid: 3176
 name: Blighted Nyss Hex Hunters
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

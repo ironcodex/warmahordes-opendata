@@ -1,6 +1,7 @@
 ---
 ppid: 514
 name: Grolar
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

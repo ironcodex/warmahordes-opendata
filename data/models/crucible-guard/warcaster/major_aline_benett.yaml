@@ -1,6 +1,7 @@
 ---
 ppid: 5006
 name: Major Aline Benett
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

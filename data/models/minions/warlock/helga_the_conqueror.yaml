@@ -1,6 +1,7 @@
 ---
 ppid: 3489
 name: Helga the Conqueror
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

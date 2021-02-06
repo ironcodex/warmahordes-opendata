@@ -1,6 +1,7 @@
 ---
 ppid: 4147
 name: Liberator
-type: warjack
+job: warjack
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

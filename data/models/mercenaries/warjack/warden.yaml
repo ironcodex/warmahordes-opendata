@@ -1,6 +1,7 @@
 ---
 ppid: 2726
 name: Warden
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

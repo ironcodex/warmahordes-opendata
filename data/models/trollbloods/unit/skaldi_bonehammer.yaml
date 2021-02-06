@@ -1,6 +1,7 @@
 ---
 ppid: 2118
 name: Skaldi Bonehammer
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

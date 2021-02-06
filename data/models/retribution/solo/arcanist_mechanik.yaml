@@ -1,6 +1,7 @@
 ---
 ppid: 2155
 name: Arcanist Mechanik
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

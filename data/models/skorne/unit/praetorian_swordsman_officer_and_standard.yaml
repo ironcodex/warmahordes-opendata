@@ -1,6 +1,7 @@
 ---
 ppid: 874
 name: Praetorian Swordsman Officer & Standard
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

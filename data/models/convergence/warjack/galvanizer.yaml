@@ -1,6 +1,7 @@
 ---
 ppid: 2786
 name: Galvanizer
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

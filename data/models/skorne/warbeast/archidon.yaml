@@ -1,6 +1,7 @@
 ---
 ppid: 947
 name: Archidon
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

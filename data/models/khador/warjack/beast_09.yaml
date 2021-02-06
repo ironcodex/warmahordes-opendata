@@ -1,6 +1,7 @@
 ---
 ppid: 1312
 name: Beast 09
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

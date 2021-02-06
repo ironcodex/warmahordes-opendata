@@ -1,6 +1,7 @@
 ---
 ppid: 3108
 name: Nuala the Huntress
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

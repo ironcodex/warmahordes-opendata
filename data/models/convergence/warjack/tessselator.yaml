@@ -1,6 +1,7 @@
 ---
 ppid: 4740
 name: Tessselator
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

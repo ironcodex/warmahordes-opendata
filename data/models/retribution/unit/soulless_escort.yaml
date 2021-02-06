@@ -1,6 +1,7 @@
 ---
 ppid: 2350
 name: Soulless Escort
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

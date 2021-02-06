@@ -1,6 +1,7 @@
 ---
 ppid: 1759
 name: Troll Axer
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

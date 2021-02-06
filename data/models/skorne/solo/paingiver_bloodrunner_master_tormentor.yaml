@@ -1,6 +1,7 @@
 ---
 ppid: 895
 name: Paingiver Bloodrunner Master Tormentor
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

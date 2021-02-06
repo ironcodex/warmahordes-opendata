@@ -1,6 +1,7 @@
 ---
 ppid: 3651
 name: Death Knell
-type: engine_structure
+job: engine_structure
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 722
 name: Trencher Master Gunner
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

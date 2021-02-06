@@ -1,6 +1,7 @@
 ---
 ppid: 1870
 name: Carrion Thralls
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4151
 name: Combat Alchemists
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

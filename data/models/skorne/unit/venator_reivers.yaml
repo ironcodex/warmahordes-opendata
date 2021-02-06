@@ -1,6 +1,7 @@
 ---
 ppid: 880
 name: Venator Reivers
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

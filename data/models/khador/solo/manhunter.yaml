@@ -1,6 +1,7 @@
 ---
 ppid: 1450
 name: Manhunter
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

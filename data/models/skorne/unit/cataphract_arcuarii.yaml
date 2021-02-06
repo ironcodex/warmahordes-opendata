@@ -1,6 +1,7 @@
 ---
 ppid: 850
 name: Cataphract Arcuarii
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

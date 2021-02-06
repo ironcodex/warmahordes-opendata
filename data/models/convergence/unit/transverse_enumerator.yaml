@@ -1,6 +1,7 @@
 ---
 ppid: 2847
 name: Transverse Enumerator
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

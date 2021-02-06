@@ -1,6 +1,7 @@
 ---
 ppid: 3036
 name: Tharn Ravager White Mane
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

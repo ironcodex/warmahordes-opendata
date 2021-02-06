@@ -1,6 +1,7 @@
 ---
 ppid: 1882
 name: Defiler
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

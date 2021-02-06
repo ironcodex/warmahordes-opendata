@@ -1,6 +1,7 @@
 ---
 ppid: 3547
 name: Saxon Orrik
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

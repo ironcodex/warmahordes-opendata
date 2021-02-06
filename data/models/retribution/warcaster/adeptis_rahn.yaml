@@ -1,6 +1,7 @@
 ---
 ppid: 2147
 name: Adeptis Rahn
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 348
 name: Commander Dalin Sturgis
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

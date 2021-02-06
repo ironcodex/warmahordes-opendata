@@ -1,6 +1,7 @@
 ---
 ppid: 4520
 name: Pyg Tank
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2022
 name: Satyxis Raider Captain
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

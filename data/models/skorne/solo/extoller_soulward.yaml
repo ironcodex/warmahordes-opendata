@@ -1,6 +1,7 @@
 ---
 ppid: 892
 name: Extoller Soulward
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

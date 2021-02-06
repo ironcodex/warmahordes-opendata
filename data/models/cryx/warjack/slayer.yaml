@@ -1,6 +1,7 @@
 ---
 ppid: 2059
 name: Slayer
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

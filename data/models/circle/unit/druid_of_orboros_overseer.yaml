@@ -1,6 +1,7 @@
 ---
 ppid: 3105
 name: Druid of Orboros Overseer
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

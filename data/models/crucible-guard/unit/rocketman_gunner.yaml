@@ -1,6 +1,7 @@
 ---
 ppid: 4160
 name: Rocketman Gunner
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

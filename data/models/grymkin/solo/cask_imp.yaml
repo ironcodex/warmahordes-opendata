@@ -1,6 +1,7 @@
 ---
 ppid: 3645
 name: Cask Imp
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

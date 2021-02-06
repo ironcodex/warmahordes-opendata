@@ -1,6 +1,7 @@
 ---
 ppid: 3408
 name: Bog Trog Mist Speaker
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

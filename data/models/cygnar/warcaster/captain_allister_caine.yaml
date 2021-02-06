@@ -1,6 +1,7 @@
 ---
 ppid: 308
 name: Captain Allister Caine
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

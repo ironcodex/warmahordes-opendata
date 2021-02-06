@@ -1,6 +1,7 @@
 ---
 ppid: 1306
 name: Battle Mechanik Officer
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

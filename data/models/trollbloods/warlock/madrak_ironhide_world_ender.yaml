@@ -1,6 +1,7 @@
 ---
 ppid: 1691
 name: Madrak Ironhide, World Ender
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

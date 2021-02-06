@@ -1,6 +1,7 @@
 ---
 ppid: 4253
 name: Immortal Vessel
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

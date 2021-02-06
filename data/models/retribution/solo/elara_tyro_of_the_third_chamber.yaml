@@ -1,6 +1,7 @@
 ---
 ppid: 2202
 name: Elara, Tyro of the Third Chamber
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

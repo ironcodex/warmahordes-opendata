@@ -1,6 +1,7 @@
 ---
 ppid: 3634
 name: Ruin
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

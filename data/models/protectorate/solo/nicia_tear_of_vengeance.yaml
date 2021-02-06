@@ -1,6 +1,7 @@
 ---
 ppid: 1185
 name: Nicia, Tear of Vengeance
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

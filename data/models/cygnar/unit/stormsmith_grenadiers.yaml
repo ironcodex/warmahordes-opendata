@@ -1,6 +1,7 @@
 ---
 ppid: 759
 name: Stormsmith Grenadiers
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

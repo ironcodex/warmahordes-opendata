@@ -1,6 +1,7 @@
 ---
 ppid: 2886
 name: Druid Mist Riders
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 5029
 name: Yssylla
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

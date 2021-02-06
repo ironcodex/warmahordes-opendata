@@ -1,6 +1,7 @@
 ---
 ppid: 2093
 name: Warwitch Siren
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

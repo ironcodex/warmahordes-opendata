@@ -1,6 +1,7 @@
 ---
 ppid: 1103
 name: Flame Bringers
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2973
 name: Morvahna the Dawnshadow
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

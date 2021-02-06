@@ -1,6 +1,7 @@
 ---
 ppid: 902
 name: Razor Worm
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

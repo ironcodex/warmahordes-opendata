@@ -1,6 +1,7 @@
 ---
 ppid: 4183
 name: High Exemplar Cyrenia
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

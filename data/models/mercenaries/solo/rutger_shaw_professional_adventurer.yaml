@@ -1,6 +1,7 @@
 ---
 ppid: 2640
 name: Rutger Shaw, Professional Adventurer
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

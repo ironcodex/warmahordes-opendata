@@ -1,6 +1,7 @@
 ---
 ppid: 626
 name: Firefly
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

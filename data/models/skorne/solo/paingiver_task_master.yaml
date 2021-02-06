@@ -1,6 +1,7 @@
 ---
 ppid: 928
 name: Paingiver Task Master
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

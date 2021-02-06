@@ -1,6 +1,7 @@
 ---
 ppid: 3660
 name: Glimmer Imp
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

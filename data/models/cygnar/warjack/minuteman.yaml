@@ -1,6 +1,7 @@
 ---
 ppid: 734
 name: Minuteman
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

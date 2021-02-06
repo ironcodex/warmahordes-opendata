@@ -1,6 +1,7 @@
 ---
 ppid: 1867
 name: Captain Rengrave
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

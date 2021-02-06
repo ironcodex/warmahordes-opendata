@@ -1,6 +1,7 @@
 ---
 ppid: 479
 name: Assault Kommander Strakhov & Kommandos
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 6

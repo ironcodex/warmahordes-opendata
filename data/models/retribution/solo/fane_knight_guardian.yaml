@@ -1,6 +1,7 @@
 ---
 ppid: 2205
 name: Fane Knight Guardian
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3877
 name: Primus Jalaam
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

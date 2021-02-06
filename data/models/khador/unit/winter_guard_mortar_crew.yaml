@@ -1,6 +1,7 @@
 ---
 ppid: 1554
 name: Winter Guard Mortar Crew
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2742
 name: Aurora, the Numen of Aerogenesis
-type: warcaster
+job: warcaster
 factions:
-  - convergence
+- convergence
+scans: 4

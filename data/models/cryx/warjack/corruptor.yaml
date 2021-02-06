@@ -1,6 +1,7 @@
 ---
 ppid: 1873
 name: Corruptor
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

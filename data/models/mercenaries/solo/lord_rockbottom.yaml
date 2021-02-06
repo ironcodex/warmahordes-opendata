@@ -1,6 +1,7 @@
 ---
 ppid: 2579
 name: Lord Rockbottom
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

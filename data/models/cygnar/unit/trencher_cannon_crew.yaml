@@ -1,6 +1,7 @@
 ---
 ppid: 689
 name: Trencher Cannon Crew
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

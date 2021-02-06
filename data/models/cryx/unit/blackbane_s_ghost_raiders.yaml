@@ -1,6 +1,7 @@
 ---
 ppid: 1849
 name: Blackbane's Ghost Raiders
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

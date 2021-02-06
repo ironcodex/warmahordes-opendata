@@ -1,6 +1,7 @@
 ---
 ppid: 3852
 name: Northkin Bear Handlers & Battle Bears
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

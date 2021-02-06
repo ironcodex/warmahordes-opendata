@@ -1,6 +1,7 @@
 ---
 ppid: 363
 name: Lieutenant Allister Caine
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1701
 name: Mountain King
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 853
 name: Cataphract Cetrati
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

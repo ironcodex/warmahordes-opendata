@@ -1,6 +1,7 @@
 ---
 ppid: 5003
 name: Lynda the Forgotten
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

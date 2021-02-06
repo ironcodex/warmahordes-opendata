@@ -1,6 +1,7 @@
 ---
 ppid: 4873
 name: Virtue Host
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

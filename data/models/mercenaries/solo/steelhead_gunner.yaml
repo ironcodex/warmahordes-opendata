@@ -1,6 +1,7 @@
 ---
 ppid: 4292
 name: Steelhead Gunner
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

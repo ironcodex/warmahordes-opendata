@@ -1,6 +1,7 @@
 ---
 ppid: 1669
 name: Jarl Skuld, Devil of the Thornwood
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 3501
 name: Lanyssa Ryssyl, Nyss Sorceress
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

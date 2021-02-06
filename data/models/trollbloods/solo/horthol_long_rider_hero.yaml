@@ -1,6 +1,7 @@
 ---
 ppid: 543
 name: Horthol, Long Rider Hero
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

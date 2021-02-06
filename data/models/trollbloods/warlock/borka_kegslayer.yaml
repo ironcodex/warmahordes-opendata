@@ -1,6 +1,7 @@
 ---
 ppid: 1564
 name: Borka Kegslayer
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 6

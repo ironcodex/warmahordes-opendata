@@ -1,6 +1,7 @@
 ---
 ppid: 3397
 name: Blind Walker
-type: warbeast
+job: warbeast
 factions:
-  - minions
+- minions
+scans: 2

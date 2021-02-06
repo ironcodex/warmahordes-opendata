@@ -1,6 +1,7 @@
 ---
 ppid: 775
 name: Archdomina Makeda
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

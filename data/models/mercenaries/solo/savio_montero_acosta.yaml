@@ -1,6 +1,7 @@
 ---
 ppid: 2643
 name: Savio Montero Acosta
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

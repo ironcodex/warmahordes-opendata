@@ -1,6 +1,7 @@
 ---
 ppid: 293
 name: Artificer General Nemo & Storm Chaser Finch
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 6

@@ -1,6 +1,7 @@
 ---
 ppid: 353
 name: General Adept Nemo
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 4557
 name: Order of Illumination Vigilants
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2233
 name: House Ellowuyr Swordsman Officer & Standard
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

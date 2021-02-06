@@ -1,6 +1,7 @@
 ---
 ppid: 1981
 name: Necrotech
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

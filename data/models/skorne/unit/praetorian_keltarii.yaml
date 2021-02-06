@@ -1,6 +1,7 @@
 ---
 ppid: 998
 name: Praetorian Keltarii
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3938
 name: Jussika Bloodtongue
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

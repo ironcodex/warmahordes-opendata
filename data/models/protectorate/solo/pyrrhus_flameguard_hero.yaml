@@ -1,6 +1,7 @@
 ---
 ppid: 1191
 name: Pyrrhus, Flameguard Hero
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

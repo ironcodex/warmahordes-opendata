@@ -1,6 +1,7 @@
 ---
 ppid: 2664
 name: Steelhead Heavy Cavalry
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 5011
 name: Ol' Grim (Cryx)
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

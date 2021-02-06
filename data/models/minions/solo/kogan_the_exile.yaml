@@ -1,6 +1,7 @@
 ---
 ppid: 5000
 name: Kogan the Exile
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 953
 name: Venator Slingers
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

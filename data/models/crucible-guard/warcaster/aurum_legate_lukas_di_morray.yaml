@@ -1,6 +1,7 @@
 ---
 ppid: 4143
 name: Aurum Legate Lukas di Morray
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

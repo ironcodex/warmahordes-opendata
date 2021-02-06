@@ -1,6 +1,7 @@
 ---
 ppid: 2254
 name: Houseguard Halberdiers
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

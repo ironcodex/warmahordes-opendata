@@ -1,6 +1,7 @@
 ---
 ppid: 1117
 name: Guardian
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

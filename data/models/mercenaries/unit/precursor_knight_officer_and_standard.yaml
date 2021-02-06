@@ -1,6 +1,7 @@
 ---
 ppid: 2720
 name: Precursor Knight Officer & Standard
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

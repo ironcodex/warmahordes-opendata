@@ -1,6 +1,7 @@
 ---
 ppid: 1861
 name: Brute Thrall
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

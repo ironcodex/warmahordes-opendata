@@ -1,6 +1,7 @@
 ---
 ppid: 3555
 name: Swamp Gobber Bellows Crew
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

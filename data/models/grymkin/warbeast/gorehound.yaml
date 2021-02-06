@@ -1,6 +1,7 @@
 ---
 ppid: 3663
 name: Gorehound
-type: warbeast
+job: warbeast
 factions:
-  - grymkin
+- grymkin
+scans: 2

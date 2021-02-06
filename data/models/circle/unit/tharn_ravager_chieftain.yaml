@@ -1,6 +1,7 @@
 ---
 ppid: 3030
 name: Tharn Ravager Chieftain
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

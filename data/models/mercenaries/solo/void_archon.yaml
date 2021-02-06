@@ -1,6 +1,7 @@
 ---
 ppid: 4529
 name: Void Archon
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

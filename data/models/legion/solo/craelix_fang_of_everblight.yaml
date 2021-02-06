@@ -1,6 +1,7 @@
 ---
 ppid: 3814
 name: Craelix, Fang of Everblight
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

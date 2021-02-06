@@ -1,6 +1,7 @@
 ---
 ppid: 1058
 name: Deliverer Skyhammers
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

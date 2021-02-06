@@ -1,6 +1,7 @@
 ---
 ppid: 1864
 name: Cankerworm
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1447
 name: Mad Dog
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

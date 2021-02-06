@@ -1,6 +1,7 @@
 ---
 ppid: 1826
 name: Bane Riders
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

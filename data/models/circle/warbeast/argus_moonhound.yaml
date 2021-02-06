@@ -1,6 +1,7 @@
 ---
 ppid: 2852
 name: Argus Moonhound
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

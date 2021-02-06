@@ -1,6 +1,7 @@
 ---
 ppid: 3788
 name: Trencher Warcaster Lieutenant
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2045
 name: Shrike
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

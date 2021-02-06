@@ -1,6 +1,7 @@
 ---
 ppid: 2521
 name: Ghordson Driller
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

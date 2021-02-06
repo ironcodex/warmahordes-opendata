@@ -1,6 +1,7 @@
 ---
 ppid: 439
 name: Purifier
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

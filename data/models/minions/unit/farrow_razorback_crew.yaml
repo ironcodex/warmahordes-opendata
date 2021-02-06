@@ -1,6 +1,7 @@
 ---
 ppid: 3459
 name: Farrow Razorback Crew
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

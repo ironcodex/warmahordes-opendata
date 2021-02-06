@@ -1,6 +1,7 @@
 ---
 ppid: 1353
 name: Forward Kommander Sorscha
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

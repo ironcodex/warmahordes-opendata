@@ -1,6 +1,7 @@
 ---
 ppid: 1807
 name: Winter Troll
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

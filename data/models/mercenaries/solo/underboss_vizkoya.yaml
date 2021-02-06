@@ -1,6 +1,7 @@
 ---
 ppid: 5026
 name: Underboss Vizkoya
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

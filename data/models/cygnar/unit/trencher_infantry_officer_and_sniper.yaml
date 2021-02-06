@@ -1,6 +1,7 @@
 ---
 ppid: 677
 name: Trencher Infantry Officer & Sniper
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

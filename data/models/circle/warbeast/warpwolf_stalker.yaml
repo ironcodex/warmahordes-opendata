@@ -1,6 +1,7 @@
 ---
 ppid: 3064
 name: Warpwolf Stalker
-type: warbeast
+job: warbeast
 factions:
-  - circle
+- circle
+scans: 2

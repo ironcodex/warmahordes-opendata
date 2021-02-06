@@ -1,6 +1,7 @@
 ---
 ppid: 1327
 name: Black Ivan
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

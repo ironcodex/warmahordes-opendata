@@ -1,6 +1,7 @@
 ---
 ppid: 2693
 name: Thorn Gun Mages
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

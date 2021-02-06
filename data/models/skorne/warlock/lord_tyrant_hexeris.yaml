@@ -1,6 +1,7 @@
 ---
 ppid: 785
 name: Lord Tyrant Hexeris
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

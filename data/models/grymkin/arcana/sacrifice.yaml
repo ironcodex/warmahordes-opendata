@@ -1,6 +1,7 @@
 ---
 ppid: 3636
 name: Sacrifice
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

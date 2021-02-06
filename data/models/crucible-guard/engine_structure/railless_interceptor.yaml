@@ -1,6 +1,7 @@
 ---
 ppid: 4166
 name: Railless Interceptor
-type: engine_structure
+job: engine_structure
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1801
 name: Trollkin Sorcerer
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

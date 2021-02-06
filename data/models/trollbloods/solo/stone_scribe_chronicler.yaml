@@ -1,6 +1,7 @@
 ---
 ppid: 1744
 name: Stone Scribe Chronicler
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

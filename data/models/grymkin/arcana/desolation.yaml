@@ -1,6 +1,7 @@
 ---
 ppid: 3624
 name: Desolation
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

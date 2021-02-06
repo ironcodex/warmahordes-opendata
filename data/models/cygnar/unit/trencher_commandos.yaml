@@ -1,6 +1,7 @@
 ---
 ppid: 683
 name: Trencher Commandos
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

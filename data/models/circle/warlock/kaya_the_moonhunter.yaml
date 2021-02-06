@@ -1,6 +1,7 @@
 ---
 ppid: 2915
 name: Kaya the Moonhunter
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 6

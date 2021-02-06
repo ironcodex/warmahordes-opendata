@@ -1,6 +1,7 @@
 ---
 ppid: 4526
 name: Glyn Cormier, Illuminated One
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

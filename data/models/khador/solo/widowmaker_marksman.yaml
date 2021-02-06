@@ -1,6 +1,7 @@
 ---
 ppid: 1533
 name: Widowmaker Marksman
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

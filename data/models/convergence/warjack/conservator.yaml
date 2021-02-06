@@ -1,6 +1,7 @@
 ---
 ppid: 2758
 name: Conservator
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

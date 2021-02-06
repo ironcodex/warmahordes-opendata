@@ -1,6 +1,7 @@
 ---
 ppid: 2380
 name: Anastasia di Bray
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

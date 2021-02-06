@@ -1,6 +1,7 @@
 ---
 ppid: 3807
 name: Eilish Garrity, the Occultist
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

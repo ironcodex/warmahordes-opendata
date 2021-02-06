@@ -1,6 +1,7 @@
 ---
 ppid: 931
 name: Aptimus Marketh
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

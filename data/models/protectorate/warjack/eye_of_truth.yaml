@@ -1,6 +1,7 @@
 ---
 ppid: 1082
 name: Eye of Truth
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

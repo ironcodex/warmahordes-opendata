@@ -1,6 +1,7 @@
 ---
 ppid: 686
 name: Trencher Commando Scattergunner
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

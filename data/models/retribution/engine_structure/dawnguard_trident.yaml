@@ -1,6 +1,7 @@
 ---
 ppid: 4259
 name: Dawnguard Trident
-type: engine_structure
+job: engine_structure
 factions:
-  - retribution
+- retribution
+scans: 2

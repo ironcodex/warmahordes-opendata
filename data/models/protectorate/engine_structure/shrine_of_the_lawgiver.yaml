@@ -1,6 +1,7 @@
 ---
 ppid: 4184
 name: Shrine of the Lawgiver
-type: engine_structure
+job: engine_structure
 factions:
-  - protectorate
+- protectorate
+scans: 2

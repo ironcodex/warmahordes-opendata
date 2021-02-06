@@ -1,6 +1,7 @@
 ---
 ppid: 4744
 name: Archnumen Aurora
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

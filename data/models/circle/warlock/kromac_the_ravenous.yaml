@@ -1,6 +1,7 @@
 ---
 ppid: 2932
 name: Kromac the Ravenous
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 6

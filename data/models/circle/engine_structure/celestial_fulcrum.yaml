@@ -1,6 +1,7 @@
 ---
 ppid: 2880
 name: Celestial Fulcrum
-type: engine_structure
+job: engine_structure
 factions:
-  - circle
+- circle
+scans: 2

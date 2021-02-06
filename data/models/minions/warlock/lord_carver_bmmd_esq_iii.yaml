@@ -1,6 +1,7 @@
 ---
 ppid: 3504
 name: Lord Carver, BMMD, Esq. III
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

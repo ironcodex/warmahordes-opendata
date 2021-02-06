@@ -1,6 +1,7 @@
 ---
 ppid: 2855
 name: Baldur the Stonecleaver
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

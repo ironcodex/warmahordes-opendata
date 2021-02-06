@@ -1,6 +1,7 @@
 ---
 ppid: 856
 name: Immortals
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

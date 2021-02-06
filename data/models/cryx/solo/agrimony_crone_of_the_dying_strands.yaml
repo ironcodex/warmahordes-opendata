@@ -1,6 +1,7 @@
 ---
 ppid: 3909
 name: Agrimony, Crone of the Dying Strands
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

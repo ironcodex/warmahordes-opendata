@@ -1,6 +1,7 @@
 ---
 ppid: 1795
 name: Trollkin Skinner
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

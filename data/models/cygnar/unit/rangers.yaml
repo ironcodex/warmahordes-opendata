@@ -1,6 +1,7 @@
 ---
 ppid: 692
 name: Rangers
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

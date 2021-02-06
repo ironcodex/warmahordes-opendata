@@ -1,6 +1,7 @@
 ---
 ppid: 3742
 name: Zevanna Agha, the Fate Keeper
-type: warlock
+job: warlock
 factions:
-  - grymkin
+- grymkin
+scans: 4

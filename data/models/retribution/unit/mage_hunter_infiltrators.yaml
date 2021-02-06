@@ -1,6 +1,7 @@
 ---
 ppid: 2310
 name: Mage Hunter Infiltrators
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3061
 name: Warpborn Skinwalkers
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

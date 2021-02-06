@@ -1,6 +1,7 @@
 ---
 ppid: 4551
 name: Alexia the Undying
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

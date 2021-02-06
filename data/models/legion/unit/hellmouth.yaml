@@ -1,6 +1,7 @@
 ---
 ppid: 3229
 name: Hellmouth
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

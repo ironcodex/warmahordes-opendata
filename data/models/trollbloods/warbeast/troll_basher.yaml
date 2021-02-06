@@ -1,6 +1,7 @@
 ---
 ppid: 3959
 name: Troll Basher
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

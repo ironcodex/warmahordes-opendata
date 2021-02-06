@@ -1,6 +1,7 @@
 ---
 ppid: 3321
 name: Spell Martyr
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

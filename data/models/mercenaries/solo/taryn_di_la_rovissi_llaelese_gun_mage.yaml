@@ -1,6 +1,7 @@
 ---
 ppid: 2682
 name: Taryn di la Rovissi, Llaelese Gun Mage
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

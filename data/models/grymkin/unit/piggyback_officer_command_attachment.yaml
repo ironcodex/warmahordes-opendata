@@ -1,6 +1,7 @@
 ---
 ppid: 4318
 name: Piggyback Officer (Command Attachment)
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

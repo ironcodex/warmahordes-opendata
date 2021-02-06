@@ -1,6 +1,7 @@
 ---
 ppid: 2263
 name: Houseguard Thane
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

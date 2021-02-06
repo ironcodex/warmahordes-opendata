@@ -1,6 +1,7 @@
 ---
 ppid: 1858
 name: Bloodgorgers
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

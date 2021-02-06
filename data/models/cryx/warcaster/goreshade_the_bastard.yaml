@@ -1,6 +1,7 @@
 ---
 ppid: 1899
 name: Goreshade the Bastard
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 6

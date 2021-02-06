@@ -1,6 +1,7 @@
 ---
 ppid: 4319
 name: Baron Tonguelick, Lord of Warts
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

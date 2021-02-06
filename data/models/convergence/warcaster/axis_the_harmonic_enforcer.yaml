@@ -1,6 +1,7 @@
 ---
 ppid: 2747
 name: Axis, the Harmonic Enforcer
-type: warcaster
+job: warcaster
 factions:
-  - convergence
+- convergence
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 3240
 name: Kallus, Wrath of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

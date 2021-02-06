@@ -1,6 +1,7 @@
 ---
 ppid: 2096
 name: Wraith Engine
-type: engine_structure
+job: engine_structure
 factions:
-  - cryx
+- cryx
+scans: 2

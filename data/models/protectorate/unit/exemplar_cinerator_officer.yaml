@@ -1,6 +1,7 @@
 ---
 ppid: 4185
 name: Exemplar Cinerator Officer
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

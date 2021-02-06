@@ -1,6 +1,7 @@
 ---
 ppid: 3775
 name: Trencher Combat Engineers
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

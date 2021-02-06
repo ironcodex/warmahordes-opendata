@@ -1,6 +1,7 @@
 ---
 ppid: 1194
 name: Reckoner
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

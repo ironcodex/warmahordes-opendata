@@ -1,6 +1,7 @@
 ---
 ppid: 1052
 name: Crusader
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

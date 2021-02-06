@@ -1,6 +1,7 @@
 ---
 ppid: 3847
 name: Kolgrima Stonetruth, Winter Witch
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

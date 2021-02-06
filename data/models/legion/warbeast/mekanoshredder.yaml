@@ -1,6 +1,7 @@
 ---
 ppid: 4775
 name: Mekanoshredder
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

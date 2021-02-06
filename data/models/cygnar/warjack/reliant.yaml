@@ -1,6 +1,7 @@
 ---
 ppid: 740
 name: Reliant
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

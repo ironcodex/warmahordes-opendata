@@ -1,6 +1,7 @@
 ---
 ppid: 1309
 name: Battle Mechaniks
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

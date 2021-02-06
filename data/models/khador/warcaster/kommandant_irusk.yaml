@@ -1,6 +1,7 @@
 ---
 ppid: 1401
 name: Kommandant Irusk
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

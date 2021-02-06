@@ -1,6 +1,7 @@
 ---
 ppid: 3929
 name: Gatorman Posse (Blindwater)
-type: unit
+job: unit
 factions:
-  - minions
+- minions
+scans: 2

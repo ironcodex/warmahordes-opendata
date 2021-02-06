@@ -1,6 +1,7 @@
 ---
 ppid: 4662
 name: Thamarite Advocate
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

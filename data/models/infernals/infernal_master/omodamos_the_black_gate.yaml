@@ -1,6 +1,7 @@
 ---
 ppid: 4402
 name: Omodamos, The Black Gate
-type: infernal_masters
+job: infernal_master
 factions:
-  - infernals
+- infernals
+scans: 4

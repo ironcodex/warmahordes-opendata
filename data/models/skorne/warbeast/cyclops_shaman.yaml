@@ -1,6 +1,7 @@
 ---
 ppid: 820
 name: Cyclops Shaman
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

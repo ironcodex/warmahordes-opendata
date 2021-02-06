@@ -1,6 +1,7 @@
 ---
 ppid: 2805
 name: Monitor
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

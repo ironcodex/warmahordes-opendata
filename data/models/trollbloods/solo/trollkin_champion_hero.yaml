@@ -1,6 +1,7 @@
 ---
 ppid: 1768
 name: Trollkin Champion Hero
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

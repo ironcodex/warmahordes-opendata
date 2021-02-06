@@ -1,6 +1,7 @@
 ---
 ppid: 1998
 name: Reaper
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

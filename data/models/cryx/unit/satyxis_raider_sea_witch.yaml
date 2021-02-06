@@ -1,6 +1,7 @@
 ---
 ppid: 2025
 name: Satyxis Raider Sea Witch
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

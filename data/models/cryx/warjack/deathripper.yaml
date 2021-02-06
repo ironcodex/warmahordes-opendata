@@ -1,6 +1,7 @@
 ---
 ppid: 1879
 name: Deathripper
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

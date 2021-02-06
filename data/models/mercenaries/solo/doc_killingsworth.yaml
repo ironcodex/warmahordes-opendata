@@ -1,6 +1,7 @@
 ---
 ppid: 2464
 name: Doc Killingsworth
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

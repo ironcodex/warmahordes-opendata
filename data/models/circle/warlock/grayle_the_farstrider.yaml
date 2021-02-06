@@ -1,6 +1,7 @@
 ---
 ppid: 2910
 name: Grayle the Farstrider
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

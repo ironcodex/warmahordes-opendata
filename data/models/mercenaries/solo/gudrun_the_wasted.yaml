@@ -1,6 +1,7 @@
 ---
 ppid: 4997
 name: Gudrun the Wasted
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2732
 name: Accretion Servitors
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

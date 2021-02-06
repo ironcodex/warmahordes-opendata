@@ -1,6 +1,7 @@
 ---
 ppid: 3400
 name: Bloody Barnabas
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

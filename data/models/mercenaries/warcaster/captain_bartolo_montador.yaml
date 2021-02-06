@@ -1,6 +1,7 @@
 ---
 ppid: 2404
 name: Captain Bartolo Montador
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

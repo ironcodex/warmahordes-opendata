@@ -1,6 +1,7 @@
 ---
 ppid: 3666
 name: Hollowmen
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3914
 name: Barnabas, Lord of Blood
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 6

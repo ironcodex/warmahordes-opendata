@@ -1,6 +1,7 @@
 ---
 ppid: 3185
 name: Blighted Nyss Scather Crew
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

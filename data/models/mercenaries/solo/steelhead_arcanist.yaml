@@ -1,6 +1,7 @@
 ---
 ppid: 4291
 name: Steelhead Arcanist
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

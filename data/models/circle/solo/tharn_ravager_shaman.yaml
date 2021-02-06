@@ -1,6 +1,7 @@
 ---
 ppid: 3033
 name: Tharn Ravager Shaman
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

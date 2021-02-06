@@ -1,6 +1,7 @@
 ---
 ppid: 1010
 name: Legends of Halaak
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 4

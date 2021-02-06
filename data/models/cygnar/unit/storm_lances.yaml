@@ -1,6 +1,7 @@
 ---
 ppid: 707
 name: Storm Lances
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

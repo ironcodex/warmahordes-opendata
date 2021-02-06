@@ -1,6 +1,7 @@
 ---
 ppid: 4749
 name: Negation Angels
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

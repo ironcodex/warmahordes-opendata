@@ -1,6 +1,7 @@
 ---
 ppid: 590
 name: Fenris
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 4

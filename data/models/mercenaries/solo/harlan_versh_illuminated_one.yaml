@@ -1,6 +1,7 @@
 ---
 ppid: 2552
 name: Harlan Versh, Illuminated One
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

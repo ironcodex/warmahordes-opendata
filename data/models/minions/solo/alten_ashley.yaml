@@ -1,6 +1,7 @@
 ---
 ppid: 3388
 name: Alten Ashley
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

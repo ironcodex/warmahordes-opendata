@@ -1,6 +1,7 @@
 ---
 ppid: 1916
 name: Harrower
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

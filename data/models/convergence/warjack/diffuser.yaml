@@ -1,6 +1,7 @@
 ---
 ppid: 2764
 name: Diffuser
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

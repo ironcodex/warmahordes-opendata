@@ -1,6 +1,7 @@
 ---
 ppid: 1634
 name: Hoarluk Doomshaper, Dire Prophet & Scroll Bearers
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 6

@@ -1,6 +1,7 @@
 ---
 ppid: 2883
 name: Death Wolves
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

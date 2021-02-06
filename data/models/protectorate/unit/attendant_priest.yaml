@@ -1,6 +1,7 @@
 ---
 ppid: 1034
 name: Attendant Priest
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

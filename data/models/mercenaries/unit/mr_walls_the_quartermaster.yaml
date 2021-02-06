@@ -1,6 +1,7 @@
 ---
 ppid: 2717
 name: Mr. Walls, the Quartermaster
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

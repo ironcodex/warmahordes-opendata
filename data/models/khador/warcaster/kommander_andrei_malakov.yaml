@@ -1,6 +1,7 @@
 ---
 ppid: 471
 name: Kommander Andrei Malakov
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

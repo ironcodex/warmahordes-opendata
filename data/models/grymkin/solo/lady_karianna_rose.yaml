@@ -1,6 +1,7 @@
 ---
 ppid: 3669
 name: Lady Karianna Rose
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

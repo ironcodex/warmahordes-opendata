@@ -1,6 +1,7 @@
 ---
 ppid: 2257
 name: Houseguard Rifleman Officer & Standard
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

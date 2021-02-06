@@ -1,6 +1,7 @@
 ---
 ppid: 1018
 name: Praetorian Karax Officer & Standard
-type: unit
+job: unit
 factions:
-  - skorne
+- skorne
+scans: 2

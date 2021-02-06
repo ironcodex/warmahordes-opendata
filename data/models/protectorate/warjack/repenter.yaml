@@ -1,6 +1,7 @@
 ---
 ppid: 1203
 name: Repenter
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

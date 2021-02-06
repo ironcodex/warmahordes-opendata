@@ -1,6 +1,7 @@
 ---
 ppid: 4477
 name: Gorman the Mad
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 358
 name: Hurricane
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 4

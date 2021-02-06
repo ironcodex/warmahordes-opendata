@@ -1,6 +1,7 @@
 ---
 ppid: 3922
 name: Hearthgut Hooch Hauler
-type: engine_structure
+job: engine_structure
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

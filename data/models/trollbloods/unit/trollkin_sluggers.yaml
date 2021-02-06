@@ -1,6 +1,7 @@
 ---
 ppid: 1798
 name: Trollkin Sluggers
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

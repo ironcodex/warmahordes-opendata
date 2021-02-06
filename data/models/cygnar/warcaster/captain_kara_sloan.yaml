@@ -1,6 +1,7 @@
 ---
 ppid: 325
 name: Captain Kara Sloan
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

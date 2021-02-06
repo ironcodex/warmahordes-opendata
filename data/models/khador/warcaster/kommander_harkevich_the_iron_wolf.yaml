@@ -1,6 +1,7 @@
 ---
 ppid: 1406
 name: Kommander Harkevich, the Iron Wolf
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

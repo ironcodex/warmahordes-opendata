@@ -1,6 +1,7 @@
 ---
 ppid: 2126
 name: Troll Bouncer
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

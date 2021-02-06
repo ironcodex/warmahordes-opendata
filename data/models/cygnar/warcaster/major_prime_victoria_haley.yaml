@@ -1,6 +1,7 @@
 ---
 ppid: 400
 name: Major Prime Victoria Haley
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 8

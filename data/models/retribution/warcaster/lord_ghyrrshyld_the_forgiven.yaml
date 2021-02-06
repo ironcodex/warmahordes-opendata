@@ -1,6 +1,7 @@
 ---
 ppid: 2299
 name: Lord Ghyrrshyld, the Forgiven
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

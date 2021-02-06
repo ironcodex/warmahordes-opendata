@@ -1,6 +1,7 @@
 ---
 ppid: 2013
 name: Satyxis Blood Hag
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

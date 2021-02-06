@@ -1,6 +1,7 @@
 ---
 ppid: 476
 name: Greylord Forge Seer
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

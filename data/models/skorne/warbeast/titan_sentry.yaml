@@ -1,6 +1,7 @@
 ---
 ppid: 905
 name: Titan Sentry
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

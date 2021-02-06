@@ -1,6 +1,7 @@
 ---
 ppid: 385
 name: Major Beth Maddox
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

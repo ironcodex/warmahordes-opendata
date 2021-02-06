@@ -1,6 +1,7 @@
 ---
 ppid: 2164
 name: Chimera
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

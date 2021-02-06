@@ -1,6 +1,7 @@
 ---
 ppid: 420
 name: Stormwall
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 6

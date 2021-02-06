@@ -1,6 +1,7 @@
 ---
 ppid: 5023
 name: Stone Lord Guvul Godor
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

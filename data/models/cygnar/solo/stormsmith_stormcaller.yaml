@@ -1,6 +1,7 @@
 ---
 ppid: 716
 name: Stormsmith Stormcaller
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

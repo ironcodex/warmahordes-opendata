@@ -1,6 +1,7 @@
 ---
 ppid: 1471
 name: Obavnik Kommander Zerkova & Reaver Guard
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 6

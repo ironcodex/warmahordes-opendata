@@ -1,6 +1,7 @@
 ---
 ppid: 4410
 name: Cultist Band
-type: unit
+job: unit
 factions:
-  - infernals
+- infernals
+scans: 2

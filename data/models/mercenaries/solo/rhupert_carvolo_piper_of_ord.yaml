@@ -1,6 +1,7 @@
 ---
 ppid: 2634
 name: Rhupert Carvolo, Piper of Ord
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

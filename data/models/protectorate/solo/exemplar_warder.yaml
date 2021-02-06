@@ -1,6 +1,7 @@
 ---
 ppid: 4186
 name: Exemplar Warder
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

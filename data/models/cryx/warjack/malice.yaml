@@ -1,6 +1,7 @@
 ---
 ppid: 1965
 name: Malice
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

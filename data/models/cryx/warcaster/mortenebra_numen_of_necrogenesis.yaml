@@ -1,6 +1,7 @@
 ---
 ppid: 491
 name: Mortenebra, Numen of Necrogenesis
-type: warcaster
+job: warcaster
 factions:
-  - cryx
+- cryx
+scans: 4

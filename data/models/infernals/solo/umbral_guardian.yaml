@@ -1,6 +1,7 @@
 ---
 ppid: 4420
 name: Umbral Guardian
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

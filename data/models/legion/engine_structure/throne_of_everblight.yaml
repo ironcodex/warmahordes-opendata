@@ -1,6 +1,7 @@
 ---
 ppid: 3358
 name: Throne of Everblight
-type: engine_structure
+job: engine_structure
 factions:
-  - legion
+- legion
+scans: 2

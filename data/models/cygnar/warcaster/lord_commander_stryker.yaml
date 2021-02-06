@@ -1,6 +1,7 @@
 ---
 ppid: 375
 name: Lord Commander Stryker
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

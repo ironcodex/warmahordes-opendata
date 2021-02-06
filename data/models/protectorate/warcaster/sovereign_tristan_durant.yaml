@@ -1,6 +1,7 @@
 ---
 ppid: 1225
 name: Sovereign Tristan Durant
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

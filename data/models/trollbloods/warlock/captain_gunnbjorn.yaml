@@ -1,6 +1,7 @@
 ---
 ppid: 1584
 name: Captain Gunnbjorn
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

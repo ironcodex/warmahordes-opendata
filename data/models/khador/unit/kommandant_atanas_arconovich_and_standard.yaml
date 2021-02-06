@@ -1,6 +1,7 @@
 ---
 ppid: 4040
 name: Kommandant Atanas Arconovich & Standard
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

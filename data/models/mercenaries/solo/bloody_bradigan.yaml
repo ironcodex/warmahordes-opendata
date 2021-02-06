@@ -1,6 +1,7 @@
 ---
 ppid: 2388
 name: Bloody Bradigan
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1786
 name: Trollkin Runebearer
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

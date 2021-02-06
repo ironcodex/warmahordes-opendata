@@ -1,6 +1,7 @@
 ---
 ppid: 2842
 name: Transfinite Emergence Projector
-type: engine_structure
+job: engine_structure
 factions:
-  - convergence
+- convergence
+scans: 4

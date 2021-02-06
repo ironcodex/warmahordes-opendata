@@ -1,6 +1,7 @@
 ---
 ppid: 2510
 name: General Ossrum
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

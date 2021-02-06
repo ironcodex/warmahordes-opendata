@@ -1,6 +1,7 @@
 ---
 ppid: 3500
 name: Jaga-Jaga, the Death Charmer
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

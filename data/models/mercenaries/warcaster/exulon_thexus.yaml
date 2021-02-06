@@ -1,6 +1,7 @@
 ---
 ppid: 2483
 name: Exulon Thexus
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

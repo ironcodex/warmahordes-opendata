@@ -1,6 +1,7 @@
 ---
 ppid: 3339
 name: Succubus
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

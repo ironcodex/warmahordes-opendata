@@ -1,6 +1,7 @@
 ---
 ppid: 3223
 name: Grotesque Banshees
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3621
 name: Accursed
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

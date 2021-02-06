@@ -1,6 +1,7 @@
 ---
 ppid: 2939
 name: Kromac, Champion of the Wurm
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1507
 name: Uhlan Kovnik Markov
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

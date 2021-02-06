@@ -1,6 +1,7 @@
 ---
 ppid: 844
 name: Stormsmith Storm Tower
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

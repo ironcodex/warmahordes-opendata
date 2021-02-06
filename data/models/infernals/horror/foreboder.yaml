@@ -1,6 +1,7 @@
 ---
 ppid: 4409
 name: Foreboder
-type: horrors
+job: horror
 factions:
-  - infernals
+- infernals
+scans: 2

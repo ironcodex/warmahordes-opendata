@@ -1,6 +1,7 @@
 ---
 ppid: 3781
 name: Trencher Commando Officer
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

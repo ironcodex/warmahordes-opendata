@@ -1,6 +1,7 @@
 ---
 ppid: 2590
 name: Magnus the Warlord
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 1576
 name: Braylen Wanderheart, Trollkin Outlaw
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

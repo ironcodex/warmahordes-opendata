@@ -1,6 +1,7 @@
 ---
 ppid: 4715
 name: Helga on Wheels
-type: warlock
+job: warlock
 factions:
-  - minions
+- minions
+scans: 4

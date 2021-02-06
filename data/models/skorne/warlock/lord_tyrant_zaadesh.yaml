@@ -1,6 +1,7 @@
 ---
 ppid: 453
 name: Lord Tyrant Zaadesh
-type: warlock
+job: warlock
 factions:
-  - skorne
+- skorne
+scans: 4

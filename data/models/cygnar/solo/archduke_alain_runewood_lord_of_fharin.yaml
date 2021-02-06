@@ -1,6 +1,7 @@
 ---
 ppid: 290
 name: Archduke Alain Runewood, Lord of Fharin
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

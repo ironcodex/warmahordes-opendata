@@ -1,6 +1,7 @@
 ---
 ppid: 2860
 name: Baldur the Stonesoul
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

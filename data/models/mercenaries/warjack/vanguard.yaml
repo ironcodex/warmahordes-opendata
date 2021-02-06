@@ -1,6 +1,7 @@
 ---
 ppid: 2702
 name: Vanguard
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

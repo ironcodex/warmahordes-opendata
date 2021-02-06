@@ -1,6 +1,7 @@
 ---
 ppid: 4412
 name: Howlers
-type: unit
+job: unit
 factions:
-  - infernals
+- infernals
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2236
 name: House Ellowuyr Swordsmen
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

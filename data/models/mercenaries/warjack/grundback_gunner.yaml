@@ -1,6 +1,7 @@
 ---
 ppid: 2540
 name: Grundback Gunner
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

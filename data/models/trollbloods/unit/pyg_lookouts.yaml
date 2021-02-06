@@ -1,6 +1,7 @@
 ---
 ppid: 3861
 name: Pyg Lookouts
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 944
 name: Cyclops Raider
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

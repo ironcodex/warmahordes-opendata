@@ -1,6 +1,7 @@
 ---
 ppid: 746
 name: Silver Line Stormguard
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2

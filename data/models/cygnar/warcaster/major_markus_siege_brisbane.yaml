@@ -1,6 +1,7 @@
 ---
 ppid: 395
 name: Major Markus "Siege" Brisbane
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

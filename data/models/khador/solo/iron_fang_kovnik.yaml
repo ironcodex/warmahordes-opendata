@@ -1,6 +1,7 @@
 ---
 ppid: 1370
 name: Iron Fang Kovnik
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

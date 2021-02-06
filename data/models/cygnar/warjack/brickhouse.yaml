@@ -1,6 +1,7 @@
 ---
 ppid: 762
 name: Brickhouse
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 644
 name: Cyclone
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

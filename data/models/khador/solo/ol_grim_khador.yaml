@@ -1,6 +1,7 @@
 ---
 ppid: 5014
 name: Ol' Grim (Khador)
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2534
 name: Greygore Boomhowler & Co.
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

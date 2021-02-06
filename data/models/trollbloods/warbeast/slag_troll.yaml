@@ -1,6 +1,7 @@
 ---
 ppid: 1741
 name: Slag Troll
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

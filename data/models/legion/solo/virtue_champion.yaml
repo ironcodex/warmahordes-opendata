@@ -1,6 +1,7 @@
 ---
 ppid: 4876
 name: Virtue Champion
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

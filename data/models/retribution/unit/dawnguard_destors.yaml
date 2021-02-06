@@ -1,6 +1,7 @@
 ---
 ppid: 2170
 name: Dawnguard Destors
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4161
 name: Aurum Ominus Alyce Marc
-type: solo
+job: solo
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 4

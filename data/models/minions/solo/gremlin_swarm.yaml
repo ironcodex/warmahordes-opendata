@@ -1,6 +1,7 @@
 ---
 ppid: 3480
 name: Gremlin Swarm
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

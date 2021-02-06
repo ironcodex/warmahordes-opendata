@@ -1,6 +1,7 @@
 ---
 ppid: 3286
 name: Raek
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

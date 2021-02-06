@@ -1,6 +1,7 @@
 ---
 ppid: 1136
 name: High Executioner Servath Reznik
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

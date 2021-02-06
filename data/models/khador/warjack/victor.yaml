@@ -1,6 +1,7 @@
 ---
 ppid: 1510
 name: Victor
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 4

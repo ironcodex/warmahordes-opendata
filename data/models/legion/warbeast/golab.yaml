@@ -1,6 +1,7 @@
 ---
 ppid: 3996
 name: Golab
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

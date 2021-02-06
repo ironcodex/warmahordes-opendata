@@ -1,6 +1,7 @@
 ---
 ppid: 4035
 name: Kommandant Sorscha Kratikoff
-type: warcaster
+job: warcaster
 factions:
-  - khador
+- khador
+scans: 4

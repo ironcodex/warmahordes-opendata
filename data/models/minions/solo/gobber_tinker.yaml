@@ -1,6 +1,7 @@
 ---
 ppid: 3477
 name: Gobber Tinker
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

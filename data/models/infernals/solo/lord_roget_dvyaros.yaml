@@ -1,6 +1,7 @@
 ---
 ppid: 4415
-name: Lord Roget d’Vyaros
-type: solo
+name: "Lord Roget d\u2019Vyaros"
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

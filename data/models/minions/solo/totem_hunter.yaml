@@ -1,6 +1,7 @@
 ---
 ppid: 3567
 name: Totem Hunter
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

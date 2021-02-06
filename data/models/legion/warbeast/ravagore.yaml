@@ -1,6 +1,7 @@
 ---
 ppid: 3289
 name: Ravagore
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

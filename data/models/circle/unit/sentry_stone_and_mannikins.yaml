@@ -1,6 +1,7 @@
 ---
 ppid: 569
 name: Sentry Stone & Mannikins
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

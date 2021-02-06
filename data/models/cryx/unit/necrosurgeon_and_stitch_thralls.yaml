@@ -1,6 +1,7 @@
 ---
 ppid: 1978
 name: Necrosurgeon & Stitch Thralls
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

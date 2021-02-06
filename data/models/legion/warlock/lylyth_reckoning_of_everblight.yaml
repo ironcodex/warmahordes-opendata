@@ -1,6 +1,7 @@
 ---
 ppid: 3255
 name: Lylyth, Reckoning of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 623
 name: Charger
-type: warjack
+job: warjack
 factions:
-  - cygnar
+- cygnar
+scans: 2

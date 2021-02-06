@@ -1,6 +1,7 @@
 ---
 ppid: 3271
 name: Nephilim Bolt Thrower
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

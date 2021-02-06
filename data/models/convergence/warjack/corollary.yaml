@@ -1,6 +1,7 @@
 ---
 ppid: 2761
 name: Corollary
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3944
 name: Scharde Pirates
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4416
 name: Eilish Garrity, the Dark Seeker
-type: solo
+job: solo
 factions:
-  - infernals
+- infernals
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 2339
 name: Priest of Nyssor
-type: solo
+job: solo
 factions:
-  - retribution
+- retribution
+scans: 2

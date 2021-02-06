@@ -1,6 +1,7 @@
 ---
 ppid: 1344
 name: Devastator
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

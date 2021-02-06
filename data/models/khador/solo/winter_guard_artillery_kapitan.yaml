@@ -1,6 +1,7 @@
 ---
 ppid: 442
 name: Winter Guard Artillery Kapitan
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

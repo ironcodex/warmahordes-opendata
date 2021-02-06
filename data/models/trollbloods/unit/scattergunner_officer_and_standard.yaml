@@ -1,6 +1,7 @@
 ---
 ppid: 2115
 name: Scattergunner Officer & Standard
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

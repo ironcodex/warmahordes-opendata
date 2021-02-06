@@ -1,6 +1,7 @@
 ---
 ppid: 4730
 name: Ashlynn D'Elyse, The Queen's Blade
-type: warcaster
+job: warcaster
 factions:
-  - mercenaries
+- mercenaries
+scans: 6

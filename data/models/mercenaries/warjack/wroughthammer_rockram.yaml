@@ -1,6 +1,7 @@
 ---
 ppid: 2705
 name: Wroughthammer Rockram
-type: warjack
+job: warjack
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

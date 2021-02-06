@@ -1,6 +1,7 @@
 ---
 ppid: 1061
 name: Deliverer Sunburst Crew
-type: unit
+job: unit
 factions:
-  - protectorate
+- protectorate
+scans: 2

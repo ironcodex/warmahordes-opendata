@@ -1,6 +1,7 @@
 ---
 ppid: 2927
 name: Kaya the Wildheart
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

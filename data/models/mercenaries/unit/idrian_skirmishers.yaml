@@ -1,6 +1,7 @@
 ---
 ppid: 2564
 name: Idrian Skirmishers
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

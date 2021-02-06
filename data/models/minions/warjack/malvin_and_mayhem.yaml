@@ -1,6 +1,7 @@
 ---
 ppid: 4790
 name: Malvin and Mayhem
-type: warjack
+job: warjack
 factions:
-  - minions
+- minions
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1282
 name: Wrack
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 2

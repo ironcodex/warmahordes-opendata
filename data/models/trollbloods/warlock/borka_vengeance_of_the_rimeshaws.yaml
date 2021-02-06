@@ -1,6 +1,7 @@
 ---
 ppid: 1571
 name: Borka, Vengeance of the Rimeshaws
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

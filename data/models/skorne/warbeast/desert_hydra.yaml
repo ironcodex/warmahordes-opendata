@@ -1,6 +1,7 @@
 ---
 ppid: 1005
 name: Desert Hydra
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 4

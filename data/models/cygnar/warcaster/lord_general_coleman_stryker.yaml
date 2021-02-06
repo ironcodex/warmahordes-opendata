@@ -1,6 +1,7 @@
 ---
 ppid: 380
 name: Lord General Coleman Stryker
-type: warcaster
+job: warcaster
 factions:
-  - cygnar
+- cygnar
+scans: 4

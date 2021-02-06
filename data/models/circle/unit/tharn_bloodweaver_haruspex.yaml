@@ -1,6 +1,7 @@
 ---
 ppid: 4249
 name: Tharn Bloodweaver Haruspex
-type: unit
+job: unit
 factions:
-  - circle
+- circle
+scans: 2

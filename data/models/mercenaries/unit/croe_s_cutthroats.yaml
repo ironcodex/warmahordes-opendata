@@ -1,6 +1,7 @@
 ---
 ppid: 2452
 name: Croe's Cutthroats
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

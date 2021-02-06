@@ -1,6 +1,7 @@
 ---
 ppid: 1654
 name: Horgle, the Anvil
-type: warlock
+job: warlock
 factions:
-  - trollbloods
+- trollbloods
+scans: 4

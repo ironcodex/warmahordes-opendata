@@ -1,6 +1,7 @@
 ---
 ppid: 3628
 name: Ill Omens
-type: arcana
+job: arcana
 factions:
-  - grymkin
+- grymkin
+scans: 2

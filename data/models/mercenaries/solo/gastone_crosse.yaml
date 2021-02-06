@@ -1,6 +1,7 @@
 ---
 ppid: 2507
 name: Gastone Crosse
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

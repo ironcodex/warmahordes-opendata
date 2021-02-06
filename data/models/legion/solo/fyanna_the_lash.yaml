@@ -1,6 +1,7 @@
 ---
 ppid: 3212
 name: Fyanna the Lash
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

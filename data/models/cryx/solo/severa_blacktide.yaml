@@ -1,6 +1,7 @@
 ---
 ppid: 4012
 name: Severa Blacktide
-type: solo
+job: solo
 factions:
-  - cryx
+- cryx
+scans: 2

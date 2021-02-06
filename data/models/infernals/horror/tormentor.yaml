@@ -1,6 +1,7 @@
 ---
 ppid: 4405
 name: Tormentor
-type: horrors
+job: horror
 factions:
-  - infernals
+- infernals
+scans: 2

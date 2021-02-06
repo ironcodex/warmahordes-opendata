@@ -1,6 +1,7 @@
 ---
 ppid: 4245
 name: Frustum Locus
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

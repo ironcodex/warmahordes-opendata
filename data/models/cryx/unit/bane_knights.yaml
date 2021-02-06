@@ -1,6 +1,7 @@
 ---
 ppid: 1820
 name: Bane Knights
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 1271
 name: Vice Scrutator Vindictus
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

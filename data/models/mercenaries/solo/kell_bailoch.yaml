@@ -1,6 +1,7 @@
 ---
 ppid: 2573
 name: Kell Bailoch
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

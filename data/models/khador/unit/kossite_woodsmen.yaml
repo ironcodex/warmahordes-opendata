@@ -1,6 +1,7 @@
 ---
 ppid: 1433
 name: Kossite Woodsmen
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

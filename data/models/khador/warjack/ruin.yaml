@@ -1,6 +1,7 @@
 ---
 ppid: 1486
 name: Ruin
-type: warjack
+job: warjack
 factions:
-  - khador
+- khador
+scans: 2

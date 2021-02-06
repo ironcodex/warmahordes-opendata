@@ -1,6 +1,7 @@
 ---
 ppid: 2193
 name: Discordia
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 2

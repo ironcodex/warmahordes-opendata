@@ -1,6 +1,7 @@
 ---
 ppid: 1551
 name: Winter Guard Infantry Officer & Standard
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

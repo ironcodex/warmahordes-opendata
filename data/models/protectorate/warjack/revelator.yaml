@@ -1,6 +1,7 @@
 ---
 ppid: 1206
 name: Revelator
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 2294
 name: Lord Arcanist Ossyan
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

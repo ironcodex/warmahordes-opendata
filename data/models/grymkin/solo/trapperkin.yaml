@@ -1,6 +1,7 @@
 ---
 ppid: 3733
 name: Trapperkin
-type: solo
+job: solo
 factions:
-  - grymkin
+- grymkin
+scans: 2

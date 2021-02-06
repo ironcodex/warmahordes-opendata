@@ -1,6 +1,7 @@
 ---
 ppid: 3409
 name: Bog Trog Trawler
-type: solo
+job: solo
 factions:
-  - minions
+- minions
+scans: 2

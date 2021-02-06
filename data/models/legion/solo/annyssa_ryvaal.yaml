@@ -1,6 +1,7 @@
 ---
 ppid: 3135
 name: Annyssa Ryvaal
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

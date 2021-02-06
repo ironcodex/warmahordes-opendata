@@ -1,6 +1,7 @@
 ---
 ppid: 4339
 name: Steelhead Ironhead
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

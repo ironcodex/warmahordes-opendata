@@ -1,6 +1,7 @@
 ---
 ppid: 3904
 name: Champion of the Order of the Wall
-type: solo
+job: solo
 factions:
-  - protectorate
+- protectorate
+scans: 4

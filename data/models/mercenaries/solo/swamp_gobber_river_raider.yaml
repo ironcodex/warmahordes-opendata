@@ -1,6 +1,7 @@
 ---
 ppid: 2670
 name: Swamp Gobber River Raider
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

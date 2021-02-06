@@ -1,6 +1,7 @@
 ---
 ppid: 3361
 name: Typhon
-type: warbeast
+job: warbeast
 factions:
-  - legion
+- legion
+scans: 2

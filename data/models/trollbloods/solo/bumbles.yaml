@@ -1,6 +1,7 @@
 ---
 ppid: 4988
 name: Bumbles
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

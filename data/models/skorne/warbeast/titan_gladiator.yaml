@@ -1,6 +1,7 @@
 ---
 ppid: 832
 name: Titan Gladiator
-type: warbeast
+job: warbeast
 factions:
-  - skorne
+- skorne
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4752
 name: Prefect Hypatia
-type: solo
+job: solo
 factions:
-  - convergence
+- convergence
+scans: 2

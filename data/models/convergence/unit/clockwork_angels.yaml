@@ -1,6 +1,7 @@
 ---
 ppid: 2755
 name: Clockwork Angels
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

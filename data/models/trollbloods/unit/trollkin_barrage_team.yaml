@@ -1,6 +1,7 @@
 ---
 ppid: 4973
 name: Trollkin Barrage Team
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

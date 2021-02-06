@@ -1,6 +1,7 @@
 ---
 ppid: 3119
 name: Absylonia, Daughter of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

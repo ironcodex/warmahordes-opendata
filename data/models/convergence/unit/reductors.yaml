@@ -1,6 +1,7 @@
 ---
 ppid: 2833
 name: Reductors
-type: unit
+job: unit
 factions:
-  - convergence
+- convergence
+scans: 2

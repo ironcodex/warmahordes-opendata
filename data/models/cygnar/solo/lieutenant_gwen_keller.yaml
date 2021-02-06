@@ -1,6 +1,7 @@
 ---
 ppid: 3829
 name: Lieutenant Gwen Keller
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

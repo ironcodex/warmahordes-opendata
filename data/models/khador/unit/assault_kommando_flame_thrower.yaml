@@ -1,6 +1,7 @@
 ---
 ppid: 1300
 name: Assault Kommando Flame Thrower
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

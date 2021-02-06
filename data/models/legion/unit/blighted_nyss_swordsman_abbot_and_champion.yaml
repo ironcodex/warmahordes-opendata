@@ -1,6 +1,7 @@
 ---
 ppid: 3194
 name: Blighted Nyss Swordsman Abbot & Champion
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

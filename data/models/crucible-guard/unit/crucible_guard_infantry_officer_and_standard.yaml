@@ -1,6 +1,7 @@
 ---
 ppid: 4154
 name: Crucible Guard Infantry Officer & Standard
-type: unit
+job: unit
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 2

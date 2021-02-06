@@ -1,6 +1,7 @@
 ---
 ppid: 1542
 name: Winter Guard Field Gun Crew
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

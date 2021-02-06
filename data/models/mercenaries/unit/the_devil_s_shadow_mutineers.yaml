@@ -1,6 +1,7 @@
 ---
 ppid: 2688
 name: The Devil's Shadow Mutineers
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 4

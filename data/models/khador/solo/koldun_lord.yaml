@@ -1,6 +1,7 @@
 ---
 ppid: 1398
 name: Koldun Lord
-type: solo
+job: solo
 factions:
-  - khador
+- khador
+scans: 2

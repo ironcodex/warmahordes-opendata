@@ -1,6 +1,7 @@
 ---
 ppid: 2313
 name: Mage Hunter Strike Force
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

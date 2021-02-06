@@ -1,6 +1,7 @@
 ---
 ppid: 2273
 name: Hyperion
-type: warjack
+job: warjack
 factions:
-  - retribution
+- retribution
+scans: 4

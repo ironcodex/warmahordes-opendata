@@ -1,6 +1,7 @@
 ---
 ppid: 1100
 name: Fire of Salvation
-type: warjack
+job: warjack
 factions:
-  - protectorate
+- protectorate
+scans: 2

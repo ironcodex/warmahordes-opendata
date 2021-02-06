@@ -1,6 +1,7 @@
 ---
 ppid: 3330
 name: Strider Deathstalker
-type: solo
+job: solo
 factions:
-  - legion
+- legion
+scans: 2

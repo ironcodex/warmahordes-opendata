@@ -1,6 +1,7 @@
 ---
 ppid: 4009
 name: Black Ogrun Smog Belchers
-type: unit
+job: unit
 factions:
-  - cryx
+- cryx
+scans: 2

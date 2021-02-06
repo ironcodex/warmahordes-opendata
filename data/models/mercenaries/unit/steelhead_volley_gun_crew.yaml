@@ -1,6 +1,7 @@
 ---
 ppid: 4341
 name: Steelhead Volley Gun Crew
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

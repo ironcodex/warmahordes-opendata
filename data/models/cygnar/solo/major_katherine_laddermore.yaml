@@ -1,6 +1,7 @@
 ---
 ppid: 390
 name: Major Katherine Laddermore
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 4

@@ -1,6 +1,7 @@
 ---
 ppid: 2260
 name: Houseguard Riflemen
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

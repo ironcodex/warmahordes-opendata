@@ -1,6 +1,7 @@
 ---
 ppid: 3318
 name: Spawning Vessel
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

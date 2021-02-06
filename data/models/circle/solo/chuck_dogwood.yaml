@@ -1,6 +1,7 @@
 ---
 ppid: 4716
 name: Chuck Dogwood
-type: solo
+job: solo
 factions:
-  - circle
+- circle
+scans: 2

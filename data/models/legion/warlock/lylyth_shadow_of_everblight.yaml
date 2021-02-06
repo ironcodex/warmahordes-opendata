@@ -1,6 +1,7 @@
 ---
 ppid: 3260
 name: Lylyth, Shadow of Everblight
-type: warlock
+job: warlock
 factions:
-  - legion
+- legion
+scans: 4

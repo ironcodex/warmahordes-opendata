@@ -1,6 +1,7 @@
 ---
 ppid: 4206
 name: Journeyman Lieutenant Allister Caine
-type: solo
+job: solo
 factions:
-  - cygnar
+- cygnar
+scans: 2

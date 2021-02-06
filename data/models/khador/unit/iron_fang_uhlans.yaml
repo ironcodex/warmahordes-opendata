@@ -1,6 +1,7 @@
 ---
 ppid: 1379
 name: Iron Fang Uhlans
-type: unit
+job: unit
 factions:
-  - khador
+- khador
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 3391
 name: Battle Boar
-type: warbeast
+job: warbeast
 factions:
-  - minions
+- minions
+scans: 2

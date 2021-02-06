@@ -1,6 +1,7 @@
 ---
 ppid: 3179
 name: Blighted Nyss Legionnaires
-type: unit
+job: unit
 factions:
-  - legion
+- legion
+scans: 2

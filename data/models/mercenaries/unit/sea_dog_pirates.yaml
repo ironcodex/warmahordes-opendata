@@ -1,6 +1,7 @@
 ---
 ppid: 2652
 name: Sea Dog Pirates
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

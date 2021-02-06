@@ -1,6 +1,7 @@
 ---
 ppid: 1709
 name: Night Troll
-type: warbeast
+job: warbeast
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4290
 name: Garryth, Eye of Vengeance
-type: warcaster
+job: warcaster
 factions:
-  - retribution
+- retribution
+scans: 4

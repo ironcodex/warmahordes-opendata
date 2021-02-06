@@ -1,6 +1,7 @@
 ---
 ppid: 5020
 name: Stonecold Black Bella
-type: solo
+job: solo
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

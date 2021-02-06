@@ -1,6 +1,7 @@
 ---
 ppid: 2752
 name: Cipher
-type: warjack
+job: warjack
 factions:
-  - convergence
+- convergence
+scans: 2

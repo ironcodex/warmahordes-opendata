@@ -1,6 +1,7 @@
 ---
 ppid: 2222
 name: Heavy Rifle Team
-type: unit
+job: unit
 factions:
-  - retribution
+- retribution
+scans: 2

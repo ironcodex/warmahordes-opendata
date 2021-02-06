@@ -1,6 +1,7 @@
 ---
 ppid: 4779
 name: General Thunderstone Brug
-type: solo
+job: solo
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

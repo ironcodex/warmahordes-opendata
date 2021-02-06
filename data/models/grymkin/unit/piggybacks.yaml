@@ -1,6 +1,7 @@
 ---
 ppid: 3687
 name: Piggybacks
-type: unit
+job: unit
 factions:
-  - grymkin
+- grymkin
+scans: 2

@@ -1,6 +1,7 @@
 ---
 ppid: 4146
 name: Marshal General Baldwin Gearhart & Mr. Clogg
-type: warcaster
+job: warcaster
 factions:
-  - crucible-guard
+- crucible-guard
+scans: 6

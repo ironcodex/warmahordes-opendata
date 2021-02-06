@@ -1,6 +1,7 @@
 ---
 ppid: 1674
 name: Kriel Warrior Caber Thrower
-type: unit
+job: unit
 factions:
-  - trollbloods
+- trollbloods
+scans: 2

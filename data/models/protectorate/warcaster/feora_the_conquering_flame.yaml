@@ -1,6 +1,7 @@
 ---
 ppid: 1095
 name: Feora, the Conquering Flame
-type: warcaster
+job: warcaster
 factions:
-  - protectorate
+- protectorate
+scans: 4

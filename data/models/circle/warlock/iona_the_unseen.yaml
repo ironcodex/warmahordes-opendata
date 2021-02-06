@@ -1,6 +1,7 @@
 ---
 ppid: 4247
 name: Iona the Unseen
-type: warlock
+job: warlock
 factions:
-  - circle
+- circle
+scans: 4

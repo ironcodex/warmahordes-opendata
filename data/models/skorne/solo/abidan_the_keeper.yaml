@@ -1,6 +1,7 @@
 ---
 ppid: 4251
 name: Abidan the Keeper
-type: solo
+job: solo
 factions:
-  - skorne
+- skorne
+scans: 2

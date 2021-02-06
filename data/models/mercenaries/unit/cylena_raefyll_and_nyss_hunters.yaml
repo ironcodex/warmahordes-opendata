@@ -1,6 +1,7 @@
 ---
 ppid: 2455
 name: Cylena Raefyll & Nyss Hunters
-type: unit
+job: unit
 factions:
-  - mercenaries
+- mercenaries
+scans: 2

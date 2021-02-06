@@ -1,6 +1,7 @@
 ---
 ppid: 2010
 name: Ripjaw
-type: warjack
+job: warjack
 factions:
-  - cryx
+- cryx
+scans: 2

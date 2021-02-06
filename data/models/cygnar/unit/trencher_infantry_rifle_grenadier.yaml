@@ -1,6 +1,7 @@
 ---
 ppid: 680
 name: Trencher Infantry Rifle Grenadier
-type: unit
+job: unit
 factions:
-  - cygnar
+- cygnar
+scans: 2
