@@ -12,13 +12,13 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from tests import base
+import unittest
 
 from warmahordes_opendata import i18n
 from warmahordes_opendata import rules
 
 
-class TestTranslation(base.TestCase):
+class TestTranslation(unittest.TestCase):
     def setUp(self):
         super().setUp()
 

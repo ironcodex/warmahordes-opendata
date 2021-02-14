@@ -1,0 +1,7 @@
+---
+
+extends: default
+
+rules:
+  indentation:
+    indent-sequences: false  # match pyyaml output style
