@@ -3,5 +3,5 @@ ppid: 4158
 name: Doctor Alejandro Mosby
 job: unit
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2

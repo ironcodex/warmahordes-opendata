@@ -3,5 +3,5 @@ ppid: 4163
 name: Prospero
 job: solo
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2

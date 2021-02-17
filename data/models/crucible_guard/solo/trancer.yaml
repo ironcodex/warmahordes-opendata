@@ -3,5 +3,5 @@ ppid: 4165
 name: Trancer
 job: solo
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2

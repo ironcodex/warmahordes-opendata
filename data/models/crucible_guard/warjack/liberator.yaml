@@ -3,5 +3,5 @@ ppid: 4147
 name: Liberator
 job: warjack
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2

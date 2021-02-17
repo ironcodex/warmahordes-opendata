@@ -3,5 +3,5 @@ ppid: 4162
 name: Crucible Guard Mechanik
 job: solo
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2

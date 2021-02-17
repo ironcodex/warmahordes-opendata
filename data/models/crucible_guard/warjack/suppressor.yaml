@@ -3,5 +3,5 @@ ppid: 4149
 name: Suppressor
 job: warjack
 factions:
-- crucible-guard
+- crucible_guard
 scans: 2
