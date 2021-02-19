@@ -14,12 +14,19 @@
 
 import enum
 
+import yaml
+
 
 class BaseSize(enum.IntEnum):
     SMALL = 30
     MEDIUM = 40
     LARGE = 50
     HUGE = 120
+
+
+class WeaponType(enum.Enum):
+    MELEE = enum.auto()
+    RANGED = enum.auto()
 
 
 class WeaponLocation(enum.Enum):
@@ -35,8 +42,8 @@ class WeaponLocation(enum.Enum):
 
 class BaseWeaponStats:
     def __init__(self, rng, pow):
-        self.range = rng
-        self.power = pow
+        self.rng = rng
+        self.pow = pow
 
 
 class RangedWeaponStats(BaseWeaponStats):
@@ -49,9 +56,25 @@ class RangedWeaponStats(BaseWeaponStats):
 
 class MeleeWeaponStats(BaseWeaponStats):
     def __init__(self, rng, pow, p_s=True):
-        self.range = rng
-        self.power = pow
-        self.plus_strength = p_s
+        super().__init__(rng, pow)
+
+        self.p_s = p_s
+
+
+class Weapon:
+    def __init__(
+        self,
+        name,
+        stats,
+        location=WeaponLocation.NONE,
+        qualities=[],
+        rules=[],
+    ):
+        self.name = name
+        self.stats = stats
+        self.location = location
+        self.qualities = qualities
+        self.rules = rules
 
 
 class Model:
@@ -107,3 +130,8 @@ class Model:
         )
 
         return {k: v for k, v in model.items() if v is not None}
+
+    @classmethod
+    def from_file(cls, filename):
+        with open(filename, "r") as fd:
+            return cls.from_dict(yaml.load(fd))
