@@ -14,21 +14,31 @@
 
 import unittest
 
+from warmahordes_opendata import i18n
 from warmahordes_opendata import rules
 
 
-class TestRule(unittest.TestCase):
+class TestTranslation(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.rule = rules.Immunity.FIRE
+        self.message = rules.Immunity.FIRE.keyword
 
-    def test_keyword(self):
-        self.assertEqual(self.rule.keyword, "Immunity: Fire")
+    def test_message(self):
+        self.assertEqual(self.message, "Immunity: Fire")
+        self.assertNotEqual(type(self.message), str)
 
-    def test_description(self):
+    def test_pt_BR_is_available(self):
+        self.assertIn("pt_BR", i18n.get_available_languages())
+
+    def test_pt_BR_translation_from_message(self):
         self.assertEqual(
-            self.rule.description,
-            "This model does not suffer fire damage and "
-            "is immune to the Fire continuous effect.",
+            i18n.translate(self.message, "pt_BR"),
+            "Imunidade: Fogo",
+        )
+
+    def test_pt_BR_translation_from_str(self):
+        self.assertEqual(
+            i18n.translate("Immunity: Fire", "pt_BR"),
+            "Imunidade: Fogo",
         )
