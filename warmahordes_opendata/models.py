@@ -134,4 +134,4 @@ class Model:
     @classmethod
     def from_file(cls, filename):
         with open(filename, "r") as fd:
-            return cls.from_dict(yaml.load(fd))
+            return cls.from_dict(yaml.load(fd, yaml.BaseLoader))
