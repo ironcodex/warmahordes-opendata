@@ -1,0 +1,17 @@
+---
+name: advancing
+title: Advancing
+description: >
+  Advancing refers to movement a model intentionally makes, not
+  to involuntary movement caused by other effects, such as being pushed
+  or slammed. A model can change its facing at any time during its advance,
+  but when it advances it must always move in the direction it is facing.
+  Make all measurements from the front of an advancing model's base. Determine
+  the distance a model advances by measuring how far the leading edge of
+  its base travels. The distance moved is absolute. Changing facing by rotating
+  in place is still advancing even though the model's position on the table
+  does not change. A model's base cannot pass over another model's base
+  while advancing. This means that if a gap between the bases of two models
+  is too small for another model's base to fit between them, the third model
+  cannot move through the space.
+see_also: []

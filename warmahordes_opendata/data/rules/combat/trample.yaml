@@ -1,0 +1,44 @@
+---
+name: trample
+title: Trample
+description: >
+  A model making a trample power attack crashes its way through
+  small-based models in its path. A trample combines a model's Normal Movement
+  and Combat Action. A model cannot make a trample power attack if it forfeited
+  either its Normal Movement or its Combat Action.\n
+  \n
+  Declare a trample power attack at the beginning of the model's Normal
+  Movement. Choose a direction in which you wish to trample, and turn the
+  model to face that direction. The model then advances up to its current
+  SPD plus 3" in a straight line in that direction. It moves through any
+  small-based model in its path, but there must be room for the trampling
+  model's base at the end of the movement. It stops if it contacts a model
+  with a medium or larger base, an obstacle, or an obstruction. If a model
+  contacts a model with a medium or larger base, an obstacle, or an obstruction
+  while moving as part of a trample power attack but is able to move through
+  it for some reason, the trampling model does not stop but is still considered
+  to have contacted the model, obstacle, or obstruction. The trampling model
+  cannot change its facing during or after this movement. Do not resolve
+  free strikes against the trampling model during this movement.\n
+  \n
+  After the model has finished its trample movement, it makes a melee attack
+  roll against each small-based model it moved through during this movement.
+  Models hit by a trample attack suffer a power attack damage roll. These
+  attacks are simultaneous. When a trampling model hits a model with a Buckler
+  or a Shield or while a model is benefiting from the Shield Wall order,
+  the hit model gains the shield, buckler, or Shield Wall ARM bonus only
+  if the trampling model first contacted the model through its front arc.
+  A trampling model gains a back strike bonus against a model only if the
+  trampling model was completely in that model's back arc when it first
+  contacted that model.\n
+  \n
+  Resolve free strikes against the trampling model after resolving all trample
+  attacks. Small-based models contacted by the trampling model during its
+  trample movement cannot make free strikes against the trampling model.
+  Wait to resolve free strikes against the trampling model until after resolving
+  all trample attacks. Ignore the distance between models when resolving
+  free strikes against the trampling model; if a model was eligible to make
+  a free strike against the trampling model during the trampling model's
+  movement, it can do so whether or not the trampling model ended its movement
+  in the eligible model's melee range.
+see_also: []

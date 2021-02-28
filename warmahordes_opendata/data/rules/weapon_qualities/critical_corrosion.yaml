@@ -1,0 +1,7 @@
+---
+name: critical_corrosion
+title: Critical Corrosion
+description: >
+  On a critical hit, the model hit by this attack suffers the
+  Corrosion continuous effect.
+see_also: []

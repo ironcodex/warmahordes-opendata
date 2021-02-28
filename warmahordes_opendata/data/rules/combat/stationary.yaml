@@ -1,0 +1,12 @@
+---
+name: stationary
+title: Stationary
+description: >
+  Some attacks and special rules cause a model to become stationary.
+  While stationary a model does not have a melee range and cannot advance,
+  make special actions, make attacks, cast spells, use feats, be used to
+  channel a spell, or give orders. A stationary model does not engage other
+  models and cannot be engaged by them. As a consequence, a model is never
+  in melee with a stationary model. A melee attack against a stationary
+  model automatically hits. A stationary model has a base DEF of 5.
+see_also: []

@@ -1,0 +1,10 @@
+---
+name: immunity_electricity
+title: 'Immunity: Electricity'
+description: >
+  This model does not suffer electrical damage. Additionally,
+  when lightning arcs as a result of a special rule, ignore models with
+  Immunity: Electricity when determining which model the lightning arcs
+  to. Lightning cannot arc from a model with Immunity: Electricity.
+see_also:
+- damage_type_electricity

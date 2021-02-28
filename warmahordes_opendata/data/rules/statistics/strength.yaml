@@ -1,0 +1,6 @@
+---
+name: strength
+title: STR, Strengh
+description: >
+  A model's physical strength. STR is used to calculate melee damage.
+see_also: []

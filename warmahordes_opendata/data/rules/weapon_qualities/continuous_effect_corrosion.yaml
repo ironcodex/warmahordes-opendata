@@ -1,0 +1,7 @@
+---
+name: continuous_effect_corrosion
+title: 'Continuous Effect: Corrosion'
+description: >
+  A model hit by this attack suffers the Corrosion continuous
+  effect.
+see_also: []

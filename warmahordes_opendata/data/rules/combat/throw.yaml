@@ -1,0 +1,50 @@
+---
+name: throw
+title: Throw
+description: >
+  A model making a throw power attack picks up and throws another
+  model. A warjack must have at least one non-crippled weapon with the Open
+  Fist weapon quality to make a throw power attack. A warbeast must have
+  at least one weapon with the Open Fist weapon quality to make a throw
+  power attack. A throw power attack has a melee range equal to the melee
+  range of its non-crippled weapon with Open Fist. A model cannot throw
+  power attack a model with a larger base; that is, a model with a larger
+  base cannot be targeted.\n
+  \n
+  The attacking model must first attempt to grasp the model it intends to
+  throw by making a melee attack roll against it. If the attack hits, that
+  model is grasped and tries to break free before it is lifted off the ground.
+  Both models roll a d6 and add their current STR. An attacker with two
+  non-crippled weapons with Open Fist rolls 2d6 instead. If the grasped
+  model's total is greater, it breaks free and the attack ends. If the
+  attacker's total equals or exceeds the grasped model's total, the grasped
+  model is thrown.\n
+  \n
+  When your model throws another model, you can choose either to throw the
+  model directly away from the attacker or to throw it at another model
+  within the attacker's line of sight. The throw distance is equal to half
+  the attacker's current STR in inches.\n
+  \n
+  If you choose to have your model throw a model at another model, ignore
+  the model being thrown when determining line of sight to the target. The
+  target can have a larger base than the attacker. If the distance between
+  the thrown model and the model it is being thrown at is beyond the throw
+  distance, the point of impact is the point along the line from the thrown
+  model to the model it is being thrown at equal to the throw distance.
+  In this case, do not roll deviation. If the other model is within the
+  throw distance, the attacker makes a melee attack roll against it. On
+  a hit, move the thrown model from its current location directly toward
+  the other model's base until it contacts the target.\n
+  \n
+  If the target was in the throw range and the attack roll resulted in a
+  miss, determine the thrown model's actual point of impact by rolling
+  for deviation. Referencing the deviation rules, roll a d6 for direction
+  and a d3 for distance in inches. Measure deviation from the center of
+  the missed model's base. The deviation distance cannot exceed half the
+  distance between the thrown model and the model that was missed.\n
+  \n
+  When moving the thrown model, it moves through the throwing model without
+  contacting it.\n
+  \n
+  The thrown model suffers a power attack damage roll.
+see_also: []

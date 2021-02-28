@@ -1,0 +1,17 @@
+---
+name: placed
+title: Placed
+description: >
+  Sometimes models are placed in a new location as a result
+  of a special rule or spell. Placing a model is not moving or advancing
+  the model. Because a placed model did not advance, it cannot be targeted
+  by free strikes. A model that is placed within an area, however, is considered
+  to enter the area. There must be room for the model's base in the location
+  the model is placed. A model cannot be placed in impassable terrain or
+  with its base overlapping an obstacle, an obstruction, or another model's
+  base. The player placing the model chooses its facing.\n
+  \n
+  When you are placing a friendly trooper model that is in formation, it
+  must be placed in formation unless it is the unit commander. Unit commanders
+  can be placed without considering formation.
+see_also: []

@@ -1,0 +1,41 @@
+---
+name: power_attacks
+title: Power Attacks
+description: >
+  Power attacks are attack options available to some models,
+  such as warjacks and warbeasts. The power attacks available to other
+  models are described in their special rules. Warjacks and warbeasts
+  can make power attacks as follows.\n
+    - Lesser warbeasts cannot make power attacks.\n
+    - A light warjack or warbeast can make head-butt
+      and slam power attacks. A light warjack with at least one non-crippled
+      weapon with the Open Fist weapon quality can make throw power attacks.
+      A light warbeast with at least one weapon with the Open Fist weapon
+      quality can make throw power attacks.\n
+    - A heavy warjack or warbeast can make head-butt, slam, and trample power
+      attacks. A heavy warjack with at least one non-crippled weapon with the
+      Open Fist weapon quality can make throw power attacks. A heavy warbeast
+      with at least one weapon with the Open Fist weapon quality can make throw
+      power attacks.\n
+    - A colossal or gargantuan can make head-butt, slam, and trample power
+      attacks. A colossal with at least one non-crippled melee weapon that
+      has a location of L or R can make sweep power attacks. A colossal with
+      at least one non- crippled weapon with the Open Fist weapon quality
+      can make power strike and throw power attacks. A gargantuan with at
+      least one melee weapon that has a location of L or R can make sweep
+      power attacks. A gargantuan with at least one weapon with the Open Fist
+      weapon quality can make power strike and throw power attacks.\n
+  \n
+  A warjack must spend 1 focus point to make a power attack. A warbeast must be
+  forced to make a power attack.\n
+  \n
+  Unless otherwise noted, a model can make a power attack only during its
+  activation. A model cannot make  a power attack during an activation in which
+  it charges. A model cannot target a friendly model with a power attack.\n
+  \n
+  When a model makes a power attack, do not apply the special rules on its
+  weapons unless they specifically reference power attacks.\n
+  \n
+  A model that is able to do so can make additional melee attacks after making
+  a power attack. A model cannot make a power attack as an additional attack.
+see_also: []

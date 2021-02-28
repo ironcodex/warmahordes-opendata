@@ -1,0 +1,12 @@
+---
+name: flight
+title: Flight
+description: >
+  This model treats all non-impassable terrain as open terrain
+  while advancing. It can advance through obstructions and other models
+  if it has enough movement to move completely past them. While charging,
+  slam power attacking, or trample power attacking, this model does not
+  stop its movement when it contacts an obstacle, an obstruction, or another
+  model. This model ignores intervening models when declaring its charge
+  target. While knocked down or stationary, this model loses Flight.
+see_also: []

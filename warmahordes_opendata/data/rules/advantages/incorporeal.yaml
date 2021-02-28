@@ -1,0 +1,18 @@
+---
+name: incorporeal
+title: Incorporeal
+description: >
+  This model treats all non-impassable terrain as open terrain
+  while advancing. It can move through obstructions and through other models
+  if it has enough movement to move completely past them. While charging,
+  slam power attacking, or trample power attacking, this model does not
+  stop its movement when it contacts an obstacle, an obstruction, or another
+  model. Other models, including slammed, pushed, or thrown models, can
+  move through this model without effect if they have enough movement to
+  move completely past it. This model does not count as an intervening model.
+  This model is immune to continuous effects and non-magical damage. This
+  model cannot be moved by a push, slam, or throw. When this model makes
+  a melee or ranged attack, before the attack roll is made it loses Incorporeal
+  until the start of its next activation. This model cannot make free strikes
+  while Incorporeal.
+see_also: []

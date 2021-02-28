@@ -1,0 +1,10 @@
+---
+name: area_of_effect
+title: AOE, Area of Effect
+description: >
+  The diameter in inches of the template an area-of-effect (AOE)
+  weapon uses for determining which models are hit by the attack. When using
+  an AOE weapon, center the template on the determined point of impact.
+  All models within the template are affected and potentially suffer the
+  attack's damage and effects.
+see_also: []

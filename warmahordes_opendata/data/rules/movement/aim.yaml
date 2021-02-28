@@ -1,0 +1,9 @@
+---
+name: aim
+title: Aim
+description: >
+  The model does not advance, not even to change its facing;
+  then its Normal Movement ends. For the rest of the model's activation,
+  it receives a +2 bonus to every ranged attack roll it makes. A model in
+  melee cannot use its Normal Movement to aim.
+see_also: []

@@ -1,0 +1,8 @@
+---
+name: melee_attack
+title: MAT, Melee Attack
+description: >
+  A model's skill with melee weapons such as swords and hammers
+  or with natural weapons like fists and teeth. A model uses its MAT when
+  making melee attack rolls.
+see_also: []

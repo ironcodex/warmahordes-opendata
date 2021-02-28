@@ -1,0 +1,7 @@
+---
+name: combined_melee_attack
+title: Combined Melee Attack
+description: >
+  This model can participate in combined melee attacks with other models in
+  its unit.
+see_also: []

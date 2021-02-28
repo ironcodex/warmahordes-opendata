@@ -1,0 +1,9 @@
+---
+name: pushed
+title: Pushed
+description: >
+  Sometimes models can be pushed as a result of an attack, a
+  special rule, or a spell. A pushed model moves at half rate through rough
+  terrain, suffers the effects of any hazards through which it moves, and
+  stops if it contacts an obstacle, an obstruction, or another model.
+see_also: []

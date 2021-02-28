@@ -1,0 +1,25 @@
+---
+name: gunfighter
+title: Gunfighter
+description: >
+  This model is a gunfighter.\n
+  \n
+  A model with the Gunfighter advantage can make ranged attacks targeting
+  models in its melee range and/or can target models engaging it. A model
+  with the Gunfighter advantage can also make free strikes with ranged weapons.
+  If it does not have a melee weapon, it gains a melee range of 0.5".\n
+  \n
+  A model with the Gunfighter advantage can make charges. If it makes a
+  charge, the model can make its initial attacks with its ranged weapons,
+  but these attacks can target only models in its melee range. The charging
+  gunfighter's first melee or ranged attack after ending its charge movement
+  must target the model it charged. If the charging gunfighter did not fail
+  its charge and cannot make its first melee or ranged attack against the
+  charge target, the charging gunfighter can make its first attack against
+  any eligible target. Remember, your first attack after charging is a charge
+  attack only if you make it with a melee weapon, and a model in melee cannot
+  aim.\n
+  \n
+  Gunfighter does not allow a model to make melee and ranged attacks during
+  the same activation.
+see_also: []

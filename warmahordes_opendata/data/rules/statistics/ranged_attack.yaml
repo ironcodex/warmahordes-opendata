@@ -1,0 +1,8 @@
+---
+name: ranged_attack
+title: RAT, Ranged Attack
+description: >
+  A model's accuracy with ranged weapons such as guns and crossbows
+  or wiith thrown weapons like spears and knives. A model uses its RAT when
+  making ranged attack rolls.
+see_also: []

@@ -1,0 +1,36 @@
+---
+name: concealment_and_cover
+title: Concealment & Cover
+description: >
+  Terrain features, spells, and other effects can make it more
+  difficult to hit a model with a ranged or magic attack. A model within
+  1" of an intervening terrain feature can gain either a concealment
+  bonus or a cover bonus - depending on the type of terrain - to
+  its DEF against ranged and magic attacks. If you can draw a line from
+  any part of the attacker's volume to any part of the target model's
+  volume and that line passes through a terrain feature, that terrain
+  feature is intervening. Concealment and cover bonuses are not cumulative
+  with themselves or each other, but they are cumulative with other effects
+  that modify a model's DEF. In order to benefit from concealment or cover,
+  the target model must be within 1" of that terrain feature along at
+  least one straight line between it and the attacker. See "Terrain"
+  on p. 86 for details on terrain features and how they provide concealment
+  or cover.\n
+  \n
+  A model with concealment, either granted by being within
+  1" of a terrain feature that provides concealment in relation to its
+  attacker or from another effect, gains +2 DEF against ranged and magic
+  attack rolls. Concealment provides no benefit against spray attacks.
+  Examples of concealment- granting terrain features include low hedges
+  and bushes.\n
+  \n
+  A model with cover, granted either by being within 1"
+  of a terrain feature that provides cover in relation to its attacker
+  or from another effect, gains +4 DEF against ranged and magic attack
+  rolls. Cover provides no benefit against spray attacks. Examples of
+  cover-granting terrain features include stone walls, giant boulders,
+  and buildings.\n
+  \n
+  Remember, huge-based models never gain the DEF bonuses
+  from concealment or cover.
+see_also: []

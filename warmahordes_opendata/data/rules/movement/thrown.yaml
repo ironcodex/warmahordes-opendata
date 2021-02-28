@@ -1,0 +1,35 @@
+---
+name: thrown
+title: Thrown
+description: >
+  Sometimes models are thrown as the result of a spell or attack.
+  When a model is thrown, refer to the spell or attack that caused the throw
+  to determine the model's point of impact, generally directly away from
+  the attacking model. When resolving a throw power attack, however, it
+  may be necessary to roll for deviation to determine the thrown model's
+  point of impact. Move the thrown model from its current location in a
+  straight line directly toward the point of impact. During this movement,
+  a thrown model moves through models with smaller bases without contacting
+  them. Unlike when a model is slammed, rough terrain does not affect this
+  movement, but the thrown model still stops if it contacts an obstacle,
+  an obstruction, or a model with an equal or larger base. After moving,
+  the thrown model becomes knocked down and contacts all models with which
+  it is base-to-base and all models whose bases it overlaps. The thrown
+  model then suffers a damage roll determined by the spell or attack that
+  caused the throw.\n
+  \n
+  Add an additional die to the damage roll the thrown model suffers if it
+  contacts an obstacle, an obstruction, or a model with an equal or larger
+  base.\n
+  \n
+  If a thrown model contacts a model with an equal or smaller base, the
+  contacted model becomes knocked down and suffers a collateral damage roll
+  determined by the spell or attack that caused the throw. A contacted model
+  with a larger base than the thrown model does not suffer collateral damage
+  and is not knocked down. Resolve any collateral damage simultaneously
+  with the damage resulting from the spell or attack that caused the throw.\n
+  \n
+  If a thrown model cannot be knocked down it must still forfeit its Normal
+  Movement or Combat Action if it activates later in a turn in which it
+  was thrown.
+see_also: []

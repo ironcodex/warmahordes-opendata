@@ -1,0 +1,9 @@
+---
+name: defense
+title: DEF, Defense
+description: >
+  A model's ability to avoid being hit by an attack. A model's
+  size, quickness, skill, and even magical protection all contribute to
+  its DEF. An attack roll must be equal to or greater than the target model's
+  DEF to score a hit against it.
+see_also: []

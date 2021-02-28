@@ -1,0 +1,9 @@
+---
+name: armor
+title: ARM, Armor
+description: >
+  A model's ability to resist being damaged. This resistance
+  can come from natural resilience, worn armor, or even magical benefits.
+  A model takes 1 damage point for every point by which a damage roll exceeds
+  its ARM.
+see_also: []

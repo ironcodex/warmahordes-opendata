@@ -1,0 +1,10 @@
+---
+name: engaged_and_engaging
+title: Engaged & Engaging
+description: >
+  When a model is within an enemy model's melee range and in
+  that model's line of sight, it is engaged. When a model has an enemy model
+  in its melee range and line of sight, it is engaging that model. When
+  a model is either engaged or engaging, it is in melee, which prevents
+  it from making ranged attacks.
+see_also: []

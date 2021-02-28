@@ -1,0 +1,9 @@
+---
+name: power
+title: POW, Power
+description: >
+  The value used when making damage rolls. A weapon or attack
+  marked with a POW of " - " does not cause damage. Some special
+  rules can affect a weapon's POW. A weapon's POW can never be reduced
+  to less than 0.
+see_also: []

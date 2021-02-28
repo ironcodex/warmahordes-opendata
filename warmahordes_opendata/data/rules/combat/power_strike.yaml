@@ -1,0 +1,18 @@
+---
+name: power_strike
+title: Power Strike
+description: >
+  Only colossals and gargantuans can make power strikes.\n
+  \n
+  A model making a power strike power attack uses the force of its tremendous
+  melee power to send a smaller-based model flying. A model must have at
+  least one non-crippled weapon with the Open Fist weapon quality to make
+  a power strike power attack. The power strike power attack has a melee
+  range equal to that weapon's melee range. Its target must be in the Open
+  Fist's field of fire and have a smaller base than the colossal or
+  gargantuan.\n
+  \n
+  The attacking model makes a melee attack against the target. If the attack
+  hits, the target is slammed d6 + 2 directly away from the colossal or
+  gargantuan and suffers a power attack damage roll.
+see_also: []

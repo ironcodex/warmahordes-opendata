@@ -1,0 +1,7 @@
+---
+name: rate_of_fire
+title: ROF, Rate of Fire
+description: >
+  The number of initial attacks a model can make with this ranged
+  weapon during its activation.
+see_also: []

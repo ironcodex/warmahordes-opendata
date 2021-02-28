@@ -1,0 +1,16 @@
+---
+name: range
+title: RNG, Range
+description: >
+  The maximum distance in inches between the attack's point of
+  origin and the target before the attack will automatically miss. Measure
+  range from the edge of the point of origin's base nearest to the target,
+  up to the maximum range of the attack. Spray attacks use special range
+  descriptors beginning with "SP". A RNG of "CTRL" indicates the weapon
+  can target any model in the attacking model's control range. Remember,
+  the attacking model needs line of sight to a model to target it. A RNG
+  of "*" indicates the model's special rules contain information about
+  determining the RNG. Some special rules can affect a weapon's range. If
+  a weapon's RNG is reduced to 0 or less by some effect, the weapon cannot
+  be used to make attacks.
+see_also: []

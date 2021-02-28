@@ -1,0 +1,13 @@
+---
+name: sweep
+title: Sweep
+description: >
+  A colossal or gargantuan can use its arms to scythe through
+  models within its reach. A colossal or gargantuan chooses a non-crippled
+  melee weapon with a location of L or R to make the sweep power attack.
+  It then makes one melee attack with the weapon against each model in the
+  weapon's field of fire that is within the weapon's melee range, ignoring
+  intervening models when determining line of sight. This power attack does
+  not require a target, but each separate attack does. These attacks are
+  simultaneous. Models hit suffer a power attack damage roll.
+see_also: []

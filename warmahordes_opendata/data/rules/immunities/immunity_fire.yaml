@@ -1,0 +1,9 @@
+---
+name: immunity_fire
+title: 'Immunity: Fire'
+description: >
+  This model does not suffer fire damage and is immune to the
+  Fire continuous effect.
+see_also:
+- damage_type_fire
+- continuous_effect_fire

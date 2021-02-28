@@ -1,0 +1,31 @@
+---
+name: slammed
+title: Slammed
+description: >
+  Sometimes models are slammed as a result of a spell or attack.
+  When a model is slammed, it is moved a certain distance directly away
+  from the point of origin of the slam (usually the attacker), then becomes
+  knocked down. The distance the slammed model is moved is determined by
+  the spell or attack that caused the slam. The slammed model then suffers
+  a damage roll determined by the spell or attack that caused the slam.
+  A slammed model moves at half rate through rough terrain, suffers any
+  damaging effects through which it passes, and stops if it contacts an
+  obstacle, an obstruction, or a model with an equal or larger base. A slammed
+  model moves through models with smaller bases than its own.\n
+  \n
+  Add an additional die to the damage roll the slammed model suffers if
+  it contacts an obstacle, an obstruction, or a model with an equal or larger
+  base.\n
+  \n
+  If a slammed model contacts a model with an equal or smaller base or moves
+  through a model with a smaller base, the contacted model becomes knocked
+  down and suffers a collateral damage roll determined by the spell or attack
+  that caused the slam. A contacted model with a larger base does not suffer
+  collateral damage and is not knocked down. Resolve any collateral damage
+  simultaneously with the damage resulting from the spell or attack that
+  caused the slam.\n
+  \n
+  If a slammed model cannot be knocked down it must still forfeit its Normal
+  Movement or Combat Action if it activates later in a turn in which it
+  was slammed.
+see_also: []

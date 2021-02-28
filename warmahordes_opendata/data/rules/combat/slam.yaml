@@ -1,0 +1,56 @@
+---
+name: slam
+title: Slam
+description: >
+  A model making a slam power attack rams a model with the full
+  force of its body to send the target model flying backward and knock
+  it to the ground. A slam combines a model's Normal Movement and Combat
+  Action. A model cannot make a slam power attack if it forfeited either
+  its Normal Movement or its Combat Action that activation.\n
+  \n
+  A slam power attack made by a colossal or gargantuan has a 2" melee range.
+  A slam power attack made by any other model has a 0.5" melee range.\n
+  \n
+  A model making a slam power attack during its activation can attempt
+  to slam any model that is in its line of sight at the beginning of its
+  Normal Movement. Declare a slam and its target before moving the slamming
+  model. Remember, a model requires line of sight to another model to
+  target it. After declaring a slam, turn the slamming model to directly
+  face the slam target. The slamming model then advances its full SPD
+  plus 3" directly toward its target. The slamming model cannot voluntarily
+  stop its movement unless its target is in its melee range, but it can
+  end this movement at any point with its target in its slam power attack's
+  melee range. It stops if it contacts a model, an obstacle, or an obstruction
+  or if it is pushed, slammed, thrown, or placed during its slam movement.
+  If a model contacts a model, an obstacle, or an obstruction while moving
+  as part of a slam power attack but is able to move through it for some
+  reason, the slamming model does not stop but is still considered to
+  have contacted the model, obstacle, or obstruction.\n
+  \n
+  The slamming model cannot change its facing after advancing as part of a
+  slam.\n
+  \n
+  A slamming model that ends its slam movement with its target in the melee
+  range of its slam power attack has made a successful slam. If the slamming
+  model advanced at least 3", it makes a melee attack roll against its
+  target. A model that slam power attacks a model with a larger base suffers
+  -2 to its attack roll. If the attack hits, the target is slammed
+  d6" directly away from the attacker, becomes knocked down, and then
+  suffers a power attack damage roll.\n
+  \n
+  If the slamming model has a smaller
+  base than the model it slammed, the slammed model is slammed half the
+  distance rolled.\n
+  \n
+  Smaller-based models hit by a slam power attack made by a huge-based model
+  are moved an additional 2".\n
+  \n
+  If a slamming model makes a successful slam but moved less than 3", the model
+  still makes an attack roll against its target. If the target is hit, it
+  suffers a power attack damage roll but is not slammed. These are still slam
+  attack rolls and slam damage rolls.\n
+  \n
+  A model that does not end its slam movement with its target within its slam
+  melee range has failed its slam power attack. If a model fails its slam power
+  attack during its activation, its activation ends.
+see_also: []
