@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3039
 name: Tharn Ravagers
-job: unit
+role: unit
 factions:
 - circle
 scans: 2

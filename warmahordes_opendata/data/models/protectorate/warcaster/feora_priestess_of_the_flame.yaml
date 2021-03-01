@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1085
 name: Feora, Priestess of the Flame
-job: warcaster
+role: warcaster
 factions:
 - protectorate
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4161
 name: Aurum Ominus Alyce Marc
-job: solo
+role: solo
 factions:
 - crucible_guard
 scans: 4

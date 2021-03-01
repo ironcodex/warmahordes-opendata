@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 395
 name: Major Markus "Siege" Brisbane
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

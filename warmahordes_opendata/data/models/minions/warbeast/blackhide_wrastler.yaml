@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3394
 name: Blackhide Wrastler
-job: warbeast
+role: warbeast
 factions:
 - minions
 scans: 2

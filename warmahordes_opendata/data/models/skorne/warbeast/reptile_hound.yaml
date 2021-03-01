@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 974
 name: Reptile Hound
-job: warbeast
+role: warbeast
 factions:
 - skorne
 scans: 2

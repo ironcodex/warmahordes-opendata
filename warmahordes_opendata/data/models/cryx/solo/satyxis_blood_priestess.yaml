@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3953
 name: Satyxis Blood Priestess
-job: solo
+role: solo
 factions:
 - cryx
 scans: 2

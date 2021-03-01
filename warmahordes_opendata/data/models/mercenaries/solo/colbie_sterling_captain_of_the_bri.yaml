@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2444
 name: Colbie Sterling, Captain of the BRI
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

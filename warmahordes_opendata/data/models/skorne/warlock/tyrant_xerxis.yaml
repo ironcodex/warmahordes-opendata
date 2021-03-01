@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 790
 name: Tyrant Xerxis
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 4

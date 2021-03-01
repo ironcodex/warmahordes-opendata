@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1515
 name: Vladimir Tzepesci, Great Prince of Umbrey
-job: warcaster
+role: warcaster
 factions:
 - khador
 scans: 4

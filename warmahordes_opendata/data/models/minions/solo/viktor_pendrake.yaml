@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3570
 name: Viktor Pendrake
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

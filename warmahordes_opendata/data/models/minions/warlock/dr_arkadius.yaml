@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3439
 name: Dr. Arkadius
-job: warlock
+role: warlock
 factions:
 - minions
 scans: 4

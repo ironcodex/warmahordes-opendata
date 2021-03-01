@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2726
 name: Warden
-job: warjack
+role: warjack
 factions:
 - mercenaries
 scans: 2

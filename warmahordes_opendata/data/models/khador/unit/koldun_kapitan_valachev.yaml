@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1390
 name: Koldun Kapitan Valachev
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

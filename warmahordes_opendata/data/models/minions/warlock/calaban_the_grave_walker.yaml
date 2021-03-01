@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3423
 name: Calaban, the Grave Walker
-job: warlock
+role: warlock
 factions:
 - minions
 scans: 4

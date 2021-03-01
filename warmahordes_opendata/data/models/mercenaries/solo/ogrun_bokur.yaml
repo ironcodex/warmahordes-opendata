@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2610
 name: Ogrun Bokur
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

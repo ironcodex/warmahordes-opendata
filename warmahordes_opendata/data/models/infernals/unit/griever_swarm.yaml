@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4411
 name: Griever Swarm
-job: unit
+role: unit
 factions:
 - infernals
 scans: 2

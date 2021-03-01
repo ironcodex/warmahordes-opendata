@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3397
 name: Blind Walker
-job: warbeast
+role: warbeast
 factions:
 - minions
 scans: 2

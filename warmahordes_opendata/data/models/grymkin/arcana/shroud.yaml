@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3638
 name: Shroud
-job: arcana
+role: arcana
 factions:
 - grymkin
 scans: 2

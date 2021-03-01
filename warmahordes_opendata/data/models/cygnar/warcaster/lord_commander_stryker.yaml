@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 375
 name: Lord Commander Stryker
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

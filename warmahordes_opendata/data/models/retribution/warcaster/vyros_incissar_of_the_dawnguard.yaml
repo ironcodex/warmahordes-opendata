@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2367
 name: Vyros, Incissar of the Dawnguard
-job: warcaster
+role: warcaster
 factions:
 - retribution
 scans: 4

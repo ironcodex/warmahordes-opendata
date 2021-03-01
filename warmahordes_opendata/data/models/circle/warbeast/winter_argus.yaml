@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3070
 name: Winter Argus
-job: warbeast
+role: warbeast
 factions:
 - circle
 scans: 2

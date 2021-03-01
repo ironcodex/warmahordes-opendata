@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4156
 name: Crucible Guard Rocketmen
-job: unit
+role: unit
 factions:
 - crucible_guard
 scans: 2

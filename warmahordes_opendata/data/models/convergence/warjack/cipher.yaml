@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2752
 name: Cipher
-job: warjack
+role: warjack
 factions:
 - convergence
 scans: 2

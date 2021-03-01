@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4551
 name: Alexia the Undying
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

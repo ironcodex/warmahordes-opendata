@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2284
 name: Issyria, Sibyl of Dawn
-job: warcaster
+role: warcaster
 factions:
 - retribution
 scans: 4

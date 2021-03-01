@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4035
 name: Kommandant Sorscha Kratikoff
-job: warcaster
+role: warcaster
 factions:
 - khador
 scans: 4

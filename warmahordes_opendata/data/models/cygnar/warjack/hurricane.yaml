@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 358
 name: Hurricane
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 4

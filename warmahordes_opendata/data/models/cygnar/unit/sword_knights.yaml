@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 668
 name: Sword Knights
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2518
 name: Ghordson Basher
-job: warjack
+role: warjack
 factions:
 - mercenaries
 scans: 2

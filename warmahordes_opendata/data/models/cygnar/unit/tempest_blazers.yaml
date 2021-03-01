@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 743
 name: Tempest Blazers
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

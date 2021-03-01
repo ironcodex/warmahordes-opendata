@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2993
 name: Rip Horn Satyr
-job: warbeast
+role: warbeast
 factions:
 - circle
 scans: 2

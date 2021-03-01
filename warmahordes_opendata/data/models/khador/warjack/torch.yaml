@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1504
 name: Torch
-job: warjack
+role: warjack
 factions:
 - khador
 scans: 2

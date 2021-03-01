@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1551
 name: Winter Guard Infantry Officer & Standard
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

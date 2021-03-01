@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4285
 name: Greylord Adjunct
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

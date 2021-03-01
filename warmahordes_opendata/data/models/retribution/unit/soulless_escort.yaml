@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2350
 name: Soulless Escort
-job: unit
+role: unit
 factions:
 - retribution
 scans: 2

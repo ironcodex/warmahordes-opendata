@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 414
 name: Squire
-job: solo
+role: solo
 factions:
 - cygnar
 scans: 2

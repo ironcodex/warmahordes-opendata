@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1651
 name: Horgle Ironstrike
-job: solo
+role: solo
 factions:
 - trollbloods
 scans: 2

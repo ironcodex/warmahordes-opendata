@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1046
 name: Castigator
-job: warjack
+role: warjack
 factions:
 - protectorate
 scans: 2

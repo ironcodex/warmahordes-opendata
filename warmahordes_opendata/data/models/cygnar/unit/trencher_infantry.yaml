@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 674
 name: Trencher Infantry
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

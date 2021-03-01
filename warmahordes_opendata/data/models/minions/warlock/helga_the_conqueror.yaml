@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3489
 name: Helga the Conqueror
-job: warlock
+role: warlock
 factions:
 - minions
 scans: 4

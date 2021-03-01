@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2472
 name: Durgen Madhammer
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

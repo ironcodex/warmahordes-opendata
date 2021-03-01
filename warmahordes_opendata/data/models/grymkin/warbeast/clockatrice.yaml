@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4288
 name: Clockatrice
-job: warbeast
+role: warbeast
 factions:
 - grymkin
 scans: 2

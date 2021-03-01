@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 308
 name: Captain Allister Caine
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2742
 name: Aurora, the Numen of Aerogenesis
-job: warcaster
+role: warcaster
 factions:
 - convergence
 scans: 4

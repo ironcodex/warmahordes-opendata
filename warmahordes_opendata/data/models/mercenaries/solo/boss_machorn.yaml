@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4514
 name: Boss Machorn
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

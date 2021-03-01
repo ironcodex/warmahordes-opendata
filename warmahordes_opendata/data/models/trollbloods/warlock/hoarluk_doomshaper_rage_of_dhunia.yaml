@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1641
 name: Hoarluk Doomshaper, Rage of Dhunia
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

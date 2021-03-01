@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4772
 name: Four Horseymans
-job: solo
+role: solo
 factions:
 - grymkin
 scans: 2

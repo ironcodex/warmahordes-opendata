@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3082
 name: Woldwrath
-job: warbeast
+role: warbeast
 factions:
 - circle
 scans: 4

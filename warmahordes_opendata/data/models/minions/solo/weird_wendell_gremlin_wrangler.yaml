@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4635
 name: Weird Wendell, Gremlin Wrangler
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

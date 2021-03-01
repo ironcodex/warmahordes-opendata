@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 502
 name: Nomad
-job: warjack
+role: warjack
 factions:
 - mercenaries
 scans: 2

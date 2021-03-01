@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 659
 name: Thunderhead
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 2

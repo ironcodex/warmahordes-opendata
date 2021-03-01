@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2904
 name: Gnarlhorn Satyr
-job: warbeast
+role: warbeast
 factions:
 - circle
 scans: 2

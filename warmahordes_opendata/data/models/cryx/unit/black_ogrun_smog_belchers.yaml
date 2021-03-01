@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4009
 name: Black Ogrun Smog Belchers
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

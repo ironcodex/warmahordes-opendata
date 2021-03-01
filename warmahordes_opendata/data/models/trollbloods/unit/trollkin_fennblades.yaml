@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1777
 name: Trollkin Fennblades
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2167
 name: Dawnguard Destor Thane
-job: solo
+role: solo
 factions:
 - retribution
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4404
 name: Soul Stalker
-job: horror
+role: horror
 factions:
 - infernals
 scans: 2

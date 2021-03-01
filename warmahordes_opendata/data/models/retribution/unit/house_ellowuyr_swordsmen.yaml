@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2236
 name: House Ellowuyr Swordsmen
-job: unit
+role: unit
 factions:
 - retribution
 scans: 2

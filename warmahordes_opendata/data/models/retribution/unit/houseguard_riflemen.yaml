@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2260
 name: Houseguard Riflemen
-job: unit
+role: unit
 factions:
 - retribution
 scans: 2

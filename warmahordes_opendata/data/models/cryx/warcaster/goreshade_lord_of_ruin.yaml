@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1911
 name: Goreshade, Lord of Ruin
-job: warcaster
+role: warcaster
 factions:
 - cryx
 scans: 4

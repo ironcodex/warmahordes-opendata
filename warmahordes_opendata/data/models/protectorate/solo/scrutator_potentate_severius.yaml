@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4209
 name: Scrutator Potentate Severius
-job: solo
+role: solo
 factions:
 - protectorate
 scans: 2

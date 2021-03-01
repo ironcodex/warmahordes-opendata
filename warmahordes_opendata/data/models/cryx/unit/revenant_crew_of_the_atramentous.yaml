@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2004
 name: Revenant Crew of the Atramentous
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

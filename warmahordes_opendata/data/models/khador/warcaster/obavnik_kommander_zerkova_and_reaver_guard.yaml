@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1471
 name: Obavnik Kommander Zerkova & Reaver Guard
-job: warcaster
+role: warcaster
 factions:
 - khador
 scans: 6

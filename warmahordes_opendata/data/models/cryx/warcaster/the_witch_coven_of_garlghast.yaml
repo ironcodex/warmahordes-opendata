@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2076
 name: The Witch Coven of Garlghast
-job: warcaster
+role: warcaster
 factions:
 - cryx
 scans: 6

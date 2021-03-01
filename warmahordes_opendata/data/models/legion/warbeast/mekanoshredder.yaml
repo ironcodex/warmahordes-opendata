@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4775
 name: Mekanoshredder
-job: warbeast
+role: warbeast
 factions:
 - legion
 scans: 2

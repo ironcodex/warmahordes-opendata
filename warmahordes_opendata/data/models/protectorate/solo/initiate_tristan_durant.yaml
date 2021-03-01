@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1155
 name: Initiate Tristan Durant
-job: solo
+role: solo
 factions:
 - protectorate
 scans: 2

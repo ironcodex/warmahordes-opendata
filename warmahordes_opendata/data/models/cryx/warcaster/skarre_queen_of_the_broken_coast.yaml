@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2054
 name: Skarre, Queen of the Broken Coast
-job: warcaster
+role: warcaster
 factions:
 - cryx
 scans: 4

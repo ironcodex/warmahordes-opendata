@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 290
 name: Archduke Alain Runewood, Lord of Fharin
-job: solo
+role: solo
 factions:
 - cygnar
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3871
 name: Siren
-job: warjack
+role: warjack
 factions:
 - retribution
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3547
 name: Saxon Orrik
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

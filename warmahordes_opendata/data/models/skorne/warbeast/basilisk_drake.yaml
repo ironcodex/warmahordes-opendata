@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 808
 name: Basilisk Drake
-job: warbeast
+role: warbeast
 factions:
 - skorne
 scans: 2

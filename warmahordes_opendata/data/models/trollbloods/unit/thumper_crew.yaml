@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1756
 name: Thumper Crew
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

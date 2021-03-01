@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3645
 name: Cask Imp
-job: solo
+role: solo
 factions:
 - grymkin
 scans: 2

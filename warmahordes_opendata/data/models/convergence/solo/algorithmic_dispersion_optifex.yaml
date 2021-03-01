@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2735
 name: Algorithmic Dispersion Optifex
-job: solo
+role: solo
 factions:
 - convergence
 scans: 2

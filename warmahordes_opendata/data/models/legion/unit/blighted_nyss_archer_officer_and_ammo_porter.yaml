@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3170
 name: Blighted Nyss Archer Officer & Ammo Porter
-job: unit
+role: unit
 factions:
 - legion
 scans: 2

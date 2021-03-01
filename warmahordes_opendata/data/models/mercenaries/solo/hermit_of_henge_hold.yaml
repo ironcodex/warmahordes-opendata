@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4480
 name: Hermit of Henge Hold
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

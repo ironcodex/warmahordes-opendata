@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3215
 name: Fyanna, Torment of Everblight
-job: warlock
+role: warlock
 factions:
 - legion
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4407
 name: Lamenter
-job: horror
+role: horror
 factions:
 - infernals
 scans: 2

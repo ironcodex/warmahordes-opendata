@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1004
 name: Zaal, the Ancestral Advocate
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 4

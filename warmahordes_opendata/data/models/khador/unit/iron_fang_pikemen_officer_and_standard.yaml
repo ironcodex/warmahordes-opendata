@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1376
 name: Iron Fang Pikemen Officer & Standard
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

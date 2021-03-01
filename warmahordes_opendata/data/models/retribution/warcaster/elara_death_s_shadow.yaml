@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2197
 name: Elara, Death's Shadow
-job: warcaster
+role: warcaster
 factions:
 - retribution
 scans: 4

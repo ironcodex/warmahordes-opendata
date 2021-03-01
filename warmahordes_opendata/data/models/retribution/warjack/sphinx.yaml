@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 511
 name: Sphinx
-job: warjack
+role: warjack
 factions:
 - retribution
 scans: 2

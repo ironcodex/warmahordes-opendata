@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2613
 name: Orin Midwinter, Rogue Inquisitor
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

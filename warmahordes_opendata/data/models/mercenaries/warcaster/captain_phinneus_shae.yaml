@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2414
 name: Captain Phinneus Shae
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

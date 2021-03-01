@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3573
 name: War Hog
-job: warbeast
+role: warbeast
 factions:
 - minions
 scans: 2

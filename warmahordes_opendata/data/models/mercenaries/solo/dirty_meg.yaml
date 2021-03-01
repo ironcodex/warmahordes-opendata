@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2461
 name: Dirty Meg
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

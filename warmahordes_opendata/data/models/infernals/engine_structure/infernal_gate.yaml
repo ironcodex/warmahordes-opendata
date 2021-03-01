@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4423
 name: Infernal Gate
-job: engine_structure
+role: engine_structure
 factions:
 - infernals
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4186
 name: Exemplar Warder
-job: solo
+role: solo
 factions:
 - protectorate
 scans: 2

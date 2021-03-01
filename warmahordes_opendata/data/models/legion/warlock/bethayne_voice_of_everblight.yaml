@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3150
 name: Bethayne, Voice of Everblight
-job: warlock
+role: warlock
 factions:
 - legion
 scans: 6

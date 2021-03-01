@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1696
 name: Madrak, Great Chieftain
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

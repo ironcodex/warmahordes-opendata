@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1765
 name: Troll Whelps
-job: solo
+role: solo
 factions:
 - trollbloods
 scans: 2

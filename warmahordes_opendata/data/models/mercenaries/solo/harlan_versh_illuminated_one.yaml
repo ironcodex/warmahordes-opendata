@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2552
 name: Harlan Versh, Illuminated One
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

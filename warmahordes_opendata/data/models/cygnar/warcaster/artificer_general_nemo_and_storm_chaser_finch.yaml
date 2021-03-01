@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 293
 name: Artificer General Nemo & Storm Chaser Finch
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 6

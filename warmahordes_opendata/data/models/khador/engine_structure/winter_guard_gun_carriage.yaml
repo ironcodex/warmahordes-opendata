@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1545
 name: Winter Guard Gun Carriage
-job: engine_structure
+role: engine_structure
 factions:
 - khador
 scans: 2

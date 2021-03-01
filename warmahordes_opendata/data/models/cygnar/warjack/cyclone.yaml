@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 644
 name: Cyclone
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 2

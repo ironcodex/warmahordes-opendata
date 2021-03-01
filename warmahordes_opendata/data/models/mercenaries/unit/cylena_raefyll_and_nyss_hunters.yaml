@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2455
 name: Cylena Raefyll & Nyss Hunters
-job: unit
+role: unit
 factions:
 - mercenaries
 scans: 2

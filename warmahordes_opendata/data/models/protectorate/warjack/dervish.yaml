@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 433
 name: Dervish
-job: warjack
+role: warjack
 factions:
 - protectorate
 scans: 2

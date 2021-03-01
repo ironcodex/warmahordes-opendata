@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2886
 name: Druid Mist Riders
-job: unit
+role: unit
 factions:
 - circle
 scans: 2

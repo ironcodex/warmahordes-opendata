@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2968
 name: Morvahna the Autumnblade
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 4

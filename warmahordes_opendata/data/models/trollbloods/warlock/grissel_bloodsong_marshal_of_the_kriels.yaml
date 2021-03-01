@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1629
 name: Grissel Bloodsong, Marshal of the Kriels
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

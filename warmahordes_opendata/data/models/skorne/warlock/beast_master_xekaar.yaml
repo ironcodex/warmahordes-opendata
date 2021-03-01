@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1021
 name: Beast Master Xekaar
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 4

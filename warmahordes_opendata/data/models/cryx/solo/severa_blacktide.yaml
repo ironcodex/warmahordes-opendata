@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4012
 name: Severa Blacktide
-job: solo
+role: solo
 factions:
 - cryx
 scans: 2

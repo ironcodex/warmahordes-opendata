@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3847
 name: Kolgrima Stonetruth, Winter Witch
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

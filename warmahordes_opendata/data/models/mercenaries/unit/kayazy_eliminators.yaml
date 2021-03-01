@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2570
 name: Kayazy Eliminators
-job: unit
+role: unit
 factions:
 - mercenaries
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3450
 name: Farrow Brigand Warlord
-job: unit
+role: unit
 factions:
 - minions
 scans: 2

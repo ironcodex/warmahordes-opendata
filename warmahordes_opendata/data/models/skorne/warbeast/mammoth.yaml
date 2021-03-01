@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 966
 name: Mammoth
-job: warbeast
+role: warbeast
 factions:
 - skorne
 scans: 4

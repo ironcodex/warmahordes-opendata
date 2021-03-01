@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1709
 name: Night Troll
-job: warbeast
+role: warbeast
 factions:
 - trollbloods
 scans: 2

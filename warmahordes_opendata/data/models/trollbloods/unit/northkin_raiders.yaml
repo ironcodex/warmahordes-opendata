@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3844
 name: Northkin Raiders
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

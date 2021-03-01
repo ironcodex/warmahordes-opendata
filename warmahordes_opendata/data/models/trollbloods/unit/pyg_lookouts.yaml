@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3861
 name: Pyg Lookouts
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

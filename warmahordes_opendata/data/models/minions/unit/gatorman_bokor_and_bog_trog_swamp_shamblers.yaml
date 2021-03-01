@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3468
 name: Gatorman Bokor & Bog Trog Swamp Shamblers
-job: unit
+role: unit
 factions:
 - minions
 scans: 2

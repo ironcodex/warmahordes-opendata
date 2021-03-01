@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3781
 name: Trencher Commando Officer
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

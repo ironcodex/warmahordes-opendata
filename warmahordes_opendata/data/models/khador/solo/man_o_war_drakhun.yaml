@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 528
 name: Man-O-War Drakhun
-job: solo
+role: solo
 factions:
 - khador
 scans: 4

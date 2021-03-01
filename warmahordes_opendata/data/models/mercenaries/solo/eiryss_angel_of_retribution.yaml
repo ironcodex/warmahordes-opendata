@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2477
 name: Eiryss, Angel of Retribution
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

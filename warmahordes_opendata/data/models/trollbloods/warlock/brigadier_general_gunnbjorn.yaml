@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4976
 name: Brigadier General Gunnbjorn
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1780
 name: Trollkin Highwaymen
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

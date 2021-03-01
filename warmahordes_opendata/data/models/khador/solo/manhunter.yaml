@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1450
 name: Manhunter
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

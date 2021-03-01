@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 461
 name: Dominar Morghoul & Escorts
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 6

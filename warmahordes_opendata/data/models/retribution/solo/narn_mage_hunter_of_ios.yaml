@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2330
 name: Narn, Mage Hunter of Ios
-job: solo
+role: solo
 factions:
 - retribution
 scans: 2

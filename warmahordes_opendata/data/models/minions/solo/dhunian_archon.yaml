@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4523
 name: Dhunian Archon
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3944
 name: Scharde Pirates
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

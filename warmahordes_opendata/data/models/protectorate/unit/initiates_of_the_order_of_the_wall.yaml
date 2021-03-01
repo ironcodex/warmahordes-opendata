@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4284
 name: Initiates of the Order of the Wall
-job: unit
+role: unit
 factions:
 - protectorate
 scans: 2

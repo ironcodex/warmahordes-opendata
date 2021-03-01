@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 380
 name: Lord General Coleman Stryker
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

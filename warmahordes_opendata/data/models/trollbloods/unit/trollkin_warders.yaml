@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2129
 name: Trollkin Warders
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

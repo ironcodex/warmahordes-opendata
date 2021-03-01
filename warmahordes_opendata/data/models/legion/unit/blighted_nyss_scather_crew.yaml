@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3185
 name: Blighted Nyss Scather Crew
-job: unit
+role: unit
 factions:
 - legion
 scans: 2

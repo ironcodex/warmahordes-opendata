@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3660
 name: Glimmer Imp
-job: solo
+role: solo
 factions:
 - grymkin
 scans: 2

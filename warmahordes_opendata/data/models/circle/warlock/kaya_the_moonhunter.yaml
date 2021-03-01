@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2915
 name: Kaya the Moonhunter
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 6

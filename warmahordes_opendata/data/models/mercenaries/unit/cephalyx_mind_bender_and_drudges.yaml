@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2430
 name: Cephalyx Mind Bender & Drudges
-job: unit
+role: unit
 factions:
 - mercenaries
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3176
 name: Blighted Nyss Hex Hunters
-job: unit
+role: unit
 factions:
 - legion
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2738
 name: Assimilator
-job: warjack
+role: warjack
 factions:
 - convergence
 scans: 2

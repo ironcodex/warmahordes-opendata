@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1885
 name: Deneghra, the Soul Weaver
-job: warcaster
+role: warcaster
 factions:
 - cryx
 scans: 4

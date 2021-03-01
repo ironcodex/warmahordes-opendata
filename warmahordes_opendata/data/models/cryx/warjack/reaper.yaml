@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1998
 name: Reaper
-job: warjack
+role: warjack
 factions:
 - cryx
 scans: 2

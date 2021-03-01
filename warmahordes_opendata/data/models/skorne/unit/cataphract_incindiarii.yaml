@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 978
 name: Cataphract Incindiarii
-job: unit
+role: unit
 factions:
 - skorne
 scans: 2

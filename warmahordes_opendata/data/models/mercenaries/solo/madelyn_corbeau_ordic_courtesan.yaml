@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2582
 name: Madelyn Corbeau, Ordic Courtesan
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

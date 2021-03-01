@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 476
 name: Greylord Forge Seer
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

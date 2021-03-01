@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1433
 name: Kossite Woodsmen
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1712
 name: Northkin Shaman
-job: solo
+role: solo
 factions:
 - trollbloods
 scans: 2

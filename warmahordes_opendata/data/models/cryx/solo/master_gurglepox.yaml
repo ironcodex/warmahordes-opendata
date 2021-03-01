@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4626
 name: Master Gurglepox
-job: solo
+role: solo
 factions:
 - cryx
 scans: 2

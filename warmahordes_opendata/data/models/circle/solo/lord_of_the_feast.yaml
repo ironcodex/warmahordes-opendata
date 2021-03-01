@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2957
 name: Lord of the Feast
-job: solo
+role: solo
 factions:
 - circle
 scans: 2

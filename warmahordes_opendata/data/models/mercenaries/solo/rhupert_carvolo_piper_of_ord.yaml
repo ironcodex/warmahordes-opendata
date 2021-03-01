@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2634
 name: Rhupert Carvolo, Piper of Ord
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4184
 name: Shrine of the Lawgiver
-job: engine_structure
+role: engine_structure
 factions:
 - protectorate
 scans: 2

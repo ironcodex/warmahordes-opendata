@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 348
 name: Commander Dalin Sturgis
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

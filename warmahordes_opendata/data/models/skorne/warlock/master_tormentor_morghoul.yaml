@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 765
 name: Master Tormentor Morghoul
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4330
 name: Steelhead Cannon Crew
-job: unit
+role: unit
 factions:
 - mercenaries
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2676
 name: Tactical Arcanist Corps
-job: unit
+role: unit
 factions:
 - mercenaries
 scans: 2

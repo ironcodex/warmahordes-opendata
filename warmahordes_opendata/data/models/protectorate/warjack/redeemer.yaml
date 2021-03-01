@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1200
 name: Redeemer
-job: warjack
+role: warjack
 factions:
 - protectorate
 scans: 2

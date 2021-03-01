@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 5003
 name: Lynda the Forgotten
-job: solo
+role: solo
 factions:
 - infernals
 scans: 2

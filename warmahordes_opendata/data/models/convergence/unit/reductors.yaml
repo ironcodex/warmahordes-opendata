@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2833
 name: Reductors
-job: unit
+role: unit
 factions:
 - convergence
 scans: 2

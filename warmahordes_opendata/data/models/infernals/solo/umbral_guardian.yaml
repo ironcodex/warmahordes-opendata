@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4420
 name: Umbral Guardian
-job: solo
+role: solo
 factions:
 - infernals
 scans: 2

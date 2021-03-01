@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2467
 name: Drake MacBain
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

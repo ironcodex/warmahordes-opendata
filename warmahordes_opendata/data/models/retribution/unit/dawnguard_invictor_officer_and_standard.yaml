@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2173
 name: Dawnguard Invictor Officer & Standard
-job: unit
+role: unit
 factions:
 - retribution
 scans: 2

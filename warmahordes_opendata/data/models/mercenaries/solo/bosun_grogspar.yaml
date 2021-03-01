@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2391
 name: Bosun Grogspar
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

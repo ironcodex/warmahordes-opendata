@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2019
 name: Satyxis Gunslingers
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 284
 name: Ace
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 2

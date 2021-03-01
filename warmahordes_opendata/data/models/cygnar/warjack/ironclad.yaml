@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 838
 name: Ironclad
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 2

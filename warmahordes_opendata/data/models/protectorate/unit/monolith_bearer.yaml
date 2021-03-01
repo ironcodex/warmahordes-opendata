@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1182
 name: Monolith Bearer
-job: unit
+role: unit
 factions:
 - protectorate
 scans: 2

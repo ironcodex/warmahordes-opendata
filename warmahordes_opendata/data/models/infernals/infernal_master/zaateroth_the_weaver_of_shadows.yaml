@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4403
 name: Zaateroth, The Weaver of Shadows
-job: infernal_master
+role: infernal_master
 factions:
 - infernals
 scans: 4

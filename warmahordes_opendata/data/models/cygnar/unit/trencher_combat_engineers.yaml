@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3775
 name: Trencher Combat Engineers
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

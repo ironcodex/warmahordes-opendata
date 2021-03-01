@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1801
 name: Trollkin Sorcerer
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

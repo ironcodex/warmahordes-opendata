@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3138
 name: Archangel
-job: warbeast
+role: warbeast
 factions:
 - legion
 scans: 4

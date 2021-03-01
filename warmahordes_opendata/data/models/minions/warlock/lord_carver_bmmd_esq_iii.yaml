@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3504
 name: Lord Carver, BMMD, Esq. III
-job: warlock
+role: warlock
 factions:
 - minions
 scans: 4

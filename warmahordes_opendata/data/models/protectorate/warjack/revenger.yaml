@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1211
 name: Revenger
-job: warjack
+role: warjack
 factions:
 - protectorate
 scans: 2

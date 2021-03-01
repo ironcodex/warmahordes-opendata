@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 572
 name: Wolf Lord Morraig
-job: solo
+role: solo
 factions:
 - circle
 scans: 4

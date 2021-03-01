@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 650
 name: Hammersmith
-job: warjack
+role: warjack
 factions:
 - cygnar
 scans: 2

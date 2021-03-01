@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4248
 name: Tharn Blood Shaman
-job: solo
+role: solo
 factions:
 - circle
 scans: 2

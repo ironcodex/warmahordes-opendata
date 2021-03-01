@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 895
 name: Paingiver Bloodrunner Master Tormentor
-job: solo
+role: solo
 factions:
 - skorne
 scans: 2

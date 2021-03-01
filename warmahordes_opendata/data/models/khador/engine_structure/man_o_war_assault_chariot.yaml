@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4031
 name: Man-O-War Assault Chariot
-job: engine_structure
+role: engine_structure
 factions:
 - khador
 scans: 2

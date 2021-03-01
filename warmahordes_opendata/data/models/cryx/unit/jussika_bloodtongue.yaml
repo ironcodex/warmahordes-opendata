@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3938
 name: Jussika Bloodtongue
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

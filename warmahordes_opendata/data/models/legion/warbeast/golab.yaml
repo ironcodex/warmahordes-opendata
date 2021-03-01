@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3996
 name: Golab
-job: warbeast
+role: warbeast
 factions:
 - legion
 scans: 2

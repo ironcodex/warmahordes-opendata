@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 5020
 name: Stonecold Black Bella
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

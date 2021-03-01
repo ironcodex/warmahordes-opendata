@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4259
 name: Dawnguard Trident
-job: engine_structure
+role: engine_structure
 factions:
 - retribution
 scans: 2

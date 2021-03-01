@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 820
 name: Cyclops Shaman
-job: warbeast
+role: warbeast
 factions:
 - skorne
 scans: 2

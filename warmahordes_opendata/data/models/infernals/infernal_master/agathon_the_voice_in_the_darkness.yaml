@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4399
 name: Agathon, The Voice in the Darkness
-job: infernal_master
+role: infernal_master
 factions:
 - infernals
 scans: 4

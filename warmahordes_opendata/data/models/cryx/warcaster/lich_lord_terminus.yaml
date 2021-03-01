@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1947
 name: Lich Lord Terminus
-job: warcaster
+role: warcaster
 factions:
 - cryx
 scans: 4

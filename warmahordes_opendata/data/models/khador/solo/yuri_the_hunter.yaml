@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 5032
 name: Yuri the Hunter
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2880
 name: Celestial Fulcrum
-job: engine_structure
+role: engine_structure
 factions:
 - circle
 scans: 2

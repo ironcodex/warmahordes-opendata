@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4994
 name: Dez & Gubbin, Dynamite Duo
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

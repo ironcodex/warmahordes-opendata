@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1735
 name: "R\xF6k"
-job: warbeast
+role: warbeast
 factions:
 - trollbloods
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4417
 name: Great Princess Regna Gravnoy
-job: solo
+role: solo
 factions:
 - infernals
 scans: 2

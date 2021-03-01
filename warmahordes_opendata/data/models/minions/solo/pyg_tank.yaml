@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4520
 name: Pyg Tank
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

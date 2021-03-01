@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1459
 name: Man-O-War Kovnik
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

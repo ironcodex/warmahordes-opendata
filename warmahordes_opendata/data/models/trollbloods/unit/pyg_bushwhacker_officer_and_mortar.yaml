@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1721
 name: Pyg Bushwhacker Officer & Mortar
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

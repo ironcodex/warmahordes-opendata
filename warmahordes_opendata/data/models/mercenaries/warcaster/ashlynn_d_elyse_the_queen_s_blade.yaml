@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4730
 name: Ashlynn D'Elyse, The Queen's Blade
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 6

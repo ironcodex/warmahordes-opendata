@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4317
 name: Neigh Slayer War Horse (Command Attachment)
-job: unit
+role: unit
 factions:
 - grymkin
 scans: 2

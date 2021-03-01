@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2208
 name: Garryth, the Blade of Retribution
-job: warcaster
+role: warcaster
 factions:
 - retribution
 scans: 4

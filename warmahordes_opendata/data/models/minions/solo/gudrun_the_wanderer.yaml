@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3483
 name: Gudrun the Wanderer
-job: solo
+role: solo
 factions:
 - minions
 scans: 2

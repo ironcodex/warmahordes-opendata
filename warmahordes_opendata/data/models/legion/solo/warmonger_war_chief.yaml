@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3374
 name: Warmonger War Chief
-job: solo
+role: solo
 factions:
 - legion
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1771
 name: Trollkin Champions
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 2

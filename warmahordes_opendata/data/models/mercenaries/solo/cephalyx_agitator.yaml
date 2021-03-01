@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2424
 name: Cephalyx Agitator
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

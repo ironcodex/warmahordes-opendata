@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2869
 name: Bloodweaver Night Witch
-job: solo
+role: solo
 factions:
 - circle
 scans: 2

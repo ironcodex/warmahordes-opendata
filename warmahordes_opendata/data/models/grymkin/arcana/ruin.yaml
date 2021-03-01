@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3634
 name: Ruin
-job: arcana
+role: arcana
 factions:
 - grymkin
 scans: 2

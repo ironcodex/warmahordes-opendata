@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4160
 name: Rocketman Gunner
-job: unit
+role: unit
 factions:
 - crucible_guard
 scans: 2

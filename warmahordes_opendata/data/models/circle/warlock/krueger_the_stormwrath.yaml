@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2949
 name: Krueger the Stormwrath
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 4

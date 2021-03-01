@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4644
 name: Scythe
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

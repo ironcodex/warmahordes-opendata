@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2585
 name: Magnus the Traitor
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

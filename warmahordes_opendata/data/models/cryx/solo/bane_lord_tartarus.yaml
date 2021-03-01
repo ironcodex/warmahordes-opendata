@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1823
 name: Bane Lord Tartarus
-job: solo
+role: solo
 factions:
 - cryx
 scans: 2

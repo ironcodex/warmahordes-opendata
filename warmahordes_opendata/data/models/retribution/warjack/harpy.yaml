@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3874
 name: Harpy
-job: warjack
+role: warjack
 factions:
 - retribution
 scans: 2

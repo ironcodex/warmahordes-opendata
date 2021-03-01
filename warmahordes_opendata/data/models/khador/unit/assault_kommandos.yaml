@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1303
 name: Assault Kommandos
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

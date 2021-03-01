@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3684
 name: Neigh Slayers
-job: unit
+role: unit
 factions:
 - grymkin
 scans: 2

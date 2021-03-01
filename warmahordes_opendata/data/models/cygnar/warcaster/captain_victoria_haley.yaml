@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 330
 name: Captain Victoria Haley
-job: warcaster
+role: warcaster
 factions:
 - cygnar
 scans: 4

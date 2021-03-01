@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 984
 name: Xerxis, Fury of Halaak
-job: warlock
+role: warlock
 factions:
 - skorne
 scans: 4

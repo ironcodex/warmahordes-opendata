@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1152
 name: Indictor
-job: warjack
+role: warjack
 factions:
 - protectorate
 scans: 2

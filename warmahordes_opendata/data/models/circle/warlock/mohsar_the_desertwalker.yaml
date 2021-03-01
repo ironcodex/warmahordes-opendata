@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2963
 name: Mohsar the Desertwalker
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 4

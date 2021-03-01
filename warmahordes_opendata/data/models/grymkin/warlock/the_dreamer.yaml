@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3703
 name: The Dreamer
-job: warlock
+role: warlock
 factions:
 - grymkin
 scans: 8

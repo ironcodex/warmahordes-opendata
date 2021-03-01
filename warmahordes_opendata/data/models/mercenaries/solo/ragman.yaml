@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2622
 name: Ragman
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

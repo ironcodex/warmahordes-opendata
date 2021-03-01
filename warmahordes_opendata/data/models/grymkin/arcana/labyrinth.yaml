@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3630
 name: Labyrinth
-job: arcana
+role: arcana
 factions:
 - grymkin
 scans: 2

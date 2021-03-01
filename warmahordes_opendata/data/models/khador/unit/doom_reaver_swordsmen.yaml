@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1347
 name: Doom Reaver Swordsmen
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

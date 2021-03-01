@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2121
 name: Sons of Bragg
-job: unit
+role: unit
 factions:
 - trollbloods
 scans: 4

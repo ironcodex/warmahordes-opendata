@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1691
 name: Madrak Ironhide, World Ender
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3801
 name: Trencher Long Gunners
-job: unit
+role: unit
 factions:
 - cygnar
 scans: 2

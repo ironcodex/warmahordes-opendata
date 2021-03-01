@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2655
 name: Sergeant Nicolas Verendrye
-job: solo
+role: solo
 factions:
 - mercenaries
 scans: 2

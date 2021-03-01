@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 533
 name: Darragh Wrathe
-job: solo
+role: solo
 factions:
 - cryx
 scans: 4

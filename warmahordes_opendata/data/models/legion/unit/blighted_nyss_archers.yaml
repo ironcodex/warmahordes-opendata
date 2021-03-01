@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3173
 name: Blighted Nyss Archers
-job: unit
+role: unit
 factions:
 - legion
 scans: 2

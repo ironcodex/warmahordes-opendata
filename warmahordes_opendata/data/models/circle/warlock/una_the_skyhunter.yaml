@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3050
 name: Una the Skyhunter
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1840
 name: Barathrum
-job: warjack
+role: warjack
 factions:
 - cryx
 scans: 2

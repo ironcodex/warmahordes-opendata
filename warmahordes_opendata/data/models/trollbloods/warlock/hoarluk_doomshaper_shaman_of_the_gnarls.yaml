@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1646
 name: Hoarluk Doomshaper, Shaman of the Gnarls
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

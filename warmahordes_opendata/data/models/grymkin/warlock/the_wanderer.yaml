@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3726
 name: The Wanderer
-job: warlock
+role: warlock
 factions:
 - grymkin
 scans: 6

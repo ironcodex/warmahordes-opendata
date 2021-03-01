@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 508
 name: Daemon
-job: warjack
+role: warjack
 factions:
 - retribution
 scans: 2

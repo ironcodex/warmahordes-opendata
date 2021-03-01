@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1364
 name: Greylord Outriders
-job: unit
+role: unit
 factions:
 - khador
 scans: 2

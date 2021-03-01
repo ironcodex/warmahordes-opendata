@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 713
 name: Gun Mage Captain Adept
-job: solo
+role: solo
 factions:
 - cygnar
 scans: 2

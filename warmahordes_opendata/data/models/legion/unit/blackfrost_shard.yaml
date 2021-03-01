@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3157
 name: Blackfrost Shard
-job: unit
+role: unit
 factions:
 - legion
 scans: 4

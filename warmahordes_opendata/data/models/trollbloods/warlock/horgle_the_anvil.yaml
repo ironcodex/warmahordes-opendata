@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1654
 name: Horgle, the Anvil
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

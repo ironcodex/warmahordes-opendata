@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4701
 name: Artificer Prime Nemo and Arcane Mechaniks
-job: engine_structure
+role: engine_structure
 factions:
 - mercenaries
 scans: 6

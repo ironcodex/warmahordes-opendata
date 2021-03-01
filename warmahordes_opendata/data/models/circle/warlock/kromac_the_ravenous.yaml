@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2932
 name: Kromac the Ravenous
-job: warlock
+role: warlock
 factions:
 - circle
 scans: 6

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2847
 name: Transverse Enumerator
-job: unit
+role: unit
 factions:
 - convergence
 scans: 2

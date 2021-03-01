@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3336
 name: Strider Scouts
-job: unit
+role: unit
 factions:
 - legion
 scans: 2

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4185
 name: Exemplar Cinerator Officer
-job: unit
+role: unit
 factions:
 - protectorate
 scans: 2

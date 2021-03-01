@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2549
 name: Hammerfall Siege Crawler
-job: engine_structure
+role: engine_structure
 factions:
 - mercenaries
 scans: 2

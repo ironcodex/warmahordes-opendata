@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4143
 name: Aurum Legate Lukas di Morray
-job: warcaster
+role: warcaster
 factions:
 - crucible_guard
 scans: 4

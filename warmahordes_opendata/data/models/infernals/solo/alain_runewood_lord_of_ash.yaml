@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4421
 name: Alain Runewood, Lord of Ash
-job: solo
+role: solo
 factions:
 - infernals
 scans: 2

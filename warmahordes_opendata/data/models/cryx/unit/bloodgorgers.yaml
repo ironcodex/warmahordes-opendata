@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1858
 name: Bloodgorgers
-job: unit
+role: unit
 factions:
 - cryx
 scans: 2

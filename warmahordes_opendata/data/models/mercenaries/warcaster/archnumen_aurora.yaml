@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 4744
 name: Archnumen Aurora
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

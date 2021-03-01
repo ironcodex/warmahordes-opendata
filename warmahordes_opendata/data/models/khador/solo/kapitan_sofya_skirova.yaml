@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3890
 name: Kapitan Sofya Skirova
-job: solo
+role: solo
 factions:
 - khador
 scans: 2

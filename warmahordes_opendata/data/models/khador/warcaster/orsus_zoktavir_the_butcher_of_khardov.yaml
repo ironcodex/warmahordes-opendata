@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1478
 name: Orsus Zoktavir, The Butcher of Khardov
-job: warcaster
+role: warcaster
 factions:
 - khador
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 1584
 name: Captain Gunnbjorn
-job: warlock
+role: warlock
 factions:
 - trollbloods
 scans: 4

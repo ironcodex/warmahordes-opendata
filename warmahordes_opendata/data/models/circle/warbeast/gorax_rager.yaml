@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2907
 name: Gorax Rager
-job: warbeast
+role: warbeast
 factions:
 - circle
 scans: 2

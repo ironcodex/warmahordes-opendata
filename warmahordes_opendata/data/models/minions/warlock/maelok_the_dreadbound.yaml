@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3512
 name: Maelok the Dreadbound
-job: warlock
+role: warlock
 factions:
 - minions
 scans: 4

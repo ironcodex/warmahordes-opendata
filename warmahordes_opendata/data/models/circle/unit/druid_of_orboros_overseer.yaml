@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3105
 name: Druid of Orboros Overseer
-job: unit
+role: unit
 factions:
 - circle
 scans: 2

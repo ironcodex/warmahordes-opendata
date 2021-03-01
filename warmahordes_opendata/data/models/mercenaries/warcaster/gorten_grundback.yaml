@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 2529
 name: Gorten Grundback
-job: warcaster
+role: warcaster
 factions:
 - mercenaries
 scans: 4

@@ -1,7 +1,7 @@
----
+--- !warmahordes_opendata.Model
 ppid: 3459
 name: Farrow Razorback Crew
-job: unit
+role: unit
 factions:
 - minions
 scans: 2
