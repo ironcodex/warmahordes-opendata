@@ -1,0 +1,85 @@
+---
+
+ppid:
+  type: integer
+
+name:
+  type: string
+
+role:
+  type: string
+  allowed:
+  - warcaster
+  - warjack
+  - warlock
+  - warbeast
+  - infernal_master
+  - horror
+  - unit
+  - solo
+  - engine_structure
+
+factions:
+  type: list
+  allowed:
+  - infernals
+  - crucible_guard
+  - cygnar
+  - protectorate
+  - khador
+  - cryx
+  - retribution
+  - mercenaries
+  - convergence
+  - trollbloods
+  - circle
+  - skorne
+  - legion
+  - minions
+  - grymkin
+
+works_for:
+  type: list
+  allowed:
+  - infernals
+  - crucible_guard
+  - cygnar
+  - protectorate
+  - khador
+  - cryx
+  - retribution
+  - mercenaries
+  - convergence
+  - trollbloods
+  - circle
+  - skorne
+  - legion
+  - minions
+  - grymkin
+
+keywords:
+  type: list
+
+battlegroup_points:
+  type: integer
+
+point_cost:
+  type:
+  - integer
+  - list
+  schema:
+    label:
+      type: string
+    cost:
+      type: integer
+
+field_allowance:
+  type: integer
+
+attachments:
+  type: list
+  schema:
+    type: integer
+
+scans:
+  type: integer

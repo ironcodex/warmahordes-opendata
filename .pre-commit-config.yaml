@@ -20,4 +20,4 @@ repos:
   rev: v1.26.0
   hooks:
   - id: yamllint
-    files: warmahordes_opendata/data
+    files: warmahordes_opendata
