@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: critical_disruption
 title: Critical Disruption
 description: >

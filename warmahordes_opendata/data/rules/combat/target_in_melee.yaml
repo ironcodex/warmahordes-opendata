@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: target_in_melee
 title: Targeting a Model in Melee
 description: >

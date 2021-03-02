@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: damage_type_electricity
 title: 'Damage Type: Electricity'
 description: >

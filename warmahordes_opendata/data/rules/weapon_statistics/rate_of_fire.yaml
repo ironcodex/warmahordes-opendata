@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: rate_of_fire
 title: ROF, Rate of Fire
 description: >

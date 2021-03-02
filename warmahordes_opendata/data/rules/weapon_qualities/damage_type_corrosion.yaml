@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: damage_type_corrosion
 title: 'Damage Type: Corrosion'
 description: >

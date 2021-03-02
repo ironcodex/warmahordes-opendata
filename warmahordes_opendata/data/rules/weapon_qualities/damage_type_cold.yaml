@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: damage_type_cold
 title: 'Damage Type: Cold'
 description: >

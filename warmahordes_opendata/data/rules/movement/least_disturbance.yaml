@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: least_disturbance
 title: Least Disturbance
 description: >

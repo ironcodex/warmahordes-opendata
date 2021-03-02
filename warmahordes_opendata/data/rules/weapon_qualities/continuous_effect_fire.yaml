@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: continuous_effect_fire
 title: 'Continuous Effect: Fire'
 description: >

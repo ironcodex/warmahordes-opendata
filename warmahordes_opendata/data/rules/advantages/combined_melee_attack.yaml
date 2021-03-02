@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: combined_melee_attack
 title: Combined Melee Attack
 description: >

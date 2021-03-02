@@ -1,4 +1,4 @@
----
+--- !warmahordes_opendata.Rule
 name: melee_attack
 title: MAT, Melee Attack
 description: >
