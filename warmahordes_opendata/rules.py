@@ -19,6 +19,38 @@ import string
 
 from warmahordes_opendata.i18n import _
 
+import yaml
+
+
+class Rule(yaml.YAMLObject):
+    yaml_tag = "!warmahordes_opendata.Rule"
+    yaml_loader = yaml.SafeLoader
+
+    def __init__(self, name="", title="", description="", see_also=[]):
+        super().__init__()
+
+        self.name = name
+        self.title = title
+        self.description = description
+        self.see_also = see_also
+
+    def __repr__(self):
+        return "%s(name='%s', title='%s', description=%s, see_also=%s)" % (
+            self.__class__.__name__,
+            self.name,
+            self.title,
+            self.description,
+            self.see_also,
+        )
+
+    def to_dict(self):
+        return dict(
+            name=self.name,
+            title=self.title,
+            description=self.description,
+            see_also=self.see_also,
+        )
+
 
 class _BaseRule(enum.Flag):
     def __init__(self, *args, **kwargs):

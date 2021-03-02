@@ -77,61 +77,36 @@ class Weapon:
         self.rules = rules
 
 
-class Model:
-    def __init__(
-        self,
-        ppid=0,
-        name=None,
-        job=None,
-        keywords=None,
-        factions=None,
-        works_for=None,
-        battlegroup_points=None,
-        point_costs=None,
-        field_allowance=None,
-        attachments=None,
-        scans=0,
-    ):
+class Model(yaml.YAMLObject):
+    yaml_tag = "!warmahordes_opendata.Model"
+    yaml_loader = yaml.SafeLoader
+
+    def __init__(self, ppid=0, name="", role="", factions=[], scans=0):
         self.ppid = ppid
         self.name = name
-        self.job = job
-        self.keywords = keywords
+        self.role = role
         self.factions = factions
-        self.works_for = works_for
-        self.battlegroup_points = battlegroup_points
-        self.point_costs = point_costs
-        self.field_allowance = field_allowance
-        self.attachments = attachments
         self.scans = scans
 
-    @classmethod
-    def from_dict(cls, data):
-        return cls(**data)
-
-    def to_dict(self):
-        def strlist(lst):
-            if lst is None:
-                return None
-
-            return [str(i) for i in lst]
-
-        model = dict(
-            ppid=self.ppid,
-            name=self.name,
-            job=self.job,
-            keywords=strlist(self.keywords),
-            factions=strlist(self.factions),
-            works_for=strlist(self.works_for),
-            battlegroup_points=self.point_costs,
-            point_costs=self.point_costs,
-            field_allowance=self.field_allowance,
-            attachments=self.attachments,
-            scans=self.scans,
+    def __repr__(self):
+        return "%s(ppid=%d, name='%s', role='%s', factions=%s, scans=%d)" % (
+            self.__class__.__name__,
+            self.ppid,
+            self.name,
+            self.role,
+            self.factions,
+            self.scans,
         )
 
-        return {k: v for k, v in model.items() if v is not None}
-
     @classmethod
-    def from_file(cls, filename):
-        with open(filename, "r") as fd:
-            return cls.from_dict(yaml.load(fd, yaml.BaseLoader))
+    def from_yaml(cls, loader, node):
+        return cls(**loader.construct_mapping(node))
+
+    def to_dict(self):
+        return dict(
+            ppid=self.ppid,
+            name=self.name,
+            role=self.role,
+            factions=self.factions,
+            scans=self.scans,
+        )

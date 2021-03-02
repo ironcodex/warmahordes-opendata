@@ -16,6 +16,8 @@ from importlib import resources
 import os
 import unittest
 
+import yaml
+
 from warmahordes_opendata import models
 
 
@@ -70,16 +72,57 @@ class TestModel(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.model = models.Model.from_file(
-            os.path.join(
-                resources.files("warmahordes_opendata"),
-                "data",
-                "models",
-                "crucible_guard",
-                "warcaster",
-                "aurum_adeptus_syvestro.yaml",
-            )
+        filename = os.path.join(
+            resources.files("warmahordes_opendata"),
+            "data",
+            "models",
+            "crucible_guard",
+            "warcaster",
+            "aurum_adeptus_syvestro.yaml",
         )
 
-    def test_constructor(self):
+        with open(filename, "r") as fd:
+            self.yaml = fd.read()
+
+        self.model = yaml.safe_load(self.yaml)
+
+    def test_type(self):
+        self.assertIsInstance(self.model, models.Model)
+
+    def test_to_yaml(self):
+        self.assertEqual(
+            yaml.dump(
+                self.model,
+                explicit_start=True,
+                default_flow_style=False,
+                sort_keys=False,
+            ),
+            self.yaml,
+        )
+
+    def test_ppid(self):
+        self.assertEqual(self.model.ppid, 4142)
+
+    def test_name(self):
         self.assertEqual(self.model.name, "Aurum Adeptus Syvestro")
+
+    def test_role(self):
+        self.assertEqual(self.model.role, "warcaster")
+
+    def test_factions(self):
+        self.assertEqual(self.model.factions, ["crucible_guard"])
+
+    def test_scans(self):
+        self.assertEqual(self.model.scans, 4)
+
+    def test_to_dict(self):
+        self.assertEqual(
+            self.model.to_dict(),
+            dict(
+                ppid=4142,
+                name="Aurum Adeptus Syvestro",
+                role="warcaster",
+                factions=["crucible_guard"],
+                scans=4,
+            ),
+        )
