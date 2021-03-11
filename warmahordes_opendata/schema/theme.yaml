@@ -1,0 +1,178 @@
+---
+
+name:
+  type: string
+
+flavor:
+  type: string
+
+factions:
+  type: list
+  allowed:
+  - infernals
+  - crucible_guard
+  - cygnar
+  - protectorate
+  - khador
+  - cryx
+  - retribution
+  - mercenaries
+  - convergence
+  - trollbloods
+  - circle
+  - skorne
+  - legion
+  - minions
+  - grymkin
+
+army_composition:
+- description:
+    type: string
+
+  ppids:
+    type:
+    - list
+    schema:
+      type: integer
+
+  factions:
+    type: list
+    allowed:
+    - infernals
+    - crucible_guard
+    - cygnar
+    - protectorate
+    - khador
+    - cryx
+    - retribution
+    - mercenaries
+    - convergence
+    - trollbloods
+    - circle
+    - skorne
+    - legion
+    - minions
+    - grymkin
+
+  works_for:
+    type: list
+    allowed:
+    - infernals
+    - crucible_guard
+    - cygnar
+    - protectorate
+    - khador
+    - cryx
+    - retribution
+    - mercenaries
+    - convergence
+    - trollbloods
+    - circle
+    - skorne
+    - legion
+    - minions
+    - grymkin
+
+  roles:
+    type: list
+    allowed:
+    - warcaster
+    - warjack
+    - warlock
+    - warbeast
+    - infernal_master
+    - horror
+    - unit
+    - solo
+    - engine_structure
+
+  keywords:
+    type: list
+    schema:
+      type: string
+
+  non_character:
+    type: boolean
+
+  modified_allowance:
+    type: integer
+
+requisition_options:
+- description:
+    type: string
+
+  ppids:
+    type:
+    - list
+    schema:
+      type: integer
+
+  factions:
+    type: list
+    allowed:
+    - infernals
+    - crucible_guard
+    - cygnar
+    - protectorate
+    - khador
+    - cryx
+    - retribution
+    - mercenaries
+    - convergence
+    - trollbloods
+    - circle
+    - skorne
+    - legion
+    - minions
+    - grymkin
+
+  works_for:
+    type: list
+    allowed:
+    - infernals
+    - crucible_guard
+    - cygnar
+    - protectorate
+    - khador
+    - cryx
+    - retribution
+    - mercenaries
+    - convergence
+    - trollbloods
+    - circle
+    - skorne
+    - legion
+    - minions
+    - grymkin
+
+  roles:
+    type: list
+    allowed:
+    - warcaster
+    - warjack
+    - warlock
+    - warbeast
+    - infernal_master
+    - horror
+    - unit
+    - solo
+    - engine_structure
+
+  keywords:
+    type: list
+    schema:
+      type: string
+
+  non_character:
+    type: boolean
+
+  multiples:
+    type: integer
+
+special_rules:
+  type: list
+  schema:
+    description:
+      type: string
+    clarification:
+      type: string

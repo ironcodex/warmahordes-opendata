@@ -1,11 +1,16 @@
 ---
 
+# id of the model/unit at cards.privateerpress.com.
 ppid:
   type: integer
 
+# Name of the model/unit in the card.
 name:
   type: string
 
+# Main role of the model/unit. A warcaster unit, for example, should
+# have warcaster as its role and in the keyworks field include both
+# warcaster and unit keywords.
 role:
   type: string
   allowed:
@@ -19,6 +24,7 @@ role:
   - solo
   - engine_structure
 
+# List of factions the model/unit can be included as friendly faction.
 factions:
   type: list
   allowed:
@@ -38,6 +44,8 @@ factions:
   - minions
   - grymkin
 
+# Other factions this model/unit can work for, without being considered a
+# friendly faction model/unit.
 works_for:
   type: list
   allowed:
@@ -57,12 +65,20 @@ works_for:
   - minions
   - grymkin
 
+# List of keyworks that apply to the model[s] for the purpose of filtering.
 keywords:
   type: list
+  schema:
+    type: string
 
+# Amount of free points for battlegroup composition.
 battlegroup_points:
   type: integer
 
+# Number of points spent to include one of this model/unit in an army.
+# Some models and units have different costs associated with different play
+# options. For example, many units have one cost listed for the
+# minimum-strength unit and a separate cost for the maximum-strength unit.
 point_cost:
   type:
   - integer
@@ -73,13 +89,17 @@ point_cost:
     cost:
       type: integer
 
+# The maximum number of models or units of a given type that can be included
+# for each warcaster or warlock in an army.
 field_allowance:
   type: integer
 
+# ppid of the models that can be attached to this model/unit
 attachments:
   type: list
   schema:
     type: integer
 
+# Number of card scans this model/unit contains. Usually multiple of two.
 scans:
   type: integer
