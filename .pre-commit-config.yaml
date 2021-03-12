@@ -21,3 +21,10 @@ repos:
   hooks:
   - id: yamllint
     files: warmahordes_opendata
+
+- repo: https://github.com/moisesguimaraes/cerberus-cli.git
+  rev: 0.0.2
+  hooks:
+  - id: cerberus-validate
+    args: ['-s', 'warmahordes_opendata/schema/model.yaml']
+    files: warmahordes_opendata/data/models

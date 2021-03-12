@@ -23,6 +23,7 @@ role:
   - unit
   - solo
   - engine_structure
+  - arcana
 
 # List of factions the model/unit can be included as friendly faction.
 factions:

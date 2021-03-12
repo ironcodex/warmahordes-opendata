@@ -1,3 +1,2 @@
 coverage>=5.2.1 # Apache-2.0
 pre-commit>=2.6.0 # MIT
-yamllint>=1.26.0 # GPLv3
