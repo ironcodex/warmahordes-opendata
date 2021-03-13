@@ -1,11 +1,5 @@
 ---
 
-name:
-  type: string
-
-flavor:
-  type: string
-
 factions:
   type: list
   allowed:
@@ -25,154 +19,170 @@ factions:
   - minions
   - grymkin
 
+name:
+  type: string
+
+flavor:
+  type: string
+
 army_composition:
-- description:
-    type: string
-
-  ppids:
-    type:
-    - list
+  type: list
+  schema:
+    type: dict
     schema:
-      type: integer
+      description:
+        type: string
 
-  factions:
-    type: list
-    allowed:
-    - infernals
-    - crucible_guard
-    - cygnar
-    - protectorate
-    - khador
-    - cryx
-    - retribution
-    - mercenaries
-    - convergence
-    - trollbloods
-    - circle
-    - skorne
-    - legion
-    - minions
-    - grymkin
+      ppids:
+        type:
+        - list
+        schema:
+          type: integer
 
-  works_for:
-    type: list
-    allowed:
-    - infernals
-    - crucible_guard
-    - cygnar
-    - protectorate
-    - khador
-    - cryx
-    - retribution
-    - mercenaries
-    - convergence
-    - trollbloods
-    - circle
-    - skorne
-    - legion
-    - minions
-    - grymkin
+      factions:
+        type: list
+        allowed:
+        - infernals
+        - crucible_guard
+        - cygnar
+        - protectorate
+        - khador
+        - cryx
+        - retribution
+        - mercenaries
+        - convergence
+        - trollbloods
+        - circle
+        - skorne
+        - legion
+        - minions
+        - grymkin
 
-  roles:
-    type: list
-    allowed:
-    - warcaster
-    - warjack
-    - warlock
-    - warbeast
-    - infernal_master
-    - horror
-    - unit
-    - solo
-    - engine_structure
+      works_for:
+        type: list
+        allowed:
+        - infernals
+        - crucible_guard
+        - cygnar
+        - protectorate
+        - khador
+        - cryx
+        - retribution
+        - mercenaries
+        - convergence
+        - trollbloods
+        - circle
+        - skorne
+        - legion
+        - minions
+        - grymkin
 
-  keywords:
-    type: list
-    schema:
-      type: string
+      roles:
+        type: list
+        allowed:
+        - warcaster
+        - warjack
+        - warlock
+        - warbeast
+        - infernal_master
+        - horror
+        - unit
+        - solo
+        - engine_structure
 
-  non_character:
-    type: boolean
+      keywords:
+        type: list
+        schema:
+          type: string
 
-  modified_allowance:
-    type: integer
+      non_character:
+        type: boolean
+
+      modified_allowance:
+        type: integer
 
 requisition_options:
-- description:
-    type: string
-
-  ppids:
-    type:
-    - list
+  type: list
+  schema:
+    type: dict
     schema:
-      type: integer
+      description:
+        type: string
 
-  factions:
-    type: list
-    allowed:
-    - infernals
-    - crucible_guard
-    - cygnar
-    - protectorate
-    - khador
-    - cryx
-    - retribution
-    - mercenaries
-    - convergence
-    - trollbloods
-    - circle
-    - skorne
-    - legion
-    - minions
-    - grymkin
+      ppids:
+        type:
+        - list
+        schema:
+          type: integer
 
-  works_for:
-    type: list
-    allowed:
-    - infernals
-    - crucible_guard
-    - cygnar
-    - protectorate
-    - khador
-    - cryx
-    - retribution
-    - mercenaries
-    - convergence
-    - trollbloods
-    - circle
-    - skorne
-    - legion
-    - minions
-    - grymkin
+      factions:
+        type: list
+        allowed:
+        - infernals
+        - crucible_guard
+        - cygnar
+        - protectorate
+        - khador
+        - cryx
+        - retribution
+        - mercenaries
+        - convergence
+        - trollbloods
+        - circle
+        - skorne
+        - legion
+        - minions
+        - grymkin
 
-  roles:
-    type: list
-    allowed:
-    - warcaster
-    - warjack
-    - warlock
-    - warbeast
-    - infernal_master
-    - horror
-    - unit
-    - solo
-    - engine_structure
+      works_for:
+        type: list
+        allowed:
+        - infernals
+        - crucible_guard
+        - cygnar
+        - protectorate
+        - khador
+        - cryx
+        - retribution
+        - mercenaries
+        - convergence
+        - trollbloods
+        - circle
+        - skorne
+        - legion
+        - minions
+        - grymkin
 
-  keywords:
-    type: list
-    schema:
-      type: string
+      roles:
+        type: list
+        allowed:
+        - warcaster
+        - warjack
+        - warlock
+        - warbeast
+        - infernal_master
+        - horror
+        - unit
+        - solo
+        - engine_structure
 
-  non_character:
-    type: boolean
+      keywords:
+        type: list
+        schema:
+          type: string
 
-  multiples:
-    type: integer
+      non_character:
+        type: boolean
+
+      multiples:
+        type: integer
 
 special_rules:
   type: list
   schema:
-    description:
-      type: string
-    clarification:
-      type: string
+    type: dict
+    schema:
+      description:
+        type: string
+      clarification:
+        type: string

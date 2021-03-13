@@ -23,8 +23,13 @@ repos:
     files: warmahordes_opendata
 
 - repo: https://github.com/moisesguimaraes/cerberus-cli.git
-  rev: 0.0.2
+  rev: 0.0.3
   hooks:
   - id: cerberus-validate
+    name: validating models
     args: ['-s', 'warmahordes_opendata/schema/model.yaml']
     files: warmahordes_opendata/data/models
+  - id: cerberus-validate
+    name: validating themes
+    args: ['-s', 'warmahordes_opendata/schema/theme.yaml']
+    files: warmahordes_opendata/data/themes

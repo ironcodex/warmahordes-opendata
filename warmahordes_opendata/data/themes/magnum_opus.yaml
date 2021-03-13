@@ -1,1 +1,92 @@
 ---
+factions: [crucible_guard]
+
+name: Magnum Opus
+
+flavor: >
+  The Crucible Guard has unleashed its standing army in a show of force that
+  unveils its impressive military innovations and tactical flexibility. Its
+  highly trained and specialized soldiers fight in concert with skilled combat
+  alchemists and support units to push up the field in a haze of alchemical
+  smoke, backed up by the might of the Golden Crucible's advanced war machines.
+
+army_composition:
+- description: Crucible Guard warcasters.
+  factions: [crucible_guard]
+  roles: [warcaster]
+
+- description: Non-character warjacks.
+  factions: [crucible_guard]
+  roles: [warjack]
+  non_character: true
+
+- description: Crucible Guard units.
+  factions: [crucible_guard]
+  roles: [unit]
+
+- description: Crucible Guard solos.
+  factions: [crucible_guard]
+  roles: [solo]
+
+- description: Gorman solos.
+  ppids: [2708, 4477]
+
+- description: Hutchuk, Ogrun Bounty Hunter.
+  ppids: [3494]
+
+- description: Crucible Guard battle engines.
+  factions: [crucible_guard]
+  roles: [engine_structure]
+
+- description: One Mercenary solo that will work for Crucible Guard.
+  factions: [mercenaries]
+  works_for: [crucible_guard]
+  roles: [solo]
+  modified_allowance: 1
+
+- description: >
+    One Mercenary unit that will work for the Crucible Guard. The unit can be
+    included even if they have the Partisan [Crucible Guard] special rule.
+    Mercenary units in this army can include attachments, including Doctor
+    Alejandro Mosby.
+  factions: [mercenaries]
+  works_for: [crucible_guard]
+  roles: [unit]
+  modified_allowance: 1
+
+requisition_options:
+- description: One Crucible Guard weapon crew unit.
+  ppids: [4159]
+
+- description: One Crucible Guard command attachment.
+  keywords: [command_attachment]
+
+- description: Three Crucible Guard Mechanik solos.
+  ppids: [4162]
+  multiples: 3
+
+- description: Two Trancer solos.
+  ppids: [4165]
+  multiples: 2
+
+- description: One small-based Crucible Guard solo.
+  factions: [crucible_guard]
+  keywords: [small_base]
+  roles: [solo]
+
+- description: One medium-based Crucible Guard solo.
+  factions: [crucible_guard]
+  keywords: [medium_base]
+  roles: [solo]
+
+special_rules:
+- description: >
+    Crucible Guard solos and Crucible Guard weapon crew units in this army gain
+    Reposition [3"].
+  clarification: >
+    (Reposition [3"] – At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3 ̋] can advance up to 3 ̋, then its
+    activation ends.)
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
