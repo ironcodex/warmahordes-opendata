@@ -1,0 +1,90 @@
+---
+factions: [crucible_guard]
+
+name: Prima Materia
+
+flavor: >
+  The Order of the Golden Crucible is jealous of its secrets. Its members have
+  experienced firsthand what can happen when their alchemical and mechanikal
+  innovations fall into the wrong hands. The most technologically advanced
+  divisions of the Crucible Guard are insular and allow no outsiders, lest
+  their secrets be stolen. Wielding the newest and most devastating weapons in
+  the Guard's arsenal, they bring destruction to enemies of the Order.
+
+army_composition:
+- description: Crucible Guard warcasters.
+  factions: [crucible_guard]
+  roles: [warcaster]
+
+- description: Non-character warjacks.
+  factions: [crucible_guard]
+  roles: [warjack]
+  non_character: true
+
+- description: Combat Alchemist units.
+  factions: [crucible_guard]
+  keywords: [combat_alchemist]
+  roles: [unit]
+
+- description: Dragon's Breath Rocket weapon crew units.
+  ppids: [4159]
+
+- description: Medium-based Crucible Guard units.
+  factions: [crucible_guard]
+  keywords: [medium_base]
+  roles: [unit]
+
+- description: Arum Ominus Alyce Marc.
+  ppids: [4161]
+
+- description: Crucible Guard Mechanik solos.
+  ppids: [4162]
+
+- description: Gorman solos.
+  ppids: [2708, 4477]
+
+- description: Hutchuk, Ogrun Bounty Hunter.
+  ppids: [3494]
+
+- description: Prospero.
+  ppids: [4163]
+
+- description: Trancer solos.
+  ppids: [4165]
+
+- description: Crucible Guard battle engines.
+  factions: [crucible_guard]
+  roles: [engine_structure]
+
+requisition_options:
+- description: One Combat Alchemist unit.
+  ppids: [4151]
+
+- description: Three Crucible Guard Mechanik solos.
+  ppids: [4162]
+  multiples: 3
+
+- description: Two Trancer solos.
+  ppids: [4165]
+  multiples: 2
+
+- description: One small-based Crucible Guard solo.
+  factions: [crucible_guard]
+  keywords: [small_base]
+  roles: [solo]
+
+- description: One medium-based Crucible Guard solo.
+  factions: [crucible_guard]
+  keywords: [medium_base]
+  roles: [solo]
+
+special_rules:
+- description: >
+    Vanguard warjacks in this army can use Shield Guard twice per turn.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    warcasters in this army. These spells and their targets must be declared
+    before either player deploys any models. Warcasters in this army do not
+    have to pay focus to upkeep their spells during your first turn of the
+    game.

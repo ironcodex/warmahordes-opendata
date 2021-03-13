@@ -87,6 +87,7 @@ special_rules:
     (Reposition [3"] – At the end of an activation it did not run or fail a
     charge, a model with Reposition [3 ̋] can advance up to 3 ̋, then its
     activation ends.)
+
 - description: >
     You can reroll your starting roll for the game. Your starting game roll can
     be rerolled only once as a result of this special rule.
