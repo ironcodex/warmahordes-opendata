@@ -46,10 +46,8 @@ class TestRule(unittest.TestCase):
         self.assertEqual(
             self.rule.to_dict(),
             dict(
-                key="immunity_fire",
                 name="Immunity: Fire",
                 abbreviation="",
-                title="Immunity: Fire",
                 description="This model does not suffer fire damage "
                 "and is immune to the Fire continuous effect.\n",
                 see_also=["Damage Type: Fire", "Continuous Effect: Fire"],

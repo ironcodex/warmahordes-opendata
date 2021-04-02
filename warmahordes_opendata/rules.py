@@ -51,10 +51,8 @@ class Rule(base.SearchableYAMLObject):
 
     def to_dict(self):
         return dict(
-            key=self.key,
             name=self.name,
             abbreviation=self.abbreviation,
-            title=self.title,
             description=self.description,
             see_also=self.see_also,
         )
