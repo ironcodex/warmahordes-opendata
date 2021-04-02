@@ -12,11 +12,7 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from importlib import resources
-import os
 import unittest
-
-import yaml
 
 from warmahordes_opendata import models
 
@@ -72,33 +68,10 @@ class TestModel(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        filename = os.path.join(
-            resources.files("warmahordes_opendata"),
-            "data",
-            "models",
-            "crucible_guard",
-            "warcaster",
-            "aurum_adeptus_syvestro.yaml",
-        )
-
-        with open(filename, "r") as fd:
-            self.yaml = fd.read()
-
-        self.model = yaml.safe_load(self.yaml)
+        self.model = models.Model.find("Syvestro")[0]
 
     def test_type(self):
         self.assertIsInstance(self.model, models.Model)
-
-    def test_to_yaml(self):
-        self.assertEqual(
-            yaml.dump(
-                self.model,
-                explicit_start=True,
-                default_flow_style=False,
-                sort_keys=False,
-            ),
-            self.yaml,
-        )
 
     def test_ppid(self):
         self.assertEqual(self.model.ppid, 4142)
