@@ -1,0 +1,59 @@
+#    Copyright 2020 IronCodex
+#
+#    Licensed under the Apache License, Version 2.0 (the "License");
+#    you may not use this file except in compliance with the License.
+#    You may obtain a copy of the License at
+#
+#        http://www.apache.org/licenses/LICENSE-2.0
+#
+#    Unless required by applicable law or agreed to in writing, software
+#    distributed under the License is distributed on an "AS IS" BASIS,
+#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#    See the License for the specific language governing permissions and
+#    limitations under the License.
+
+from warmahordes_opendata import base
+
+
+class ThemeForce(base.SearchableYAMLObject):
+    yaml_tag = "!warmahordes_opendata.ThemeForce"
+
+    def __init__(
+        self,
+        name="",
+        factions=None,
+        flavor="",
+        army_composition=None,
+        requisition_options=None,
+        special_rules=None,
+    ):
+        super().__init__()
+
+        self.key = self.slugify(name)
+
+        self.name = name
+        self.factions = factions
+        self.flavor = flavor
+        self.army_composition = army_composition
+        self.requisition_options = requisition_options
+        self.special_rules = special_rules
+
+    def __repr__(self):
+        return "%s(name='%s', factions=%s)" % (
+            self.__class__.__name__,
+            self.name,
+            self.factions,
+        )
+
+    def to_dict(self):
+        return dict(
+            name=self.name,
+            factions=self.factions,
+            flavor=self.flavor,
+            army_composition=self.army_composition,
+            requisition_options=self.requisition_options,
+            special_rules=self.special_rules,
+        )
+
+
+ThemeForce.dataset = base.flatten(base.load_dir("data/themes"))
