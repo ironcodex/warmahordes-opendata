@@ -1,8 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: stealth
-title: Stealth
+name: Stealth
 description: >
   Ranged and magic attacks targeting this model from a point of origin
   greater than 5" away automatically miss. This model is not an intervening
   model when determining line of sight from a model more than 5" away.
-see_also: []

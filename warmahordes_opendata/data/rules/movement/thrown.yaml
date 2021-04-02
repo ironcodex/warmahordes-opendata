@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: thrown
-title: Thrown
+name: Thrown
 description: >
   Sometimes models are thrown as the result of a spell or attack.
   When a model is thrown, refer to the spell or attack that caused the throw
@@ -32,4 +31,3 @@ description: >
   If a thrown model cannot be knocked down it must still forfeit its Normal
   Movement or Combat Action if it activates later in a turn in which it
   was thrown.
-see_also: []

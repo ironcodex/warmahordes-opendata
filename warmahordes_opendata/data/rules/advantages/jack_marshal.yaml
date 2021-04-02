@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: jack_marshal
-title: \'Jack Marshal
+name: \'Jack Marshal
 description: >
   This model is a 'jack marshal and can command warjacks.
-see_also: []

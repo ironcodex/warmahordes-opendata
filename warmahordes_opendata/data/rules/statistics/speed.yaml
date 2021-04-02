@@ -1,7 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: speed
-title: SPD, Speed
+name: Speed
+abbreviation: SPD
 description: >
   A model's movement rate. A model moves up to its SPD in inches when making a
   full advance.
-see_also: []

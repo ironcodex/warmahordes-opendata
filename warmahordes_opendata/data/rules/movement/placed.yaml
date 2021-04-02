@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: placed
-title: Placed
+name: Placed
 description: >
   Sometimes models are placed in a new location as a result
   of a special rule or spell. Placing a model is not moving or advancing
@@ -14,4 +13,3 @@ description: >
   When you are placing a friendly trooper model that is in formation, it
   must be placed in formation unless it is the unit commander. Unit commanders
   can be placed without considering formation.
-see_also: []

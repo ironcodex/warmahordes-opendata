@@ -1,9 +1,8 @@
 --- !warmahordes_opendata.Rule
-name: command
-title: CMD, Command
+name: Command
+abbreviation: CMD
 description: >
   Every model with a CMD stat has a command range equal to its
   CMD in inches. A model is always completely within its own command range.
   Models in a unit that are in their unit commander's command range are
   considered to be in formation.
-see_also: []

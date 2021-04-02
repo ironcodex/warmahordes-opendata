@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: combined_ranged_attack
-title: Combined Ranged Attack
+name: Combined Ranged Attack
 description: >
   This model can participate in combined ranged attacks with other models in
   its unit.
-see_also: []

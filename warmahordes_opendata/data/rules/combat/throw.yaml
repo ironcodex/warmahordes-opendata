@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: throw
-title: Throw
+name: Throw
 description: >
   A model making a throw power attack picks up and throws another
   model. A warjack must have at least one non-crippled weapon with the Open
@@ -47,4 +46,3 @@ description: >
   contacting it.\n
   \n
   The thrown model suffers a power attack damage roll.
-see_also: []

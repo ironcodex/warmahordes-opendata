@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: advancing
-title: Advancing
+name: Advancing
 description: >
   Advancing refers to movement a model intentionally makes, not
   to involuntary movement caused by other effects, such as being pushed
@@ -14,4 +13,3 @@ description: >
   while advancing. This means that if a gap between the bases of two models
   is too small for another model's base to fit between them, the third model
   cannot move through the space.
-see_also: []

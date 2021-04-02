@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: assault
-title: Assault
+name: Assault
 description: >
   This model can make an Assault ranged attack.\n
   \n
@@ -12,4 +11,3 @@ description: >
   model's melee range after ending its movement, the charge fails, but the
   model with Assault can still make the Assault ranged attack before its
   activation ends. A model can make an Assault ranged attack while in melee.
-see_also: []

@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: replacing_models
-title: Replacing Models
+name: Replacing Models
 description: >
   When replacing one model with another, place the new model
   so the area covered by the smaller of their bases is completely within
@@ -8,4 +7,3 @@ description: >
   the new model in the same location as the one being replaced. There must
   be room for the model's base in the location the model is placed. The
   player choosing the placed model's new location chooses its facing.
-see_also: []

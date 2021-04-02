@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: damage_type_corrosion
-title: 'Damage Type: Corrosion'
+name: 'Damage Type: Corrosion'
 description: >
   This weapon causes corrosion damage.
-see_also: []

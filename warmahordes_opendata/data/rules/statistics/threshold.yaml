@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: threshold
-title: THR, Threshold
+name: Threshold
+abbreviation: THR
 description: >
   A measure of a warbeast's ability to resist frenzy.
-see_also: []

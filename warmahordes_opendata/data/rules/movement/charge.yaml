@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: charge
-title: Charge
+name: Charge
 description: >
   The model rushes into melee range with a target and takes
   advantage of its momentum to make a more powerful first strike. A model
@@ -66,4 +65,3 @@ description: >
   melee attack against the charge target, the charging model can make its first
   melee attack against another eligible target. In that case, its first melee
   attack damage roll is not automatically boosted.
-see_also: []

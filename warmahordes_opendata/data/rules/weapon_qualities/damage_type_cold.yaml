@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: damage_type_cold
-title: 'Damage Type: Cold'
+name: 'Damage Type: Cold'
 description: >
   This weapon causes cold damage.
-see_also: []

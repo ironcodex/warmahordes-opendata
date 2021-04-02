@@ -1,8 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: pathfinder
-title: Pathfinder
+name: Pathfinder
 description: >
   This model treats rough terrain as open terrain while advancing.
   While charging, slam power attacking, or trample power attacking, this
   model does not stop its movement when it contacts an obstacle.
-see_also: []

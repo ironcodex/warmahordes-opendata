@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: fury
-title: FURY, Fury
+name: Fury
+abbreviation: FURY
 description: >
   Like FOCUS, FURY is a measure of model's primal arcane power.
   For warbeasts, FURY indicates how much the beast can be forced. When warbeasts
@@ -9,4 +9,3 @@ description: >
   enhance their own abilities. FURY determines a model's control range and
   beginning fury points, and the model uses its FURY when making magic attack
   rolls.
-see_also: []

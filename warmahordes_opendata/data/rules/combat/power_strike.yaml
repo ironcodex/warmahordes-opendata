@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: power_strike
-title: Power Strike
+name: Power Strike
 description: >
   Only colossals and gargantuans can make power strikes.\n
   \n
@@ -15,4 +14,3 @@ description: >
   The attacking model makes a melee attack against the target. If the attack
   hits, the target is slammed d6 + 2 directly away from the colossal or
   gargantuan and suffers a power attack damage roll.
-see_also: []

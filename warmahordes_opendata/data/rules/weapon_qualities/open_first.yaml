@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: open_first
-title: Open Fist
+name: Open Fist
 description: >
   This weapon is an Open Fist. A warjack can use a weapon with
   an Open Fist to make some power attacks.
-see_also: []

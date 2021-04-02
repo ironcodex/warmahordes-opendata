@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: damage_type_electricity
-title: 'Damage Type: Electricity'
+name: 'Damage Type: Electricity'
 description: >
   This weapon causes electrical damage.
-see_also: []

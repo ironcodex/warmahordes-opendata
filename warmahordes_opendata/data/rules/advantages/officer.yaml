@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: officer
-title: Officer
+name: Officer
 description: >
   This model is an Officer.
-see_also: []

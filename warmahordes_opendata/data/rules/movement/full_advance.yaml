@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: full_advance
-title: Full Advance
+name: Full Advance
 description: >
   The model advances up to its current speed (SPD) in inches.
-see_also: []

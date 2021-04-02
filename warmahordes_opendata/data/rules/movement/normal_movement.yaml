@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: normal_movement
-title: Normal Movement
+name: Normal Movement
 description: >
   The first part of a model's activation is its Normal Movement.
   Models generally move only during this portion of their activations,
@@ -16,4 +15,3 @@ description: >
   \n
   Additionally some models can choose to perform a power attack encompassing
   its Normal Movement and Combat Action such as a slam or trample power attack.
-see_also: []

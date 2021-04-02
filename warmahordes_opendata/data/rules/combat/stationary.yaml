@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: stationary
-title: Stationary
+name: Stationary
 description: >
   Some attacks and special rules cause a model to become stationary.
   While stationary a model does not have a melee range and cannot advance,
@@ -9,4 +8,3 @@ description: >
   models and cannot be engaged by them. As a consequence, a model is never
   in melee with a stationary model. A melee attack against a stationary
   model automatically hits. A stationary model has a base DEF of 5.
-see_also: []

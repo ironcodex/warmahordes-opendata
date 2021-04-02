@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: knockdown
-title: Knockdown
+name: Knockdown
 description: >
   Some attacks and special rules cause a model to become knocked
   down. While knocked down, a model does not have a melee range and cannot
@@ -29,4 +28,3 @@ description: >
   can use its Normal Movement to make a full advance but cannot run, charge,
   or perform a slam or trample power attack that activation. When a model
   stands, it ceases to be knocked down.
-see_also: []

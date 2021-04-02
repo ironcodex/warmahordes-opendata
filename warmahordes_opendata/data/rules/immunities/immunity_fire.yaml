@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: immunity_fire
-title: 'Immunity: Fire'
+name: 'Immunity: Fire'
 description: >
   This model does not suffer fire damage and is immune to the
   Fire continuous effect.

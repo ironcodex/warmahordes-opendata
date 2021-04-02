@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: power_attacks
-title: Power Attacks
+name: Power Attacks
 description: >
   Power attacks are attack options available to some models,
   such as warjacks and warbeasts. The power attacks available to other
@@ -38,4 +37,3 @@ description: >
   \n
   A model that is able to do so can make additional melee attacks after making
   a power attack. A model cannot make a power attack as an additional attack.
-see_also: []

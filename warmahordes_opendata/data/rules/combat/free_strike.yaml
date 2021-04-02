@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: free_strike
-title: Free Strike
+name: Free Strike
 description: >
   When an engaged model advances out of an enemy's melee range
   or line of sight, the enemy model can make a free strike against it just
@@ -17,4 +16,3 @@ description: >
   ranged weapon, it only gains the +2 to hit bonus against the model targeted
   by the attack. Likewise, if the attack hits, the damage roll against the
   model targeted by the free strike attack is boosted.
-see_also: []

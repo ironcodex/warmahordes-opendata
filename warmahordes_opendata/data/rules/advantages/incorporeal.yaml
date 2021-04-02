@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: incorporeal
-title: Incorporeal
+name: Incorporeal
 description: >
   This model treats all non-impassable terrain as open terrain
   while advancing. It can move through obstructions and through other models
@@ -15,4 +14,3 @@ description: >
   a melee or ranged attack, before the attack roll is made it loses Incorporeal
   until the start of its next activation. This model cannot make free strikes
   while Incorporeal.
-see_also: []

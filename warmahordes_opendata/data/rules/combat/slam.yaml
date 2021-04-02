@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: slam
-title: Slam
+name: Slam
 description: >
   A model making a slam power attack rams a model with the full
   force of its body to send the target model flying backward and knock
@@ -53,4 +52,3 @@ description: >
   A model that does not end its slam movement with its target within its slam
   melee range has failed its slam power attack. If a model fails its slam power
   attack during its activation, its activation ends.
-see_also: []

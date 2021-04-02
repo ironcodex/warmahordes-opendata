@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: sweep
-title: Sweep
+name: Sweep
 description: >
   A colossal or gargantuan can use its arms to scythe through
   models within its reach. A colossal or gargantuan chooses a non-crippled
@@ -10,4 +9,3 @@ description: >
   intervening models when determining line of sight. This power attack does
   not require a target, but each separate attack does. These attacks are
   simultaneous. Models hit suffer a power attack damage roll.
-see_also: []

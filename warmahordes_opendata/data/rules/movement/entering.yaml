@@ -1,9 +1,7 @@
 --- !warmahordes_opendata.Rule
-name: entering
-title: Entering
+name: Entering
 description: >
   A model enters an area when it moves from not being within
   the area to being within the area, when it is put into play in the area,
   or when it is placed in the area. A model can suffer the effects of entering
   any particular area only once each time it advances.
-see_also: []

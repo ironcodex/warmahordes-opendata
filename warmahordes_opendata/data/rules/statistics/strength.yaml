@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: strength
-title: STR, Strengh
+name: Strengh
+abbreviation: STR
 description: >
   A model's physical strength. STR is used to calculate melee damage.
-see_also: []

@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: least_disturbance
-title: Least Disturbance
+name: Least Disturbance
 description: >
   Some rules can cause the bases of moving models to overlap
   those of other models temporarily, such as when a model is thrown or
@@ -16,4 +15,3 @@ description: >
   over another, for example - randomly determine the option to use.
   A model's facing does not change when the model is moved as a result
   of this rule.
-see_also: []

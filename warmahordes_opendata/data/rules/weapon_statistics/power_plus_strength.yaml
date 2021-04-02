@@ -1,7 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: power_plus_strength
-title: P+S, Power plus Strength
+name: Power plus Strength
+abbreviation: P+S
 description: >
   The P+S value provides the sum of the model's base STR and
   the melee weapon's POW for quick reference.
-see_also: []

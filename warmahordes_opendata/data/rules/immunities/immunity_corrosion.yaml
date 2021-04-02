@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: immunity_corrosion
-title: 'Immunity: Corrosion'
+name: 'Immunity: Corrosion'
 description: >
   This model does not suffer corrosion damage and is immune to
   the Corrosion continuous effect.

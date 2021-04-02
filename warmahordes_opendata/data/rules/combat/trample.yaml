@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: trample
-title: Trample
+name: Trample
 description: >
   A model making a trample power attack crashes its way through
   small-based models in its path. A trample combines a model's Normal Movement
@@ -41,4 +40,3 @@ description: >
   a free strike against the trampling model during the trampling model's
   movement, it can do so whether or not the trampling model ended its movement
   in the eligible model's melee range.
-see_also: []

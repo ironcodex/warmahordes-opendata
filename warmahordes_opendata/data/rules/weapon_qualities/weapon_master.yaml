@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: weapon_master
-title: Weapon Master
+name: Weapon Master
 description: >
   When attacking with this weapon, add an additional die to its
   damage rolls.
-see_also: []

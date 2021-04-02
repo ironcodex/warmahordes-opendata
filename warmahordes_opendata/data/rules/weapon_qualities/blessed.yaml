@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: blessed
-title: Blessed
+name: Blessed
 description: >
   Attacks with this weapon ignore bonuses from spells, including
   animi, that add to a model's ARM or DEF.
-see_also: []

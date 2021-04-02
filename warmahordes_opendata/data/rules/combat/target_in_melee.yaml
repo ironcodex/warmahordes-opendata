@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: target_in_melee
-title: Targeting a Model in Melee
+name: Targeting a Model in Melee
 description: >
   A large-or-smaller-based model in melee gains +4 DEF against
   non-spray ranged and magic attacks. Huge-based models never gain the Target
@@ -9,4 +8,3 @@ description: >
   Ignore the target-in-melee DEF bonus when the point of origin of the ranged
   or magic attack is in melee with the model the attack roll is being made
   against.
-see_also: []

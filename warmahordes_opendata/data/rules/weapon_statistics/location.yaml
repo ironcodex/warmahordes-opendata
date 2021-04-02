@@ -1,10 +1,9 @@
 --- !warmahordes_opendata.Rule
-name: location
-title: L/R/H/S, Location
+name: Location
+abbreviation: L/R/H/S
 description: >
   The weapon stat bars of warjacks and huge-based models indicate
   where their weapons are located: left arm (L), right arm (R), head (H),
   or superstructure (S). When all of a warjack's system boxes for a location
   have been damaged, that system is crippled. A weapon that is not in
   one of these locations is marked with " - ."
-see_also: []

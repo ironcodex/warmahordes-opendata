@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: gunfighter
-title: Gunfighter
+name: Gunfighter
 description: >
   This model is a gunfighter.\n
   \n
@@ -22,4 +21,3 @@ description: >
   \n
   Gunfighter does not allow a model to make melee and ranged attacks during
   the same activation.
-see_also: []

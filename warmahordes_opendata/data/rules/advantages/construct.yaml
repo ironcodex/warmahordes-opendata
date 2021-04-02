@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: construct
-title: Construct
+name: Construct
 description: >
   This model is a construct and is not a living model.
-see_also: []

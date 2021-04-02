@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: soulless
-title: Soulless
+name: Soulless
 description: >
   This living model does not generate a soul token when it is
   destroyed.
-see_also: []

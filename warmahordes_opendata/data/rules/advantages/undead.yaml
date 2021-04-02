@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: undead
-title: Undead
+name: Undead
 description: >
   This model is an undead model and not a living model.
-see_also: []

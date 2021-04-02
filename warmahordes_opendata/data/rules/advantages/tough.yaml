@@ -1,8 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: tough
-title: Tough
+name: Tough
 description: >
   When this model is disabled, roll a d6. On a 5 or 6, remove 1 damage point
   from this model; it is no longer disabled and becomes knocked down. While
   knocked down, this model loses Tough.
-see_also: []

@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: slammed
-title: Slammed
+name: Slammed
 description: >
   Sometimes models are slammed as a result of a spell or attack.
   When a model is slammed, it is moved a certain distance directly away
@@ -28,4 +27,3 @@ description: >
   If a slammed model cannot be knocked down it must still forfeit its Normal
   Movement or Combat Action if it activates later in a turn in which it
   was slammed.
-see_also: []

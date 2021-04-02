@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: cavalry
-title: Cavalry
+name: Cavalry
 description: >
   This model is a cavalry model.
-see_also: []

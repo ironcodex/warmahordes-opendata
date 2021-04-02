@@ -1,6 +1,4 @@
 --- !warmahordes_opendata.Rule
-name: damage_type_fire
-title: 'Damage Type: Fire'
+name: 'Damage Type: Fire'
 description: >
   This weapon causes fire damage.
-see_also: []

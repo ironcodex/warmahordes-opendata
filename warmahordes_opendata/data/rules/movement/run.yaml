@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: run
-title: Run
+name: Run
 description: >
   The model advances up to twice its current speed (SPD) in
   inches. When a model uses its Normal Movement to run, it must forfeit
@@ -21,4 +20,3 @@ description: >
       to run, or it must be compelled to run as a result of a game effect (such
       as being out of formation). A trooper that receives the Press Forward
       order must use its Normal Movement to either run or charge.
-see_also: []

@@ -1,8 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: amphibious
-title: Amphibious
+name: Amphibious
 description: >
   This model treats shallow water as open terrain while advancing. While
   completely in shallow water, this model gains concealment and does not block
   line of sight.
-see_also: []

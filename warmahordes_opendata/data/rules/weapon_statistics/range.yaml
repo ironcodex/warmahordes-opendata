@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.Rule
-name: range
-title: RNG, Range
+name: Range
+abbreviation: RNG
 description: >
   The maximum distance in inches between the attack's point of
   origin and the target before the attack will automatically miss. Measure
@@ -13,4 +13,3 @@ description: >
   determining the RNG. Some special rules can affect a weapon's range. If
   a weapon's RNG is reduced to 0 or less by some effect, the weapon cannot
   be used to make attacks.
-see_also: []

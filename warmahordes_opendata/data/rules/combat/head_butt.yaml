@@ -1,6 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: head_butt
-title: Head-Butt
+name: Head-Butt
 description: >
   A model making a head-butt power attack smashes its head into
   a model to drive it to the ground. A head-butt power attack made by a
@@ -10,4 +9,3 @@ description: >
   becomes knocked down and then suffers a power attack damage roll.\n
   \n
   A model cannot head-butt a model with a larger base.
-see_also: []

@@ -1,7 +1,5 @@
 --- !warmahordes_opendata.Rule
-name: eyeless_sight
-title: Eyeless Sight
+name: Eyeless Sight
 description: >
   This model ignores cloud effects when determining line of sight.
   This model ignores Concealment and Stealth, and never suffers Blind.
-see_also: []
