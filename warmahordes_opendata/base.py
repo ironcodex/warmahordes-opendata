@@ -15,9 +15,10 @@
 from importlib import resources
 import os
 
+from slugify import slugify as slgf
 import yaml
 
-ROOT = resources.files("warmahordes_opendata")
+ROOT = resources.files(__package__)
 
 
 def load_dir(*path, root=ROOT):
@@ -55,3 +56,36 @@ class BaseYAMLObject(yaml.YAMLObject):
     @classmethod
     def from_yaml(cls, loader, node):
         return cls(**loader.construct_mapping(node))
+
+
+class Searchable:
+    dataset = {}
+
+    @staticmethod
+    def slugify(name):
+        return slgf(name, separator="_", replacements=(("&", "and"),))
+
+    @classmethod
+    def _keywords_filter(cls, collection, keywords):
+        for word in keywords:
+            word = cls.slugify(word)
+            collection = list(filter(lambda x: word in x, collection))
+
+        return collection
+
+    @classmethod
+    def find(cls, keywords):
+        if isinstance(keywords, str):
+            keywords = {keywords}
+
+        if not isinstance(keywords, set):
+            keywords = set(keywords)
+
+        return [
+            cls.dataset[key]
+            for key in cls._keywords_filter(cls.dataset.keys(), keywords)
+        ]
+
+
+class SearchableYAMLObject(Searchable, BaseYAMLObject):
+    pass

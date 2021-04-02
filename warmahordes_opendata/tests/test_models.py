@@ -17,6 +17,43 @@ import unittest
 from warmahordes_opendata import models
 
 
+class TestModel(unittest.TestCase):
+    def setUp(self):
+        super().setUp()
+
+        self.model = models.Model.find("Syvestro")[0]
+
+    def test_type(self):
+        self.assertIsInstance(self.model, models.Model)
+
+    def test_ppid(self):
+        self.assertEqual(self.model.ppid, 4142)
+
+    def test_name(self):
+        self.assertEqual(self.model.name, "Aurum Adeptus Syvestro")
+
+    def test_role(self):
+        self.assertEqual(self.model.role, "warcaster")
+
+    def test_factions(self):
+        self.assertEqual(self.model.factions, ["crucible_guard"])
+
+    def test_scans(self):
+        self.assertEqual(self.model.scans, 4)
+
+    def test_to_dict(self):
+        self.assertEqual(
+            self.model.to_dict(),
+            dict(
+                ppid=4142,
+                name="Aurum Adeptus Syvestro",
+                role="warcaster",
+                factions=["crucible_guard"],
+                scans=4,
+            ),
+        )
+
+
 class TestBaseSize(unittest.TestCase):
     def test_small_base(self):
         self.assertEqual(models.BaseSize.SMALL, 30)
@@ -62,40 +99,3 @@ class TestWeapon(unittest.TestCase):
         self.assertEqual(self.carbine.stats.aoe, 0)
         self.assertEqual(self.carbine.stats.pow, 10)
         self.assertEqual(self.carbine.location, models.WeaponLocation.NONE)
-
-
-class TestModel(unittest.TestCase):
-    def setUp(self):
-        super().setUp()
-
-        self.model = models.Model.find("Syvestro")[0]
-
-    def test_type(self):
-        self.assertIsInstance(self.model, models.Model)
-
-    def test_ppid(self):
-        self.assertEqual(self.model.ppid, 4142)
-
-    def test_name(self):
-        self.assertEqual(self.model.name, "Aurum Adeptus Syvestro")
-
-    def test_role(self):
-        self.assertEqual(self.model.role, "warcaster")
-
-    def test_factions(self):
-        self.assertEqual(self.model.factions, ["crucible_guard"])
-
-    def test_scans(self):
-        self.assertEqual(self.model.scans, 4)
-
-    def test_to_dict(self):
-        self.assertEqual(
-            self.model.to_dict(),
-            dict(
-                ppid=4142,
-                name="Aurum Adeptus Syvestro",
-                role="warcaster",
-                factions=["crucible_guard"],
-                scans=4,
-            ),
-        )

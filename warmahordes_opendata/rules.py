@@ -12,18 +12,19 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from warmahordes_opendata import slgf
-from warmahordes_opendata import yaml
+from warmahordes_opendata import base
 
 
-class Rule(yaml.BaseYAMLObject):
+class Rule(base.SearchableYAMLObject):
     yaml_tag = "!warmahordes_opendata.Rule"
 
-    def __init__(self, name="", abbreviation="", description="", see_also=[]):
+    def __init__(
+        self, name="", abbreviation="", description="", see_also=None
+    ):
         super().__init__()
 
         self.title = f"{abbreviation}, {name}" if abbreviation else name
-        self.key = slgf.slugify(self.title)
+        self.key = self.slugify(self.title)
 
         self.name = name
         self.abbreviation = abbreviation
@@ -58,13 +59,5 @@ class Rule(yaml.BaseYAMLObject):
             see_also=self.see_also,
         )
 
-    @staticmethod
-    def find(keywords):
-        if isinstance(keywords, str):
-            keywords = [keywords]
 
-        return [_SLUGS[slug] for slug in slgf.query(_SLUGS.keys(), keywords)]
-
-
-_RULES = yaml.load_dir("data/rules")
-_SLUGS = yaml.flatten(_RULES)
+Rule.dataset = base.flatten(base.load_dir("data/rules"))

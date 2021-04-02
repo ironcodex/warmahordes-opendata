@@ -14,8 +14,7 @@
 
 import enum
 
-from warmahordes_opendata import slgf
-from warmahordes_opendata import yaml
+from warmahordes_opendata import base
 
 
 class BaseSize(enum.IntEnum):
@@ -78,11 +77,13 @@ class Weapon:
         self.rules = rules
 
 
-class Model(yaml.BaseYAMLObject):
+class Model(base.SearchableYAMLObject):
     yaml_tag = "!warmahordes_opendata.Model"
 
-    def __init__(self, ppid=0, name="", role="", factions=[], scans=0):
-        self.key = slgf.slugify(name)
+    def __init__(self, ppid=0, name="", role="", factions=None, scans=0):
+        super().__init__()
+
+        self.key = self.slugify(name)
 
         self.ppid = ppid
         self.name = name
@@ -109,13 +110,5 @@ class Model(yaml.BaseYAMLObject):
             scans=self.scans,
         )
 
-    @staticmethod
-    def find(keywords):
-        if isinstance(keywords, str):
-            keywords = [keywords]
 
-        return [_SLUGS[slug] for slug in slgf.query(_SLUGS.keys(), keywords)]
-
-
-_MODELS = yaml.load_dir("data/models")
-_SLUGS = yaml.flatten(_MODELS)
+Model.dataset = base.flatten(base.load_dir("data/models"))
