@@ -6,4 +6,4 @@ description: >
   Immunity: Electricity when determining which model the lightning arcs
   to. Lightning cannot arc from a model with Immunity: Electricity.
 see_also:
-- damage_type_electricity
+- 'Damage Type: Electricity'
