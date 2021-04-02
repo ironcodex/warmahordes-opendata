@@ -1,0 +1,48 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [khador]
+
+name: Wolves Of Winter
+
+flavor: >
+  The Greylords Covenant does not shrink from using any weapon at its disposal,
+  no matter how horrifying. This fact is seldom made clearer than when a task
+  force of Greylord arcanists goes to battle with a retinue of blood-mad Doom
+  Reavers bearing profane fellblades, cursed objects based on the weapons of the
+  Orgoth slavers. Greylords will not hesitate to unleash their insane soldiers
+  upon any foe, with little regard for the collateral damage they may cause.
+
+army_composition:
+- description: Khador warcasters.
+
+- description: Non-character warjacks.
+
+- description: Drago.
+
+- description: Ruin.
+
+- description: Doom Reaver models/units.
+
+- description: Greylord models/units.
+
+- description: Battle Mechanik units.
+
+- description: Void Archon solos.
+
+- description: War Dog solos.
+
+requisition_options:
+- description: One Greylord Ternion unit.
+
+- description: One Khador command attachment.
+
+- description: One small-or-medium-based Khador solo.
+
+special_rules:
+- description: >
+    At the beginning of each of your Control Phases, choose one
+    non-warcaster Doom Reaver or Greylord unit to gain Apparition that turn.
+  clarification: >
+    Apparition - During your Control Phase, place models with Apparition
+    anywhere completely within 2" of their current locations. Only models in
+    formation can be placed.
