@@ -1,0 +1,44 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [khador]
+
+name: Armored Korps
+
+flavor: >
+  With a hiss of steam and the tread of iron, the heavily armored infantry of
+  Khador march to war with heavy warjacks at their side. Though Khador lacks
+  the light warjacks of other nations, they make up for it with a dedicated
+  corps of soldiers who go to war in steam-powered armor. Few opponents possess
+  the weaponry able to chew through so thick a wall of armor, allowing the
+  Man-O-War to crush enemy emplacements.
+
+army_composition:
+- description: Khador warcasters.
+
+- description: Non-character warjacks.
+
+- description: Man-O-War models/units.
+
+- description: Battle Mechanik units.
+
+- description: Greylord Adjunct solos.
+
+- description: War Dog solos.
+
+requisition_options:
+- description: One Khador command attachment.
+
+- description: One Tanker solo.
+
+- description: One small-or-medium-based Khador solo.
+
+special_rules:
+- description: >
+    When a model in this army is affected by the Repair special rule, remove
+    1 additional damage point.
+
+- description: >
+    Man-O-War units and Tanker solos in this army gain Advance Move.
+  clarification: >
+    Advance Move - Before the start of the game but after both players
+    have deployed, a model with Advance Move can make a full advance.
