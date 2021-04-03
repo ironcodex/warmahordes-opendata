@@ -1,0 +1,53 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [skorne]
+
+name: Winds Of Death
+
+flavor: >
+  Although hoksune emphasizes melee combat above other forms of war, the armies
+  of the skorne have been forced to adapt in order to combat the long-ranged
+  capabilities of their western adversaries. New armies composed almost entirely
+  of Venators are being drawn up for the first time to battle the enemy on equal
+  footing, giving these low-caste warriors an esteem they have never before
+  experienced. The ranged weapons of the Venators fill the air with clouds of
+  razor-sharp needles and rain down death on the enemy with chymical ammunition
+  and the artillery of heavy weapon crews.
+
+army_composition:
+- description: Skorne warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Venator models/units.
+
+- description: Paingiver Beast Handler units.
+
+- description: Extoller solos.
+
+- description: Mortitheurge Willbreaker solos.
+
+- description: Skorne battle engines.
+
+requisition_options:
+- description: One Venator weapon crew unit.
+
+- description: One Skorne command attachment.
+
+- description: Two Extoller Soulward solos.
+
+- description: One other small-or-medium-based Skorne solo.
+
+special_rules:
+- description: >
+    Weapon crew units in this army gain Reposition [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: >
+    Before models are deployed at the start of the game, you can place one wall
+    template anywhere completely within 20" of the rear table edge of your
+    deployment zone. The template cannot be placed within 3" of a hill,
+    obstacle, or obstruction. The template is an obstacle that grants cover.
