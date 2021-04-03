@@ -1,0 +1,78 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: Llaelese Resistance
+
+flavor: >
+  The beleaguered soldiers of the Llaelese Resistance are mercenaries only by
+  necessity, taking contracts to help pay the enormous costs of their rebellion.
+  Since the fall of Merywyn, many Llaelese noblemen have helped from exile to
+  fund the Resistance. They leave field operations to individuals like the
+  warcaster Ashlynn d'Elyse, who fights an endless war against the Khadorans who
+  invaded her homeland and killed her father. To some, the likelihood of
+  restoring Llael seems remote, and they have turned their attention to pure
+  vengeance, willing to give their lives to force a reckoning.
+
+army_composition:
+- description: Llaelese warcasters.
+
+- description: Caine's Hellslingers.
+
+- description: Drake MacBain.
+
+- description: Non-character warjacks.
+
+- description: Llaelese models/units.
+
+- description: MacHorne models/units.
+
+- description: Dannon Blythe & Bull.
+
+- description: Colbie Sterling, Captain of the BRI.
+
+- description: Eilish Garrity, the Occultist.
+
+- description: Gobber Tinker solos.
+
+- description: Harlan Versh, Illuminated One.
+
+- description: Madelyn Corbeau, Ordic Courtesan.
+
+- description: Menite Archon solos.
+
+- description: Morrowan Archon solos.
+
+- description: Reinholdt, Gobber Speculator.
+
+- description: Rhupert Carvolo, Piper of Ord.
+
+- description: Rutger Shaw, Professional Adventurer.
+
+- description: Sylys Wyshnalyrr, The Seeker.
+
+- description: Thamarite Archon solos.
+
+requisition_options:
+- description: One command attachment.
+
+- description: One small-or-medium-based Mercenary solo.
+
+special_rules:
+- description: >
+    If Ace is included in this army, it is a friendly Mercenary model instead of
+    a Cygnar warjack.
+
+- description: Gun Mage models in this army gain Sniper.
+  clarification: >
+    Sniper - Instead of making a damage roll to resolve a ranged attack, a model
+    with Sniper can inflict 1 damage point. A model disabled by a ranged attack
+    made by a model with Sniper cannot make a Tough roll.
+
+- description: Llaelese models in this army gain Pathfinder.
+
+- description: >
+    Before models are deployed at the start of the game, you can place one 5"
+    AOE rubble terrain features anywhere completely within 18" of the rear table
+    edge of your deployment zone. When you deploy your models, you can deploy
+    one small-or-medium-based solo completely within the AOE.
