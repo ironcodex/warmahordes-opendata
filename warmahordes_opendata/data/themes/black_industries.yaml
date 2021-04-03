@@ -1,0 +1,64 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cryx]
+
+name: Black Industries
+
+flavor: >
+  The true might of the Nightmare Empire lies in its endless tide of undead
+  thralls and the power of its helljacks. Cryxian forces overwhelm their
+  opponents and bury the living in a swarm of reanimated soldiers. It is in the
+  midst of these shambling masses that Cryx delivers its formidable helljacks,
+  shielded by a wall of flesh and repurposed steel. Such tactics are most
+  effective at eliminating durable targets concealed deep within the enemy's
+  ranks while burying lesser armies under the weight of numbers.
+
+army_composition:
+- description: Cryx warcasters.
+
+- description: Cryx warjacks.
+
+- description: Cephalyx models/units.
+
+- description: Iron Lich models/units.
+
+- description: Thrall models/units.
+
+- description: Warwitch models/units.
+
+- description: Black Ogrun Iron Monger units.
+
+- description: Darragh Wrathe.
+
+- description: Necrotech solos.
+
+- description: Solos with the Battlegroup Controller special rule.
+
+- description: Wraith solos.
+
+- description: Wraith Engine battle engines.
+
+requisition_options:
+- description: One Necrosurgeon & Stitch Thralls unit.
+
+- description: One Cryx command attachment.
+
+- description: Three Brute Thrall weapon attachments.
+
+- description: Three Necrotech solos.
+
+- description: One other small-or-medium-based Cryx solo.
+
+special_rules:
+- description: Heavy warjacks in this army gain Carapace.
+  clarification: >
+    Carapace - A model with Carapace gains +4 ARM against ranged attack damage
+    rolls.
+
+- description: One Mechanithrall unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place the
+    unit with Ambush completely within 3" of the chosen table edge.
