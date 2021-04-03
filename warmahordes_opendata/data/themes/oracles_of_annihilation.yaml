@@ -1,0 +1,61 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [legion]
+
+name: Oracles Of Annihilation
+
+flavor: >
+  There is great power buried alongside the relics of the past, and the
+  arcanists who serve the dragon are well- versed in the history of the ancient
+  world, receiving necessary knowledge directly from Everblight himself. These
+  arcanists scour the ruins of lost civilizations, seeking to recover useful
+  artifacts from their sacred places to aid Everblight's cause. When met with
+  resistance, they combine fighting skill and specialized arcane knowledge to
+  best their opponents, and the flesh and blood of fallen foes are quickly
+  harvested and brought to the spawning vessels, there to lend further strength
+  to Everblight's legion.
+
+army_composition:
+- description: Legion warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Proteus.
+
+- description: Models/units with Magic Ability.
+
+- description: SpawningVesselunits.
+
+- description: Beast Mistress solos.
+
+- description: Blighted Nyss Shepherd solos.
+
+- description: Incubi solos.
+
+- description: Spell Martyr solos.
+
+requisition_options:
+- description: One Legion command attachment.
+
+- description: One Blighted Nyss Sorceress & Hellion solo.
+
+- description: Five Incubi solos.
+
+- description: One other small-or-medium-based Legion solo.
+
+special_rules:
+- description: >
+    Minion models in this army are Blighted models. When a living small-based
+    Minion warrior model destroyed by an enemy attack, collateral damage, or a
+    continuous effect, you can replace it with an Incubus model as if it were a
+    Faction model.
+
+- description: >
+    When an enemy model ends its activation within 2" of a Blighted model in
+    this army, the enemy model suffers the corrosion continuous effects.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    warlocks in this army. These spells and their targets must be declared
+    before either player deploys their models. Warlocks in this army do not have
+    to pay fury to upkeep their spells during your first turn of the game.
