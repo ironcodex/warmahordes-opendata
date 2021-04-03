@@ -1,0 +1,52 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: []
+
+name: Talion Charter
+
+flavor: >
+  The Talion Charter originally set out the terms and conditions for those
+  serving on the Talion, a ship crewed largely by men and women brought together
+  by mutiny and who turned to piracy for survival. It has been expanded to serve
+  as a rallying point for a motley assortment of powerful and well-armed pirates
+  and privateers. These include several notable warcasters-for-hire such as
+  Phinneus Shae, the Talion's captain; Captain Bartolo "Broadsides Bart"
+  Montador of the Calamitas; and the Thamarite sorceress Fiona the Black. The
+  sell-swords of the Talion Charter have proven they can stand on equal footing
+  with any mercenary company in western Immoren and offer their services at
+  quite reasonable rates, both on land and at sea.
+
+army_composition:
+- description: Privateer warcasters.
+
+- description: Non-character warjacks.
+
+- description: Scallywag.
+
+- description: Privateer models/units.
+
+requisition_options:
+- description: One Scharde Dirge Seer unit.
+
+- description: Two Sea Dog Deck Gun units.
+
+- description: One command attachment.
+
+- description: Three Powder Monkey solos.
+
+- description: One other small-or-medium-based Privateer solo.
+
+special_rules:
+- description: Solos in this army gain Sacrificial Pawn [Sea Dog model].
+  clarification: >
+    Sacrificial Pawn [Sea Dog model] - When a model with Sacrificial Pawn [Sea
+    Dog model] is directly hit by an enemy ranged attack, you can have one
+    friendly, non-incorporeal Sea Dog trooper model within 3" of it directly hit
+    instead. That model is automatically hit and suffers all damage and effects.
+
+- description: >
+    After models are deployed at the start of the game, you can place up to two
+    3" AOEs anywhere on the table at least 6" away from the nearest enemy model.
+    These AOES are hazards and rough terrain that remain in play for the first
+    round of the game. A model entering or ending its activation in one of these
+    AOEs suffers an unboostable POW 12 blast damage roll.
