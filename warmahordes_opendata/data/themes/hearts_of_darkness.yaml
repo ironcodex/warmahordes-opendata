@@ -1,0 +1,103 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [infernals]
+
+name: Hearts Of Darkness
+
+flavor: >
+  It is unlikely the invading Infernals would be as strong without the aid of
+  humans possessed of more selfish greed than survival instincts. As horrors
+  move out from the shadows, people who have betrayed their own kind hold the
+  torches to light the way for evil. Perhaps they hope to be spared by showing
+  their allegiance and harvesting victims for their masters, but hope is a dying
+  luxury now.
+
+army_composition:
+- description: Aurum Legate Lukas di Morray.
+
+- description: Captain Kara Sloan.
+
+- description: Feora warcasters.
+
+- description: Kommander Andrei Malakov.
+
+- description: Lieutenant Crosse, Resistance Fighter.
+
+- description: Mortenebra warcasters.
+
+- description: >
+    Non-character warjacks of the same Faction as written on the card of the
+    warcaster in this army.
+
+- description: >
+    Lesser and light horrors that are part of Great Princess Regna Gravnoy's
+    battlegroup.
+
+- description: >
+    Up to two non-Partisan units of the same Faction as written on the card of
+    the warcaster in this army.
+
+- description: >
+    Up to three non-Partisan, non- Archon solos of the same Faction as written
+    on the card of the warcaster in this army.
+
+- description: Croe's Cutthroats.
+
+- description: Cultist Band units.
+
+- description: Griever Swarm units.
+
+- description: Howler units.
+
+- description: Alain Runewood, Lord of Ash.
+
+- description: Eilish Garrity solos.
+
+- description: Great Princess Regna Gravnoy.
+
+- description: Hermit of Henge Hold.
+
+- description: Nicia, Hound of the Abyss.
+
+- description: Orin Midwinter, Rogue Inquisitor.
+
+- description: Saxon Orrik.
+
+- description: Umbral Guardian solos.
+
+- description: Valin Hauke, The Fallen Knight.
+
+- description: TheWretchsolos.
+
+- description: Infernal structures.
+
+requisition_options:
+- description: One command attachment.
+
+- description: One Umbral Guardian solo.
+
+- description: One small-or-medium-based solo with Marked Soul.
+
+special_rules:
+- description: All models in this army are considered to be Infernal models.
+
+- description: Warjacks in this army gain Accumulator [Soulless].
+  clarification: >
+    Accumulator [Soulless] - When it begins its activation within 3" of one or
+    more friendly Soulless models, a model with Accumulator [Soulless] gains 1
+    focus point.
+
+- description: >
+    Wretch models in this army gain the Magic Ability special rule That Which
+    Does Not Kill You (Action).
+  clarification: >
+    That Which Does Not Kill You (Action) - When an attack destroys one or more
+    enemy models in this model's command range, you can remove d3 damage points
+    from a friendly model in this model's command range. That Which Does Not
+    Kill You lasts for one turn.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    warcasters in this army. These spells and their targets must be declared
+    before either player deploys their models. Warcasters in this army do not
+    have to pay focus to upkeep their spells during your first turn of the game.
