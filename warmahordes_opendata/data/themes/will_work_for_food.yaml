@@ -1,0 +1,53 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [minions]
+
+name: Will Work For Food
+
+flavor: >
+  One constant is true across the Iron Kingdoms: everybody needs to eat. In lean
+  times, many of the wild peoples of western Immoren are willing to put aside
+  their differences and work together for mutual survival. The primal need to
+  eat and endure becomes a particular challenge when one's closest companions
+  are enormous and voracious warbeasts. Larger armed groups of wilderness
+  warriors might muster to offer their services in exchange for food, weapons,
+  or other barter to see them through the lean months. For some, the most
+  eagerly anticipated treasure is the great volume of meat that can be butchered
+  from the fallen and consumed in the aftermath of battle.
+
+army_composition:
+- description: Minion warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Minion character units.
+
+- description: Boil Master & Spirit Cauldron units.
+
+- description: Farrow Bone Grinder units.
+
+- description: Farrow Valkyrie units.
+
+- description: Swamp Gobber Bellows Crew units.
+
+- description: Minion solos.
+
+- description: Minion battle engines.
+
+requisition_options:
+- description: One Efaarit Scout solo.
+
+- description: Three Feralgeist solos.
+
+- description: >
+    One other small-or-medium-based Minion solo without the Lesser Warlock
+    special rule.
+
+special_rules:
+- description: Warbeasts in this army gain Overtake.
+  clarification:
+    Overtake - When a model with Overtake destroys one or more enemy models with
+    a basic melee attack during its Combat Action, after the attack is resolved
+    it can immediately advance up to 1".
+
+- description: Lesser warlocks in this army can upkeep their spells for free.
