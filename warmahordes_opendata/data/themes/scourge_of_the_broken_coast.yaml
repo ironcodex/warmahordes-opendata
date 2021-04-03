@@ -1,0 +1,52 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cryx]
+
+name: Scourge Of The Broken Coast
+
+flavor: >
+  Borne on a black tide to bring death and suffering to the mainland, the
+  pirates of Cryx instill terror in the hearts of those who live on the Broken
+  Coast. Comprised of swift Satyxis, merciless Black Ogrun, roaring hordes of
+  blighted trollkin, and crews of Scharde sailors, raiding parties join Cryx's
+  warcasters and their battlegroups in executing their bloody assaults.
+
+army_composition:
+- description: Cryx warcasters.
+
+- description: Non-character warjacks.
+
+- description: Barathrum.
+
+- description: Kharybdis.
+
+- description: Living Cryx models/units.
+
+- description: Devil's Shadow Mutineers.
+
+- description: Misery Cage solos.
+
+requisition_options:
+- description: One Scharde Dirge Seer unit.
+
+- description: One Cryx command attachment.
+
+- description: Three Misery Cage solos.
+
+- description: One other small-or-medium-based Cryx solo.
+
+special_rules:
+- description: Cryx warjacks in this army gain Gang Fighter.
+  clarification: >
+    Gang Fighter - When making a melee attack targeting an enemy
+    model in the melee range of another friendly Faction warrior model, a model
+    with Gang Fighter gains +2 to melee attack and melee damage rolls.
+
+- description: Up to one Satyxis Blood Witch unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place all
+    models in the unit with Ambush in formation completely within 3" of the
+    chosen table edge.
