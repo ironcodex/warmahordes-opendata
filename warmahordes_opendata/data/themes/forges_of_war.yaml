@@ -1,0 +1,47 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [retribution]
+
+name: Forges Of War
+
+flavor: >
+  With a vast array of myrmidons and skilled arcanists at its disposal, House
+  Shyeel is considered by some to be virtually a sixth Great Military House.
+  When the time comes for House Shyeel to stoke the forges of war, it brings the
+  full weight of its military forces to bear as an unstoppable tide of towering
+  myrmidons supported by the immense arcane power of its formidable battle
+  mages.
+
+army_composition:
+- description: Retribution non-Vyre warcasters.
+
+- description: Shyeel non-character warjacks.
+
+- description: Discordia.
+
+- description: Shyeel solos, units, and battle engines.
+
+- description: Arcanist Mechanik solos.
+
+- description: Fane Knight Guardian solos.
+
+- description: Sylys Wyshnalyrr, the Seeker.
+
+- description: Solos with the Battlegroup Controller special rule.
+
+- description: Dawnguard Trident battle engines.
+
+requisition_options:
+- description: One House Shyeel Arcanist unit.
+
+- description: One small-or-medium-based Retribution solo.
+
+special_rules:
+- description: Retribution warjacks in this army gain Shield Guard.
+  clarification: >
+    Shield Guard - When a friendly model is directly hit by a non-spray ranged
+    attack during your opponent's turn while within 3" of a model with Shield
+    Guard, you can choose to have the model with Shield Guard directly hit
+    instead. It is automatically hit and suffers all damage and effects. A model
+    can use Shield Guard only once per round and cannot use Shield Guard if it
+    is incorporeal, knocked down, or stationary.
