@@ -1,0 +1,53 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: Operating Theater
+
+flavor: >
+  The inscrutable cephalyx tirelessly perform diabolical experiments on their
+  captives deep below the earth. Masters of powerful psychic energies and
+  advanced surgery, these alien beings shape both the minds and bodies of lesser
+  creatures to create heavily modified laborers and warrior slaves to suit the
+  sinister agenda of their vast underground hives.
+
+army_composition:
+- description: Cephalyx warcasters.
+
+- description: Non-character monstrosities.
+
+- description: Asphyxious the Sanctified and Annihilation Servitors.
+
+- description: Cephalyx solos/units.
+
+- description: Non-Cephalyx units with Cephalyx Dominator command attachments.
+
+- description: Void Archon solos.
+
+requisition_options:
+- description: Two Cephalyx Agitator solos.
+
+- description: One other small-or-medium-based solo.
+
+special_rules:
+- description: Operating Theater is a Cephalyx theme force.
+
+- description: Monstrosities in this army gain Hyper-Aggressive.
+  clarification: >
+    Hyper-Aggressive - When a model with Hyper-Aggressive suffers damage from an
+    enemy attack anytime except while it is advancing, after the attack is
+    resolved it can immediately make a full advance directly toward the
+    attacking model.
+
+- description: Drudge models in the army gain Rise.
+  clarification: >
+    Rise - If a model with Rise is knocked down at the beginning of your
+    Maintenance Phase, it stands up.
+
+- description: One Cephalyx Mind Slaver & Drudge unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place the
+    unit with Ambush completely within 3" of the chosen table edge.
