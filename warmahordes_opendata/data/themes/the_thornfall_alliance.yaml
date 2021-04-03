@@ -1,0 +1,85 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [minions]
+
+name: The Thornfall Alliance
+
+flavor: >
+  Once, the farrow tribes of Immoren were scattered, but a summit of gathered
+  chiefs sealed an alliance in blood oaths at an old battleground called
+  Thornfall. The foremost of those gathered, the ambitious warlord Lord Carver,
+  cowed the rest into submitting to his violent visions of conquest. Where Lord
+  Carver travels, lesser farrow chieftains are intimidated into obedience, and
+  other great farrow warlords have taken up his banner. Backed by the mad genius
+  of the human Dr. Arkadius and his surgically enhanced warbeasts, the Thornfall
+  Alliance is poised to strike fear into the hearts of the civilized kingdoms.
+
+army_composition:
+- description: Minion warlocks with the Farrow Warlock special rule.
+
+- description: Dr. Arkadius.
+
+- description: Midas.
+
+- description: Non-character Farrow warbeasts.
+
+- description: Efaarit models/units.
+
+- description: Farrow units/solos.
+
+- description: Lynus Wesselbaum & Edrea Lloryrr.
+
+- description: Alten Ashley.
+
+- description: Brun Cragback & Lug.
+
+- description: Dhunian Archon solos.
+
+- description: Gudrun the Wanderer.
+
+- description: Hutchuk, Ogrun Bounty Hunter.
+
+- description: Lanyssa Ryssyl, Nyss Sorceress.
+
+- description: Raluk Moorclaw, the Ironmonger.
+
+- description: Saxon Orrik.
+
+- description: Scythe.
+
+- description: Swamp Gobber Chef solos.
+
+- description: Viktor Pendrake.
+
+- description: Wolf With No Name.
+
+- description: Meat Thresher battle engines.
+
+requisition_options:
+- description: One Farrow weapon crew unit.
+
+- description: One Minion command attachment.
+
+- description: One Efaarit Scout solo.
+
+- description: >
+    One small-or-medium-based Minion solo without the Lesser Warlock special
+    rule.
+
+special_rules:
+- description: Farrow warbeast models gain Salvage.
+  clarification: >
+    Salvage - When a warjack is destroyed while in the melee range of a model
+    with Salvage, remove d6 damage points from the model with Salvage. If the
+    destroyed warjack was a heavy warjack or a colossal, remove +3 additional
+    damage points from the model with Salvage.
+
+- description: Farrow warrior models in the army gain Rise.
+  clarification: >
+    Rise - If a model with Rise is knocked down at the beginning of your
+    Maintenance Phase, it stands up.
+
+- description: >
+    Before models are deployed at the start of the game, you can place two
+    trench terrain features anywhere completely within 20" of the rear table
+    edge of your deployment zone.
