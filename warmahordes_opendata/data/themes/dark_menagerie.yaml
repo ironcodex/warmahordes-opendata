@@ -1,0 +1,58 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [grymkin]
+
+name: Dark Menagerie
+
+flavor: >
+  Each of the Defiers has some special preference for how to unmake Menoth's
+  twisted civilization. When the opportunity to strike arises, a Defier gathers
+  a dark menagerie of his or her worst nightmares in a terrifying show of force.
+  Towering beasts of twisted flesh and bounding swarms of frightful creatures
+  gather together to enact the Defier's will, leaving behind only a handful of
+  demented survivors to spread word of the host of shadows that emerged from the
+  night.
+
+army_composition:
+- description: Grymkin warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Dread Rot units.
+
+- description: Malady Man units.
+
+- description: Twilight Sisters.
+
+- description: Baron Tonguelick, Lord of Warts.
+
+- description: Glimmer Imp solos.
+
+- description: Gremlin Swarm solos.
+
+- description: Lady Karianna Rose.
+
+- description: Weird Wendell, Gremlin Wrangler.
+
+- description: Death Knell battle engines.
+
+requisition_options:
+- description: Two Crabbit lesser warbeasts.
+
+- description: Two Gremlin Swarm solos.
+
+- description: One small-or-medium-based Grymkin solo.
+
+special_rules:
+- description: >
+    The field allowance of Gremlin Swarm solos in this army becomes 4.
+
+- description: Gremlin Swarm solos in the army gain Serenity.
+  clarification: >
+    Serenity - At the beginning of your Control Phase, before leeching, you can
+    remove 1 fury point from a friendly Faction warbeast within 1" of a model
+    with Serenity.
+
+- description: >
+    Each non-trooper model in this army that can gain corpse tokens begins the
+    game with one corpse token.
