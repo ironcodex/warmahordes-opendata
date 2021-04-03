@@ -1,0 +1,46 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cygnar]
+
+name: Sons Of The Tempest
+
+flavor: >
+  Mobile and versatile, the Arcane Tempest are called upon to deal with
+  situations beyond the capacity of standard military forces, particularly
+  arcane threats that are warded against conventional firepower. Coordinated by
+  experienced gun mages to fight in conjunction with traditional battlegroups,
+  these strike teams can operate in any theater of war. As their ranked guns
+  tear apart the enemy with fusillades of deadly firepower, lone marksmen pick
+  off high-priority targets with speed and accuracy.
+
+army_composition:
+- description: Cygnar warcasters.
+
+- description: Non-character warjacks.
+
+- description: Ace.
+
+- description: Arcane Tempest models/units.
+
+- description: Mechanik models/units.
+
+- description: Journeyman Warcaster solos.
+
+- description: Squire solos.
+
+requisition_options:
+- description: One Cygnar command attachment.
+
+- description: One small-or-medium-based Cygnar solo.
+
+special_rules:
+- description: >
+    Arcane Tempest Gun Mage and Black 13th Strike Force units in this army
+    gain Pistoleer.
+  clarification: >
+    Pistoleer - Range attack damage rolls made by a model with Pistoleer against
+    a model in melee with this model are boosted.
+
+- description: >
+    Warcasters in this army can upkeep spells on Arcane Tempest model/units
+    without spending focus.
