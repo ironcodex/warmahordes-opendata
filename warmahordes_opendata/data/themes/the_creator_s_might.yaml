@@ -1,0 +1,69 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [protectorate]
+
+name: The Creator's Might
+
+flavor: >
+  The word of the Creator of Man is law, and by the will of the faithful his
+  designs are made material. The clergy of the Protectorate march to war arrayed
+  as an army worthy of Menoth, channeling the power of Menite relics that
+  predate the priest-kings while chanting prayers drawn from holy writ and
+  ancient inscriptions. Their mighty sanctified machines rumble across the
+  battlefield to clash with those who would deny the glory of Menoth. Great
+  wheels bearing the weight of consecrated edifices grind ever onward,
+  accompanied by the hymns of warpriests. In righteous splendor, Menoth's most
+  devout servants go forth to battle blessed by his might.
+
+army_composition:
+- description: Protectorate warcasters.
+
+- description: Non-character warjacks.
+
+- description: Avatar of Menoth.
+
+- description: Blessing of Vengeance.
+
+- description: Scourge of Heresy.
+
+- description: Vassal models/units.
+
+- description: Choir of Menoth units.
+
+- description: Visgoth Juviah Rhoven & Honor Guard.
+
+- description: Covenant of Menoth.
+
+- description: Exemplar Warders solos.
+
+- description: Hierophant solos.
+
+- description: Menite Archon solos.
+
+- description: Solos with the Battlegroup Controller special rule.
+
+- description: Wrack solos.
+
+- description: Protectorate battle engines.
+
+- description: Protectorate structures.
+
+requisition_options:
+- description: TwoVassalsolos.
+
+- description: One other small-or-medium-based Protectorate solo.
+
+special_rules:
+- description: >
+    Protectorate solos and Choir of Menoth units in this army gain Reposition
+    [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    models in this army. These spells and their targets must be declared before
+    either player deploys their models. Warcasters in this army do not have to
+    pay focus to upkeep their spells during your first turn of the game.
