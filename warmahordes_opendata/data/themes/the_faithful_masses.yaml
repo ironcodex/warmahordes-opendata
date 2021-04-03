@@ -1,0 +1,73 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [protectorate]
+
+name: The Faithful Masses
+
+flavor: >
+  The strength of the Protectorate of Menoth is not restricted to its foundries
+  and garrisons but is found in the hearts and souls of the numberless devotees
+  to its faith. Every person who fears and serves the Creator of Man is another
+  potential soldier to defend the theocracy. Pious citizen soldiers minimally
+  trained as militia often go to battle accompanied by more elite lesser martial
+  orders, such as the Paladins of the Order of the Wall and the Allegiants of
+  the Order of the Fist, who consider their service a life's calling. These
+  forces are often joined by members of the ominous Reclaimant Order, who
+  protect the bodies and spirits of the faithful masses as they fight in
+  Menoth's name.
+
+army_composition:
+- description: Protectorate warcasters.
+
+- description: Non-character warjacks.
+
+- description: Avatar of Menoth.
+
+- description: Deliverer models/units.
+
+- description: Idrian models/units.
+
+- description: Paladin models/units.
+
+- description: Reclaimer models/solos.
+
+- description: Vassal models/units.
+
+- description: Zealot models/units.
+
+- description: Choir of Menoth units.
+
+- description: Allegiant of the Order of the Fist solos.
+
+- description: Covenant of Menoth.
+
+- description: Hierophant solos.
+
+- description: InitiateTristanDurant.
+
+- description: Menite Archon solos.
+
+- description: Wrack solos.
+
+- description: Protectorate structures.
+
+requisition_options:
+- description: One Initiates of the Wall unit.
+
+- description: One Protectorate command attachment.
+
+- description: Two Reclaimer Gatekeeper solos.
+
+- description: TwoVassalsolos.
+
+- description: One other small-or-medium-based Protectorate solo.
+
+special_rules:
+- description: >
+    Protectorate heavy warjacks and colossals in this army gain Hand of
+    Vengeance.
+  clarification: >
+    Vengeance - When one or more friendly Faction warrior models are destroyed
+    or removed from play by enemy attacks while within 5" of a model with Hand
+    of Vengeance, the model with Hand of Vengeance gains +2 on melee attack and
+    melee damage rolls for one round.
