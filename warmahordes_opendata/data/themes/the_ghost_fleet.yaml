@@ -1,0 +1,51 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cryx]
+
+name: The Ghost Fleet
+
+flavor: >
+  The cursed pirates of the Ghost Fleet are locked in undeath. Nothing can
+  destroy the revenants bound to Captain Rengrave so long as the blighted fires
+  of the black ship Atramentous still burn, and the ghostly crews of countless
+  wraith ships cannot be touched by the mundane weapons of men. The undead
+  armada terrorizes coastal towns and port cities and preys upon the vessels of
+  every nation that dares sail the waters of the Meredius. The Ghost Fleet is
+  responsible not only for harassing targets but also for distracting the
+  mainlanders so that the Nightmare Empire might conduct its more sensitive
+  operations in relative secrecy.
+
+army_composition:
+- description: Cryx warcasters.
+
+- description: Non-character warjacks.
+
+- description: Barathrum.
+
+- description: Revenant models/units.
+
+- description: Wraith models/units.
+
+- description: Black Ogrun Iron Monger units.
+
+- description: Misery Cage solos.
+
+requisition_options:
+- description: One Revenant weapon crew unit.
+
+- description: Three Revenant Crew Rifleman weapon attachments.
+
+- description: Three Machine Wraith solos.
+
+- description: Three Misery Cage solos.
+
+- description: One other small-or-medium-based Cryx solo.
+
+special_rules:
+- description: >
+    When making a Deathbound roll to return the Revenant Crew of the Atramentous
+    to play, add +1 to the roll.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
