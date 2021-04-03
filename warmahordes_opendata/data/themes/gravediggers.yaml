@@ -1,0 +1,39 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cygnar]
+
+name: Gravediggers
+
+flavor: >
+  Trenchers are men and women of unparalleled grit found at the forefront of
+  nearly every Cygnaran engagement. First on the field and last to leave, it is
+  the trenchers' duty to form the vanguard of Cygnar's military might and seize
+  the battlefield against all opposition.
+
+army_composition:
+- description: Cygnar warcasters.
+
+- description: Non-character warjacks.
+
+- description: Triumph.
+
+- description: Ranger models/units.
+
+- description: Trencher models/units.
+
+requisition_options:
+- description: One Trencher weapon crew unit.
+
+- description: One Cygnar command attachment.
+
+- description: One small-or-medium-based Cygnar solo.
+
+special_rules:
+- description: Trencher warrior models in this army gain Rise.
+  clarification: >
+    Rise - If a model with Rise is knocked down at the beginning of your
+    Maintenance Phase, it stands up.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
