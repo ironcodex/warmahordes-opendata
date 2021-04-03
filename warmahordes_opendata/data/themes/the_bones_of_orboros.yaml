@@ -1,0 +1,58 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [circle]
+
+name: The Bones Of Orboros
+
+flavor: >
+  Since the order's inception, the blackclads of the Circle Orboros have passed
+  down the secrets of shaping and animating wood and stone to do their bidding
+  as wolds. The product of ancient rites and blood sacrifices, these massive
+  stone constructs patrol the old places of the world and ensure the sacred
+  sites of the order remain untouched by outsiders, falling upon intruders
+  without hesitation to crush them under fist and foot. The druids also summon
+  forth these stone constructs to batter into submission those threats too large
+  or well- defended to succumb to the Circle's traditional hit-and-run tactics,
+  using brute force to buckle the armor of machines and shatter the bones of
+  great beasts.
+
+army_composition:
+- description: Circle warlocks.
+
+- description: Non-character construct warbeasts.
+
+- description: Megalith.
+
+- description: Stone units.
+
+- description: Stoneward & Woldstalker units.
+
+- description: Blackclad solos.
+
+- description: Gallows Grove solos.
+
+- description: Celestial Fulcrum battle engines.
+
+- description: Circle structures.
+
+requisition_options:
+- description: Two Shifting Stones units.
+
+- description: One Sentry Stone & Mannikins unit.
+
+- description: Two Blackclad Stoneshaper units.
+
+- description: Three Gallows Grove units.
+
+- description: One other small-or-medium-based Circle solo.
+
+special_rules:
+- description: >
+    Before leeching during each of your Control Phases, you can remove up to 1
+    damage point from each Circle warbeast.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    models in this army. These spells and their targets must be declared before
+    either player deploys their models. Warlocks in this army do not have to pay
+    fury to upkeep their spells during your first turn of the game.
