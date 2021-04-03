@@ -1,0 +1,44 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: Hammer Strike
+
+flavor: >
+  Fighting in the wars of the Iron Kingdoms has allowed the mercenaries of Rhul
+  to stay apprised of the ongoing struggles abroad. These sell- swords fatten
+  the coffers of mercenary clans and receive valuable combat experience against
+  a variety of opponents. Numerous such clans offer the might of Rhulic 'jacks
+  and veteran warriors to those who can afford their asking price. Together,
+  they crush enemy armies to dust beneath the tread of their machines and an
+  unceasing rain of hammer blows.
+
+army_composition:
+- description: Rhulic warcasters.
+
+- description: Rhulic non-character warjacks.
+
+- description: Rhulic models/units.
+
+requisition_options:
+- description: One Rhulic weapon crew unit.
+
+- description: OneTacticalArcanistCorpsunit.
+
+- description: One Mercenary command attachment.
+
+- description: >
+    One small-or-medium-based Mercenary solo without the Lesser Warlock special
+    rule.
+
+special_rules:
+- description: >
+    Weapon crew units and heavy warjacks in this army gain Reposition [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: Warrior models in this army gain Tough.
+
+- description: Your deployment is extended 2" forward.
