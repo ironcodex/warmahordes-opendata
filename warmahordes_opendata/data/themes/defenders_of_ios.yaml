@@ -1,0 +1,67 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [retribution]
+
+name: Defenders Of Ios
+
+flavor: >
+  When Ios itself is threatened, the Homeguard Coalition leverages the assets of
+  all the hallytyr to form an army made up of the diverse forces of houseguard
+  warriors and the combined might of countless Iosan houses. Bringing together
+  combatants of many varied talents and unique specializations, these mixed
+  forces have joined the Retribution and can rival the martial power of even the
+  national armies of the Iron Kingdoms. They fight not only for the creed of the
+  Retribution but for the sanctity of Ios and the lives of its people.
+
+army_composition:
+- description: Retribution warcasters.
+
+- description: Non-character warjacks.
+
+- description: Hypnos.
+
+- description: Houseguard models/units.
+
+- description: Nyss models/units.
+
+- description: House Ellowuyr Swordsmen units.
+
+- description: House Vyre Electromancer units.
+
+- description: Arcanist solos.
+
+- description: Fane Knight solos.
+
+- description: Ghost solos.
+
+- description: Lys Healer solos.
+
+- description: Sylys Wyshnalyrr.
+
+- description: Retribution battle engines.
+
+requisition_options:
+- description: One Retribution weapon crew unit.
+
+- description: One Retribution command attachment.
+
+- description: Two Ghost Sniper solos.
+
+- description: Two Lys Healer solos.
+
+- description: One other small-or-medium-based Retribution solo.
+
+special_rules:
+- description: >
+    Retribution solos, House Vyre Electromancer units, and Stormfall Archer
+    units in this army gain Reposition [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: >
+    Before models are deployed at the start of the game, you can place one wall
+    template anywhere completely within 20" of the rear table edge of your
+    deployment zone. The template cannot be placed within 3" of an obstacle or
+    obstruction. The template is an obstacle that grants cover.
