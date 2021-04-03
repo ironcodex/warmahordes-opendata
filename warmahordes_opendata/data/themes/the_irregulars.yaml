@@ -1,0 +1,57 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: The Irregulars
+
+flavor: >
+  Some mercenary contracts offer jobs so desperate, so vile, or so insane that
+  no right-minded group of sell-swords would ever consider taking them. For the
+  employers who offer these contracts, it is fortunate that the Iron Kingdoms
+  has no shortage of mercenary companies full of the desperate, the vile, and
+  the insane. When such undesirable jobs appear, they attract an unlikely
+  assortment of mercs willing to do anything, no matter the odds of survival,
+  for another fistful of coin.
+
+army_composition:
+- description: Mercenary warcasters.
+
+- description: Non-character Mercenary warjacks.
+
+- description: Mercenary character units.
+
+- description: Idrian Skirmisher units.
+
+- description: Kayazy units.
+
+- description: Precursor Knight units.
+
+- description: Mercenary character solos.
+
+- description: Gobber Tinker solos.
+
+- description: Mercenary battle engines.
+
+requisition_options:
+- description: One Mercenary command attachment.
+
+- description: >
+    One small-or-medium-based Mercenary solo without the Lesser Warlock special
+    rule.
+
+special_rules:
+- description: >
+    If Ace is included in this army, it is a friendly Mercenary model instead of
+    a Cygnar warjack.
+
+- description: >
+    While 'jack marshaled, warjacks in this army gain Flank [friendly warrior].
+  clarification: >
+    Flank [friendly warrior] - When a model with Flank [friendly warrior] makes
+    a melee attack against an enemy model in the melee range of a friendly
+    warrior model, the model with Flank gains +2 to attack rolls and gains an
+    additional damage die.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
