@@ -1,0 +1,54 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cryx]
+
+name: Dark Host
+
+flavor: >
+  Torn from the horrors of the void and given new forms in the bodies of the
+  dead, banes are dark and sinister warriors in the service of Cryx. Far from
+  mindless, they possess a military cunning mixed with an utter malevolence to
+  life. Supported by potent necromancers, armies of banes beset the enemy like a
+  tide of darkness and death.
+
+army_composition:
+- description: Cryx warcasters.
+
+- description: Non-character warjacks.
+
+- description: Bane models/units.
+
+- description: Darragh Wrathe.
+
+- description: Machine Wraith solos.
+
+- description: Necrotech solos.
+
+- description: Scrap Thrall solos.
+
+- description: Skarlock Thrall solos.
+
+- description: Soul Trapper solos.
+
+- description: Void Archon solos.
+
+- description: Wraith Engine battle engines.
+
+requisition_options:
+- description: One Cryx command attachment.
+
+- description: Three Machine Wraith solos.
+
+- description: Three Necrotech solos.
+
+- description: One other small-or-medium-based Cryx solo.
+
+special_rules:
+- description: Bane models/unit gain Prowl.
+  clarification: >
+    Prowl - A model with Prowl gains Stealth while it has concealment.
+
+- description: >
+    Before models are deployed at the start of the game, you can place two 4"
+    AOE dense fog terrain features anywhere completely within 20" of the rear
+    table edge of your deployment zone.
