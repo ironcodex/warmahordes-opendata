@@ -1,0 +1,63 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [grymkin]
+
+name: Bump in the Night
+
+flavor: >
+  The grymkin are not an organized military force. They do not come to battle in
+  regimented formations; indeed, they attack with scarcely any perceivable order
+  at all. When a mass of motley grymkin lumber to war in the service of their
+  masters, they advance as a haphazard but terrifying horde. Descending upon a
+  vice-ridden population, they indulge in their unique appetites as they demand
+  their due of wicked humanity.
+
+army_composition:
+- description: Grymkin warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Grymkin units.
+
+- description: Baron Tonguelick, Lord of Warts.
+
+- description: Cask Imp solos.
+
+- description: Glimmer Imp solos.
+
+- description: Grave Ghoul solos.
+
+- description: Lord Longfellow.
+
+- description: Trapperkin solos.
+
+- description: The Four Horseymans.
+
+- description: Weird Wendell, Gremlin Wrangler.
+
+- description: Witchwood solos.
+
+- description: Neigh Slayer Solos.
+
+- description: Death Knell battle engines.
+
+requisition_options:
+- description: One Malady Man unit.
+
+- description: One Grymkin command attachment.
+
+- description: Two Trapperkin solos.
+
+- description: One Witchwood solo.
+
+- description: One other small-or-medium-based Grymkin solo.
+
+special_rules:
+- description: Grymkin warrior models in the army gain Rise.
+  clarification: >
+    Rise - If a model with Rise is knocked down at the beginning of your
+    Maintenance Phase, it stands up.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
