@@ -2,6 +2,7 @@
 
 factions:
   type: list
+  empty: false
   allowed:
   - infernals
   - crucible_guard
@@ -21,17 +22,21 @@ factions:
 
 name:
   type: string
+  empty: false
 
 flavor:
   type: string
+  empty: false
 
 army_composition:
   type: list
+  empty: false
   schema:
     type: dict
     schema:
       description:
         type: string
+        empty: false
 
       ppids:
         type:
@@ -103,11 +108,13 @@ army_composition:
 
 requisition_options:
   type: list
+  empty: false
   schema:
     type: dict
     schema:
       description:
         type: string
+        empty: false
 
       ppids:
         type:
@@ -184,5 +191,7 @@ special_rules:
     schema:
       description:
         type: string
+        empty: false
+
       clarification:
         type: string
