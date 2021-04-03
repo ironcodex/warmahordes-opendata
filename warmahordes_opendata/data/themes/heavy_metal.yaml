@@ -1,0 +1,56 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cygnar]
+
+name: Heavy Metal
+
+flavor: >
+  Although Cygnar generally prefers a combined-arms approach to conflict, when
+  its advanced warjacks are massed on the field under the control of a skilled
+  warcaster, they are a match for any enemy. Such large, self-sufficient
+  battlegroups are typically deployed to besiege fixed positions or to meet
+  concentrations of enemy armor and heavy infantry on the battlefield. Where
+  Cygnar faces deeply entrenched or armored foes, the tread of its mighty
+  machines shakes the earth, and its storm technology blackens the sky.
+
+army_composition:
+- description: Cygnar warcasters.
+
+- description: Non-character warjacks.
+
+- description: Ol' Rowdy.
+
+- description: Thorn.
+
+- description: Thunderhead.
+
+- description: Mechanik models/units.
+
+- description: Sword Knight models/units.
+
+- description: Long Gunner Infantry units.
+
+- description: Solos with Partisan [Cygnar].
+
+- description: Archduke Alain Runewood.
+
+- description: Squire solos.
+
+- description: Cygnar battle engines.
+
+requisition_options:
+- description: One Cygnar command attachment.
+
+- description: One small-or-medium-based Cygnar solo.
+
+special_rules:
+- description: >
+    Cygnar solos and Mechanik units in this army gain Reposition [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: >
+    When a model in this army is affected by the Repair special rule, remove 1
+    additional damage point.
