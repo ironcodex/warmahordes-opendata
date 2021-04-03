@@ -1,0 +1,72 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [skorne]
+
+name: Disciples Of Agony
+
+flavor: >
+  Connected by a desire to wring power from pain, the students of the ancient
+  skorne master Morkaash show the enemies of the Empire the subtlety of their
+  unique arts. Potent mortitheurges, indomitable Nihilator cultists, and
+  talented paingivers work in concert to bring low all living flesh that opposes
+  them. Captured enemies who prove useful are kept as subjugated warriors, while
+  all others taken alive are introduced to new depths of suffering at the barbs
+  and blades of their captors.
+
+  At the heart of a skorne cohort is its warhost-a crushing wall of warbeasts
+  whipped into frenzy by the barbed lashes of the paingivers. Acting as an
+  unbreakable core around which the rest of an army moves, this formation is
+  directed by the most skilled warlocks in the cohort, often supported by those
+  with less experience directing warbeasts. With tusk, fang, and claw, the
+  towering beasts of the host tear enemies to pieces or trample them underfoot
+  in their maddened assaults. Each warhost strikes at the hardest points of a
+  defender's lines and grinds them to pulp beneath an unrelenting advance.
+
+army_composition:
+- description: Skorne warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Chiron.
+
+- description: TheTerrorizer.
+
+- description: Mortitheurge models/units.
+
+- description: Nihilator models/units.
+
+- description: Paingiver models/units.
+
+- description: Aptimus Marketh.
+
+- description: Skorne solos with the Battlegroup Controller special rule.
+
+- description: SiegeAnimantarax.
+
+- description: >
+    Minion warbeasts controlled by Skorne warlocks (see Special Rules below).
+
+requisition_options:
+- description: One Agonizer warbeast.
+
+- description: One Basilisk Krea warbeast.
+
+- description: One Skorne command attachment.
+
+- description: Two Paingiver Task Master solos.
+
+- description: One other small-or-medium-based Skorne solo.
+
+special_rules:
+- description: >
+    Skorne warlocks in this army can control non-character Minion warbeasts.
+    Minion warbeasts in this army that are controlled by a Skorne warlock are
+    considered to be Skorne warbeasts, not Minion warbeasts.
+
+- description: Paingiver models gain Sacrificial Pawn [Minion warrior model].
+  clarification: >
+    Sacrificial Pawn [Minion warrior model] - When a model with Sacrificial Pawn
+    [Minion warrior model] is directly hit by an enemy ranged attack, you can
+    have one friendly, non-incorporeal Minion warrior model within 3" of it
+    directly hit instead. That model is automatically hit and suffers all damage
+    and effects.
