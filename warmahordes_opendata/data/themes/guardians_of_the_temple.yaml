@@ -1,0 +1,60 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [protectorate]
+
+name: Guardians Of The Temple
+
+flavor: >
+  The soldiers of the Flameguard Temple once found their purpose in defending
+  the sacred sites of the Protectorate, but the turmoil of recent years has seen
+  these former guardians forged into one of the most formidable fighting forces
+  of the nation. Hearing and heeding Menoth's call to service, thousands have
+  swelled the ranks to take up arms and carry out the will of the Lawgiver. With
+  the blessings of Menoth upon them, these faithful eagerly go to war against
+  the non-believers, unified in their unwavering support of the Great Crusade.
+
+army_composition:
+- description: Protectorate warcasters.
+
+- description: Non-character warjacks.
+
+- description: Blood of Martyrs.
+
+- description: EyeofTruth.
+
+- description: Hand of Judgment.
+
+- description: Flameguard models/units.
+
+- description: Choir of Menoth units.
+
+- description: Reclaimer solos.
+
+- description: Vassal solos.
+
+- description: Wrack solos.
+
+- description: Protectorate structures.
+
+requisition_options:
+- description: One Protectorate command attachment.
+
+- description: Two Reclaimer Gatekeeper solos.
+
+- description: TwoVassalsolos.
+
+- description: One other small-or-medium-based Protectorate solo.
+
+special_rules:
+- description: >
+    While B2B with another model in their unit, Temple Flameguard trooper
+    models gains Tough and cannot become knocked down.
+
+- description: Up to one Daughters of the Flame unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place all
+    models in the unit with Ambush in formation completely within 3" of the
+    chosen table edge.
