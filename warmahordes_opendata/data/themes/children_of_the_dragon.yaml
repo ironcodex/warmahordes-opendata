@@ -1,0 +1,59 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [legion]
+
+name: Children Of The Dragon
+
+flavor: >
+  Reshaped by the dragon's power, the blighted Nyss serve as formidable fighters
+  within Everblight's legion. Utterly devoted to the dragon, whole shards
+  sometimes join battle together to enact their master's will. Such highly
+  skilled and self-sufficient forces strike fast and hard with a combination of
+  blade, claw, and bow. Supported by agile dragonspawn and powerful nephilim,
+  these Nyss shards can strike anywhere the dragon directs them, moving
+  unnoticed through enemy territory to secure objectives while outmaneuvering
+  larger armies.
+
+army_composition:
+- description: Legion warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Azrael.
+
+- description: Typhon.
+
+- description: Zuriel.
+
+- description: Blighted Nyss models/units.
+
+- description: Forsaken solos.
+
+- description: Incubi solos.
+
+- description: Spell Martyr solos.
+
+- description: Succubus solos.
+
+requisition_options:
+- description: One Blighted Nyss weapon crew unit.
+
+- description: One Legion command attachment.
+
+- description: Five Incubi solos.
+
+- description: One other small-or-medium-based Legion solo.
+
+special_rules:
+- description: Nephilim warbeasts in this army gain Unyielding.
+  clarification: >
+    A model with Unyielding gains +2 ARM against melee damage rolls.
+
+- description: Warlocks in this army gain Tactician [Blighted Nyss].
+  clarification: >
+    While in the command range of a model with Tactician [Blighted Nyss],
+    friendly Blighted Nyss models can ignore other friendly Blighted Nyss models
+    when determining LOS. Friendly Blighted Nyss models can advance through
+    other friendly Blighted Nyss while in the command range of a model with
+    Tactician [Blighted Nyss] if they have enough movement to move completely
+    past them.
