@@ -1,0 +1,59 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [retribution]
+
+name: Legions Of Dawn
+
+flavor: >
+  The proud Dawnguard soldiers of House Nyarr represent one of the greatest
+  assets in the Retribution of Scyrah's arsenal. These oath- sworn warriors
+  boast martial traditions stretching back millennia and make up the elite
+  soldiery of the Retribution. Bearing the most advanced weapons and armor of
+  their Great Military House, they are implacable warriors devoted to House
+  Nyarr and through it the Retribution's cause.
+
+army_composition:
+- description: Retribution warcasters.
+
+- description: Non-character warjacks.
+
+- description: Hemera.
+
+- description: Imperatus.
+
+- description: Dawnguard models/units.
+
+- description: Arcanist Mechanik solos.
+
+- description: Fane Knight Guardian solos.
+
+- description: Ghost Sniper solos.
+
+- description: House Shyeel Artificer solos.
+
+- description: Lys Healer solos.
+
+- description: Soulless Voidtracer solos.
+
+requisition_options:
+- description: One Retribution command attachment.
+
+- description: Two Ghost Sniper solos.
+
+- description: Two Lys Healer solos.
+
+- description: One other small-or-medium-based Retribution solo.
+
+special_rules:
+- description: >
+    Warjacks in this army can ignore friendly Dawnguard models when determining
+    LOS. Warjacks in this army can advance through friendly Dawnguard models if
+    they have enough movement to move completely past them.
+
+- description: >
+    While 'Jack Marshaled, warjacks in this army gain Flank [Dawnguard].
+  clarification: >
+    Flank [Dawnguard] - When a model with Flank [Dawnguard] makes a melee attack
+    against an enemy model in the melee range of a friendly Dawnguard model, the
+    model with Flank gains +2 to attack rolls and gains an additional damage
+    die.
