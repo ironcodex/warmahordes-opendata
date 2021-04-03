@@ -1,0 +1,53 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [retribution]
+
+name: Shadows Of The Retribution
+
+flavor: >
+  The Retribution of Scyrah is most adept at striking from the shadows. Its mage
+  hunters traditionally undertake clandestine missions executed by solo
+  operatives and small teams of elite and dedicated warriors. On rare occasions,
+  however, a show of force is required, and to that end the Retribution
+  assembles stealthy armies comprised of seasoned mage hunters and powerful
+  myrmidons. Experienced in swift and brutal combat, they skillfully orchestrate
+  surprise attacks and take the enemy unaware.
+
+army_composition:
+- description: Retribution warcasters.
+
+- description: Non-character warjacks.
+
+- description: Moros.
+
+- description: Mage Hunter models/units.
+
+- description: Arcanist Mechanik solos.
+
+- description: Eiryss, Fortune Hunter of Ios.
+
+- description: Fane Knight Guardian solos.
+
+- description: Lys Healer solos.
+
+- description: Void Archon solos.
+
+requisition_options:
+- description: One Retribution command attachment.
+
+- description: Two Lys Healer solos.
+
+- description: ThreeSoullessVoidtracersolos.
+
+- description: One other small-or-medium-based Retribution solo.
+
+special_rules:
+- description: >
+    Models disabled by a melee attack made by a Retribution warrior model in
+    this army cannot make a Tough roll. When a model is boxed by a melee attack
+    made by a warrior model in this army, you can choose to have the boxed model
+    be removed from play.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
