@@ -1,0 +1,66 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [circle]
+
+name: The Wild Hunt
+
+flavor: >
+  Beast masters of the Circle Orboros are right to be proud of the powerful
+  warbeasts they add to their order's arsenal. When large numbers of these
+  beasts are brought together, they can deal a decisive blow against the
+  Circle's many enemies. The warbeasts' natural ferocity fuels them in battle to
+  eradicate any opposition.
+
+  When war requires speed, cunning, and brutality, the Wild Hunt is gathered to
+  spill the enemy's blood. If the need is dire, many villages of Wolf Sworn are
+  drawn together in these great hunting parties. A Wild Hunt draws upon its
+  warriors' hunting skills and their knowledge of the land to launch lethal
+  ambushes against enemy columns marching through the wilderness. The warriors
+  of a Wild Hunt rely on their mobility to defeat technologically superior foes;
+  they bleed the enemy with quick strikes, chasing down all who break ranks to
+  offer them as a sacrifice to the primal power of the Devourer Wurm.
+
+army_composition:
+- description: Circle warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Brennos.
+
+- description: Wolf Sworn models/units.
+
+- description: Shifting Stone units.
+
+- description: Blackclad solos.
+
+- description: Gallows Grove solos.
+
+- description: Lord of the Feast.
+
+- description: War Wolf solos.
+
+- description: Wolf With No Name.
+
+- description: Circle structures.
+
+requisition_options:
+- description: One Circle command attachment.
+
+- description: Three Gallows Grove solos.
+
+- description: Three War Wolf solos.
+
+- description: One other small-or-medium-based Circle solo.
+
+special_rules:
+- description: >
+    When a living warbeast is forced to use its animus while in its controller's
+    control range, reduce the COST of the animus by 1.
+
+- description: One Wolf of Orboros unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place the
+    unit with Ambush completely within 3" of the chosen table edge.
