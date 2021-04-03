@@ -1,0 +1,71 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [minions]
+
+name: The Blindwater Congregation
+
+flavor: >
+  The gatormen of Blindwater Lake are the core of a vast reptilian cult
+  dedicated to its self-made deity, Bloody Barnabas. Once their leader, this
+  ancient warrior and mystic elevated himself to godhood on a tide of bloodshed.
+  As the pragmatic bokor Calaban guides the congregation from the shadows,
+  gatormen from across the region assemble alongside the bog trogs and other
+  swamp creatures subjugated into fighting alongside them in Barnabas' name.
+
+army_composition:
+- description: Minion warlocks with the Gatorman Warlock rule.
+
+- description: Rask.
+
+- description: Non-character warbeasts with Amphibious.
+
+- description: Warrior models/units with Amphibious.
+
+- description: Gobber models/units.
+
+- description: Boil Master & Spirit Cauldron unit.
+
+- description: Lynus Wesselbaum & Edrea Lloryrr.
+
+- description: Bone Shrine solos.
+
+- description: Dahlia Hallyr & Skarath.
+
+- description: Feralgeist solos.
+
+- description: Primal Archon solos.
+
+- description: Raluk Moorclaw, the Ironmonger.
+
+- description: Totem Hunter solos.
+
+- description: Viktor Pendrake.
+
+- description: Sacral Vault battle engines.
+
+requisition_options:
+- description: One Bull Snapper warbeast.
+
+- description: One Boil Master & Spirit Cauldron unit.
+
+- description: Three Feralgeist solos.
+
+- description: Two Gatorman Husk solos.
+
+- description: >
+    One other small-or-medium-based Minion solo without the Lesser Warlock
+    special rule.
+
+special_rules:
+- description: >
+    The field allowance of Gatorman Posse units in this army becomes U.
+
+- description: Gatorman Posse units in this army gain Snacking.
+  clarification: >
+    Snacking - When a model with Snacking boxes a living model with a melee
+    attack, it can choose to remove the boxed model from play. When it does, the
+    model with Snacking can remove d3 damage points.
+
+- description: >
+    Gatorman Posse trooper models in this army have their damage boxes increased
+    from 5 to 8.
