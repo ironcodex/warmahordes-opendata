@@ -1,0 +1,51 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [skorne]
+
+name: The Exalted
+
+flavor: >
+  As silent as the death that will never embrace them, the exalted ancestors of
+  the skorne strike fear into the enemies of the Empire. Guided not by a
+  Tyrant's whims but instead by their own unknowable understanding, the exalted
+  go to war accompanied by ranks of their immortal companions. Their reasons for
+  marching to battle are known only to them and to the few they choose to
+  communicate with through the extollers who speak on their behalf.
+
+army_composition:
+- description: Skorne warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Despoiler.
+
+- description: Exalted models/units.
+
+- description: Extoller models/units.
+
+- description: Paingiver Beast Handler units.
+
+- description: Void Archon solos.
+
+- description: Void Spirit solos.
+
+requisition_options:
+- description: One Skorne command attachment.
+
+- description: Three Extoller Novitiate solos.
+
+- description: Two Extoller Soulward solos.
+
+- description: Two Immortal Vessel solos.
+
+- description: One other small-or-medium-based Skorne solo.
+
+special_rules:
+- description: Construct models in this army gain Immovable Object.
+  clarification: >
+    Immovable Object - A model with Immovable Object cannot become knocked down,
+    cannot be placed, and cannot be moved by a push, slam, or throw.
+
+- description: >
+    Models in this army with a Soul Taker ability each begin the game with one
+    soul token.
