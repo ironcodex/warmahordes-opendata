@@ -1,0 +1,50 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [trollbloods]
+
+name: Storm Of The North
+
+flavor: >
+  For generations, the Northkin have stood as disparate clans, fighting one
+  another as often as they battled the many rivals who surround them. For the
+  first time in centuries, however, these hardy northern folk now fight for a
+  common purpose. Resilient warriors wage war alongside the legendary warbeasts
+  of the trollkin, while powerful warlocks wield arcane might to enhance the
+  battle prowess of their warbands. All opposition is crushed beneath the
+  Northkin onslaught or is frozen and shattered by the power of winter itself.
+
+army_composition:
+- description: Trollblood warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Rök.
+
+- description: Champion models/units.
+
+- description: Long Rider models/solos.
+
+- description: Northkin models/units.
+
+requisition_options:
+- description: One Trollblood command attachment.
+
+- description: Five Troll Whelp solos.
+
+- description: One other small-or-medium-based Trollblood solo.
+
+special_rules:
+- description: >
+    Non-warlock Trollblood warrior models in this army become Northkin models
+    and gain Immunity: Cold.
+
+- description: >
+    Warlocks in this army can upkeep spells on Northkin model/units without
+    spending fury.
+
+- description: >
+    Before models are deployed at the start of the game, you can place two 4"
+    AOE snowdrift terrain features anywhere completely within 20" of the rear
+    table edge of your deployment zone. Models without Immunity: Cold treat
+    snowdrifts as rough terrain. Models with Immunity: Cold gain concealment
+    while completely within a snowdrift.
