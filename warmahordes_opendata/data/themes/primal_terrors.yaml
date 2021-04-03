@@ -1,0 +1,47 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [legion]
+
+name: Primal Terrors
+
+flavor: >
+  When the blighted ogrun tribes go to war, they do so with the blessings of
+  Everblight by their side. Fighting with little regard for personal safety,
+  howling warbands descend upon their foes, crazed by the prospect of spilling
+  blood for their war chiefs and their korune, Thagrosh. Even mortal wounds
+  suffered in battle do not deter them. Instead, such injuries goad them to
+  drive even deeper into the enemy's heart to shed even more blood before they
+  expire.
+
+army_composition:
+- description: Legion warcasters.
+
+- description: Non-character warbeasts.
+
+- description: Golab.
+
+- description: Blighted Ogrun models/units.
+
+- description: Blighted Rotwing units.
+
+- description: Hellmouth units.
+
+- description: Forsaken solos.
+
+- description: Spell Martyr solos.
+
+requisition_options:
+- description: One Hellmouth unit.
+
+- description: One Legion command attachment.
+
+- description: One small-or-medium-based Legion solo.
+
+special_rules:
+- description: >
+    Blighted Ogrun Warmonger and Blighted Ogrun Warspear units in this
+    army gain Vengeance.
+  clarification: >
+    Vengeance - During your Maintenance Phase, if one or more models in a unit
+    with Vengeance were damaged by enemy attacks during the last round, each
+    model in the unit can advance 3" and make one basic melee attack.
