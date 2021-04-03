@@ -1,0 +1,52 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [protectorate]
+
+name: Exemplar Interdiction
+
+flavor: >
+  The ruling priesthood and scrutators of the Protectorate of Menoth have no
+  more loyal and steadfast protectors and warriors than the Exemplars. Large
+  interdictions of the theocracy's formidable heavy infantry and cavalry knights
+  are often assembled to serve the Great Crusade, sent against the unbelievers
+  to prove the futility of standing against blessed steel wielded with
+  conviction. Such an interdiction never wavers in fulfilling its orders, as
+  obedience to the clergy is their unbreakable creed. The great machines
+  marching with them are similarly implacable, empowered by blessings both
+  inscribed on their hulls and filling the air as choir voices rise to drown out
+  the lamentations of heretics crushed underfoot.
+
+army_composition:
+- description: Protectorate warcasters.
+
+- description: Non-character warjacks.
+
+- description: Fire of Salvation.
+
+- description: Exemplar models/units.
+
+- description: Reclaimer models/solos.
+
+- description: Scrutator models/units.
+
+- description: Vassal models/units.
+
+- description: Choir of Menoth units.
+
+- description: Hierophant solos.
+
+- description: Wrack solos.
+
+requisition_options:
+- description: One Protectorate command attachment.
+
+- description: TwoVassalsolos.
+
+- description: One other small-or-medium-based Protectorate solo.
+
+special_rules:
+- description: >
+    The melee weapons of Protectorate warjacks in this army gain Blessed.
+
+- description: Exemplar models in this army gain Aegis.
+  clarification: Aegis - Models with Aegis are immune to continuous effects.
