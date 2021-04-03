@@ -1,0 +1,57 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [skorne]
+
+name: Masters Of War
+
+flavor: >
+  Conflict is to be savored, for battle is the only true chance to prove one's
+  devotion to the hoksune code. Though the martial orders of Cataphracts and
+  Praetorians disagree on which best exemplifies the martial code of the skorne,
+  they equally embrace the opportunity to demonstrate their adherence to it.
+  Acting on the orders of their tyrants, these disciplined warriors grab the
+  enemy army by its throat and do not relent until the foe is vanquished or they
+  have been claimed by the Void.
+
+army_composition:
+- description: Skorne warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Molik Karn.
+
+- description: Tiberion.
+
+- description: Cataphract model/units.
+
+- description: Praetorian models/units.
+
+- description: Paingiver Beast Handler units.
+
+- description: Tyrant Commander & Standard Bearer units.
+
+- description: Ancestral Guardian solos.
+
+- description: Extoller solos.
+
+- description: Mortitheurge Willbreaker solos.
+
+- description: Supreme Guardian battle engines.
+
+requisition_options:
+- description: One Tyrant Commander & Standard Bearer unit.
+
+- description: One Skorne command attachment.
+
+- description: Three Extoller Novitiate solos.
+
+- description: Two Extoller Soulward solos.
+
+- description: One other small-or-medium-based Skorne solo.
+
+special_rules:
+- description: >
+    Models disabled by a melee attack made by a Skorne warrior model in this
+    army cannot make a Tough roll. When a model is boxed by a melee attack made
+    by a warrior model in this army, you can choose to have the boxed model be
+    removed from play.
