@@ -1,0 +1,67 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions:
+- khador
+- protectorate
+
+name: Warriors Of The Old Faith
+
+flavor: >
+  Evil is best only by good, or so believe the followers of Menoth who have
+  united in their devotion to face the Infernal invasion. And with the full
+  conviction of their beliefs and the might of two nations, powerful Menites
+  gather together to prove that faith and the will of the Creator can deny even
+  evils that were foolishly invited to sow the souls of the innocent. They are
+  certain none can prevail if they can't.
+
+army_composition:
+- description: Khador cavalry warcasters.
+
+- description: Protectorate cavalry warcasters.
+
+- description: Non-character Khador warjacks.
+
+- description: Non-character Protectorate warjacks.
+
+- description: Khador cavalry models/units.
+
+- description: Protectorate cavalry models/units.
+
+- description: Paladin units/solos.
+
+- description: Choir of Menoth units.
+
+- description: Kossite Woodsmen units.
+
+- description: Hermit of Henge Hold.
+
+- description: Manhunter solos.
+
+- description: Menite Archon solos.
+
+- description: Vassal solos.
+
+- description: YuritheAxe.
+
+- description: War Dog solos.
+
+- description: Wrack solos.
+
+requisition_options:
+- description: Two Vassal solos.
+
+- description: One other small-based solo.
+
+special_rules:
+- description: >
+    All models in this army are considered to be Khadoran and Protectorate
+    models.
+
+- description: Cavalry models in this army gain Line Breaker.
+  clarification: >
+    Line Breaker - A model with Line Breaker gains an additional die on impact
+    attack rolls.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
