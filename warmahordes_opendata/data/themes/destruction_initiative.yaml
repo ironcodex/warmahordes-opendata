@@ -1,0 +1,44 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [convergence]
+
+name: Destruction Initiative
+
+flavor: >
+  The worshipers of the clockwork goddess have conceived of the most
+  technologically advanced machines in existence. Armed with impressive
+  firepower and fueled by energy sources well beyond the understanding of even
+  the greatest minds in the Iron Kingdoms, the vectors of the Convergence
+  of Cyriss turn hard targets into shrapnel and smash through infantry
+  formations with whirring blades and spiked fists. Endless swarms of servitors
+  dart among these complex automatons while the mortal priests of the machine
+  cult risk their flesh in service to their goddess to keep these machines at
+  peak performance.
+
+army_composition:
+- description: Convergence warcasters.
+
+- description: Non-character warjacks.
+
+- description: Priest models/units.
+
+- description: Servitor solos.
+
+- description: Convergence battle engines.
+
+requisition_options:
+- description: One Optifex Directive unit.
+
+- description: Three Algorithmic Dispersion Optifex solos.
+
+- description: Three Servitor solos of a single type.
+
+special_rules:
+- description: Servitor solos in this army gain Shield Guard.
+  clarification: >
+    When a friendly model is directly hit by a non-spray ranged attack during
+    your opponent's turn while within 3" of a model with Shield Guard, you can
+    choose to have the model with Shield Guard directly hit instead. It is
+    automatically hit and suffers all damage and effects. A model can use Shield
+    Guard only once per round and cannot use Shield Guard if it is incorporeal,
+    knocked down, or stationary.
