@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.ThemeForce
 
-factions: []
+factions: [mercenaries]
 
 name: Talion Charter
 

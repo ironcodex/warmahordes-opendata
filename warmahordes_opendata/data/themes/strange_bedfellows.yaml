@@ -1,0 +1,64 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions:
+- convergence
+- mercenaries
+
+name: Strange Bedfellows
+
+flavor: >
+  Strange days make for strange alliances. As infernals sweep the land,
+  destroying everyone in their path for their horrifying masters, enemies become
+  allies - the Cryxian leader Asphyxious forms a tenuous bond with a newly
+  empowered Aurora and her father, the mechanically altered Sebastian Nemo, to
+  stand their collective ground against a soul-consuming enemy.
+
+army_composition:
+- description: Aurora warcasters.
+
+- description: Mortenebra warcasters.
+
+- description: Non-character Mercenary warjacks.
+
+- description: Non-character Convergence warjacks.
+
+- description: >
+    Mortenebra warcasters can also include Non-character Cryx warjacks in their
+    battlegroups.
+
+- description: Convergence Angel models/units.
+
+- description: Convergence Optifex Directive units.
+
+- description: CryxThrallmodels/units.
+
+- description: Cygnar Stormsmith solos and units.
+
+- description: Mercenary models/units that will work for the Convergence.
+
+- description: Convergence solos.
+
+- description: Convergence battle engines.
+
+requisition_options:
+- description: One warjack with a point cost of 6 or less.
+
+- description: One Convergence Angel unit.
+
+- description: One small-or-medium-based solo.
+
+special_rules:
+- description: >
+    All models in this army are considered to be Convergence and Mercenary
+    models.
+
+- description: Non-Servitor solos in this army gain Swift Vengeance.
+  clarification: >
+    If one or more friendly warrior models were destroyed or removed from play
+    by enemy attacks while within 5" of a model with Swift Vengeance during your
+    opponent's last turn, during your Maintenance Phase the model with Swift
+    Vengeance can advance 3" and make one basic melee attack.
+
+- description: >
+    When a model in this army is affected by the Repair special rule, remove
+    1 additional damage point.
