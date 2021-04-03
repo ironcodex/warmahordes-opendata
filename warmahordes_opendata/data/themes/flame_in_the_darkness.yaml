@@ -1,0 +1,54 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: Flame In The Darkness
+
+flavor: >
+  The enemy of my enemy is my ally. This is understood as the salvation of
+  humanity among the forces of the Church of Morrow that have come together to
+  halt the Infernal procession descending upon the Iron Kingdoms. Driven by the
+  common bond of their religion, forces that might otherwise turn on one another
+  find they are stronger together, and by setting aside their differences, they
+  can save one another alongside everyone else in the path of evil.
+
+army_composition:
+- description: Morrowan warcasters.
+
+- description: Thamarite warcasters.
+
+- description: Non-character Mercenary warjacks.
+
+- description: Up to two non-character Cygnar or Khador warjacks.
+
+- description: Gallant.
+
+- description: Alexia models/units.
+
+- description: Morrowan models/units.
+
+- description: Thamarite models/units.
+
+- description: Field Mechanik units.
+
+- description: Hermit of Henge Hold.
+
+requisition_options:
+- description: One command attachment.
+
+- description: Three Morrowan Battle Priest weapon attachments.
+
+- description: Two Thamarite Advocate solos.
+
+- description: One other small-or-medium-based solo.
+
+special_rules:
+- description: >
+    All models in an army made using this theme force are considered to be
+    of the same Faction as the warcaster in this army.
+
+- description: Units in this army gain Vengeance.
+  clarification: >
+    Vengeance - During your Maintenance Phase, if one or more models in a unit
+    with Vengeance were damaged by enemy attacks during the last round, each
+    model in the unit can advance 3" and make one basic melee attack.
