@@ -1,0 +1,58 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [legion]
+
+name: Ravens Of War
+
+flavor: >
+  When speed is of the essence and the servants of the dragon must strike with
+  stealth, they rely upon the Ravens of War. A force of swift-moving striders
+  and grotesques, these inhuman warriors can traverse any obstacle to deliver
+  sudden death no matter where the enemy may hide. Able to respond quickly to
+  unexpected dangers or to pursue a fleeing enemy, these highly mobile forces
+  can be relied upon to move with such speed that the battle is decided before
+  their prey realizes they are under attack.
+
+army_composition:
+- description: Legion warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Golab.
+
+- description: Grotesque models/units.
+
+- description: Raptor models/units.
+
+- description: Strider models/units.
+
+- description: Blighted Rotwing units.
+
+- description: Hellmouth units.
+
+- description: Blighted Nyss Sorceress & Hellion solos.
+
+- description: Forsaken solos.
+
+- description: Spell Martyr solos.
+
+- description: Succubus solos.
+
+requisition_options:
+- description: Two Harrier lesser warbeasts.
+
+- description: One Legion command attachment.
+
+- description: One Blighted Nyss Sorceress & Hellion solo.
+
+- description: One small-or-medium-based Legion solo.
+
+special_rules:
+- description: Lesser warbeasts in this army gain Mark Target.
+  clarification: >
+    Mark Target - Other friendly Faction models gain +2 to ranged attack rolls
+    against enemy models within 5" of a model with Marked Target and in its LOS.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
