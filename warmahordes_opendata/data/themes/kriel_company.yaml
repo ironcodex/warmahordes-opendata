@@ -1,0 +1,52 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [trollbloods]
+
+name: Kriel Company
+
+flavor: >
+  The trollkin of the United Kriels will stop at nothing to protect their new
+  home. In order to defend against any who would seek to drive them out,
+  militias of resolute trollkin take up arms as companies of warriors. These
+  companies mix traditional martial practices of the trollkin with modern
+  firepower and the might of trolls to crush any opposition.
+
+army_composition:
+- description: Trollblood warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Dozer & Smigg.
+
+- description: Units/solos with ranged weapons.
+
+- description: Krielstone Bearer & Stone Scribe units.
+
+- description: Weapon Crew units.
+
+- description: Sons of Bragg.
+
+- description: Trollkin Runebearer solos.
+
+- description: Troll Whelp solos.
+
+- description: Trollblood battle engines.
+
+requisition_options:
+- description: One Trollblood weapon crew unit.
+
+- description: One Trollblood command attachment.
+
+- description: Five Troll Whelp solos.
+
+- description: One other small-or-medium-based Trollblood solo.
+
+special_rules:
+- description: Solos in this army gain Mark Target.
+  clarification: >
+    Mark Target - Other friendly Faction models gain +2 to ranged attack rolls
+    against enemy models within 5" of a model with Marked Target and in its LOS.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game roll can
+    be rerolled only once as a result of this special rule.
