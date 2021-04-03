@@ -1,0 +1,53 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [trollbloods]
+
+name: The Power Of Dhunia
+
+flavor: >
+  The trollkin are never closer to their goddess Dhunia than when walking beside
+  the shamans and runeshapers who work their magic through the will of the Great
+  Mother. Drawing upon their deep connection to earth and stone, trollkin
+  mystics shape the battlefield to their will and manipulate the arcane might
+  flowing through their very veins to mobilize a great number of true trolls
+  lured by the power of the goddess. This close connection passes to the mighty
+  trolls who then accompany the trollkin. The touch of Dhunia soothes the
+  trolls' minds and keeps their hunger for flesh in check as it suffuses their
+  bodies with her bountiful powers of regeneration.
+
+army_composition:
+- description: Trollblood warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Mulg.
+
+- description: Trollkin models/units with the Magic Ability special rule.
+
+- description: Stone Scribe models/units.
+
+- description: Dhunian Archon solos.
+
+- description: Troll Whelp solos.
+
+- description: Solos with the Lesser Warlock rule.
+
+requisition_options:
+- description: One Dhunian Knot unit.
+
+- description: Five Troll Whelp solos.
+
+- description: One other small-or-medium-based Trollblood solo.
+
+special_rules:
+- description: Trollkin Runeshaper units in this army becomes U.
+
+- description: >
+    When a living warbeast in is forced to use its animus while in its
+    controller's control range, reduce the COST of the animus by 1.
+
+- description: >
+    Friendly models/units can begin the game affected by the upkeep spells of
+    models in this army. These spells and their targets must be declared before
+    either player deploys their models. Warlocks in this army do not have to pay
+    fury to upkeep their spells during your first turn of the game.
