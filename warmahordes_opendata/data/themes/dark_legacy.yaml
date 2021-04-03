@@ -1,0 +1,62 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [infernals]
+
+name: Dark Legacy
+
+flavor: >
+  As an ancient pact reaches its moment of reckoning, horrifying forces from
+  beyond comprehension descend upon the world to collect. With traitorous
+  mortals as their momentary tools, Infernal Masters bring their nightmares to
+  battle for every soul they believe is their due. Though few would have
+  suspected the terrible legacy that would follow that pact, many will pay for
+  it as the Infernals move among them.
+
+army_composition:
+- description: Infernal Masters.
+
+- description: Infernal horrors.
+
+- description: Infernal units.
+
+- description: Croe's Cutthroats.
+
+- description: Infernal solos.
+
+- description: Eilish Garrity, The Occultist.
+
+- description: Hermit of Henge Hold.
+
+- description: Orin Midwinter, Rogue Inquisitor.
+
+- description: Saxon Orrik.
+
+- description: Infernal structures.
+
+requisition_options:
+- description: One Infernal command attachment.
+
+- description: >
+    Add three Dark Sentinel weapon attachments to a Cultist Band unit.
+
+- description: One small-or-medium-based Infernal solo.
+
+special_rules:
+- description: Infernal solos in this army gain Reposition [3"].
+  clarification: >
+    Reposition [3"] - At the end of an activation it did not run or fail a
+    charge, a model with Reposition [3"] can advance up to 3", then its
+    activation ends.
+
+- description: >
+    Horrors in this army do not have to pay a Tithe during your first turn of
+    the game.
+
+- description: Up to one Cultist Band unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place all
+    models in the unit with Ambush in formation completely within 3" of the
+    chosen table edge.
