@@ -1,0 +1,49 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [convergence]
+
+name: Clockwork Legions
+
+flavor: >
+  There are few things more disconcerting than facing a legion of Convergence
+  soldiers who have achieved transcendence-metal- bodied warriors who go to
+  battle in silence and act in unison with mathematical perfection. While such a
+  pitiless metallic army is terrifying to face in its own right, any living
+  devotees to the Maiden of Gears can be even more frightening. Their desire to
+  prove their worthiness to ascend into a clockwork shell drives them to acts of
+  fanatical devotion and unhinged violence.
+
+army_composition:
+- description: Convergence warcasters.
+
+- description: Non-character warjacks.
+
+- description: Asphyxious the Sanctified and Annihilation Servitors.
+
+- description: Priest models/units.
+
+- description: Construct units/solos with the Soul Vessel special rule.
+
+- description: Void Archon solos.
+
+requisition_options:
+- description: One Convergence warjack with a point cost of 6 or less.
+
+- description: One Convergence command attachment.
+
+- description: One Enigma Foundry solo.
+
+- description: One Frustrum Locus solo.
+
+- description: One small-or-medium-based Convergence solo.
+
+special_rules:
+- description: >
+    The field allowance of Enigma Foundry solos in this army becomes 4.
+
+- description: >
+    Eradicator, Perforator, and Reciprocator units in this army gain Vengeance.
+  clarification: >
+    Vengeance - During your Maintenance Phase, if one or more models in a unit
+    with Vengeance were damaged by enemy attacks during the last round, each
+    model in the unit can advance 3" and make one basic melee attack.
