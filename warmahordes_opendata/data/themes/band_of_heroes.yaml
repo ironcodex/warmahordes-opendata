@@ -1,0 +1,58 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [trollbloods]
+
+name: Band of Heroes
+
+flavor: >
+  Kriels maintain martial traditions that go back to the beginning of the
+  trollkin as a people. Armed with axe and shield, kriel warriors have long
+  waged bloody wars to keep ownership of their lands, and their tales of valor
+  are carved into the faces of krielstones to inspire those generations that
+  follow in their footsteps. These bands of warriors give rise to new champions,
+  who earn their acclaim in battle against the enemies of the trollkin. They
+  emerge from the wilderness in a tide of steel and stone to strike down all who
+  stand before them.
+
+army_composition:
+- description: Trollblood warlocks.
+
+- description: Non-character warbeasts.
+
+- description: Champion models/units.
+
+- description: Fell Caller models/units.
+
+- description: Fennblade models/units.
+
+- description: Kriel Warrior models/units.
+
+- description: Long Rider models/units.
+
+- description: Warders models/units.
+
+- description: Krielstone Bearer & Stone Scribe units.
+
+- description: Horgle Ironstrike.
+
+- description: Stone Scribe Chronicler solos.
+
+- description: Trollkin Runebearer solos.
+
+- description: Trollkin Skinner solos.
+
+- description: Troll Whelp solos.
+
+requisition_options:
+- description: One Trollblood command attachment.
+
+- description: Five Troll Whelp solos.
+
+- description: One other small-or-medium-based Trollblood solo.
+
+special_rules:
+- description: >
+    Models disabled by a melee attack made by a Trollblood warrior model in this
+    army cannot make a Tough roll. When a model is boxed by a melee attack made
+    by a warrior model in this army, you can choose to have the boxed model be
+    removed from play.
