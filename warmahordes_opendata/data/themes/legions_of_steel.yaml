@@ -1,0 +1,45 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [khador]
+
+name: Legions of Steel
+
+flavor: >
+  The brotherhood of the Iron Fangs maintains traditions arising from ancient
+  warriors who battled the beasts of the north armed only with spears and the
+  indomitable courage all true Khadorans possess. Iron Fang assault forces are
+  tasked with breaking enemy lines regardless of whether those lines are
+  composed of towering warjacks or masses of infantry. Surrounding a hard center
+  of warjacks, an Iron Fang legion marches in lockstep behind a wall of shields,
+  supported by swift and brutal cavalry to protect their flanks.
+
+army_composition:
+- description: Khador warcasters.
+
+- description: Non-character warjacks.
+
+- description: Iron Fang models/units.
+
+- description: Battle Mechanik units.
+
+- description: Greylord Adjunct solos.
+
+- description: War Dog solos.
+
+requisition_options:
+- description: One Khador command attachment.
+
+- description: One small-or-medium-based Khador solo.
+
+special_rules:
+- description: >
+    The Great Bears and Iron Fang solos in this army gain Countercharge.
+  clarification: >
+    Countercharge - When an enemy model advances and ends its movement within 6"
+    of a model with Countercharge and in its LOS, the model with Countercharge
+    can immediately charge it. A model can use Countercharge only once per round
+    and not while engaged.
+
+- description: >
+    You can reroll your starting roll for the game. Your starting game
+    roll can be rerolled only once as a result of this special rule.
