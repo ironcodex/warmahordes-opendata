@@ -1,0 +1,59 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [cygnar]
+
+name: Storm Division
+
+flavor: >
+  Cygnar's Storm Division is an autonomous military force that delivers the
+  flash of lightning and the roll of thunder to the battlefields of Immoren. The
+  division couples the latest voltaic weaponry and hardware produced by the
+  Cygnaran Armory with the service of skilled soldiers. More Storm Knights serve
+  in the Storm Division than in any other force in Cygnar, and with the aid of
+  accomplished stormsmiths, these elite warriors make up a highly mobile army
+  capable of bringing the fury of the storm to Cygnar's enemies.
+
+army_composition:
+- description: Artificer Prime Nemo.
+
+- description: Cygnar warcasters.
+
+- description: Non-character warjacks.
+
+- description: Brickhouse.
+
+- description: Dynamo.
+
+- description: Thunderhead.
+
+- description: Mechanik models/units.
+
+- description: Storm Knight models/units.
+
+- description: Stormsmith models/units.
+
+- description: Journeyman Warcaster solos.
+
+- description: Lieutenant Allison Jakes.
+
+- description: Savio Montero Acosta.
+
+- description: Squire solos.
+
+requisition_options:
+- description: One Stormsmith weapon crew unit.
+
+- description: One Cygnar command attachment.
+
+- description: Three Stormsmith Stormcaller solos.
+
+- description: One other small-or-medium-based Cygnar solo.
+
+special_rules:
+- description: >
+    Cygnar models/units in this army gain Immunity: Electricity.
+
+- description: Storm Knight models in this army gain Unyielding.
+  clarification: >
+    Unyielding - A model with Unyielding gains +2 ARM against melee damage
+    rolls.
