@@ -1,0 +1,55 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [khador]
+
+name: Winter Guard Kommand
+
+flavor: >
+  The ranks of the Winter Guard are the patriotic backbone of the Khadoran Army.
+  Hardened by a rigorous training regimen and driven by their love for the
+  Motherland, these soldiers march against the enemies of the Empire. They make
+  every effort to see the will of the empress done, whether pushing deep into
+  hostile territory under the cover of withering artillery fire or giving their
+  lives to defend Khador from those who would threaten its sovereignty.
+
+army_composition:
+- description: Khador warcasters.
+
+- description: Non-character warjacks.
+
+- description: Beast 09.
+
+- description: Torch.
+
+- description: Assault Kommando models/units.
+
+- description: Winter Guard models/units.
+
+- description: Widowmaker models/units.
+
+- description: Battle Mechanik units.
+
+- description: Greylord Adjunct solos.
+
+- description: Kovnik Andrei Malakov.
+
+- description: War Dog solos.
+
+requisition_options:
+- description: One Winter Guard weapon crew unit.
+
+- description: One Khador command attachment.
+
+- description: Two Winter Guard Artillery Kapitan solos.
+
+- description: One other small-or-medium-based Khador solo.
+
+special_rules:
+- description: >
+    Warcasters in this army gain Sacrificial Pawn [Winter Guard trooper model].
+  clarification: >
+    Sacrificial Pawn [Winter Guard trooper model] - When a model with
+    Sacrificial Pawn [Winter Guard trooper model] is directly hit by an enemy
+    ranged attack, you can have one friendly, non-incorporeal Winter Guard
+    trooper model within 3" of it directly hit instead. That model is
+    automatically hit and suffers all damage and effects.
