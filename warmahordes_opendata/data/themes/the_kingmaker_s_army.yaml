@@ -1,0 +1,67 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: The Kingmaker's Army
+
+flavor: >
+  In 609 AR, Asheth Magnus set about organizing the greatest mercenary army ever
+  gathered in one place. Having taken Vinter Raelthorne IV's bastard son Julius
+  under his wing, the Warlord embarked on an ambitious plan to secure Cygnar's
+  throne. This army was bankrolled with gold bullion stolen from the Cygnaran
+  Army as well as other spoils, coin Magnus spent wisely. He purchased the first
+  Galleon colossals produced by Black Anchor Heavy Industries, hired a portion
+  of Captain Bartolo Montador's pirate fleet, recruited every available
+  Steelhead company he could find, and enlisted the services of other skilled
+  warcasters and formidable specialists, several wanted for high crimes in
+  Cygnar. This army proved that Magnus' reputation as a mercenary warlord was
+  well deserved and played a pivotal role in the outcome of the Second Cygnaran
+  Civil War.
+
+army_composition:
+- description: Captain Bartolo Montador.
+
+- description: Captain Damiano.
+
+- description: Drake MacBain.
+
+- description: Magnus warcasters.
+
+- description: Non-character Mercenary warjacks.
+
+- description: Steelhead models/units.
+
+- description: Croe's Cutthroats.
+
+- description: Greygore Boomhowler & Co..
+
+- description: Dirty Meg.
+
+- description: Kell Bailoch.
+
+- description: Madelyn Corbeau, Ordic Courtesan.
+
+- description: Orin Midwinter, Rogue Inquisitor.
+
+- description: Raluk Moorclaw, the Ironmonger.
+
+requisition_options:
+- description: One command attachment.
+
+- description: Two Steelhead Gunner solos.
+
+- description: One other small-or-medium-based Mercenary solo.
+
+special_rules:
+- description: Warrior models/units in the army gain Feign Death.
+  clarification: >
+    Feign Death - A model with Feign Death cannot be targeted by ranged or magic
+    attacks while knocked down.
+
+- description: Greygore Boomhowler & Co. gain Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place the
+    unit with Ambush completely within 3" of the chosen table edge.
