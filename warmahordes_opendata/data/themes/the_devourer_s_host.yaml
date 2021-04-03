@@ -1,0 +1,61 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [circle]
+
+name: The Devourer's Host
+
+flavor: >
+  To sow terror and reap death, blackclads who embrace the primal aspects of
+  Orboros turn to the Tharn. With murderous howls, Tharn warriors charge from
+  the darkest forests to strike fear into their enemies' hearts before ripping
+  them out and devouring them whole. These gruesome, gore-streaked combatants
+  run side by side with all manner of beasts, intent on slaking their thirst on
+  the blood of the Circle's foes. Theirs is a history of violence, and their
+  motivations for war do not stray beyond devotion to the Devourer Wurm and an
+  attunement with the basest of instincts.
+
+army_composition:
+- description: Circle warlocks.
+
+- description: Living non-character warbeasts.
+
+- description: Ghetorix.
+
+- description: Loki.
+
+- description: Tharn models/units.
+
+- description: Death Wolves.
+
+- description: Shifting Stone units.
+
+- description: Gallows Grove solos.
+
+- description: Lord of the Feast.
+
+- description: Primal Archon solos.
+
+- description: Circle structures.
+
+requisition_options:
+- description: One Circle command attachment.
+
+- description: Three Gallows Grove units.
+
+- description: One Wolf Rider Champion solo.
+
+- description: One small-or-medium-based Circle solo.
+
+special_rules:
+- description: >
+    Each model in this army that can gain corpse tokens begins the game with one
+    corpse token.
+
+- description: One Tharn Bloodweaver unit in this army gains Ambush.
+  clarification: >
+    Ambush - You can choose not to deploy a unit with Ambush at the start of the
+    game. If it is not deployed normally, you can put it into play at the end of
+    any of your Control Phases after your first turn. When you do, choose any
+    table edge except the back of your opponent's deployment zone. Place all
+    models in the unit with Ambush in formation completely within 3" of the
+    chosen table edge.
