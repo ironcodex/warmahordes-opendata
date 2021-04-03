@@ -10,11 +10,11 @@ repos:
     args: ['--check', '--diff']
 
 - repo: https://gitlab.com/pycqa/flake8
-  rev: 3.8.4
+  rev: 3.9.0
   hooks:
   - id: flake8
     additional_dependencies:
-    - hacking>=3.2.0,<3.3.0
+    - hacking
 
 - repo: https://github.com/adrienverge/yamllint.git
   rev: v1.26.0
