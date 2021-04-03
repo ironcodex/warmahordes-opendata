@@ -1,0 +1,82 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [mercenaries]
+
+name: Soldiers Of Fortune
+
+flavor: >
+  If war is good for business, then business has been very good to the Steelhead
+  mercenary company. Already one of the largest groups of sell-swords in western
+  Immoren before the fall of Llael, subsequent years of warfare have seen them
+  reach peak profitability. Steelheads can be found in nearly every major
+  engagement from Skirov to Imer, bringing victory-or anonymous defeat-at
+  reasonable prices. The company's regular presence on the battlefield often
+  sees them work alongside many notable freelancers and experts. The old adage
+  holds true: "Either as allies or enemies, the Steelheads are gonna cost you."
+
+army_composition:
+- description: Mercenary warcasters.
+
+- description: Non-character Mercenary warjacks.
+
+- description: Rocinante.
+
+- description: Alexia models/units.
+
+- description: Steelhead models/units.
+
+- description: Dannon Blythe & Bull.
+
+- description: Herne & Jonne.
+
+- description: AltenAshley.
+
+- description: Anastasia di Bray.
+
+- description: Boomhowler, Solo Artist.
+
+- description: Dez.
+
+- description: Eiryss, Mage Hunter of Ios.
+
+- description: Gorman solos.
+
+- description: Ogrun Bokur solos.
+
+- description: Rhupert Carvolo, Piper of Ord.
+
+- description: Rutger Shaw, Professional Adventurer.
+
+- description: Saxon Orrik.
+
+- description: Taryn di la Rovissi, Llaelese Gun Mage.
+
+- description: Mercenary solos with the Attached rule.
+
+requisition_options:
+- description: One Steelhead weapon crew.
+
+- description: Alexia, Mistress of the Witchfire.
+
+- description: Stannis Brocker.
+
+- description: Two Steelhead Gunner solos.
+
+- description: One small-or-medium-based Mercenary solo.
+
+special_rules:
+- description: >
+    If Ace is included in this army, it is a friendly Mercenary model instead of
+    a Cygnar warjack.
+
+- description: Solos in this army gain Mark Target.
+  clarification: >
+    Mark Target - Other friendly Faction models gain +2 to ranged attack rolls
+    against enemy models within 5" of a model with Marked Target and in its LOS.
+
+- description: Steelhead cavalry models in this army gain Bulldoze.
+  clarification: >
+    Bulldoze - When a model with Bulldoze is B2B with an enemy model during its
+    Normal Movement, it can push that model up to 2" directly away from it. A
+    model can be pushed by Bulldoze only once per turn. Bulldoze has no effect
+    when a model makes a trample power attack.
