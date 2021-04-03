@@ -33,7 +33,7 @@ Translations: https://poeditor.com/join/project?hash=z5j7Tr0xER
 
 All rules texts are extracted or adapted from `WARMACHINE & HORDES: New Rules Digest`__.
 
-    Game Rules ©2001–2020 Privateer Press, Inc. All Rights Reserved.
+    Game Rules ©2001–2021 Privateer Press, Inc. All Rights Reserved.
 
     Privateer Press®, WARMACHINE®, HORDES®, Infernals, Crucible Guard,
     Cygnar®, Protectorate of Menoth®, Khador®, Cryx®, Retribution of Scyrah®,
