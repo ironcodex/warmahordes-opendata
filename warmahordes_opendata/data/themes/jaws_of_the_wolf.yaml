@@ -1,0 +1,57 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions: [khador]
+
+name: Jaws Of The Wolf
+
+flavor: >
+  The deployment of warjack-heavy forces to eliminate hard targets is a standard
+  response to military threats. A common Khadoran tactic involves augmenting
+  such forces with a contingent of scouts, who venture ahead to ensure the slow
+  and steady column of Khadoran steel reaches its target intact. Once engaged,
+  the warjacks rely on overwhelming strength and raw firepower to batter the
+  enemy into submission.
+
+army_composition:
+- description: Khador warcasters.
+
+- description: Non-character warjacks.
+
+- description: Behemoth.
+
+- description: Black Ivan.
+
+- description: Battle Mechanik models/units.
+
+- description: Kossite models/units.
+
+- description: Kayazy models/unit.
+
+- description: Widowmaker models/unit.
+
+- description: Greylord Adjunct solos.
+
+- description: Greylord Forge Seer solos.
+
+- description: Manhunter solos.
+
+- description: War Dog solos.
+
+- description: Yuri the Axe.
+
+- description: Solos with the Battlegroup Controller special rule.
+
+requisition_options:
+- description: One Kayazy Eliminator unit.
+
+- description: One Khador command attachment.
+
+- description: One small-or-medium-based Khador solo.
+
+special_rules:
+- description: Khador warjacks in this army gain Pathfinder.
+
+- description: >
+    Before models are deployed at the start of the game, you can place one 5"
+    AOE forest terrain feature anywhere completely within 18" of the rear table
+    edge of your deployment zone.
