@@ -1,0 +1,93 @@
+--- !warmahordes_opendata.ThemeForce
+
+factions:
+- trollbloods
+- minions
+
+name: The Vengeance Of Dhunia
+
+flavor: >
+  The Trollbloods have suffered for decades at the hands of outsiders, and the
+  infernal invasion was yet another human atrocity that punished the kriels. The
+  infernals had not come to Caen for their souls, but the cosmic horrors still
+  slaughtered the children of Dhunia whenever their forces crossed paths.
+
+  During this turmoil, the trollkin rose to the occasion and organized a proper
+  military operation to force the infernals out of trollkin lands and far away
+  from the worshippers of Dhunia. Wartime peace treaties have been negotiated
+  with other non-trollkin Dhunia worshippers, such as the savage farrow,
+  producing the greatest army the enemies of the kriels have ever faced.
+
+army_composition:
+- description: Trollblood warlocks.
+
+- description: Carver warlocks.
+
+- description: Lord Azazello, The Castellan.
+
+- description: Non-character Trollblood warbeasts.
+
+- description: Non-character Minion Farrow warbeasts.
+
+- description: Trollblood Scattergunner models/units.
+
+- description: Trollblood Barrage models/units.
+
+- description: Trollblood Slugger models/units.
+
+- description: Trollblood Champion models/units.
+
+- description: Dhunian models/units.
+
+- description: Stone Scribe models/units.
+
+- description: Pyg models/units.
+
+- description: Trollblood Weapon Crews.
+
+- description: Farrow units/solos with ranged weapons.
+
+- description: Minion Ogrun solos.
+
+- description: Minion Gobber models/units.
+
+- description: Minion Trollkin solos.
+
+- description: War Wagon battle engines.
+
+- description: Meat Thresher battle engines.
+
+requisition_options:
+- description: One command attachment.
+
+- description: One Dhunian model/unit.
+
+- description: One Pyg Tank solo.
+
+- description: >
+    One other small-or-medium-based solo without the Lesser Warlock special
+    rule.
+
+special_rules:
+- description: >
+    All models in this army are considered to be Trollblood and Minion models.
+
+- description: >
+    Models with the Farrow Warlock special rule can include Trollblood warbeasts
+    in their battlegroup.
+
+- description: >
+    For each model with 'Jack Marshal in this army, you can include one
+    Mercenary warjack.
+
+- description: >
+    Before models are deployed at the start of the game, you can place up to two
+    trench template terrain features anywhere completely within 20" of the rear
+    table edge of your deployment zone. These trench terrain features cannot be
+    placed in contact with a non-trench terrain feature.
+
+- description: >
+    Warlock models in this army gain Attuned Spirit [Trollblood].
+  clarification: >
+    Once per activation, a model with Attuned Spirit [Trollblood] can cast the
+    animus of a Trollblood warbeast in its battlegroup without spending fury.
