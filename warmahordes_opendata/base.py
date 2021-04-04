@@ -76,7 +76,7 @@ class Searchable:
     @classmethod
     def find(cls, keywords):
         if isinstance(keywords, str):
-            keywords = {keywords}
+            keywords = set(keywords.split())
 
         if not isinstance(keywords, set):
             keywords = set(keywords)
