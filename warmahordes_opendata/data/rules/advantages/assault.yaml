@@ -1,8 +1,9 @@
 --- !warmahordes_opendata.Rule
 name: Assault
 description: >
-  This model can make an Assault ranged attack.\n
-  \n
+  This model can make an Assault ranged attack.
+
+
   A model with the Assault advantage can make one ranged attack as part of a
   charge during its activation. This ranged attack must occur after the model
   ends its movement but before it begins its Combat Action and must target the

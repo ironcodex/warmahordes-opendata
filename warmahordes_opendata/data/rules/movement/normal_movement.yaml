@@ -3,15 +3,17 @@ name: Normal Movement
 description: >
   The first part of a model's activation is its Normal Movement.
   Models generally move only during this portion of their activations,
-  though some special rules permit movement at other times.\n
-  \n
+  though some special rules permit movement at other times.
+
+
   When a model resolves its Normal Movement, it must choose one of the
-  following options:\n
+  following options:
     - Forfeit its Normal Movement
-    - Aim\n
-    - Full advance\n
-    - Run\n
-    - Charge\n
-  \n
+    - Aim
+    - Full advance
+    - Run
+    - Charge
+
+
   Additionally some models can choose to perform a power attack encompassing
   its Normal Movement and Combat Action such as a slam or trample power attack.

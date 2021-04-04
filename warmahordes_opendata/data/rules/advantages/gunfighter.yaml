@@ -1,13 +1,15 @@
 --- !warmahordes_opendata.Rule
 name: Gunfighter
 description: >
-  This model is a gunfighter.\n
-  \n
+  This model is a gunfighter.
+
+
   A model with the Gunfighter advantage can make ranged attacks targeting
   models in its melee range and/or can target models engaging it. A model
   with the Gunfighter advantage can also make free strikes with ranged weapons.
-  If it does not have a melee weapon, it gains a melee range of 0.5".\n
-  \n
+  If it does not have a melee weapon, it gains a melee range of 0.5".
+
+
   A model with the Gunfighter advantage can make charges. If it makes a
   charge, the model can make its initial attacks with its ranged weapons,
   but these attacks can target only models in its melee range. The charging
@@ -17,7 +19,8 @@ description: >
   charge target, the charging gunfighter can make its first attack against
   any eligible target. Remember, your first attack after charging is a charge
   attack only if you make it with a melee weapon, and a model in melee cannot
-  aim.\n
-  \n
+  aim.
+
+
   Gunfighter does not allow a model to make melee and ranged attacks during
   the same activation.

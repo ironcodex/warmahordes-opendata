@@ -6,6 +6,7 @@ description: >
   colossal or gargantuan has a 2" melee range. A head-butt power attack
   made by any other model has a 0.5 melee range. The attacking model makes
   a melee attack roll against its target. If the attack hits, the target
-  becomes knocked down and then suffers a power attack damage roll.\n
-  \n
+  becomes knocked down and then suffers a power attack damage roll.
+
+
   A model cannot head-butt a model with a larger base.

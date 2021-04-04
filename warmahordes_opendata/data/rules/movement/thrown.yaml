@@ -15,19 +15,22 @@ description: >
   the thrown model becomes knocked down and contacts all models with which
   it is base-to-base and all models whose bases it overlaps. The thrown
   model then suffers a damage roll determined by the spell or attack that
-  caused the throw.\n
-  \n
+  caused the throw.
+
+
   Add an additional die to the damage roll the thrown model suffers if it
   contacts an obstacle, an obstruction, or a model with an equal or larger
-  base.\n
-  \n
+  base.
+
+
   If a thrown model contacts a model with an equal or smaller base, the
   contacted model becomes knocked down and suffers a collateral damage roll
   determined by the spell or attack that caused the throw. A contacted model
   with a larger base than the thrown model does not suffer collateral damage
   and is not knocked down. Resolve any collateral damage simultaneously
-  with the damage resulting from the spell or attack that caused the throw.\n
-  \n
+  with the damage resulting from the spell or attack that caused the throw.
+
+
   If a thrown model cannot be knocked down it must still forfeit its Normal
   Movement or Combat Action if it activates later in a turn in which it
   was thrown.

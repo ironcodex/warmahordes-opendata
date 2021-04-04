@@ -8,8 +8,9 @@ description: >
   to enter the area. There must be room for the model's base in the location
   the model is placed. A model cannot be placed in impassable terrain or
   with its base overlapping an obstacle, an obstruction, or another model's
-  base. The player placing the model chooses its facing.\n
-  \n
+  base. The player placing the model chooses its facing.
+
+
   When you are placing a friendly trooper model that is in formation, it
   must be placed in formation unless it is the unit commander. Unit commanders
   can be placed without considering formation.

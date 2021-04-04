@@ -6,12 +6,14 @@ description: >
   before it leaves. The model makes one normal melee attack with any melee
   weapon that has sufficient melee range to reach the moving model and gains
   a +2 bonus to its attack roll. If the attack hits, the damage roll is
-  boosted.\n
-  \n
+  boosted.
+
+
   When the free strike is made treat the free striking model as being in
   the advancing model's back arc. Free strikes do not benefit from the
-  back strike bonus.\n
-  \n
+  back strike bonus.
+
+
   When a model with the Gunfighter advantage makes a free strike with a
   ranged weapon, it only gains the +2 to hit bonus against the model targeted
   by the attack. Likewise, if the attack hits, the damage roll against the

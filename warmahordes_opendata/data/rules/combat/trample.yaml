@@ -4,8 +4,9 @@ description: >
   A model making a trample power attack crashes its way through
   small-based models in its path. A trample combines a model's Normal Movement
   and Combat Action. A model cannot make a trample power attack if it forfeited
-  either its Normal Movement or its Combat Action.\n
-  \n
+  either its Normal Movement or its Combat Action.
+
+
   Declare a trample power attack at the beginning of the model's Normal
   Movement. Choose a direction in which you wish to trample, and turn the
   model to face that direction. The model then advances up to its current
@@ -18,8 +19,9 @@ description: >
   it for some reason, the trampling model does not stop but is still considered
   to have contacted the model, obstacle, or obstruction. The trampling model
   cannot change its facing during or after this movement. Do not resolve
-  free strikes against the trampling model during this movement.\n
-  \n
+  free strikes against the trampling model during this movement.
+
+
   After the model has finished its trample movement, it makes a melee attack
   roll against each small-based model it moved through during this movement.
   Models hit by a trample attack suffer a power attack damage roll. These
@@ -29,8 +31,9 @@ description: >
   if the trampling model first contacted the model through its front arc.
   A trampling model gains a back strike bonus against a model only if the
   trampling model was completely in that model's back arc when it first
-  contacted that model.\n
-  \n
+  contacted that model.
+
+
   Resolve free strikes against the trampling model after resolving all trample
   attacks. Small-based models contacted by the trampling model during its
   trample movement cannot make free strikes against the trampling model.

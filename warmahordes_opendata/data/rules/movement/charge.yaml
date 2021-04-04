@@ -6,8 +6,9 @@ description: >
   that does not have a melee range or cannot make attacks also cannot
   charge. A model that forfeits its Combat Action cannot use its Normal
   Movement to charge that activation. A model cannot target a friendly
-  model with a charge.\n
-  \n
+  model with a charge.
+
+
   Declare a charge and its target before moving the model. A model requires
   line of sight to another model to target it. After declaring a charge, the
   charging model turns to face any direction that will bring its target into
@@ -24,43 +25,51 @@ description: >
   to move through it for some reason (such as a special rule on the model),
   the charging model does not stop but is still considered to have contacted
   the model, obstacle, or obstruction. At the end of the charge movement,
-  the charging model turns to directly face its target.\n
-  \n
+  the charging model turns to directly face its target.
+
+
   Some effects require a model to charge. If a model is required to charge and
   either it cannot or there are no legal charge targets in its line of sight,
-  the model activates but must forfeit its Normal Movement and Combat Action.\n
-  \n
+  the model activates but must forfeit its Normal Movement and Combat Action.
+
+
   A charging model that is engaging its charge target at the end of its charge
   movement has made a successful charge. The charging model must use its Combat
   Action to make either initial melee attacks or a special attack with a melee
-  weapon.\n
-  \n
+  weapon.
+
+
   The charging model's first melee attack after ending its charge movement must
   target the model it charged. If the charging model advanced at least 3", its
   first attack with a melee weapon targeting the model it charged is a charge
   attack. If that attack hits, the damage roll against the charge target is
   automatically boosted. After resolving its charge attack, the charging model
-  completes its Combat Action normally.\n
-  \n
+  completes its Combat Action normally.
+
+
   If a charging model moved less than 3", its first attack with a melee weapon
   is not a charge attack. Its first attack must still be made against the
-  charge target, however.\n
-  \n
+  charge target, however.
+
+
   If a charging model ends its charge movement without its charge target
   in its melee range, it has made a failed charge. If a model makes a
-  failed charge during its activation, its activation ends.\n
-  \n
-  Some models must meet special requirements to charge:\n
+  failed charge during its activation, its activation ends.
+
+
+  Some models must meet special requirements to charge:
     - A warjack must spend 1 focus point to use its Normal Movement to
-      charge.\n
-    - A warbeast must be forced to use its Normal Movement to charge.\n
+      charge.
+    - A warbeast must be forced to use its Normal Movement to charge.
     - A trooper must receive the Press Forward order to use its Normal
       Movement to charge. A trooper that receives the Press Forward order
       must use its Normal Movement to either run or charge. Troopers in the
-      same unit can charge the same target or multiple targets.\n
-  \n
-  Cavalry models have additional rules governing charges.\n
-  \n
+      same unit can charge the same target or multiple targets.
+
+
+  Cavalry models have additional rules governing charges.
+
+
   If the charging model did not fail its charge and cannot make its first
   melee attack against the charge target, the charging model can make its first
   melee attack against another eligible target. In that case, its first melee

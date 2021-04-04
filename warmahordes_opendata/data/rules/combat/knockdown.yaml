@@ -9,20 +9,23 @@ description: >
   in melee with a knocked down model. A melee attack against a knocked down
   model automatically hits. A knocked down model has a base DEF of 5. A
   knocked down model does not block line of sight and is never an intervening
-  model.\n
-  \n
+  model.
+
+
   A knocked down model can stand up at the start of its next activation
   unless it became knocked down during its controller's turn. In that case
   it cannot stand up until its controller's next turn, even if it has not
   yet activated this turn. A model cannot stand up during a turn it was
   knocked down. Knockdown is not cumulative; a model cannot become knocked
-  down while it is knocked down.\n
-  \n
+  down while it is knocked down.
+
+
   EXAMPLE: A model becomes knocked down during your opponent's turn, and
   before it gets a chance to stand up it is affected by an attack that would
   normally cause it to be knocked down. It is not affected by the second
-  instance of knockdown, so it can still stand up on your turn.\n
-  \n
+  instance of knockdown, so it can still stand up on your turn.
+
+
   To stand up, a knocked down model forfeits either its Normal Movement
   or its Combat Action. A model that forfeits its Combat Action to stand
   can use its Normal Movement to make a full advance but cannot run, charge,

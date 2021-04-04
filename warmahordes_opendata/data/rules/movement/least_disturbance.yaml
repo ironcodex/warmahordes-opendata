@@ -7,8 +7,10 @@ description: >
   so that no bases overlap. The model that was moving stays in its final
   position; other models are moved out of the way to make room. If the
   model that was moving overlaps the base of a model that cannot be moved,
-  the moving model is repositioned using the rule of least disturbance.\n
-  \nTo determine which models to move and where to move them, first identify
+  the moving model is repositioned using the rule of least disturbance.
+
+
+  To determine which models to move and where to move them, first identify
   the fewest models that would need to be moved to make room. Then find
   the locations to move them that create the least total distance moved.
   If multiple options yield the least distance - if one model is centered
