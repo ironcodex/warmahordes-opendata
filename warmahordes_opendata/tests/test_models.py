@@ -26,6 +26,13 @@ class TestModel(unittest.TestCase):
     def test_type(self):
         self.assertIsInstance(self.model, models.Model)
 
+    def test_repr(self):
+        self.assertEqual(
+            repr(self.model),
+            "Model(ppid=4142, name='Aurum Adeptus Syvestro', "
+            "role='warcaster', factions=['crucible_guard'], scans=4)",
+        )
+
     def test_ppid(self):
         self.assertEqual(self.model.ppid, 4142)
 
@@ -52,6 +59,12 @@ class TestModel(unittest.TestCase):
                 scans=4,
             ),
         )
+
+    def test_search(self):
+        # Crucible Guard Mechanik
+        mechanik = models.Model.find(["cru", "gua", "mec"])[0]
+
+        self.assertEqual(mechanik.name, "Crucible Guard Mechanik")
 
 
 class TestBaseSize(unittest.TestCase):

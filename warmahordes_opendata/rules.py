@@ -33,7 +33,7 @@ class Rule(base.SearchableYAMLObject):
 
     def __repr__(self):
         return (
-            "%s(title='%s', description=%s, see_also=%s)"
+            "%s(title='%s', description='%s', see_also=%s)"
             % (
                 self.__class__.__name__,
                 self.title,

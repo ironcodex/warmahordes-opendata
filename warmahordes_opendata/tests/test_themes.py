@@ -26,6 +26,12 @@ class TestThemeForce(unittest.TestCase):
     def test_type(self):
         self.assertIsInstance(self.theme, themes.ThemeForce)
 
+    def test_repr(self):
+        self.assertEqual(
+            repr(self.theme),
+            "ThemeForce(name='Magnum Opus', factions=['crucible_guard'])",
+        )
+
     def test_name(self):
         self.assertEqual(self.theme.name, "Magnum Opus")
 
@@ -42,4 +48,17 @@ class TestThemeForce(unittest.TestCase):
             "support units to push up the field in a haze of alchemical "
             "smoke, backed up by the might of the Golden Crucible's advanced "
             "war machines.\n",
+        )
+
+    def test_to_dict(self):
+        self.assertEqual(
+            list(self.theme.to_dict().keys()),
+            [
+                "name",
+                "factions",
+                "flavor",
+                "army_composition",
+                "requisition_options",
+                "special_rules",
+            ],
         )

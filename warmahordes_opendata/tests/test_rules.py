@@ -26,6 +26,15 @@ class TestRule(unittest.TestCase):
     def test_type(self):
         self.assertIsInstance(self.rule, rules.Rule)
 
+    def test_repr(self):
+        self.assertEqual(
+            repr(self.rule),
+            "Rule(title='Immunity: Fire', description="
+            "'This model does not suffer fire damage and"
+            " is immune to the Fire continuous effect.\n', "
+            "see_also=['Damage Type: Fire', 'Continuous Effect: Fire'])",
+        )
+
     def test_name(self):
         self.assertEqual(self.rule.name, "Immunity: Fire")
 
