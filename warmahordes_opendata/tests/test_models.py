@@ -62,7 +62,7 @@ class TestModel(unittest.TestCase):
 
     def test_search(self):
         # Crucible Guard Mechanik
-        mechanik = models.Model.find(["cru", "gua", "mec"])[0]
+        mechanik = models.Model.find("cru gua mec")[0]
 
         self.assertEqual(mechanik.name, "Crucible Guard Mechanik")
 

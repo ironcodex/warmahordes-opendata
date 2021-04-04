@@ -68,18 +68,22 @@ class Searchable:
     @classmethod
     def _keywords_filter(cls, collection, keywords):
         for word in keywords:
-            word = cls.slugify(word)
             collection = list(filter(lambda x: word in x, collection))
 
         return collection
 
     @classmethod
-    def find(cls, keywords):
-        if isinstance(keywords, str):
-            keywords = set(keywords.split())
+    def find(cls, query):
+        if not query:
+            return []
 
-        if not isinstance(keywords, set):
-            keywords = set(keywords)
+        query = cls.slugify(query)
+
+        # exact match
+        if query in cls.dataset:
+            return [cls.dataset[query]]
+
+        keywords = set(query.split("_"))
 
         return [
             cls.dataset[key]
