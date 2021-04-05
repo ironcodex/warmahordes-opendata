@@ -55,5 +55,26 @@ class ThemeForce(base.SearchableYAMLObject):
             special_rules=self.special_rules,
         )
 
+    def fmt_composition(self):
+        army_composition = [c["description"] for c in self.army_composition]
+
+        return "\n\n".join(army_composition)
+
+    def fmt_requisition(self):
+        requisition_options = [
+            o["description"] for o in self.requisition_options
+        ]
+        return "\n\n".join(requisition_options)
+
+    def fmt_rules(self):
+        special_rules = [
+            f"{rule['description'].strip()} ({rule['clarification'].strip()})"
+            if rule.get("clarification", None)
+            else rule["description"]
+            for rule in self.special_rules
+        ]
+
+        return "\n\n".join(special_rules)
+
 
 ThemeForce.dataset = base.flatten(base.load_dir("data/themes"))

@@ -14,6 +14,7 @@
 
 from warmahordes_opendata import base
 from warmahordes_opendata.i18n import _
+from warmahordes_opendata import themes
 
 
 class Rule(base.SearchableYAMLObject):
@@ -65,4 +66,11 @@ class Rule(base.SearchableYAMLObject):
         )
 
 
-Rule.dataset = base.flatten(base.load_dir("data/rules"))
+_RULES = base.load_dir("data/rules")
+_RULES["theme_forces"] = {
+    t.key: Rule(name=t.name, description=t.fmt_rules())
+    for t in themes.ThemeForce.find("")
+}
+
+_GROUPS = [g for g in _RULES.keys()]
+Rule.dataset = base.flatten(_RULES)
