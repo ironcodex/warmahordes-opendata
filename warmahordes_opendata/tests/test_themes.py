@@ -47,7 +47,7 @@ class TestThemeForce(unittest.TestCase):
             "soldiers fight in concert with skilled combat alchemists and "
             "support units to push up the field in a haze of alchemical "
             "smoke, backed up by the might of the Golden Crucible's advanced "
-            "war machines.\n",
+            "war machines.",
         )
 
     def test_to_dict(self):

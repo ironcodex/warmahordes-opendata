@@ -83,13 +83,13 @@ class Model(base.SearchableYAMLObject):
     def __init__(self, ppid=0, name="", role="", factions=None, scans=0):
         super().__init__()
 
-        self.key = self.slugify(name)
-
         self.ppid = ppid
-        self.name = name
-        self.role = role
+        self.name = name.strip()
+        self.role = role.strip()
         self.factions = factions
         self.scans = scans
+
+        self.key = self.slugify(self.name)
 
     def __repr__(self):
         return "%s(ppid=%d, name='%s', role='%s', factions=%s, scans=%d)" % (

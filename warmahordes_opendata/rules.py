@@ -13,6 +13,7 @@
 #    limitations under the License.
 
 from warmahordes_opendata import base
+from warmahordes_opendata.i18n import _
 
 
 class Rule(base.SearchableYAMLObject):
@@ -23,13 +24,19 @@ class Rule(base.SearchableYAMLObject):
     ):
         super().__init__()
 
-        self.title = f"{abbreviation}, {name}" if abbreviation else name
-        self.key = self.slugify(self.title)
-
-        self.name = name
-        self.abbreviation = abbreviation
-        self.description = description
+        self.name = name.strip()
+        self.abbreviation = abbreviation.strip()
+        self.description = _(description.strip())
         self.see_also = see_also
+
+        title = (
+            f"{self.abbreviation}, {self.name}"
+            if self.abbreviation
+            else self.name
+        )
+
+        self.key = self.slugify(title)
+        self.title = _(title)
 
     def __repr__(self):
         return (

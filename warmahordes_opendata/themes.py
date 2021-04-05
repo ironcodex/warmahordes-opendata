@@ -29,14 +29,14 @@ class ThemeForce(base.SearchableYAMLObject):
     ):
         super().__init__()
 
-        self.key = self.slugify(name)
-
-        self.name = name
+        self.name = name.strip()
         self.factions = factions
-        self.flavor = flavor
+        self.flavor = flavor.strip()
         self.army_composition = army_composition
         self.requisition_options = requisition_options
         self.special_rules = special_rules
+
+        self.key = self.slugify(self.name)
 
     def __repr__(self):
         return "%s(name='%s', factions=%s)" % (

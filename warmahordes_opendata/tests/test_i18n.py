@@ -18,28 +18,38 @@ from warmahordes_opendata import i18n
 from warmahordes_opendata import rules
 
 
-@unittest.skip  # until we redo i18n
 class TestTranslation(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.message = rules.Immunity.FIRE.keyword
+        rule = rules.Rule.find("immunity fire")[0]
+
+        self.title = rule.title
+        self.description = rule.description
 
     def test_message(self):
-        self.assertEqual(self.message, "Immunity: Fire")
-        self.assertNotEqual(type(self.message), str)
+        self.assertEqual(self.title, "Immunity: Fire")
+        self.assertNotEqual(type(self.title), str)
+        self.assertNotEqual(type(self.description), str)
 
     def test_pt_BR_is_available(self):
         self.assertIn("pt_BR", i18n.get_available_languages())
-
-    def test_pt_BR_translation_from_message(self):
-        self.assertEqual(
-            i18n.translate(self.message, "pt_BR"),
-            "Imunidade: Fogo",
-        )
 
     def test_pt_BR_translation_from_str(self):
         self.assertEqual(
             i18n.translate("Immunity: Fire", "pt_BR"),
             "Imunidade: Fogo",
+        )
+
+    def test_pt_BR_translate_title(self):
+        self.assertEqual(
+            i18n.translate(self.title, "pt_BR"),
+            "Imunidade: Fogo",
+        )
+
+    def test_pt_BR_translate_description(self):
+        self.assertEqual(
+            i18n.translate(self.description, "pt_BR"),
+            "Este modelo não sofre dano de fogo e "
+            "é imune ao efeito contínuo de fogo.",
         )

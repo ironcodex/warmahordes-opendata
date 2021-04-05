@@ -74,9 +74,6 @@ class Searchable:
 
     @classmethod
     def find(cls, query):
-        if not query:
-            return []
-
         query = cls.slugify(query)
 
         # exact match
