@@ -110,5 +110,29 @@ class Model(base.SearchableYAMLObject):
             scans=self.scans,
         )
 
+    @staticmethod
+    def get_by_ppid(ppid):
+        return _PPIDS.get(ppid, None)
 
-Model.dataset = base.flatten(base.load_dir("data/models"))
+    @classmethod
+    def get_by_alias(cls, alias):
+        alias = cls.slugify(alias)
+
+        try:
+            return _ALIASES[alias]
+        except KeyError:
+            try:
+                if alias[-2] != "_":
+                    return _ALIASES[f"{alias[:-1]}_{alias[-1]}"]
+            except (IndexError, KeyError):
+                pass
+        return None
+
+
+_MODELS = base.load_dir("data/models")
+_PPIDS = base.flatten(_MODELS, key="ppid")
+_ALIASES = {
+    k: _PPIDS[v] for k, v in base.load_file("data/model_aliases.yaml").items()
+}
+
+Model.dataset = base.flatten(_MODELS)

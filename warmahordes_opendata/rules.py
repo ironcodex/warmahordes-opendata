@@ -68,8 +68,8 @@ class Rule(base.SearchableYAMLObject):
 
 _RULES = base.load_dir("data/rules")
 _RULES["theme_forces"] = {
-    t.key: Rule(name=t.name, description=t.fmt_rules())
-    for t in themes.ThemeForce.find("")
+    theme.key: Rule(name=theme.name, description=theme.fmt_rules())
+    for theme in themes.ThemeForce.dataset.values()
 }
 
 _GROUPS = [g for g in _RULES.keys()]

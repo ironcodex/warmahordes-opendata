@@ -66,6 +66,15 @@ class TestModel(unittest.TestCase):
 
         self.assertEqual(mechanik.name, "Crucible Guard Mechanik")
 
+    def test_get_by_ppid(self):
+        self.assertEqual(models.Model.get_by_ppid(4142), self.model)
+
+    def test_get_by_alias(self):
+        self.assertIsNone(models.Model.get_by_alias("syvestro"))
+        self.assertEqual(models.Model.get_by_alias("syvestro1"), self.model)
+        self.assertEqual(models.Model.get_by_alias("syvestro 1"), self.model)
+        self.assertEqual(models.Model.get_by_alias("syvestro_1"), self.model)
+
 
 class TestBaseSize(unittest.TestCase):
     def test_small_base(self):

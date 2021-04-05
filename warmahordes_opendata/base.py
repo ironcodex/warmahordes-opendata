@@ -21,6 +21,11 @@ import yaml
 ROOT = resources.files(__package__)
 
 
+def load_file(*path, root=ROOT):
+    with open(os.path.join(root, *path), "r") as fd:
+        return yaml.safe_load(fd.read())
+
+
 def load_dir(*path, root=ROOT):
     root, dirs, files = next(os.walk(os.path.join(root, *path)))
     result = dict()
@@ -38,12 +43,14 @@ def load_dir(*path, root=ROOT):
     return result
 
 
-def flatten(tree):
+def flatten(tree, key=None):
     result = dict()
 
     for k, v in tree.items():
         if type(v) is dict:
-            result.update(flatten(v))
+            result.update(flatten(v, key))
+        elif key is not None:
+            result[getattr(v, key)] = v
         else:
             result[k] = v
 
