@@ -50,6 +50,46 @@ class TestThemeForce(unittest.TestCase):
             "war machines.",
         )
 
+    def test_fmt_composition(self):
+        self.assertEqual(
+            self.theme.fmt_composition(),
+            "Crucible Guard warcasters.\n\n"
+            "Non-character warjacks.\n\n"
+            "Crucible Guard units.\n\n"
+            "Crucible Guard solos.\n\n"
+            "Gorman solos.\n\n"
+            "Hutchuk, Ogrun Bounty Hunter.\n\n"
+            "Crucible Guard battle engines.\n\n"
+            "One Mercenary solo that will work for Crucible Guard.\n\n"
+            "One Mercenary unit that will work for the Crucible Guard. "
+            "The unit can be included even if they have the Partisan "
+            "[Crucible Guard] special rule. Mercenary units in this army can "
+            "include attachments, including Doctor Alejandro Mosby.\n",
+        )
+
+    def test_fmt_requisition(self):
+        self.assertEqual(
+            self.theme.fmt_requisition(),
+            "One Crucible Guard weapon crew unit.\n\n"
+            "One Crucible Guard command attachment.\n\n"
+            "Three Crucible Guard Mechanik solos.\n\n"
+            "Two Trancer solos.\n\n"
+            "One small-based Crucible Guard solo.\n\n"
+            "One medium-based Crucible Guard solo.",
+        )
+
+    def test_fmt_rules(self):
+        self.assertEqual(
+            self.theme.fmt_rules(),
+            "Crucible Guard solos and Crucible Guard weapon crew units in "
+            'this army gain Reposition [3"]. (Reposition [3"] - At the end of '
+            "an activation it did not run or fail a charge, a model with "
+            'Reposition [3"] can advance up to 3", then its activation ends.)'
+            "\n\nYou can reroll your starting roll for the game. Your "
+            "starting game roll can be rerolled only once as a result of this "
+            "special rule.",
+        )
+
     def test_to_dict(self):
         self.assertEqual(
             list(self.theme.to_dict().keys()),

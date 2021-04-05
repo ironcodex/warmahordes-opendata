@@ -70,7 +70,7 @@ class ThemeForce(base.SearchableYAMLObject):
         special_rules = [
             f"{rule['description'].strip()} ({rule['clarification'].strip()})"
             if rule.get("clarification", None)
-            else rule["description"]
+            else rule["description"].strip()
             for rule in self.special_rules
         ]
 
