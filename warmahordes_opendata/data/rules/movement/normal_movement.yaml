@@ -8,11 +8,16 @@ description: >
 
   When a model resolves its Normal Movement, it must choose one of the
   following options:
-    - Forfeit its Normal Movement
-    - Aim
-    - Full advance
-    - Run
-    - Charge
+
+  - Forfeit its Normal Movement
+
+  - Aim
+
+  - Full advance
+
+  - Run
+
+  - Charge
 
 
   Additionally some models can choose to perform a power attack encompassing

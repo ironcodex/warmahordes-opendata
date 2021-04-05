@@ -16,9 +16,12 @@ description: >
 
 
   Some models must meet special requirements to run:
-    - A warjack must spend 1 focus point to use its Normal Movement to run.
-    - A warbeast must be forced to use its Normal Movement to run.
-    - A trooper must receive a Press Forward order to use its Normal Movement
-      to run, or it must be compelled to run as a result of a game effect (such
-      as being out of formation). A trooper that receives the Press Forward
-      order must use its Normal Movement to either run or charge.
+
+  - A warjack must spend 1 focus point to use its Normal Movement to run.
+
+  - A warbeast must be forced to use its Normal Movement to run.
+
+  - A trooper must receive a Press Forward order to use its Normal Movement
+  to run, or it must be compelled to run as a result of a game effect (such
+  as being out of formation). A trooper that receives the Press Forward
+  order must use its Normal Movement to either run or charge.

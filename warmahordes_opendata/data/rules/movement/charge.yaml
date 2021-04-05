@@ -58,13 +58,15 @@ description: >
 
 
   Some models must meet special requirements to charge:
-    - A warjack must spend 1 focus point to use its Normal Movement to
-      charge.
-    - A warbeast must be forced to use its Normal Movement to charge.
-    - A trooper must receive the Press Forward order to use its Normal
-      Movement to charge. A trooper that receives the Press Forward order
-      must use its Normal Movement to either run or charge. Troopers in the
-      same unit can charge the same target or multiple targets.
+
+  - A warjack must spend 1 focus point to use its Normal Movement to charge.
+
+  - A warbeast must be forced to use its Normal Movement to charge.
+
+  - A trooper must receive the Press Forward order to use its Normal Movement
+  to charge. A trooper that receives the Press Forward order must use its
+  Normal Movement to either run or charge. Troopers in the same unit can charge
+  the same target or multiple targets.
 
 
   Cavalry models have additional rules governing charges.
