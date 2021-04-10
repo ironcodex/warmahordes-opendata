@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.Model
 ppid: 4740
-name: Tessselator
+name: Tesselator
 role: warjack
 factions:
 - convergence
