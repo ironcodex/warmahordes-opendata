@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5123
+name: House Ellowuyr Wardens
+role: unit
+factions:
+- retribution
+scans: 2

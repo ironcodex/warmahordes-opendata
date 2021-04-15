@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5126
+name: House Ellowuyr Warden Executioner
+role: solo
+factions:
+- retribution
+scans: 2
