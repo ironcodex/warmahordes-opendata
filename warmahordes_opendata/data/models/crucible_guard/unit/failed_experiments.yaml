@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5167
+name: Failed Experiments
+role: unit
+factions:
+- crucible_guard
+scans: 2

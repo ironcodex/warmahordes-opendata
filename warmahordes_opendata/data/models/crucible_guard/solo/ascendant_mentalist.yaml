@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5166
+name: Ascendant Mentalist
+role: solo
+factions:
+- crucible_guard
+scans: 2

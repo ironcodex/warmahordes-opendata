@@ -6,22 +6,7 @@ WARMACHINE® and HORDES® Open Data
     :alt: Build Status
 
 `warmahordes_opendata` is a searchable compendium of WARMACHINE® and
-HORDES® models, rules, and theme forces.
-
-Models
-------
-
-`TODO`
-
-Rules
------
-
-`TODO`
-
-Theme Forces
-------------
-
-`TODO`
+HORDES® models and rules.
 
 License: Apache License, Version 2.0
 
