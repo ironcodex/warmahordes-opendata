@@ -65,7 +65,7 @@ requisition_options:
   ppids: [4162]
   multiples: 3
 
-- description: Two Trancer solos.
+- description: Two small-based Trancer solos.
   ppids: [4165]
   multiples: 2
 
@@ -84,8 +84,9 @@ special_rules:
     Vanguard warjacks in this army can use Shield Guard twice per turn.
 
 - description: >
-    Friendly models/units can begin the game affected by the upkeep spells of
-    warcasters in this army. These spells and their targets must be declared
-    before either player deploys any models. Warcasters in this army do not
-    have to pay focus to upkeep their spells during your first turn of the
-    game.
+    Warjacks and battle engines in this army gain Cutting Edge.
+  clarification: >
+    During your Control Phase, remove d3 damage points from each friendly model
+    with Cutting Edge. Additionally, when a warjack with Cutting Edge is
+    allocated 1 or more focus points while within its controller’s command
+    range, it is allocated 1 additional focus point.

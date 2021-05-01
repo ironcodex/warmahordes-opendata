@@ -66,7 +66,7 @@ requisition_options:
   ppids: [4162]
   multiples: 3
 
-- description: Two Trancer solos.
+- description: Two small-based Trancer solos.
   ppids: [4165]
   multiples: 2
 
