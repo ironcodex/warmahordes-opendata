@@ -73,7 +73,7 @@ class TestThemeForce(unittest.TestCase):
             "One Crucible Guard weapon crew unit.\n\n"
             "One Crucible Guard command attachment.\n\n"
             "Three Crucible Guard Mechanik solos.\n\n"
-            "Two Trancer solos.\n\n"
+            "Two small-based Trancer solos.\n\n"
             "One small-based Crucible Guard solo.\n\n"
             "One medium-based Crucible Guard solo.",
         )
