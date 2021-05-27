@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5171
+name: Containment Operatives
+role: unit
+factions:
+- crucible_guard
+scans: 2
