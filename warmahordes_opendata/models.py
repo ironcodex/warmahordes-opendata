@@ -12,6 +12,8 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
+from dataclasses import dataclass
+from dataclasses import field
 import enum
 
 from warmahordes_opendata import base
@@ -22,11 +24,6 @@ class BaseSize(enum.IntEnum):
     MEDIUM = 40
     LARGE = 50
     HUGE = 120
-
-
-class WeaponType(enum.Enum):
-    MELEE = enum.auto()
-    RANGED = enum.auto()
 
 
 class WeaponLocation(enum.Enum):
@@ -40,41 +37,30 @@ class WeaponLocation(enum.Enum):
         return self.name[0]
 
 
-class BaseWeaponStats:
-    def __init__(self, rng, pow):
-        self.rng = rng
-        self.pow = pow
+@dataclass
+class WeaponStats:
+    rng: int
+    pow: int
 
 
-class RangedWeaponStats(BaseWeaponStats):
-    def __init__(self, rng, pow, rof=1, aoe=0):
-        super().__init__(rng, pow)
-
-        self.rof = rof
-        self.aoe = aoe
+@dataclass
+class RangedWeaponStats(WeaponStats):
+    rof: int = 1
+    aoe: int = 0
 
 
-class MeleeWeaponStats(BaseWeaponStats):
-    def __init__(self, rng, pow, p_s=True):
-        super().__init__(rng, pow)
-
-        self.p_s = p_s
+@dataclass
+class MeleeWeaponStats(WeaponStats):
+    p_s: bool = True
 
 
+@dataclass
 class Weapon:
-    def __init__(
-        self,
-        name,
-        stats,
-        location=WeaponLocation.NONE,
-        qualities=[],
-        rules=[],
-    ):
-        self.name = name
-        self.stats = stats
-        self.location = location
-        self.qualities = qualities
-        self.rules = rules
+    name: str
+    stats: WeaponStats
+    location: WeaponLocation = WeaponLocation.NONE
+    qualities: list = field(default_factory=list)
+    rules: list = field(default_factory=list)
 
 
 class Model(base.SearchableYAMLObject):

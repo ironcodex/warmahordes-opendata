@@ -30,15 +30,12 @@ def load_dir(*path, root=ROOT):
     root, dirs, files = next(os.walk(os.path.join(root, *path)))
     result = dict()
 
-    dirs.sort()
     for d in dirs:
         result[d] = load_dir(d, root=root)
 
-    files.sort()
     for f in files:
-        with open(os.path.join(root, f), "r") as fd:
-            data = yaml.safe_load(fd.read())
-            result[data.key] = data
+        data = load_file(f, root=root)
+        result[data.key] = data
 
     return result
 
