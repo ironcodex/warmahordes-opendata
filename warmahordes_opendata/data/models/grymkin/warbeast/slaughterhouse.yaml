@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5175
+name: Slaughterhouse
+role: warbeast
+factions:
+- grymkin
+scans: 4
