@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5214
+name: Harvester of Souls
+role: horror
+factions:
+- infernals
+scans: 4

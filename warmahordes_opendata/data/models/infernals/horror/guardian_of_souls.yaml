@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5209
+name: Guardian of Souls
+role: horror
+factions:
+- infernals
+scans: 4
