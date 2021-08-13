@@ -4,20 +4,20 @@ default_language_version:
 
 repos:
 - repo: https://github.com/psf/black
-  rev: 20.8b1
+  rev: 21.7b0
   hooks:
   - id: black
     args: ['--check', '--diff']
 
 - repo: https://gitlab.com/pycqa/flake8
-  rev: 3.9.0
+  rev: 3.9.2
   hooks:
   - id: flake8
     additional_dependencies:
     - hacking
 
 - repo: https://github.com/adrienverge/yamllint.git
-  rev: v1.26.0
+  rev: v1.26.2
   hooks:
   - id: yamllint
     files: warmahordes_opendata
