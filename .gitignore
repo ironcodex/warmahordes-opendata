@@ -104,3 +104,6 @@ venv.bak/
 # pbr
 AUTHORS
 ChangeLog
+
+# local settings
+.vscode
