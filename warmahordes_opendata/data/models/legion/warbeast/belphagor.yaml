@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 31500000
+name: Belphagor
+role: warbeast
+factions:
+- legion
+scans: 2
