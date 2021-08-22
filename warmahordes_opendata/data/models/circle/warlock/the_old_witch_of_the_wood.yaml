@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990010
+name: The Old Which of the Wood
+role: warlock
+factions:
+- circle
+scans: 4

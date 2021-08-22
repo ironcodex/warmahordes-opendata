@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990009
+name: The Dreaming Harbinger
+role: warlock
+factions:
+- grymkin
+scans: 4

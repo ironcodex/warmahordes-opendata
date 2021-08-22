@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990001
+name: Alexia, Betrayer of Corvis
+role: warlock
+factions:
+- skorne
+scans: 4

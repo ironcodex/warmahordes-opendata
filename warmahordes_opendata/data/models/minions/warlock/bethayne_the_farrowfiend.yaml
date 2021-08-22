@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990002
+name: Bethayne, the Farrowfiend
+role: warlock
+factions:
+- minions
+scans: 4

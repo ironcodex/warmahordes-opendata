@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990004
+name: Eiryss, echo of Everblight
+role: warlock
+factions:
+- legion
+scans: 4

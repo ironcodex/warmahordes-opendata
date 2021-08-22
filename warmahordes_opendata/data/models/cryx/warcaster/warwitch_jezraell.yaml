@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990012
+name: Warwitch Jezraell
+role: warcaster
+factions:
+- cryx
+scans: 4

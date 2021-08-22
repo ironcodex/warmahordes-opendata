@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990013
+name: Vinter the Undefeated
+role: solo
+factions:
+- cygnar
+scans: 2

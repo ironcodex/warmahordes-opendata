@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990008
+name: Steelhead Captain Stryker
+role: warcaster
+factions:
+- mercenaries
+scans: 4

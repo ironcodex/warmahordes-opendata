@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 99990007
+name: Nemo, Ordinator of Electrogenesis
+role: warcaster
+factions:
+- convergence
+scans: 4

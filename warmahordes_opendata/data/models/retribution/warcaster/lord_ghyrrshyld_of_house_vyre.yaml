@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 9999006
+name: Lord Ghyrrshyld of House Vyre
+role: warcaster
+factions:
+- retribution
+scans: 4
