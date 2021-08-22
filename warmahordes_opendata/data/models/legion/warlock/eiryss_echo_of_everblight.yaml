@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.Model
-ppid: 99990004
-name: Eiryss, echo of Everblight
+ppid: 20180004
+name: Eiryss, Echo of Everblight
 role: warlock
 factions:
 - legion
