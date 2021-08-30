@@ -1,7 +1,7 @@
 --- !warmahordes_opendata.Model
-ppid: 5011
-name: Ol' Grim (Cryx)
+ppid: 5014
+name: Ol' Grim (Khador Solo)
 role: solo
 factions:
-- cryx
+- khador
 scans: 2

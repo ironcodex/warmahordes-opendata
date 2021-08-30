@@ -1,6 +1,6 @@
 --- !warmahordes_opendata.Model
 ppid: 1486
-name: Ruin
+name: Ruin (Khador Warjack)
 role: warjack
 factions:
 - khador

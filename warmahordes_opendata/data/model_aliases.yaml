@@ -209,6 +209,7 @@ reznik_1: 1136
 reznik_2: 1220
 rhyas_1: 3292
 rhyas_2: 3297
+ruin_1: 1486
 saeryn_1: 3304
 saeryn_2: 3297
 scaverous_1: 1957
@@ -285,6 +286,9 @@ crabbits: 3648
 
 # ol grim
 ol_grim: 5014
+
+# ruin
+ruin: 1486
 
 # Summer Rampage 2018
 alexia_x: 20180001
