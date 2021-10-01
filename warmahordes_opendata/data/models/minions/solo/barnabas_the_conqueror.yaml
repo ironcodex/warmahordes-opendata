@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5240
+name: Barnabas the Conqueror
+role: solo
+factions:
+- minions
+scans: 2

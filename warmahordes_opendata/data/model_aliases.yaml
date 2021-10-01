@@ -19,6 +19,7 @@ axis_1: 2747
 azazello_1: 4789
 baldur_1: 2855
 baldur_2: 2860
+barnabas_0: 5240
 barnabas_1: 3400
 barnabas_2: 3914
 bella_1: 4473
@@ -148,6 +149,8 @@ kreoss_2: 1112
 kreoss_3: 1158
 kromac_1: 2932
 kromac_2: 2939
+kreuger_0: 5228  # common typo
+krueger_0: 5228
 kreuger_1: 2949  # common typo
 krueger_1: 2949
 kreuger_2: 2944  # common typo
@@ -163,12 +166,14 @@ lynda_1: 5003
 macbain_1: 2467
 mackay_1: 4145
 maddox_1: 385
+madrak_0: 5234
 madrak_1: 1686
 madrak_2: 1691
 madrak_3: 1696
 maelok_1: 3512
 magnus_1: 2585
 magnus_2: 2590
+makeda_0: 5237
 makeda_1: 775
 makeda_2: 780
 makeda_3: 959
@@ -240,6 +245,7 @@ syntherion_1: 2781
 syvestro_1: 4142
 tanith_1: 3016
 terminus_1: 1947
+thagrosh_0: 5231
 thagrosh_1: 3345
 thagrosh_2: 3350
 thexus_1: 2483
