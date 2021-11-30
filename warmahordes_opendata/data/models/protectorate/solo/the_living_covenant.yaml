@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5335
+name: The Living Covenant
+role: solo
+factions:
+- protectorate
+scans: 2

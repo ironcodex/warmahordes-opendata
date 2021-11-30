@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5351
+name: Princess Delores Graciela
+role: solo
+factions:
+- mercenaries
+scans: 2

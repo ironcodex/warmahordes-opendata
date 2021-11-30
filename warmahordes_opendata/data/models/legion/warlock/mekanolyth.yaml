@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5327
+name: Mekanolyth
+role: warlock
+factions:
+- legion
+scans: 4

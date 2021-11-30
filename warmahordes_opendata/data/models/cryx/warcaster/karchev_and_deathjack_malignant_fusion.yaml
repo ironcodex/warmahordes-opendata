@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5343
+name: Karchev & Deathjack, Malignant Fusion
+role: warcaster
+factions:
+- cryx
+scans: 4

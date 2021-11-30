@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Model
+ppid: 5332
+name: Malvin, Revenge Artist
+role: solo
+factions:
+- mercenaries
+scans: 2
