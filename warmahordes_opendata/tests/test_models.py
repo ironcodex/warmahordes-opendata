@@ -77,25 +77,19 @@ class TestModel(unittest.TestCase):
 
 
 class TestBaseSize(unittest.TestCase):
-    def test_small_base(self):
-        self.assertEqual(models.BaseSize.SMALL, 30)
-
-    def test_medium_base(self):
-        self.assertEqual(models.BaseSize.MEDIUM, 40)
-
-    def test_large_base(self):
-        self.assertEqual(models.BaseSize.LARGE, 50)
-
-    def test_huge_base(self):
+    def test_size(self):
         self.assertEqual(models.BaseSize.HUGE, 120)
+
+    def test_str(self):
+        self.assertEqual(str(models.BaseSize.EXTRA_LARGE), "Extra Large")
 
 
 class TestWeaponLocation(unittest.TestCase):
-    def test_right(self):
-        self.assertEqual(str(models.WeaponLocation.RIGHT_ARM), "R")
+    def test_location(self):
+        self.assertEqual(models.WeaponLocation.RIGHT_ARM, "R")
 
-    def test_left(self):
-        self.assertEqual(str(models.WeaponLocation.LEFT_ARM), "L")
+    def test_str(self):
+        self.assertEqual(str(models.WeaponLocation.LEFT_ARM), "Left Arm")
 
 
 class TestWeapon(unittest.TestCase):

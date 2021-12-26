@@ -1,4 +1,5 @@
 ---
+# alphabetically ordered aliases
 absylonia_1: 3124
 absylonia_2: 3119
 agathia_1: 1835
@@ -24,7 +25,7 @@ barnabas_1: 3400
 barnabas_2: 3914
 bella_1: 4473
 bella_2: 5020
-belphagor_1: 31500000
+belphagor_1: 31500000  # extracted from bethayne_1
 benett_1: 5006
 bethayne_1: 3150
 bethayne_2: 4792
@@ -229,11 +230,13 @@ ruin_1: 1486
 saeryn_1: 3304
 saeryn_2: 3297
 scaverous_1: 1957
-shivers_1: 5017
 severius_0: 4209
 severius_1: 1289
 severius_2: 1123
 shae_1: 2414
+shivers_1: 5017
+siege_1: 395  # brisbane_1
+siege_2: 3768  # brisbane_2
 skarre_1: 1990
 skarre_2: 2054
 skarre_3: 3963
@@ -293,26 +296,6 @@ zaal_2: 1004
 zerkova_1: 1393
 zerkova_2: 1471
 
-# benett
-bennet: 5006
-major_aline_bennet: 5006
-
-# brisbane
-siege_1: 395
-siege_2: 3768
-
-# crabbit
-crabbits: 3648
-
-# karchev & deathjack
-karchev_and_deathjack_malignant_fusion: 5338
-
-# ol grim
-ol_grim: 5014
-
-# ruin
-ruin: 1486
-
 # Summer Rampage 2018
 alexia_x: 20180001
 bethayne_x: 20180002
@@ -327,3 +310,21 @@ old_witch_x: 20180010
 vladimir_x: 20180011
 jezraell_x: 20180012
 vinter_x: 20180013
+
+# Some disambiguation/typo cases
+
+# benett
+bennet: 5006
+major_aline_bennet: 5006
+
+# crabbit
+crabbits: 3648
+
+# karchev & deathjack
+karchev_and_deathjack_malignant_fusion: 5338
+
+# ol grim
+ol_grim: 5014
+
+# ruin
+ruin: 1486

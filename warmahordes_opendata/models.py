@@ -19,27 +19,52 @@ import enum
 from warmahordes_opendata import base
 
 
-class BaseSize(enum.IntEnum):
+class CapitalizedNamesMixin:
+    def __str__(self):
+        return " ".join((s.capitalize() for s in self.name.split("_")))
+
+
+class BaseSize(CapitalizedNamesMixin, enum.IntEnum):
+    """The physical size and mass of a model (p. 19).
+
+    The physical size and mass of a model are reflected by its base size.
+    There are five base sizes: small bases (30 mm), medium bases (40 mm),
+    large bases (50 mm), extra large bases (80 mm) and huge bases (120 mm).
+    Generally, most human-sized warrior models have small bases; larger
+    creatures and light warjacks have medium bases; very large creatures and
+    heavy warjacks have large bases; and colossals and massive vehicles,
+    like battle engines, have huge bases. An icon indicating base size
+    (30, 40, 50, 80, or 120) appears on a model's stat bar.
+    """
+
     SMALL = 30
     MEDIUM = 40
     LARGE = 50
+    EXTRA_LARGE = 80
     HUGE = 120
 
 
-class WeaponLocation(enum.Enum):
-    NONE = enum.auto()
-    LEFT_ARM = enum.auto()
-    RIGHT_ARM = enum.auto()
-    HEAD = enum.auto()
-    SUPERSTRUCTURE = enum.auto()
+class WeaponLocation(CapitalizedNamesMixin, str, enum.Enum):
+    """The location of a weapon in a model.
 
-    def __str__(self):
-        return self.name[0]
+    The weapon stat bars of warjacks and huge-based models indicate where
+    their weapons are located: left arm (L), right arm (R), head (H),
+    or superstructure (S).
+    When all of a warjack's system boxes for a location have been damaged,
+    that system is crippled (see "Crippling Systems," p. 56).
+    A weapon that is not in one of these locations is marked with "—".
+    """
+
+    NONE = "-"
+    LEFT_ARM = "L"
+    RIGHT_ARM = "R"
+    HEAD = "H"
+    SUPERSTRUCTURE = "S"
 
 
 @dataclass
 class WeaponStats:
-    rng: int
+    rng: float
     pow: int
 
 
