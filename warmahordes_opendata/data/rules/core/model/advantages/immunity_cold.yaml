@@ -3,4 +3,4 @@ name: 'Immunity: Cold'
 description: >
   This model does not suffer cold damage.
 see_also:
-- 'Damage Type: Cold'
+- damage_type_cold

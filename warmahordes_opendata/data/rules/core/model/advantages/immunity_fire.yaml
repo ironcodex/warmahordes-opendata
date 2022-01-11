@@ -4,5 +4,5 @@ description: >
   This model does not suffer fire damage and is immune to the
   Fire continuous effect.
 see_also:
-- 'Damage Type: Fire'
-- 'Continuous Effect: Fire'
+- damage_type_fire
+- continuous_effect_fire
