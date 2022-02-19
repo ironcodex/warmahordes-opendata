@@ -1,0 +1,7 @@
+--- !warmahordes_opendata.Rule
+scope: model
+name: Alchemical Mask
+description: >
+  This model does not suffer gas effects. When determining LOS or resolving
+  attacks, this model ignores cloud effects and concealment granted from cloud
+  effects.

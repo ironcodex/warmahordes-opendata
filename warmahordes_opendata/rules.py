@@ -12,22 +12,37 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from warmahordes_opendata import base
+import enum
+
+from warmahordes_opendata import base, themes
 from warmahordes_opendata.i18n import _
-from warmahordes_opendata import themes
+
+
+class Scope(enum.Enum):
+    CORE = "core"
+    MODEL = "model"
+    WEAPON = "weapon"
 
 
 class Rule(base.SearchableYAMLObject):
     yaml_tag = "!warmahordes_opendata.Rule"
 
     def __init__(
-        self, name="", abbreviation="", description="", see_also=None
+        self,
+        scope=Scope.CORE,
+        name="",
+        abbreviation="",
+        description="",
+        options=None,
+        see_also=None,
     ):
         super().__init__()
 
+        self.scope = Scope(scope)
         self.name = name.strip()
         self.abbreviation = abbreviation.strip()
         self.description = _(description.strip())
+        self.options = options
         self.see_also = see_also
 
         title = (

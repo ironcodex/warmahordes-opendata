@@ -1,0 +1,6 @@
+--- !warmahordes_opendata.Rule
+name: Decrepitation
+scope: weapon
+description: >
+  This weapon gain an additional die on damage rolls against construct and
+  undead models.

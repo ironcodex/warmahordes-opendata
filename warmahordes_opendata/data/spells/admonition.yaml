@@ -1,0 +1,10 @@
+--- !warmahordes_opendata.Spell
+name: Admonition
+cost: 2
+rng: 6
+dur: up
+description: >
+  When an enemy model advances and ends its movement within 6" of target model
+  in the spellcaster's battlegroup, the affected model can immediately advance
+  up to 3", then Admonition expires. The affected model cannot be targeted by
+  free strikes during this movement.

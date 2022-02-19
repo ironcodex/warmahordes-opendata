@@ -1,0 +1,12 @@
+--- !warmahordes_opendata.Spell
+name: Transmutation
+cost: 3
+rng: 8
+pow: 12
+off: "*"
+description: >
+  When Transmutation targets an enemy model/unit, it is an offensive spell and
+  requires a magical attack roll. When Transmutation affects a friendly
+  model/unit, affected models gain +2 STR and DEF and gain Pathfinder 🥾. When
+  Transmutation affects an enemy model/unit, affected models suffer -2 STR and
+  DEF and lose Pathfinder 🥾.

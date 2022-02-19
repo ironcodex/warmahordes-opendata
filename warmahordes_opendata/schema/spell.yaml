@@ -1,0 +1,46 @@
+---
+
+name:
+  type: string
+  empty: false
+
+cost:
+  type: integer
+
+rng:
+  oneof:
+  - type: integer
+  - type: string
+    allowed:
+    - self
+    - cmd
+    - ctrl
+
+aoe:
+  oneof:
+  - type: integer
+  - type: string
+    allowed:
+    - self
+    - cmd
+    - ctrl
+
+pow:
+  type: integer
+
+dur:
+  type: string
+  allowed:
+  - turn
+  - rnd
+  - up
+  - "*"
+
+off:
+  type: string
+  allowed:
+  - "yes"
+  - "*"
+
+description:
+  type: string

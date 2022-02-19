@@ -1,16 +1,17 @@
 ---
 
-# id of the model/unit at cards.privateerpress.com.
+# id of the card at cards.privateerpress.com.
 ppid:
   type: integer
+  empty: false
 
-# Name of the model/unit in the card.
+# Name of the card.
 name:
   type: string
+  empty: false
 
-# Main role of the model/unit. A warcaster unit, for example, should
-# have warcaster as its role and in the keyworks field include both
-# warcaster and unit keywords.
+# Main role of the card. A warcaster unit, for example, should have warcaster
+# as its role and in the keyworks field include warcaster and unit keywords.
 role:
   type: string
   allowed:
@@ -72,6 +73,13 @@ keywords:
   schema:
     type: string
 
+focus:
+  type: integer
+fury:
+  type: integer
+essence:
+  type: integer
+
 # Amount of free points for battlegroup composition.
 battlegroup_points:
   type: integer
@@ -93,7 +101,90 @@ point_cost:
 # The maximum number of models or units of a given type that can be included
 # for each warcaster or warlock in an army.
 field_allowance:
-  type: integer
+  oneof:
+  - type: integer
+  - type: string
+    allowed:
+    - C
+    - U
+
+models:
+  type: list
+  schema:
+    type: dict
+    schema:
+      name:
+        type: string
+      stats:
+        type: dict
+        schema:
+          spd:
+            type: integer
+          str:
+            type: integer
+          mat:
+            type: integer
+          rat:
+            type: integer
+          def:
+            type: integer
+          arm:
+            type: integer
+          cmd:
+            type: integer
+      advantages:
+        type: list
+        schema:
+          type: string
+      base_size:
+        type: integer
+      weapons:
+        type: list
+        schema:
+          type: dict
+          schema:
+            name:
+              type: string
+            type:
+              type: string
+              allowed:
+              - melee
+              - ranged
+            rng:
+              type: float
+            rof:
+              type: integer
+            aoe:
+              type: integer
+            pow:
+              type: integer
+            qualities:
+              type: list
+              schema:
+                type: string
+            rules:
+              type: list
+              schema:
+                type: string
+      rules:
+        type: list
+        schema:
+          type: string
+
+spells:
+  type: list
+  schema:
+    type: string
+
+feat:
+  type: dict
+  schema:
+    name:
+      type: string
+    flavor:
+      type: string
+    description:
+      type: string
 
 # ppid of the models that can be attached to this model/unit
 attachments:
@@ -101,6 +192,8 @@ attachments:
   schema:
     type: integer
 
-# Number of card scans this model/unit contains. Usually multiple of two.
+# Number of scans this card contains. Usually multiple of two which covers front
+# and back of each card.
 scans:
   type: integer
+  empty: false

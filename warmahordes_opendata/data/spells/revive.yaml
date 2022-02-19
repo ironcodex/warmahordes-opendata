@@ -1,0 +1,9 @@
+--- !warmahordes_opendata.Spell
+name: Revive
+cost: 3
+rng: ctrl
+description: >
+  Return one destroyed Grunt to a friendly Faction unit with one unmarked damage
+  box. Place the returned Grunt in the spellcaster's control range, in
+  formation, and completely within 3" of another model in its unit. The Grunt
+  must forfeit its Combat Action the turn it is put into play.

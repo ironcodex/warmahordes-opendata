@@ -1,0 +1,8 @@
+--- !warmahordes_opendata.Spell
+name: Purification
+cost: 4
+rng: self
+aoe: ctrl
+description: >
+  Continuous effects, animi, and upkeep spells in the spellcaster's control
+  range immediately expire.

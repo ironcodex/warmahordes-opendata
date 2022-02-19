@@ -12,9 +12,8 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from dataclasses import dataclass
-from dataclasses import field
 import enum
+from dataclasses import dataclass, field
 
 from warmahordes_opendata import base
 
@@ -91,7 +90,9 @@ class Weapon:
 class Model(base.SearchableYAMLObject):
     yaml_tag = "!warmahordes_opendata.Model"
 
-    def __init__(self, ppid=0, name="", role="", factions=None, scans=0):
+    def __init__(
+        self, ppid=0, name="", role="", factions=None, scans=0, **kwargs
+    ):
         super().__init__()
 
         self.ppid = ppid

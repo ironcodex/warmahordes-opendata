@@ -33,3 +33,11 @@ repos:
     name: validating themes
     args: ['-s', 'warmahordes_opendata/schema/theme.yaml']
     files: warmahordes_opendata/data/themes
+  - id: cerberus-validate
+    name: validating rules
+    args: ['-s', 'warmahordes_opendata/schema/rule.yaml']
+    files: warmahordes_opendata/data/rules
+  - id: cerberus-validate
+    name: validating spells
+    args: ['-s', 'warmahordes_opendata/schema/spell.yaml']
+    files: warmahordes_opendata/data/spells

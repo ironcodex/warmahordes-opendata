@@ -1,0 +1,13 @@
+--- !warmahordes_opendata.Spell
+name: Stygian Abyss
+cost: 3
+rng: 10
+pow: 12
+dur: "*"
+off: "yes"
+description: >
+  On a critical hit, the model hit suffers Blind for one round. (A model
+  suffering Blind cannot make ranged or magic attacks, suffers -4 MAT and DEF,
+  and cannot run, charge, or make slam or trample power attacks. It must forfeit
+  either its Normal Movement or Combat Action during its next activation. Blind
+  can be shaken.)

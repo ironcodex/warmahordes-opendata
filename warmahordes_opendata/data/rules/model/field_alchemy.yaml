@@ -1,0 +1,21 @@
+--- !warmahordes_opendata.Rule
+scope: model
+name: Field Alchemy
+description: >
+  This model can use one of the following special rules at any time during each
+  of its activations.
+options:
+- name: Ephemeral Vitae
+  description: >
+    This model can cast one spell this activation without spending focus points.
+- name: Impenetrable Haze
+  description: >
+    Center a 4" AOE cloud effect on this model. This AOE remains in play for one
+    round. While this model is completely within the AOE, ranged and magic
+    attacks targeting this model from a point of origin more than 5" away
+    automatically miss. This model is not an intervening model when determining
+    LOS from a model more than 5" away.
+- name: Super Fuel
+  description: >
+    Friendly construct models currently within 5" of this model gain +2 SPD this
+    turn.

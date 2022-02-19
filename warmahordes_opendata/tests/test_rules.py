@@ -32,7 +32,7 @@ class TestRule(unittest.TestCase):
             "Rule(title='Immunity: Fire', description="
             "'This model does not suffer fire damage and"
             " is immune to the Fire continuous effect.', "
-            "see_also=['Damage Type: Fire', 'Continuous Effect: Fire'])",
+            "see_also=['damage_type_fire', 'continuous_effect_fire'])",
         )
 
     def test_name(self):
@@ -48,7 +48,7 @@ class TestRule(unittest.TestCase):
     def test_see_also(self):
         self.assertEqual(
             self.rule.see_also,
-            ["Damage Type: Fire", "Continuous Effect: Fire"],
+            ["damage_type_fire", "continuous_effect_fire"],
         )
 
     def test_to_dict(self):
@@ -59,6 +59,6 @@ class TestRule(unittest.TestCase):
                 abbreviation="",
                 description="This model does not suffer fire damage "
                 "and is immune to the Fire continuous effect.",
-                see_also=["Damage Type: Fire", "Continuous Effect: Fire"],
+                see_also=["damage_type_fire", "continuous_effect_fire"],
             ),
         )

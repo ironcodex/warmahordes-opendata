@@ -1,0 +1,11 @@
+--- !warmahordes_opendata.Spell
+name: Explosivo
+cost: 1
+rng: 6
+dur: up
+description: >
+  Target friendly Faction model's ranged weapons gain Damage Type: Magical ✨.
+  If the affected model directly hits and boxes an enemy model with an attack
+  from a ranged weapon, center a 3" AOE on the boxed model, then remove that
+  model from play. Models in the AOE are hit and suffer an unboostable POW 8
+  magical blast damage roll ✨.

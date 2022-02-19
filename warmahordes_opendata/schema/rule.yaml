@@ -1,0 +1,50 @@
+---
+
+# Scope of a rule, where/when does it apply.
+scope:
+  type: string
+  empty: false
+  allowed:
+  - core
+  - model
+  - weapon
+
+# Name or title of the rule.
+name:
+  type: string
+  empty: false
+
+# Abbreviation of the rule: e.g.: Speed -> SPD.
+abbreviation:
+  type: string
+  empty: false
+
+# Description of a rule, usually the text after the rule name or title.
+description:
+  type: string
+  empty: false
+
+# Rule options. When multiple choices are available for an action.
+options:
+  type: list
+  schema:
+    type: dict
+    schema:
+      name:
+        type: string
+        empty: false
+      description:
+        type: string
+        empty: false
+
+# Extra explanations about the rule, usually needed to cover edge cases.
+clarifications:
+  type: list
+  schema:
+    type: string
+
+# List of rule slugs that are related to this one.
+see_also:
+  type: list
+  schema:
+    type: string
