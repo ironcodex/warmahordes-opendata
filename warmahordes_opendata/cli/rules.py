@@ -14,12 +14,12 @@
 
 import sys
 
-from warmahordes_opendata.rules import Rule
+from warmahordes_opendata.dataset import RuleDataset
 
 
 def main():
     query = " ".join(sys.argv[1:])
-    rules = Rule.find(query)
+    rules = RuleDataset()[query]
 
     if len(rules) == 0:
         print("No rules found where the name includes '{query}'")

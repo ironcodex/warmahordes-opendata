@@ -14,17 +14,58 @@
 
 import unittest
 
-from warmahordes_opendata import models
+from warmahordes_opendata import model
+from warmahordes_opendata.dataset import ModelDataset
+
+
+class TestBaseSize(unittest.TestCase):
+    def test_size(self):
+        self.assertEqual(model.BaseSize.HUGE, 120)
+
+    def test_str(self):
+        self.assertEqual(str(model.BaseSize.EXTRA_LARGE), "Extra Large")
+
+
+class TestWeaponLocation(unittest.TestCase):
+    def test_location(self):
+        self.assertEqual(model.WeaponLocation.RIGHT_ARM, "R")
+
+    def test_str(self):
+        self.assertEqual(str(model.WeaponLocation.LEFT_ARM), "Left Arm")
+
+
+class TestWeapon(unittest.TestCase):
+    def setUp(self):
+        super().setUp()
+
+        self.sword = model.Weapon("Sword", model.MeleeWeaponStats(0.5, 3))
+
+        self.carbine = model.Weapon("Carbine", model.RangedWeaponStats(10, 10))
+
+    def test_constructor(self):
+        self.assertEqual(self.sword.name, "Sword")
+        self.assertEqual(self.sword.stats.rng, 0.5)
+        self.assertEqual(self.sword.stats.pow, 3)
+        self.assertEqual(self.sword.stats.p_s, True)
+        self.assertEqual(self.sword.location, model.WeaponLocation.NONE)
+
+        self.assertEqual(self.carbine.name, "Carbine")
+        self.assertEqual(self.carbine.stats.rng, 10)
+        self.assertEqual(self.carbine.stats.rof, 1)
+        self.assertEqual(self.carbine.stats.aoe, 0)
+        self.assertEqual(self.carbine.stats.pow, 10)
+        self.assertEqual(self.carbine.location, model.WeaponLocation.NONE)
 
 
 class TestModel(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.model = models.Model.find("Syvestro")[0]
+        self.dataset = ModelDataset()
+        self.model = self.dataset["Syvestro"][0]
 
     def test_type(self):
-        self.assertIsInstance(self.model, models.Model)
+        self.assertIsInstance(self.model, model.Model)
 
     def test_repr(self):
         self.assertEqual(
@@ -62,56 +103,15 @@ class TestModel(unittest.TestCase):
 
     def test_search(self):
         # Crucible Guard Mechanik
-        mechanik = models.Model.find("cru gua mec")[0]
+        mechanik = self.dataset["cru gua mec"][0]
 
         self.assertEqual(mechanik.name, "Crucible Guard Mechanik")
 
     def test_get_by_ppid(self):
-        self.assertEqual(models.Model.get_by_ppid(4142), self.model)
+        self.assertEqual(self.dataset.get_by_ppid(4142), self.model)
 
     def test_get_by_alias(self):
-        self.assertIsNone(models.Model.get_by_alias("syvestro"))
-        self.assertEqual(models.Model.get_by_alias("syvestro1"), self.model)
-        self.assertEqual(models.Model.get_by_alias("syvestro 1"), self.model)
-        self.assertEqual(models.Model.get_by_alias("syvestro_1"), self.model)
-
-
-class TestBaseSize(unittest.TestCase):
-    def test_size(self):
-        self.assertEqual(models.BaseSize.HUGE, 120)
-
-    def test_str(self):
-        self.assertEqual(str(models.BaseSize.EXTRA_LARGE), "Extra Large")
-
-
-class TestWeaponLocation(unittest.TestCase):
-    def test_location(self):
-        self.assertEqual(models.WeaponLocation.RIGHT_ARM, "R")
-
-    def test_str(self):
-        self.assertEqual(str(models.WeaponLocation.LEFT_ARM), "Left Arm")
-
-
-class TestWeapon(unittest.TestCase):
-    def setUp(self):
-        super().setUp()
-
-        self.sword = models.Weapon("Sword", models.MeleeWeaponStats(0.5, 3))
-
-        self.carbine = models.Weapon(
-            "Carbine", models.RangedWeaponStats(10, 10)
-        )
-
-    def test_constructor(self):
-        self.assertEqual(self.sword.name, "Sword")
-        self.assertEqual(self.sword.stats.rng, 0.5)
-        self.assertEqual(self.sword.stats.pow, 3)
-        self.assertEqual(self.sword.stats.p_s, True)
-        self.assertEqual(self.sword.location, models.WeaponLocation.NONE)
-
-        self.assertEqual(self.carbine.name, "Carbine")
-        self.assertEqual(self.carbine.stats.rng, 10)
-        self.assertEqual(self.carbine.stats.rof, 1)
-        self.assertEqual(self.carbine.stats.aoe, 0)
-        self.assertEqual(self.carbine.stats.pow, 10)
-        self.assertEqual(self.carbine.location, models.WeaponLocation.NONE)
+        self.assertIsNone(self.dataset.get_by_alias("syvestro"))
+        self.assertEqual(self.dataset.get_by_alias("syvestro1"), self.model)
+        self.assertEqual(self.dataset.get_by_alias("syvestro 1"), self.model)
+        self.assertEqual(self.dataset.get_by_alias("syvestro_1"), self.model)

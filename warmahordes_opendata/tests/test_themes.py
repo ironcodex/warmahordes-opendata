@@ -14,17 +14,18 @@
 
 import unittest
 
-from warmahordes_opendata import themes
+from warmahordes_opendata.dataset import ThemeForceDataset
+from warmahordes_opendata.model import ThemeForce
 
 
 class TestThemeForce(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.theme = themes.ThemeForce.find("Magnum Opus")[0]
+        self.theme = ThemeForceDataset()["Magnum Opus"][0]
 
     def test_type(self):
-        self.assertIsInstance(self.theme, themes.ThemeForce)
+        self.assertIsInstance(self.theme, ThemeForce)
 
     def test_repr(self):
         self.assertEqual(

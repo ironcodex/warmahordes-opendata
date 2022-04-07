@@ -14,17 +14,18 @@
 
 import unittest
 
-from warmahordes_opendata import rules
+from warmahordes_opendata.dataset import RuleDataset
+from warmahordes_opendata.model import Rule
 
 
 class TestRule(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        self.rule = rules.Rule.find("immunity_fire")[0]
+        self.rule = RuleDataset()["immunity_fire"][0]
 
     def test_type(self):
-        self.assertIsInstance(self.rule, rules.Rule)
+        self.assertIsInstance(self.rule, Rule)
 
     def test_repr(self):
         self.assertEqual(

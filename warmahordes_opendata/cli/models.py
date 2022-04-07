@@ -14,12 +14,12 @@
 
 import sys
 
-from warmahordes_opendata.models import Model
+from warmahordes_opendata.dataset import ModelDataset
 
 
 def main():
     query = " ".join(sys.argv[1:])
-    models = Model.find(query)
+    models = ModelDataset()[query]
 
     if len(models) == 0:
         print(f"No models found where the name includes '{query}'")

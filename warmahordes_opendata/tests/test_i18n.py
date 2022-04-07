@@ -15,14 +15,14 @@
 import unittest
 
 from warmahordes_opendata import i18n
-from warmahordes_opendata import rules
+from warmahordes_opendata.dataset import RuleDataset
 
 
 class TestTranslation(unittest.TestCase):
     def setUp(self):
         super().setUp()
 
-        rule = rules.Rule.find("immunity fire")[0]
+        rule = RuleDataset()["immunity fire"][0]
 
         self.title = rule.title
         self.description = rule.description

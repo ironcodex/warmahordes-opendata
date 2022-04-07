@@ -14,12 +14,12 @@
 
 import sys
 
-from warmahordes_opendata.themes import ThemeForce
+from warmahordes_opendata.dataset import ThemeForceDataset
 
 
 def main():
     query = " ".join(sys.argv[1:])
-    themes = ThemeForce.find(query)
+    themes = ThemeForceDataset()[query]
 
     if len(themes) == 0:
         print("No rules found where the name includes '{query}'")

@@ -4,7 +4,6 @@
 # character.
 
 [tool.black]
-line-length = 79
 target-version = ['py39']
 include = '\.pyi?$'
 exclude = '''

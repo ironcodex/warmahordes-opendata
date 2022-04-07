@@ -14,9 +14,8 @@
 
 import textwrap
 
-from warmahordes_opendata import base
-from warmahordes_opendata.rules import Rule  # noqa
-
+from warmahordes_opendata import util
+from warmahordes_opendata.model import Rule  # noqa
 
 header = """# Translations template for warmahordes_opendata.
 # Copyright (C) 2021 Iron Codex
@@ -30,7 +29,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\\n"
 """
 
-rules = base.load_dir("data/rules")
+rules = util.load_dir("data/rules")
 
 
 def print_group(group, order=None):
