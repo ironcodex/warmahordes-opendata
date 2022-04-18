@@ -44,6 +44,12 @@ They have separate cards, but they only make sense together, as they share the s
 from the [card database](https://cards.privateerpress.com) and the same cost, or in this
 case the warjack points.
 
+In the end, we decided to have the **Card** being the thing that
+contains **Model(s)**, and the number of cards one or more models
+can have is less relevant and can be represented as the number of
+scans (card faces). Using this representation we can say that the
+**Card** Crucible Guard Mechanik contains 2 scans (front and back) and a single **Model** Mechanik, while the **Card** Marshal General Baldwin Gearhart & Mr. Clogg contains 6 scans and two **Models**, Gearhart 1 and Clogg 1.
+
 ```mermaid
 classDiagram
 
