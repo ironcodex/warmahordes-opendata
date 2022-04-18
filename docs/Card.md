@@ -41,7 +41,7 @@ Figure 4: Marshal General Baldwin Gearhart & Mr. Clogg
 In our last example, we have cases where two different models have their own cards, but
 are only allowed in the game as a bundle, which is the case of Gearhart 1 and Clogg 1 that is composed of Gearhart himself and his assistant Mr Clogg, shown in Figure 4.
 They have separate cards, but they only make sense together, as they share the same name
-from the [card database](https://cards.privateerpress.com) and the same cost, or in this
+from the [card database][1] and the same cost, or in this
 case the warjack points.
 
 In the end, we decided to have the **Card** being the thing that
@@ -49,6 +49,47 @@ contains **Model(s)**, and the number of cards one or more models
 can have is less relevant and can be represented as the number of
 scans (card faces). Using this representation we can say that the
 **Card** Crucible Guard Mechanik contains 2 scans (front and back) and a single **Model** Mechanik, while the **Card** Marshal General Baldwin Gearhart & Mr. Clogg contains 6 scans and two **Models**, Gearhart 1 and Clogg 1.
+
+## The Card class
+
+```mermaid
+classDiagram
+
+    class Card {
+        ppid : int
+        name : str
+        scans : int
+        point_cost : int | list[tuple[option: str, cost: int]] = 0
+        battlegroup_points: int = 0
+        field_allowance : int|str
+        ...
+    }
+```
+
+**ppid:** Unique identifier of the card in the [card database][1].
+
+**name:** Name of the card in the [card database][1] and top of top
+of each scan.
+
+**scans:** Number of scans in a card, counts the number of card
+faces, front and back, each counting as one.
+
+E.g.:
+1. Crucible Guard Mechanik -> 2 scans
+2. Aurum Adeptus Syvestro -> 4 scans
+
+**point_cost:** The point cost is tricky, cards will either contain
+point costs or battlegroup allowance points, never both at the same
+time. Point costs can be just the cost itself or a list of options
+and their cost.
+
+E.g.:
+1. Crucible Guard Mechanik -> point_cost = 2
+2. Dragon's Breath Rocket -> point_cost = [(option="Gunner & 2 Grunts", cost=4)]
+
+**batlegroup_points:** The number of extra points allowed during the
+list building for warjacks, warbeasts, and so on... for the caster's
+battlegroup.
 
 ```mermaid
 classDiagram
@@ -138,3 +179,4 @@ classDiagram
     Rule o-- Rule
 ```
 
+[1]: https://cards.privateerpress.com
