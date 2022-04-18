@@ -68,8 +68,8 @@ classDiagram
 
 **ppid:** Unique identifier of the card in the [card database][1].
 
-**name:** Name of the card in the [card database][1] and top of top
-of each scan.
+**name:** Name of the card in the [card database][1] and top of
+each scan.
 
 **scans:** Number of scans in a card, counts the number of card
 faces, front and back, each counting as one.
