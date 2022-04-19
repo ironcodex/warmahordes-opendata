@@ -4,4 +4,121 @@ name: Caine's Hellslingers
 role: warcaster
 factions:
 - mercenaries
+- cygnar
 scans: 6
+
+keywords:
+- gun_mage
+- mercenaries
+- unit
+- warcaster
+
+battlegroup_points: 24
+field_allowance: C
+
+models:
+- name: Caine 3
+  stats:
+    spd: 7
+    str: 5
+    mat: 4
+    rat: 9
+    def: 17
+    arm: 13
+    cmd: 8
+    focus: 6
+  advantages:
+  - gun_fighter
+  - officer
+  base_size: 30
+  weapons:
+  - name: Spellstorm Pistol
+    type: ranged
+    quantity: 2
+    rng: 12
+    rof: 1
+    aoe: 0
+    pow: 12
+    qualities:
+    - damage_type_magical
+    rules:
+    - container: attack_type
+      choices:
+      - black_penny
+      - blast
+      - witch_mark
+    - reload_1
+    - synergistic_magic
+  spells:
+  - calamity
+  - flicker
+  - mage sight
+  feat:
+    name: Reap the Whirlwind
+    flavor: >
+      Focusing his arcane reserves, Caine commands his companions and the warjacks he
+      controls to unleash a salvo of unrivaled fury. Their unerring fire builds to a
+      crescendo of raw destructive power laying waste to any target in their path.
+    description: >
+      While in Caine's control range, models in his battlegroup gain +1 cumulative bonus
+      on ranged attack and ranged damage rolls for each other model in his battlegroup
+      that hit an enemy model with a ranged attack this turn while in Caine's control
+      range. This cummulative bonus cannot exceed +3. Reap the Whirlwind lasts for one
+      turn.
+
+- name: Ryan 2
+  stats:
+    spd: 6
+    str: 4
+    mat: 5
+    rat: 8
+    def: 14
+    arm: 11
+    cmd: 7
+  advantages:
+  - gun_fighter
+  base_size: 30
+  weapons:
+  - name: Magelock Pistol
+    type: ranged
+    quantity: 2
+    rng: 10
+    rof: 1
+    aoe: 0
+    pow: 10
+    qualities:
+    - damage_type_magical
+    rules:
+    - container: attack_type
+      choices:
+      - black_penny
+      - brutal_damage
+      - shadow_fire
+
+- name: Watts 2
+  stats:
+    spd: 6
+    str: 4
+    mat: 5
+    rat: 8
+    def: 14
+    arm: 11
+    cmd: 7
+  advantages:
+  - gun_fighter
+  base_size: 30
+  weapons:
+  - name: Magelock Rifle
+    type: ranged
+    rng: 14
+    rof: 1
+    aoe: 0
+    pow: 10
+    qualities:
+    - damage_type_magical
+    rules:
+    - container: attack_type
+      choices:
+      - black_penny
+      - brutal_damage
+      - grievous wounds

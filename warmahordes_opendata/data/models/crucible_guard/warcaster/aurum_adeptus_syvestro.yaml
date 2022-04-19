@@ -11,7 +11,6 @@ keywords:
 - ordic
 - warcaster
 
-focus: 7
 battlegroup_points: 28
 field_allowance: C
 
@@ -25,6 +24,7 @@ models:
     def: 15
     arm: 15
     cmd: 8
+    focus: 7
   advantages:
   - immunity_corrosion
   - immunity_fire
@@ -46,27 +46,23 @@ models:
   rules:
   - alchemical_mask
   - field_alchemy
-
-spells:
-- admonition
-- explosivo
-- purification
-- revive
-- stygian_abyss
-- transmutation
-
-feat:
-  name: Meta Principle
-  flavor: >
-    Syvestro's brilliant mind allows him to spot every opportunity in battle.
-    By subtly guiding his soldiers and warjacks with mystical kinetic force, he
-    capitalizes on the enemy's weaknesses and buys time for his injured soldiers
-    to apply alchemical remedies to their injuries.
-  description: >
-    While in Syvestro's control range, friendly Faction models gain an
-    additional die on attack and damage rolls. Discard one die of your choice in
-    each roll.
-    Additionally, when an enemy model is destroyed while in Syvestro's control
-    range, a friendly Faction model in Syvestro's control range can remove d3
-    damage points.
-    Meta Principle lasts for one turn.
+  spells:
+  - admonition
+  - explosivo
+  - purification
+  - revive
+  - stygian_abyss
+  - transmutation
+  feat:
+    name: Meta Principle
+    flavor: >
+      Syvestro's brilliant mind allows him to spot every opportunity in battle.
+      By subtly guiding his soldiers and warjacks with mystical kinetic force, he
+      capitalizes on the enemy's weaknesses and buys time for his injured soldiers to
+      apply alchemical remedies to their injuries.
+    description: >
+      While in Syvestro's control range, friendly Faction models gain an additional die
+      on attack and damage rolls. Discard one die of your choice in each roll.
+      Additionally, when an enemy model is destroyed while in Syvestro's control range,
+      a friendly Faction model in Syvestro's control range can remove d3 damage points.
+      Meta Principle lasts for one turn.
