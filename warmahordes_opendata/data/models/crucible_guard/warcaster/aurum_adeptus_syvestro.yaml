@@ -32,6 +32,10 @@ models:
   weapons:
   - name: Fulmination Grenade
     type: ranged
+    rng: 6
+    rof: 1
+    aoe: 3
+    pow: 13
     qualities:
     - damage_type_magical
     rules:

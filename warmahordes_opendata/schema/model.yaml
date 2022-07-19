@@ -159,6 +159,11 @@ models:
               type: integer
             pow:
               type: integer
+            special_pns:
+              type: string
+              allowed:
+              - "-"
+              - "*"
             qualities:
               type: list
               schema:
